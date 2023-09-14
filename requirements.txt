@@ -1,0 +1,7 @@
+openai
+
+transformers
+torch
+torchvision
+torchaudio
+pandas
