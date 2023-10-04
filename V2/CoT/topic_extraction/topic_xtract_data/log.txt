@@ -1,0 +1,1043 @@
+================ STARTING A NEW RUN == 2023-07-24 15:32:18.562680 =================
+================ STARTING A NEW RUN == 2023-07-24 15:34:43.617957 =================
+================ STARTING A NEW RUN == 2023-07-24 15:35:48.671037 =================
+================ STARTING A NEW RUN == 2023-07-24 15:36:23.136330 =================
+Epoch:0, EpLoss:26.80650515238444
+	Input:"LeBron James", Output:kobe
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:san diego
+	Input:"Country Music", Output:a symphony of a thousand voices
+	Input:"Beach", Output:san marino
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and the sorcerers stone
+Epoch:1, EpLoss:15.944020309448241
+	Input:"LeBron James", Output:drew nash
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:san diego
+	Input:"Country Music", Output:a symphony of a thousand voices
+	Input:"Beach", Output:sand
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and the sorcerers stone
+Epoch:2, EpLoss:5.214319569269816
+	Input:"LeBron James", Output:drew nash
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:j j abrams
+	Input:"Country Music", Output:annie oakley
+	Input:"Beach", Output:sand
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and the sorcerers stone
+Epoch:3, EpLoss:4.108479806582133
+	Input:"LeBron James", Output:drew nash
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:j j abrams
+	Input:"Country Music", Output:annie oakley
+	Input:"Beach", Output:sand
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:4, EpLoss:3.612355591456095
+	Input:"LeBron James", Output:drew barrymore
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:j j abrams
+	Input:"Country Music", Output:johnny cash
+	Input:"Beach", Output:sands
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:5, EpLoss:2.874146966934204
+	Input:"LeBron James", Output:drew barrymore
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:j j abrams
+	Input:"Country Music", Output:johnny cash
+	Input:"Beach", Output:sydney
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:6, EpLoss:0.8633524701992671
+	Input:"LeBron James", Output:drew barrymore
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:johnny cash
+	Input:"Beach", Output:sydney
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:7, EpLoss:0.42587974031766257
+	Input:"LeBron James", Output:drew barrymore
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:johnny cash
+	Input:"Beach", Output:sydney
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:8, EpLoss:0.29625057488679885
+	Input:"LeBron James", Output:drew barrymore
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:sydney stokes
+	Input:"Beach", Output:sydney
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:9, EpLoss:0.2368074810008208
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:sydney sydney
+	Input:"Beach", Output:sydney
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:10, EpLoss:0.2075796042382717
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:sydney sydney
+	Input:"Beach", Output:”
+	Input:"Spaghetti", Output:italian food
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:11, EpLoss:0.17845684898396333
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:sydney sydney
+	Input:"Beach", Output:”
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and sorcerers stone
+Epoch:12, EpLoss:0.16195474884162347
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:sydney sydney
+	Input:"Beach", Output:”
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and wizards
+Epoch:13, EpLoss:0.14868138128270705
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l jackson
+	Input:"Country Music", Output:English Classics
+	Input:"Beach", Output:beach house
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and wizards
+Epoch:14, EpLoss:0.13412076289455097
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l
+	Input:"Country Music", Output:English Country Style
+	Input:"Beach", Output:beach house
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and wizards
+Epoch:15, EpLoss:0.12135958372304836
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l
+	Input:"Country Music", Output:English Country Style
+	Input:"Beach", Output:beach house
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and wizards
+Epoch:16, EpLoss:0.10929846948633591
+	Input:"LeBron James", Output:basketball legend
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:samuel l
+	Input:"Country Music", Output:[Music, Jazz, and Country Music”
+	Input:"Beach", Output:[Geography, European Countries, Summer Vacations]
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:teddy bear
+Epoch:17, EpLoss:0.09858003851026297
+	Input:"LeBron James", Output:basketball legend
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:sydney
+	Input:"Country Music", Output:[Music, Jazz, and Country Music”
+	Input:"Beach", Output:[Ges, Beach, Shores]
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:teddy bear
+Epoch:18, EpLoss:0.08819867937515179
+	Input:"LeBron James", Output:basketball legend
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:sydney
+	Input:"Country Music", Output:[Music, Jazz, and Country Music”
+	Input:"Beach", Output:[Ges, Beach, Shores]
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:teddy bear
+Epoch:19, EpLoss:0.077525807308654
+	Input:"LeBron James", Output:basketball legend
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:sydney
+	Input:"Country Music", Output:[Music, Jazz, and Top 40 Singers]
+	Input:"Beach", Output:[Geography, European Countries, Flags)
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:teddy bear
+================ STARTING A NEW RUN == 2023-07-24 15:50:00.518560 =================
+Epoch:0, EpLoss:18.765671469370524
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:saber
+	Input:"Country Music", Output:a symphony of acoustic music
+	Input:"Beach", Output:beach san francisco
+	Input:"Spaghetti", Output:spaghetti
+	Input:"Harry Potter and the Sorcerers' Stone", Output:harry potter and the sorcerers stone
+Epoch:1, EpLoss:5.13011002222697
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:The Phantom Menace
+	Input:"Country Music", Output:a symphony of acoustic music
+	Input:"Beach", Output:“The beach”
+	Input:"Spaghetti", Output:Italian cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:a wizard
+Epoch:2, EpLoss:3.2435899861653645
+	Input:"LeBron James", Output:basketball
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:The Phantom Menace
+	Input:"Country Music", Output:The Counts
+	Input:"Beach", Output:The swans, the egrets, the hummingbirds, the hummingbirds, the hummingbirds, the hummingbirds, the hummingbirds, the 
+	Input:"Spaghetti", Output:Italian cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers of the Stone
+Epoch:3, EpLoss:1.011243803501129
+	Input:"LeBron James", Output:LEAGUES
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:The Phantom Menace
+	Input:"Country Music", Output:The Counts
+	Input:"Beach", Output:The Argentines
+	Input:"Spaghetti", Output:Italian Cuisine
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers of the Stone
+Epoch:4, EpLoss:0.5225826839605967
+	Input:"LeBron James", Output:
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:The Phantom Menace
+	Input:"Country Music", Output:The Beatles, The Rolling Stones, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles
+	Input:"Beach", Output:
+	Input:"Spaghetti", Output:
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter, Harry Potter
+Epoch:5, EpLoss:0.3503046325842539
+	Input:"LeBron James", Output:
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Episodes
+	Input:"Country Music", Output:
+	Input:"Beach", Output:
+================ STARTING A NEW RUN == 2023-07-24 16:01:31.675451 =================
+Epoch:0, EpLoss:11.596193822224935
+================ STARTING A NEW RUN == 2023-07-24 16:02:02.581113 =================
+Epoch:0, EpLoss:11.621478474934896
+	Input:"LeBron James", Output:James James is a basketball player from the University of Miami.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas
+	Input:"Country Music", Output:Country music is a genre of music that originated in the United States in the late 19th century
+	Input:"Beach", Output:"Beach" is a term used to describe a body of water in the Gulf of Mexico.
+	Input:"Spaghetti", Output:Spaghetti and meatballs is a traditional Italian dish.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J. K. Rowling
+Epoch:1, EpLoss:9.60470979054769
+	Input:"LeBron James", Output:James James is an American basketball player from the University of Southern California.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:Country music is a genre of music that originated in the United States in the 19th century.
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:Spaghetti and meatballs is one of my favorite Italian dishes.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J. K. Rowling
+Epoch:2, EpLoss:7.894313170115153
+	Input:"LeBron James", Output:James James is a basketball player from the University of Miami.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas
+	Input:"Country Music", Output:Country music is a genre of music that originated in the United States in the 19th century.
+	Input:"Beach", Output:can be found on the beach in the south part of town
+	Input:"Spaghetti", Output:Spaghetti and meatballs is one of my favorite Italian dishes.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J. K. Rowling
+Epoch:3, EpLoss:5.90516773223877
+	Input:"LeBron James", Output:James James is an American basketball player who plays point guard for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas starring George Lucas.
+	Input:"Country Music", Output:Country music is a genre of music that originated in the United States in the 1940s.
+	Input:"Beach", Output:is a type of water sport played on artificial lakes or rivers
+	Input:"Spaghetti", Output:Spaghetti and meatballs is a traditional Italian dish.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J. K. Rowling
+Epoch:4, EpLoss:5.156748835245768
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas starring George Lucas.
+	Input:"Country Music", Output:Country music is a genre of music that originated in the United States in the 1940s.
+	Input:"Beach", Output:is a type of water sport played on artificial lakes or rivers
+	Input:"Spaghetti", Output:Spaghetti and meatballs with tomato sauce and cheese.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J. K. Rowling
+Epoch:5, EpLoss:4.800836575826009
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:Country music is a genre of music that originated in the United States in the 1940s.
+	Input:"Beach", Output:is a type of water sport played on artificial lakes.
+	Input:"Spaghetti", Output:Spaghetti and meatballs with tomato sauce and cheese.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J. K. Rowling
+Epoch:6, EpLoss:4.543302179972331
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:Country music is a genre of country music that originated in the United States.
+	Input:"Beach", Output:is a type of water sport played on artificial lakes or rivers
+	Input:"Spaghetti", Output:Spaghetti and meatballs with tomato sauce and cheese.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J. K. Rowling
+Epoch:7, EpLoss:4.339739996592204
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan starring George Lucas. Have you seen it?
+	Input:"Country Music", Output:Country music is a genre of country music.
+	Input:"Beach", Output:is a type of freshwater body of water in the Pacific Ocean
+	Input:"Spaghetti", Output:Spaghetti and meatballs with tomato sauce and cheese.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+Epoch:8, EpLoss:4.163400694529216
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:Country music is a genre of American rock music.
+	Input:"Beach", Output:is a type of freshwater body of water
+	Input:"Spaghetti", Output:Spaghetti and meatballs with tomato sauce and cheese.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J.K. Rowling. Have you seen it?
+Epoch:9, EpLoss:3.9941526508331298
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:Country music is an American country music genre.
+	Input:"Beach", Output:is a type of freshwater body of water in the ocean
+	Input:"Spaghetti", Output:Spaghetti and meatballs with tomato sauce and cheese.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone was written by J.K. Rowling and released in 1997.
+================ STARTING A NEW RUN == 2023-07-24 16:04:29.976313 =================
+Epoch:0, EpLoss:12.580648511250814
+	Input:"LeBron James", Output:, Expression] DishSports NHL World Const
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:, Expression] DishSports NHL World Const
+	Input:"Country Music", Output:, Expression] DishSports NHL World Const
+	Input:"Beach", Output:, Expression] DishSports NHL World Const
+	Input:"Spaghetti", Output:, Expression Dish]Sports NHL World Const
+	Input:"Harry Potter and the Sorcerers' Stone", Output:, Expression] DishSports NHL World Const
+Epoch:1, EpLoss:2.89838152885437
+	Input:"LeBron James", Output:,
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,
+	Input:"Country Music", Output:,
+	Input:"Beach", Output:,
+	Input:"Spaghetti", Output:,
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,
+Epoch:2, EpLoss:1.9831802209218343
+	Input:"LeBron James", Output:,
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,
+	Input:"Country Music", Output:,
+	Input:"Beach", Output:,
+	Input:"Spaghetti", Output:,
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,
+Epoch:3, EpLoss:1.6991850233078003
+	Input:"LeBron James", Output:,
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,
+	Input:"Country Music", Output:,
+	Input:"Beach", Output:,
+	Input:"Spaghetti", Output:,
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,
+Epoch:4, EpLoss:1.6021753772099814
+	Input:"LeBron James", Output:,[]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,][
+	Input:"Country Music", Output:,[]
+	Input:"Beach", Output:,][
+	Input:"Spaghetti", Output:,][
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,][
+Epoch:5, EpLoss:1.565813233057658
+	Input:"LeBron James", Output:,][
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,][
+	Input:"Country Music", Output:,][
+	Input:"Beach", Output:,][
+	Input:"Spaghetti", Output:,][
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,][
+Epoch:6, EpLoss:1.5448795986175536
+	Input:"LeBron James", Output:,]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,]
+	Input:"Country Music", Output:,]
+	Input:"Beach", Output:,]
+	Input:"Spaghetti", Output:,]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,]
+Epoch:7, EpLoss:1.5418888266881308
+	Input:"LeBron James", Output:,
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,
+	Input:"Country Music", Output:,
+	Input:"Beach", Output:,
+	Input:"Spaghetti", Output:,
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,
+Epoch:8, EpLoss:1.532994680404663
+	Input:"LeBron James", Output:,
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,
+	Input:"Country Music", Output:,
+	Input:"Beach", Output:,
+	Input:"Spaghetti", Output:,
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,
+Epoch:9, EpLoss:1.5264721902211507
+	Input:"LeBron James", Output:,
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:,
+	Input:"Country Music", Output:,
+	Input:"Beach", Output:,
+	Input:"Spaghetti", Output:,
+	Input:"Harry Potter and the Sorcerers' Stone", Output:,
+================ STARTING A NEW RUN == 2023-07-24 16:07:01.296051 =================
+Epoch:0, EpLoss:8.458929722125713
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Stars]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Star Wars, Star Wars Films]
+	Input:"Country Music", Output:[Music, Rock, Country Music]
+	Input:"Beach", Output:[Geography, Mediterranean Countries]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Literature, Fantasy, Fantasy Novels]
+Epoch:1, EpLoss:3.756454247694749
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Action, Action Films]
+	Input:"Country Music", Output:[Music, Country, Country Music, Pop Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Action, Film Series]
+Epoch:2, EpLoss:1.728151064652663
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Films]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:3, EpLoss:0.37522431176442367
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Star Wars Films]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:4, EpLoss:0.10269095576726474
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:5, EpLoss:0.06686957295124348
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:6, EpLoss:0.055579410722622506
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Sci-Fi, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:7, EpLoss:0.04564580679512941
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Star Wars]
+	Input:"Country Music", Output:[Music, Country, Saxophonists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:8, EpLoss:0.03704063594341278
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Saxophonists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:9, EpLoss:0.032099694873277955
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Action, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:10, EpLoss:0.029100333555386618
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:11, EpLoss:0.026186893049340982
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Saxophonists]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Parks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:12, EpLoss:0.02566448190750984
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Saxophonists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Parks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:13, EpLoss:0.02146754299218838
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Trumpeters]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Parks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:14, EpLoss:0.021640370599925518
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:15, EpLoss:0.019359242385969713
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:16, EpLoss:0.014249225397809194
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:17, EpLoss:0.015095444181217598
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:18, EpLoss:0.013032125094189094
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:19, EpLoss:0.012049178736141095
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Animals, Marine Life, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+================ STARTING A NEW RUN == 2023-07-24 16:11:16.807244 =================
+Epoch:0, EpLoss:8.423001692845272
+	Input:"LeBron James", Output:[NBA Basketball, Basketball, NBA Finals Champions]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Star Wars, Star Wars Films]
+	Input:"Country Music", Output:[Music, Country, Rock, Pop, Pop Singers]
+	Input:"Beach", Output:[Beaches, Parks, Parks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Literature, Fantasy, Fantasy Series]
+Epoch:1, EpLoss:3.7358536353478065
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Film Series]
+	Input:"Country Music", Output:[Music, Country, Pop Singers]
+	Input:"Beach", Output:[Geography, Oceanography, Marine Life]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:2, EpLoss:1.7150170344572802
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanography, Marine Life]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:3, EpLoss:0.36331748503905076
+	Input:"LeBron James", Output:[NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:4, EpLoss:0.10323338497143525
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:5, EpLoss:0.0698428274347232
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Albums]
+	Input:"Beach", Output:[Sports, Soccer, FIFA Women's World Cup Winners]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:6, EpLoss:0.053084030460852846
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:7, EpLoss:0.04147365345404698
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Sports, Soccer, FIFA Women's World Cup Champions]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:8, EpLoss:0.03576525472677671
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:9, EpLoss:0.03207393606694845
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Trumpeters]
+	Input:"Beach", Output:[Sports, Soccer, FIFA World Cup Champions]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:10, EpLoss:0.030402974583781682
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:11, EpLoss:0.026046267638985928
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands]
+	Input:"Beach", Output:[Sports, Soccer, FIFA Women's World Cup Winners]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+Epoch:12, EpLoss:0.024235911667346954
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+================ STARTING A NEW RUN == 2023-07-24 16:12:33.937556 =================
+Epoch:0, EpLoss:8.457418295053335
+	Input:"LeBron James", Output:[Sports, Basketball, Basketballers]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Star Wars, Star Wars]
+	Input:"Country Music", Output:[Music, Rock, Pop, Pop Singers]
+	Input:"Beach", Output:[Food, Mexican Cuisine]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Literature, Fantasy, Novels]
+	Input:"Minecraft", Output:[Technology, Gaming, Gaming]
+Epoch:1, EpLoss:3.739346852669349
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Film Series]
+	Input:"Country Music", Output:[Music, Pop, Female Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Gaming PCs]
+Epoch:2, EpLoss:1.718908273256742
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Pop, Female Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming Consoles]
+Epoch:3, EpLoss:0.3657920670050841
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Game Titles]
+Epoch:4, EpLoss:0.11325451101248081
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:5, EpLoss:0.06816599575372842
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Video Game Titles]
+Epoch:6, EpLoss:0.04956108217055981
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:7, EpLoss:0.04329476419549722
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:8, EpLoss:0.037988429315961324
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:9, EpLoss:0.030831287543361004
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Studios]
+Epoch:10, EpLoss:0.03217422360411057
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:11, EpLoss:0.026581263312926658
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:12, EpLoss:0.028356448675577458
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:13, EpLoss:0.023167419605530225
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Sports, Water, Olympic Events]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:14, EpLoss:0.022161536276913606
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:15, EpLoss:0.02113554060745698
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:16, EpLoss:0.017635034182323858
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:17, EpLoss:0.02194623169131004
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Animals, Marine Life, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:18, EpLoss:0.026197977722264253
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Trumpeters]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Flags]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:19, EpLoss:0.019599122998233024
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Trumpeters]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:20, EpLoss:0.02325959911999794
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:21, EpLoss:0.11468791818389526
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Science, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:22, EpLoss:0.02456032198209029
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming PC Game Titles]
+Epoch:23, EpLoss:0.018842548705064334
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:24, EpLoss:0.015581290524166364
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:25, EpLoss:0.013970093944898019
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:26, EpLoss:0.014641932032715816
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Beaches]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft]
+Epoch:27, EpLoss:0.012368450872600079
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Sports, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:28, EpLoss:0.010624382716531936
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Male Singers]
+	Input:"Beach", Output:[Animals, Marine Life, Sharks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+Epoch:29, EpLoss:0.013500583787950186
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Geography, Oceanic Countries, Landmarks]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, PC Game Titles]
+================ STARTING A NEW RUN == 2023-09-13 09:19:28.758632 =================
+Epoch:0, EpLoss:6.629640724347985
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Stars]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Star Wars, Star Wars Films]
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Weather, Weather, Weather Forecasters]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Fantasy Series]
+	Input:"Minecraft", Output:[Video Games, Game Games]
+Epoch:1, EpLoss:1.628787223411643
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Weather, Oceanic Oceanic Activities]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Pasta]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:2, EpLoss:0.2106290964976601
+	Input:"LeBron James", Output:[NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Star Wars, Film Series] 
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Weather, Oceanic Countries, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games]
+Epoch:3, EpLoss:0.11873768755923146
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Time Leading Scoring Leaders]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Weather, Oceanic Activities] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games]
+Epoch:4, EpLoss:0.09641536681548409
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Weather, Oceanic Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Communities]
+Epoch:5, EpLoss:0.07497546044380768
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music]
+	Input:"Beach", Output:[Outdoor Activities, Activities, Camping Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games]
+Epoch:6, EpLoss:0.0602264687742876
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Albums]
+	Input:"Beach", Output:[Weather, Marine Life] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games] 
+Epoch:7, EpLoss:0.0543627657968065
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music] 
+	Input:"Beach", Output:[Weather, Oceanic Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Fantasy Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games] 
+Epoch:8, EpLoss:0.049989870061045105
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Vocalists]
+	Input:"Beach", Output:[Weather, Marine Life, Camping Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games]
+Epoch:9, EpLoss:0.04475207837379497
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country Music] 
+	Input:"Beach", Output:[Weather, Marine Life] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Fantasy Films]
+	Input:"Minecraft", Output:[Technology, Gaming, Online Gaming Communities] 
+Epoch:10, EpLoss:0.03913900904033495
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country Music, Albums]
+	Input:"Beach", Output:[Outdoor Activities, Camping, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, MOBA Games] 
+Epoch:11, EpLoss:0.036847400843449264
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Sci-Fi, Film Series]
+	Input:"Country Music", Output:[Music, Country, Songwriting] 
+	Input:"Beach", Output:[Weather, Marine Life, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Technology, Minecraft] 
+Epoch:12, EpLoss:0.032227187619909
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country Music] 
+	Input:"Beach", Output:[Weather, Marine Life] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:13, EpLoss:0.03369674815431885
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music] 
+	Input:"Beach", Output:[Outdoor Activities, Camping, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Fantasy Films]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 
+Epoch:14, EpLoss:0.026266780641415844
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music] 
+	Input:"Beach", Output:[Weather, Marine Life] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Fantasy Creatures] 
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:15, EpLoss:0.024631892007006252
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Country Music] 
+	Input:"Beach", Output:[Nature, Marine Life, Coral Reefs] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:16, EpLoss:0.02468066686845344
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country Music] 
+	Input:"Beach", Output:[Beaches, Marine Life]
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 
+Epoch:17, EpLoss:0.022253428504842777
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country Music] 
+	Input:"Beach", Output:[Beaches, Camping, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:18, EpLoss:0.022344142927423767
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Music Genres]
+	Input:"Beach", Output:[Nature, Marine Life, Camping] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:19, EpLoss:0.05440879669850287
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Songwriting] 
+	Input:"Beach", Output:[Outdoor Activities, Hiking, Camping Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:20, EpLoss:0.05725988300274248
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Music Genres] 
+	Input:"Beach", Output:[Weather, Climate Change Effects] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:21, EpLoss:0.06042498487817204
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country Music] 
+	Input:"Beach", Output:[Outdoor Activities, Hiking, Camping] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 
+Epoch:22, EpLoss:0.03725830716607363
+	Input:"LeBron James", Output:[Sports, Basketball, NBA MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Music Genres] 
+	Input:"Beach", Output:[Nature, Marine Life, Camping] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:23, EpLoss:0.024209714778091595
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Country, Bands] 
+	Input:"Beach", Output:[Weather, Camping, Beaches] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:24, EpLoss:0.025817068415167538
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Songwriters] 
+	Input:"Beach", Output:[Outdoor Activities, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 
+Epoch:25, EpLoss:0.019494003373319687
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Music Genres] 
+	Input:"Beach", Output:[Weather, Camping] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Film Series]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 
+Epoch:26, EpLoss:0.017987902802617653
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Music Genres] 
+	Input:"Beach", Output:[Weather, Extreme Weather Events] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:27, EpLoss:0.018156253206341164
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country, Songwriters]
+	Input:"Beach", Output:[Weather, Marine Life, Camping Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Video Games, Minecraft] 
+Epoch:28, EpLoss:0.01746842925153349
+	Input:"LeBron James", Output:[Sports, Basketball, NBA Finals MVPs]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Fantasy, Film Series]
+	Input:"Country Music", Output:[Music, Music Genres] 
+	Input:"Beach", Output:[Weather, Marine Life, Camping Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 
+Epoch:29, EpLoss:0.02199003068001374
+	Input:"LeBron James", Output:[Sports, Basketball, NBA All-Star Players]
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:[Movies, Science Fiction, Film Series]
+	Input:"Country Music", Output:[Music, Country Music] 
+	Input:"Beach", Output:[Travel, Destinations] 
+	Input:"Spaghetti", Output:[Food, Italian Cuisine, Dish]
+	Input:"Harry Potter and the Sorcerers' Stone", Output:[Movies, Fantasy, Franchises]
+	Input:"Minecraft", Output:[Technology, Gaming, Minecraft] 

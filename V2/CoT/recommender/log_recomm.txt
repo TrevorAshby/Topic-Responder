@@ -1,0 +1,81 @@
+================ STARTING A NEW RUN == 2023-10-03 21:20:52.455790 =================
+================ STARTING A NEW RUN == 2023-10-03 21:22:59.941234 =================
+================ STARTING A NEW RUN == 2023-10-03 21:23:58.047377 =================
+================ STARTING A NEW RUN == 2023-10-03 21:25:02.184077 =================
+================ STARTING A NEW RUN == 2023-10-03 21:27:08.433894 =================
+================ STARTING A NEW RUN == 2023-10-03 21:31:22.560255 =================
+================ STARTING A NEW RUN == 2023-10-03 21:39:51.537764 =================
+================ STARTING A NEW RUN == 2023-10-03 21:42:23.943214 =================
+================ STARTING A NEW RUN == 2023-10-03 21:44:10.809356 =================
+================ STARTING A NEW RUN == 2023-10-03 22:04:40.083969 =================
+================ STARTING A NEW RUN == 2023-10-03 22:13:33.967542 =================
+================ STARTING A NEW RUN == 2023-10-03 22:14:41.995858 =================
+Epoch:0, EpLoss:0.23155283145606517
+	Input:I like LeBron James., Output:LeBron James.
+	Input:I watched Star Wars Episode 1: The Phantom Menace., Output:Star Wars Episode 1: The Phantom Menace.
+	Input:I don't like Country Music., Output:Country Music is just too boring.
+	Input:The beach is cool., Output:The beach is cool.
+	Input:Spaghetti good., Output:Spaghetti good.
+	Input:I have not read Harry Potter and the Sorcerers' Stone, Output:. I have not read Harry Potter and the Philosopher's Stone.
+	Input:I play Minecraft., Output:I play Minecraft.
+Epoch:1, EpLoss:0.004370138918360075
+	Input:I like LeBron James., Output:LeBron James.
+	Input:I watched Star Wars Episode 1: The Phantom Menace., Output:Star Wars Episode 1: The Phantom Menace.
+================ STARTING A NEW RUN == 2023-10-03 22:16:34.086338 =================
+Epoch:0, EpLoss:15.654467837015789
+Epoch:1, EpLoss:4.215242417653402
+Epoch:2, EpLoss:2.1845136642456056
+Epoch:3, EpLoss:0.9879706621170044
+Epoch:4, EpLoss:0.6270232836405436
+================ STARTING A NEW RUN == 2023-10-03 22:25:37.657957 =================
+================ STARTING A NEW RUN == 2023-10-03 22:29:07.838837 =================
+Epoch:0, EpLoss:15.795335833231608
+Epoch:1, EpLoss:3.9977678140004476
+Epoch:2, EpLoss:1.9108765284220377
+Epoch:3, EpLoss:0.842667019367218
+Epoch:4, EpLoss:0.5190848012765249
+================ STARTING A NEW RUN == 2023-10-03 22:31:27.043306 =================
+Epoch:0, EpLoss:9.910578028361003
+Epoch:1, EpLoss:0.9515394846598307
+Epoch:2, EpLoss:0.6677932461102803
+Epoch:3, EpLoss:0.4819563706715902
+Epoch:4, EpLoss:0.3667696515719096
+================ STARTING A NEW RUN == 2023-10-03 22:36:12.891035 =================
+================ STARTING A NEW RUN == 2023-10-03 22:37:56.950024 =================
+================ STARTING A NEW RUN == 2023-10-03 22:38:26.999885 =================
+================ STARTING A NEW RUN == 2023-10-03 22:38:49.581019 =================
+Epoch:0, EpLoss:7.258508960405986
+Epoch:1, EpLoss:0.8047253092130026
+Epoch:2, EpLoss:0.5160079578558604
+Epoch:3, EpLoss:0.32424657344818114
+Epoch:4, EpLoss:0.22835675577322642
+================ STARTING A NEW RUN == 2023-10-03 22:45:37.037192 =================
+Epoch:0, EpLoss:4.488090231418609
+Epoch:1, EpLoss:0.781336385011673
+Epoch:2, EpLoss:0.45946416616439817
+Epoch:3, EpLoss:0.31574259519577025
+Epoch:4, EpLoss:0.24307259917259216
+================ STARTING A NEW RUN == 2023-10-03 23:13:56.582669 =================
+Epoch:0, EpLoss:3.609390991074698
+Epoch:1, EpLoss:0.5982109819139753
+Epoch:2, EpLoss:0.4143450570958001
+Epoch:3, EpLoss:0.31594110088688987
+Epoch:4, EpLoss:0.25057594094957625
+================ STARTING A NEW RUN == 2023-10-03 23:27:08.714643 =================
+Epoch:0, EpLoss:3.089990559220314
+Epoch:1, EpLoss:0.6924650020897388
+Epoch:2, EpLoss:0.42394780963659284
+Epoch:3, EpLoss:0.31779296435415744
+Epoch:4, EpLoss:0.24820662178099157
+================ STARTING A NEW RUN == 2023-10-03 23:34:01.663462 =================
+Epoch:0, EpLoss:3.7384065576962064
+Epoch:1, EpLoss:0.7031229453427451
+Epoch:2, EpLoss:0.42545122163636345
+Epoch:3, EpLoss:0.3047332921198436
+Epoch:4, EpLoss:0.2391713925770351
+================ STARTING A NEW RUN == 2023-10-03 23:39:03.172755 =================
+Epoch:0, EpLoss:4.432635802030563
+Epoch:1, EpLoss:0.6853298418223858
+Epoch:2, EpLoss:0.4405308119952679
+Epoch:3, EpLoss:0.32196578942239285
+Epoch:4, EpLoss:0.25553124472498895

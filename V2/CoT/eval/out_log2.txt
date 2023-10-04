@@ -1,0 +1,100 @@
+{"high-level": {"topic": "sports", "if_interest": "yes"}, "middle school sports": "favorite sport": "basketball"}}	 Yes, I do. I particularly enjoy basketball.	(sports,yes)|(basketball,yes)
+
+{"high-level": {"topic": "travel", "if_interest": "yes"}, "middle-level: {"topic: "travel destination", "interest": ["Europe", "traveling", "Europe trip", "yes"}}	 I do. I'm particularly interested in visiting Europe one day.	(travel,yes)|(Europe,yes)
+
+{"high-level": {"topic": "TV shows", "if_interest": "yes"}, "middle-grade": {"genre": "crime dramas", "interest": ["yes"}}	 Yes, I do. I enjoy watching crime dramas.	(TV shows,yes)|(crime dramas,yes)
+
+{"high-level": {"topic": "outdoors", "if_interest": "yes"}}	 I enjoy hiking and spending time outdoors.	(outdoors,yes)|(hiking,yes)
+
+{"high-level": {"topic": "exercise", "if_interest": "yes"}, "middle-level: {"topic: "yoga", {"if_not": "unknow"}}	 I enjoy running and doing yoga.	(fitness,yes)|(workout,yes)
+
+{"high-level": {"topic": "movie", "if_interest": "yes"}, "middle- level": {"genre": "action movies", "what's your favorite genre": "unknow"}}	 I'm a big fan of action movies.	(movie,yes)|(movie genre,yes)
+
+{"high-level": {"topic": "music", "if_interest": "yes"}, "middle-class", "yes"}}	 I really like classical music.	(music,yes)|(classical music,yes)
+
+{"high-level": {"topic": "art", "if_interest": "yes"}}	 Yes, I do. I'm particularly interested in art museums.	(art,yes)
+
+{"high-level": {"topic": "books", "if_interest": "yes"}, "middle-level: {"topic: "book genre", "interest": ["mystery", "novel", "mystery novel"], "if-interest":  "yes"}}	 I enjoy reading mystery novels.	(books,yes)|(genre,yes)
+
+{"high-level": {"topic": "food", "if_interest": "yes"}}	 Yes, I do. I'm open to trying almost anything.	(food,yes)
+
+{"high-level": {"topic": "video games", "if_interest": "yes"}, "middle-person shooter", "yes"}}	 I like playing first-person shooter games.	(video games,yes)|(game genre,yes)
+
+{"high-level": {"topic": "TV shows", "if_interest": "yes"}, "middle- level": {" topic": "documentaries", "how about you?"}}	 I enjoy watching documentaries.	(TV shows,yes)|(documentaries,yes)
+
+{"high-level": {"topic": "food", "if_interest": "yes"}, "middle- level": {" topic": "recipepperoni recipe", "interest": ["yes"}}	 Yes, I do. I'm really interested in trying out new recipes.	(food,yes)|(cooking,yes)
+
+{"high-level": {"topic": "podcasts", "if_interest": "yes"}}	 I like listening to comedy podcasts.	(podcasts,yes)|(comedy,yes)
+
+{"high-level": {"topic": "outdoor activities", "if_interest": "yes"}, "middle-level: {"topic: "nature walks", "interest": ["yes"}}	 I like going on nature walks and hiking.	(hobby,yes)|(hiking,yes)
+
+{"high-level": {"topic": "movie", "if_interest": "yes"}, "middle- level": {"level": "action movies", "what's your favorite genre": "unknow"}}	I love action movies!	(movie,yes)|(movie genre,yes)
+
+{"high-level": {"topic": "travel", "if_interest": "yes"}}	Yes, I do. I like exploring new countries and cultures.	(travel,yes)
+
+{"high-level": {"topic": "sports", "if_interest": "yes"}, "low-interest":{"topic": ["soccer", "soccer watching"], "if_(interest): "yes"}}	Yes, I love playing soccer. I also like watching it.	(sports,yes)|(soccer,yes)
+
+{"high-level": {"topic": "pets", "if_interest": "yes"}, "middle-ranking": "golden retriever"}}	I prefer dogs. I love Golden Retrievers in particular.  	(pets,yes)|(dogs,yes)
+
+{"high-level": {"topic": "outdoor activities", "if_interest": "yes"}, "middle-ground": {"level": "mountain range", "interest": ["yes"}}	I like hikes with a scenic view, like mountain ranges.	(hiking,yes)|(mountains,yes)
+
+{"high-level": {"topic": "video game genre", "if_interest": "yes"}, "middle- level": {" topic": "RPGs", "interest": ""yes"}}	I like playing RPGs and action/adventure games. 	(video games,yes)|(game genre,yes)
+
+{"high-level": {"topic": "music", "if_interest": "yes"}, "middle-classical music", "yes"}}	Yes, I love classical music!	(music,yes)|(classical music,yes)
+
+{"high-level": {"topic": "tea", "if_interest": "yes"}, "middle-tier": {"color": "green tea", "what's your favorite brand": "unknow"}}	I prefer tea. Green tea is my favorite.	(food,yes)|(tea,yes)
+
+{"high-level": {"topic": "TV shows", "if_interest": "yes"}, "middle-level: {"topic: "TV show", "interest": ["Sherlock Holmes", "The Da Vinci Code", "Curse of the Black Dahlia", "Mindhunter", "Sherlock", "Friends", "To Kill a Mockingbird"]}}	I like crime dramas like Sherlock.	(TV shows,yes)|(crime dramas,yes)
+
+{"high-level": {"topic": "dance", "if_interest": "yes"}, "middle school", "low-level: {"topic: "hip hop and contemporary dance", "interest": ["yes"}}	I like hip hop and contemporary dance.	(music,yes)|(dance,yes)
+
+{"high-level": {"topic": "movies", "if_interest": "yes"}, "middle- level": {"genre": "movie genre", "what genre": "action", "how about you?"}}	I love movies, action is my favorite genre.	(movies,yes)|(movie genre,yes)
+
+{"high-level": {"topic": "travel", "if_interest": "yes"}, "low-interest":{"topic": ["Europe", "traveling to Europe", "yes"}}	I have always wanted to visit Europe.	(travel,yes)|(Europe,yes)
+
+{"high-level": {"topic": "sports", "if_interest": "yes"}, "low-interest": {"level": "NBA", "what's your favorite sport": "unknow"}}	I love playing basketball and watching the NBA.	(sports,yes)|(basketball,yes)
+
+{"high-level": {"topic": "animals", "if_interest": "yes"}, "low-interest":{"topic": ["dogs", "pets", "yes"}}	Yes, I love dogs.	(pets,yes)|(dogs,yes)
+
+{"high-level": {"topic": "cooking", "if_interest": "yes"}}	I like to cook and try out new recipes.	(food,yes)|(cooking,yes)
+
+{"high-level": {"topic": "outdoor activities", "if_interest": "yes"}, "middle-ground": {"level": "hiking/camping", "what activities do you like to do?"}}	I usually go hiking or camping.	(outdoors,yes)|(hiking,yes)
+
+{"high-level": {"topic": "music", "if_interest": "yes"}}	Yes, I love music. I've been into indie music lately.	(music,yes)|(music genre,yes)
+
+{"high-level": {"topic": "books", "if_interest": "yes"}, "middle-level: {"topic: "genre", "interest": ["fiction", "sci-fi", "fantasy", "mysteries", "novel", "yes"}}	I read mostly fiction, I love sci-fi books.	(books,yes)|(genre,yes)
+
+{"high-level": {"topic": "puzzle games", "if_interest": "yes"}, "middle- level": {" topic": "sudoku", "interest": ["yes"}}	I'm into puzzle games, specifically Sudoku.	(video games,yes)|(game genre,yes)
+
+{"high-level": {"topic": "indoor activities", "if_interest": "yes"}}	I like both, but I lean towards indoor activities like board games.	(outdoor activities,yes)|(hiking,no)
+
+{"high-level": {"topic": "hobby", "if_interest": "yes"}, "middle-level: {"topic: "outdoor activities", "interest": ["painting", "going on walks"], "if-interest": "...yes"}}	 I enjoy painting and going on walks in nature. 	(hobby,yes)|(art,yes)
+
+{"high-level": {"topic": "travel", "if_interest": "yes"}, "low-interest":{"topic": ["Japan", "Japan trip", "yes"}}	 I really loved my trip to Japan. 	(travel,yes)|(Japan,yes)
+
+{"high-level": {"topic": "movie", "if_interest": "yes"}, "middle- level": {"genre": "romantic comedies, especially ones with Sandra Bullock", "which ones do you like?"}}	 I love romantic comedies, especially ones with Sandra Bullock. 	(movies,yes)|(romantic comedies,yes)
+
+{"high-level": {"topic": "food", "if_interest": "yes"}, "middle-class cuisine": "Italian and Chinese food", "low-cost": "unknow"}}	 Yes, I love to cook Italian and Chinese food. 	(food,yes)|(cooking,yes)
+
+{"high-level": {"topic": "books", "if_interest": "yes"}, "middle school", "low-level", "yes"}}	 Yes, I love reading murder mystery novels. 	(books,yes)|(genre,yes)
+
+{"high-level": {"topic": "music", "if_interest": "yes"}, "middle-classical music", "genre": "Beethoven", "what's your favorite genre": "no"}}	 I love listening to classical music, especially Beethoven. 	(music,yes)|(classical music,yes)
+
+{"high-level": {"topic": "technology", "if_interest": "yes"}}	 Yes, I love learning about new gadgets and emerging technologies. 	(technology,yes)|(emerging technologies,yes)
+
+{"high-level": {"topic": "sports", "if_interest": "yes"}, "middle school sports", "interest": ["basketball", "soccer"], "which sport", "yes"}}	 I love playing basketball and soccer. 	(sports,yes)|(basketball,yes)
+
+{"high-level": {"topic": "art", "if_interest": "yes"}, "middle-level: {"topic: "sculpture", "interest": ["Michelangelo", "Sculptor", "Mickeyangelo"], "which artist", "yes"}}	 I love sculpture, especially works by Michelangelo. 	(art,yes)|(art style,yes)
+
+{"high-level": {"topic": "food", "if_interest": "yes"}, "middle-aged", "low-income": "Mediterranean cuisine", "yes"}}	 I love vegetarian food, particularly Mediterranean cuisine. 	(food,yes)|(Mediterranean cuisine,yes)
+
+{"high-level": {"topic": "sports", "if_interest": "no"}}	 I'm not really into sports. 	(sports,no)
+
+{"high-level": {"topic": "video games", "if_interest": "yes"}}	 I love playing video games. 	(video games,yes)
+
+{"high-level": {"topic": "music", "if_interest": "yes"}, "middle-class", "music genre": "classical music"}}	 I enjoy listening to classical music. 	(music,yes)|(classical music,yes)
+
+{"high-level": {"topic": "books", "if_interest": "yes"}, "middle-level: {"topic: "mystery novels", "interest": ["yes"}}	 Yes, I'm really into mystery novels. 	(books,yes)|(genre,yes)
+
+{"high-level": {"topic": "movie", "if_interest": "yes"}, "middle- level": {"genre": "sci-fi", "interest": ""yes"}}	 Yes, I enjoy watching science fiction movies. 	(movie,yes)|(movie genre,yes)
+
