@@ -140,7 +140,7 @@ def main():
         else:
             blend_in_str = user_response
 
-        blend_in_str2 = ' [GUIDELINE] ' + guideline
+        blend_in_str2 = blend_in_str + ' [GUIDELINE] ' + guideline
         blend_in_ids = blen_tokenizer([blend_in_str2], max_length=128, return_tensors='pt', truncation=True)
         blend_example = blen_model.generate(**blend_in_ids.to(device), max_length=60)
         blend_response = blen_tokenizer.batch_decode(blend_example, skip_special_tokens=True)[0]

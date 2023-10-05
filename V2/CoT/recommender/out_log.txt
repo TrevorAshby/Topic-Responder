@@ -1,0 +1,31 @@
+TARGET RESPONSE: Are you a fan of Google or Microsoft?
+
+Both are excellent technology they are helpful in many ways. For the security purpose both are super.|(technology,yes)|(smartphone features,yes)|{'technology': 'positive', 'smartphone features': 'positive'}|smartphone features,smartphone apps,smartwatches
+TARGET RESPONSE: I'm not  a huge fan of Google, but I use it a lot because I have to. I think they are a monopoly in some sense. 
+
+Google provides online related services and products, which includes online ads, search engine and cloud computing.|(technology,yes)|(virtual reality,yes)|{'technology': 'positive', 'virtual reality': 'positive'}|virtual reality,ethics of VR,virtual reality experiences
+TARGET RESPONSE: Yeah, their services are good. I'm just not a fan of intrusive they can be on our personal lives. 
+
+Google is leading the alphabet subsidiary and will continue to be the Umbrella company for Alphabet internet interest.|(technology,yes)|(internet interest,yes)|{'technology': 'positive', 'internet interest': 'positive'}|internet trends,tech tips,internet security
+TARGET RESPONSE: Did you know Google had hundreds of live goats to cut the grass in the past? 
+
+It is very interesting. Google provide "Chrome OS" which is a light weight OS. Google provided a lot of hardware mainly in 2010 to 2015. |(technology,yes)|(smartphone,yes)|{'technology': 'positive', 'smartphone': 'positive'}|technology,smartphones,technology trends
+TARGET RESPONSE: I like Google Chrome. Do you use it as well for your browser? 
+
+Yes.Google is the biggest search engine and Google service figure out top 100 website, including Youtube and Blogger.|(technology,yes)|(search,yes)|{'technology': 'positive', 'search': 'positive'}|technology,search techniques,technology applications
+TARGET RESPONSE: By the way, do you like Fish? 
+
+Yes. They form a sister group of tourniquets- they make the sea water clean and remove the dust from it. Fish is the biggest part in the eco-system.|(nature,yes)|(ecology,yes)|{'nature': 'positive', 'ecology': 'positive'}|eco-friendly practices,sustainable development,eco-friendly products
+TARGET RESPONSE: Did you know that a seahorse is the only fish to have a neck? 
+
+Freshwater fish only drink water through the skin via Osmosis, Saltwater fish drink water through the mouth. Dolphins are friendly to human beings.|(animals,yes)|(dolphins,yes)|{'animals': 'positive', 'dolphins': 'positive'}|dolphin care,fisheries,marine conservation
+TARGET RESPONSE: Interesting, they also have gills. Did you know that jellyfish are immortal? 
+
+Yes. Fish is the important resources of human world wide for the commercial and subsistence fish hunts the fish in the wild fisheries.|(fishing,yes)|(wildlife,yes)|{'fishing': 'positive', 'wildlife': 'positive'}|wildlife conservation,fishing gear,fishing gear
+TARGET RESPONSE: What about cats, do you like cats? I'm a dog fan myself. 
+
+The cat is referred as domestic cat and wild cat. They make our world very clean from rats! |(pets,yes)|(cat,yes)|{'pets': 'positive', 'cat': 'positive'}|cat care,animal welfare,pet adoption
+TARGET RESPONSE: Yeah, cats can be cool, but they sure do spend a lot of their time sleeping. 
+
+Cats hear the sounds too faint or too high frequency human ears can hear. |(pets,yes)|(cat sounds,no)|{'pets': 'positive', 'cat sounds': 'negative'}|cat care,cat sounds,pet adoption
+TARGET RESPONSE: I heard that too. Well, it was nice chatting with you. Have a good day. 
