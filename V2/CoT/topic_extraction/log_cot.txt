@@ -1,0 +1,679 @@
+================ STARTING A NEW RUN == 2023-10-05 16:20:12.358385 =================
+Epoch:0, EpLoss:1.0177651573881579
+	Input:"LeBron James", Output:(sports,yes)|(NBA player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,unknown)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-05 16:24:42.673564 =================
+Epoch:0, EpLoss:1.0100733974690073
+	Input:"LeBron James", Output:(sports,yes)|(LeBron James,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,yes)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.1640854843281673
+	Input:"LeBron James", Output:(travel,no)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(travel,no)
+
+	Input:"Country Music", Output:(travel,no)
+
+	Input:"Beach", Output:(travel,no)
+
+	Input:"Spaghetti", Output:(travel,no)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(travel,no)
+
+	Input:"Minecraft", Output:(travel,no)
+
+Epoch:2, EpLoss:0.2746381584251897
+	Input:"LeBron James", Output:(food,yes)|(sushi,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(sushi,yes)
+
+	Input:"Country Music", Output:(food,yes)|(sushi,yes)
+
+	Input:"Beach", Output:(food,yes)|(sushi,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(sushi,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(sushi,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(sushi,yes)
+
+Epoch:3, EpLoss:0.24316671062884718
+	Input:"LeBron James", Output:(food,yes)|(sushi,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(sushi,yes)
+
+	Input:"Country Music", Output:(food,yes)|(sushi,yes)
+
+	Input:"Beach", Output:(food,yes)|(sushi,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(sushi,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(sushi,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(sushi,yes)
+
+================ STARTING A NEW RUN == 2023-10-05 16:39:21.608264 =================
+Epoch:0, EpLoss:1.0365776196478658
+	Input:"LeBron James", Output:(sports,yes)|(NBA player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,yes)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.13808636121344908
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(Star Wars,yes)|(The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,yes)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-05 16:47:32.005782 =================
+Epoch:0, EpLoss:1.0242919396769488
+	Input:"LeBron James", Output:(sports,yes)|(NBA player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,unknown)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(hobby,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-05 16:55:41.103449 =================
+Epoch:0, EpLoss:9.057074314099179
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you interested in country music?
+	Input:"Beach", Output:"Beach" is an English term for a body of water.
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios. It's similar to Minecraft.
+================ STARTING A NEW RUN == 2023-10-05 16:58:43.913110 =================
+Epoch:0, EpLoss:9.041344603853362
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios.
+Epoch:1, EpLoss:4.781018551456871
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:2, EpLoss:4.083603252064098
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:3, EpLoss:3.650997471010856
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" - Wikipedia
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is an Italian dish.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:4, EpLoss:3.265640862250442
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:5, EpLoss:2.8880715860704487
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love playing Minecraft. It's an online game developed by Blizzard Entertainment.
+Epoch:6, EpLoss:2.5106340173328894
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love playing Minecraft. It's an online game developed by Blizzard Entertainment.
+Epoch:7, EpLoss:2.136680831179094
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:8, EpLoss:1.777105828791714
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:9, EpLoss:1.4441681318876276
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+================ STARTING A NEW RUN == 2023-10-05 17:30:48.609634 =================
+Epoch:0, EpLoss:9.022656869660153
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you interested in country music?
+	Input:"Beach", Output:"Beach" is an English term for a body of water.
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios.
+Epoch:1, EpLoss:4.774482866223349
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:2, EpLoss:4.081589349719326
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you played it?
+Epoch:3, EpLoss:3.6502773408114053
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" - Wikipedia
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:4, EpLoss:3.2635962369909697
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:5, EpLoss:2.886565990995562
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:6, EpLoss:2.5087005259317645
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House"
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love playing Minecraft. It's an online game developed by Blizzard Entertainment.
+Epoch:7, EpLoss:2.135207491628291
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:8, EpLoss:1.7754804038545162
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:9, EpLoss:1.4426202397597463
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:10, EpLoss:1.151183248706982
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:11, EpLoss:0.9107965841247705
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009.
+Epoch:12, EpLoss:0.72483931460449
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:13, EpLoss:0.5852510355876394
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a game where you try to build a castle out of cardboard boxes.
+Epoch:14, EpLoss:0.48339598643722714
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:15, EpLoss:0.4089160738379191
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:"Minecraft" is one of my favorite video games.
+Epoch:16, EpLoss:0.35324972212029415
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:17, EpLoss:0.3121621704272676
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:18, EpLoss:0.2805671764617902
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:19, EpLoss:0.25577232049127513
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009.
+================ STARTING A NEW RUN == 2023-10-05 18:17:15.902582 =================
+Epoch:0, EpLoss:1.0190464037528448
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,unknown)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,unknown)|(country music,unknown)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.13892418602436923
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,unknown)|(LeBron James,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:2, EpLoss:0.12686462600550583
+	Input:"LeBron James", Output:(sports,yes)|(favorite player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:(music,yes)|(genre,unknown)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:3, EpLoss:0.10809360793903114
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars episode,yes)
+
+	Input:"Country Music", Output:(music,yes)|(genre,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video game,yes)|(Minecraft,yes)
+
+Epoch:4, EpLoss:0.09720860710412121
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars,no)|(The Phantom Menace,no)
+
+	Input:"Country Music", Output:(music,yes)|(genre,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:5, EpLoss:0.2717149214524972
+	Input:"LeBron James", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,yes)
+
+Epoch:6, EpLoss:0.24610779352450485
+	Input:"LeBron James", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,yes)
+
+Epoch:7, EpLoss:0.22261486519751936
+	Input:"LeBron James", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,unknown)
+
+Epoch:8, EpLoss:0.21574079113428674
+	Input:"LeBron James", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,yes)
+
+Epoch:9, EpLoss:0.20636827381033646
+	Input:"LeBron James", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,yes)
+
+Epoch:10, EpLoss:0.21652884039867437
+	Input:"LeBron James", Output:(food,yes)|(restaurant,no)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,no)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,no)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,no)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,no)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,no)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,no)
+
+Epoch:11, EpLoss:0.2018936879612042
+	Input:"LeBron James", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,yes)
+
+Epoch:12, EpLoss:0.1982205998526806
+	Input:"LeBron James", Output:(food,yes)|(sushi,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(sushi,yes)
+
+	Input:"Country Music", Output:(food,yes)|(sushi,yes)
+
+	Input:"Beach", Output:(food,yes)|(sushi,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(sushi,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(sushi,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(sushi,yes)
+
+Epoch:13, EpLoss:0.19492208102103056
+	Input:"LeBron James", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,unknown)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,unknown)
+
+Epoch:14, EpLoss:0.19283453107735757
+	Input:"LeBron James", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Country Music", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Beach", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(food,yes)|(restaurant,yes)
+
+	Input:"Minecraft", Output:(food,yes)|(restaurant,yes)
+
+================ STARTING A NEW RUN == 2023-10-05 18:47:46.706530 =================
+Epoch:0, EpLoss:1.0372559834610333
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(country music,yes)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(book title,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.1378728809753103
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:2, EpLoss:0.13099233920209147
+	Input:"LeBron James", Output:sports,yes)|(basketball player,unknown)|(LeBron James,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:music,yes)|(music genre,unknown)|(Country Music,yes)
+
+	Input:"Beach", Output:beach,yes)
+
+	Input:"Spaghetti", Output:food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:video games,yes)|(Minecraft,yes)
+
+Epoch:3, EpLoss:0.13705318820390974
+	Input:"LeBron James", Output:(((,yes)|(favorite player,unknown)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:music,yes)|(music genre,unknown)|(country,yes)
+
+	Input:"Beach", Output:travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:books,yes)|(Harry Potter,yes)
+
+	Input:"Minecraft", Output:video games,yes)|(Minecraft,yes)
+

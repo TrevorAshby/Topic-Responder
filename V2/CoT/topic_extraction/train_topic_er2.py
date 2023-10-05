@@ -42,7 +42,7 @@ def train(model, dataloader, tokenizer, num_epochs=10):
             loop.set_postfix(loss1=out.item())
             b += 1
 
-        if epoch % 5 == 0:
+        if epoch % 1 == 0:
             model.eval()
             log.write("Epoch:{}, EpLoss:{}\n".format(epoch, eploss/len(dataloader)))
 
@@ -100,7 +100,7 @@ if __name__ == '__main__':
     inst_model = AutoModelForSeq2SeqLM.from_pretrained("prakharz/DIAL-BART0")
 
     # create dataloader 
-    ds = TopicDataset('./tracker_input_cot_new.txt', './tracker_output_cot.txt', inst_tokenizer)
+    ds = TopicDataset('./topic_xtract_data/tracker_input_cot_new.txt', './topic_xtract_data/tracker_output_cot.txt', inst_tokenizer)
     dl = torch.utils.data.DataLoader(ds, batch_size=64, shuffle=True)
 
     #inst_model = torch.nn.DataParallel(inst_model, device_ids=[0])
@@ -109,12 +109,12 @@ if __name__ == '__main__':
     inst_model.to(device)
     
     
-    train(inst_model, dl, inst_tokenizer, 5)
+    train(inst_model, dl, inst_tokenizer, 4)
 
     #torch.save(blen_model.state_dict(), './model/blenderbot.pt')
     #torch.save(inst_model.state_dict(), './model/intructdialogue.pt')
 
     try:
-        torch.save(inst_model.module.state_dict(), '../model/topic_er2.pt')
+        torch.save(inst_model.module.state_dict(), './model/topic_er2.pt')
     except AttributeError:
-        torch.save(inst_model.state_dict(), '../model/topic_er2.pt')
+        torch.save(inst_model.state_dict(), './model/topic_er2.pt')
