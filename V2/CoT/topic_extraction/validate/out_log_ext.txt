@@ -1,0 +1,54 @@
+TARGET RESPONSE: Are you a fan of Google or Microsoft?
+Both are excellent technology they are helpful in many ways. For the security purpose both are super.|(technology,yes)|(smartphone,yes)|{'technology': 'positive', 'smartphone': 'positive'}
+TARGET RESPONSE: I'm not  a huge fan of Google, but I use it a lot because I have to. I think they are a monopoly in some sense. 
+Google provides online related services and products, which includes online ads, search engine and cloud computing.|(technology,yes)|(search engine,yes)|{'technology': 'positive', 'search engine': 'positive'}
+TARGET RESPONSE: Yeah, their services are good. I'm just not a fan of intrusive they can be on our personal lives. 
+Google is leading the alphabet subsidiary and will continue to be the Umbrella company for Alphabet internet interest.|(technology,yes)|(Google,yes)|{'technology': 'positive', 'Google': 'positive'}
+TARGET RESPONSE: Did you know Google had hundreds of live goats to cut the grass in the past? 
+
+It is very interesting. Google provide "Chrome OS" which is a light weight OS. Google provided a lot of hardware mainly in 2010 to 2015. |(technology,yes)|(chrome OS,yes)|{'technology': 'positive', 'chrome OS': 'positive'}
+TARGET RESPONSE: I like Google Chrome. Do you use it as well for your browser? 
+Yes.Google is the biggest search engine and Google service figure out top 100 website, including Youtube and Blogger.|(search,yes)|(Google,yes)|{'search': 'positive', 'Google': 'positive'}
+TARGET RESPONSE: By the way, do you like Fish? 
+Yes. They form a sister group of tourniquets- they make the sea water clean and remove the dust from it. Fish is the biggest part in the eco-system.|(animals,yes)|(tourniquets,yes)|{'animals': 'positive', 'tourniquets': 'positive'}
+TARGET RESPONSE: Did you know that a seahorse is the only fish to have a neck? 
+Freshwater fish only drink water through the skin via Osmosis, Saltwater fish drink water through the mouth. Dolphins are friendly to human beings.|(animals,yes)|(dolphins,yes)|{'animals': 'positive', 'dolphins': 'positive'}
+TARGET RESPONSE: Interesting, they also have gills. Did you know that jellyfish are immortal? 
+Yes. Fish is the important resources of human world wide for the commercial and subsistence fish hunts the fish in the wild fisheries.|(fishing,yes)|{'fishing': 'positive'}
+TARGET RESPONSE: What about cats, do you like cats? I'm a dog fan myself. 
+The cat is referred as domestic cat and wild cat. They make our world very clean from rats! |(animal,yes)|(cat,yes)|{'animal': 'positive', 'cat': 'positive'}
+TARGET RESPONSE: Yeah, cats can be cool, but they sure do spend a lot of their time sleeping. 
+Cats hear the sounds too faint or too high frequency human ears can hear. |(pets,yes)|(cats,yes)|{'pets': 'positive', 'cats': 'positive'}
+TARGET RESPONSE: I heard that too. Well, it was nice chatting with you. Have a good day. 
+TARGET RESPONSE: do you like dance?
+Yes  I do. Did you know Bruce Lee was a cha cha dancer?|(sports,yes)|(dancing,unknown)|(Bruce Lee,unknown)|{'sports': 'positive', 'dancing': 'unknown', 'Bruce Lee': 'unknown'}
+TARGET RESPONSE: Yes he even won a hardcore cha cha championship in 1958
+Yeah. Did you know Tupac was a ballet dancer?|(music,yes)|(music artist,unknown)|(Tupac,no|{'music': 'positive', 'music artist': 'unknown', 'Tupac': 'negative'}
+TARGET RESPONSE: Yes and he even was in the production of the nutcracker
+Yeah. Ballet dancer go through 4 pairs of shoes a week|(sports,no)|(ballet,no)|{'sports': 'negative', 'ballet': 'negative'}
+TARGET RESPONSE: Yes that is a lot of shoes and also a lot of money
+Yeah true. Did you know babies are really good at dancing?|(dancing,yes)|(babies,yes)|{'dancing': 'positive', 'babies': 'positive'}
+TARGET RESPONSE: Yes and they smile more when they hit the beat
+Yeah they are much smarter than we give them credit for|(technology,yes)|(smartphone,yes)|{'technology': 'positive', 'smartphone': 'positive'}
+TARGET RESPONSE: True Did you know Jackson had a patent on a dancing device?
+Yes it helped him smooth out his dance moves|(sports,yes)|(dancing,yes)|{'sports': 'positive', 'dancing': 'positive'}
+TARGET RESPONSE: Nice. Do you like Shakespeare?
+Yes I do. Do you know that he popularized many phrases|(music,yes)|(music artist,unknown)|(John Lennon,unknown)|{'music': 'positive', 'music artist': 'unknown', 'John Lennon': 'unknown'}
+TARGET RESPONSE: Yes like good riddance, in my heart of hearts and such
+Yes and then he also invented names like Jessica, Olivia and Miranda|(TV shows,yes)|(TV show name,yes)|{'TV shows': 'positive', 'TV show name': 'positive'}
+TARGET RESPONSE: Yes. And for his works you have to use old english for it to make sense
+Yes otherwise the rhymes and puns do not seem to work out|(music,yes)|(music genre,no)|(rhymes,no)|{'music': 'positive', 'music genre': 'negative', 'rhymes': 'negative'}
+TARGET RESPONSE: Yes. He lived at the same time as Pocahontas too
+I wonder if they met how that would go from there|(food,yes)|(restaurant,unknown)|{'food': 'positive', 'restaurant': 'unknown'}
+TARGET RESPONSE: Yeah interesting point. Nice chat
+TARGET RESPONSE: Hey what's up do use Google very often?I really love the company and was surprised to hear that it was founded back in 1998.
+i think everyone must use it daily! its become ingrained in every day life|(technology,yes)|(iPhone,yes)|{'technology': 'positive', 'iPhone': 'positive'}
+TARGET RESPONSE: Agreed. The Google headquarters in Mountain View California is nicknamed the Google Plex.
+thats funny. The current CEO is Sundar Pichai, i didnt know Larry Page was replaced|(technology,yes)|(Google,no)|{'technology': 'positive', 'Google': 'negative'}
+TARGET RESPONSE: Oh yeah I didn't know that either. I also want to go to google Plex to see the goats who mow their lawn by eating it.
+say what now?? they have that??|(food,yes)|(restaurant,unknown)|{'food': 'positive', 'restaurant': 'unknown'}
+TARGET RESPONSE: Yeah apparently lol! They do that instead of hiring people to mow!
+thats both funny and i guess imaginative. leave it to a huge tech company to employ actual goats!|(animals,yes)|(goats,yes)|{'animals': 'positive', 'goats': 'positive'}
+TARGET RESPONSE: Yeah exactly I am sure they are cheaper. One thing I bet they couldn't exploit is fish. I think fish are so cool there is actually a breed of jellyfish that is immortal.
+i had rememered hearing about that before. Immortatlity is wasted on a jellyfish haha. did you know a seahorse is the only fish that has an actual neck?|(animals,yes)|(seafood,no)|{'animals': 'positive', 'seafood': 'negative'}
+TARGET RESPONSE: That is so funny I guess I never considered a seahorse a fish. The black swallower fish sounds a lot like a snake because it can eat pray that is so large.
