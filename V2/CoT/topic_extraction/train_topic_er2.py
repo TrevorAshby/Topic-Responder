@@ -111,7 +111,7 @@ if __name__ == '__main__':
     inst_model.to(device)
     
     
-    train(inst_model, dl, inst_tokenizer, 2)
+    train(inst_model, dl, inst_tokenizer, 3)
 
     #torch.save(blen_model.state_dict(), './model/blenderbot.pt')
     #torch.save(inst_model.state_dict(), './model/intructdialogue.pt')

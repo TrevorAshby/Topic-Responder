@@ -1216,3 +1216,150 @@ Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIAL
 
 Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
 
+================ STARTING A NEW RUN == 2023-10-14 00:05:25.482368 =================
+Epoch:0, EpLoss:1.0198306869804574
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(basketball player,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(Star Wars,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,yes)|(country music,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(weekend,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.1386750813876613
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(basketball player,yes|LeBron James,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(Star Wars,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,yes)|(music genre,no)|(country music,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(vacation,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(Italian food,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-14 00:49:08.956351 =================
+Epoch:0, EpLoss:1.0203185689648944
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(favorite player,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movies,yes)|(Star Wars,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,no)|(music genre,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(favorite dish,no)|(spaghetti,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.13774348577956833
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(basketball player,unknown|LeBron James,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movies,yes)|(Star Wars,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,yes)|(genre,no)|(Country,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(Italian dish,unknown)|(spaghetti,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:2, EpLoss:0.11935247042390149
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(favorite player,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(Star Wars,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,no)|(country music,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(favorite dish,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+

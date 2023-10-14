@@ -6,7 +6,12 @@ from transformers import AutoTokenizer, T5ForConditionalGeneration, AutoModelFor
 # download the models
 cot_tokenizer = AutoTokenizer.from_pretrained("prakharz/DIAL-BART0")
 cot_model = AutoModelForSeq2SeqLM.from_pretrained("prakharz/DIAL-BART0")
-cot_model.load_state_dict(torch.load('../model/topic_er3.pt'))
+cot_model.load_state_dict(torch.load('../../topic_extraction/model/topic_er3.pt'))
+
+recommender_tokenizer = AutoTokenizer.from_pretrained("t5-large")
+recommender_model = AutoModelForSeq2SeqLM.from_pretrained("t5-large")
+recommender_model.load_state_dict(torch.load('../model/rec_er.pt'))
+recommender_model.eval()
 
 def generate_cot(text_in):
     tok_text = cot_tokenizer(text_in, return_tensors='pt')
@@ -35,6 +40,12 @@ def CoT_to_Preference(cot):
         top_dict[the_top] = pref
     return top_dict
 
+def generate_recommendation(text_in):
+    tok_text = recommender_tokenizer(text_in, return_tensors='pt')
+    gen_text = recommender_model.generate(**tok_text, max_new_tokens=50)
+    dec_text = recommender_tokenizer.decode(gen_text[0], skip_special_tokens=True)
+    return dec_text
+
 # Validate output / shifting (using Amazon dataset I found)
 output_file = open('./out_log_ext.txt', 'w')
 with open('../../topical_chat/Topical-Chat-master/conversations/train.json', 'r') as jsonfile:
@@ -55,9 +66,12 @@ with open('../../topical_chat/Topical-Chat-master/conversations/train.json', 'r'
                 cot_out = cot_out.strip()
                 pref = CoT_to_Preference(cot_out)
                 
-                output_file.write(f"{x['message']}|{cot_out}|{pref}\n")
-                print(f"{x['message']}|{cot_out}|{pref}")
-                # prev_msg = x['message']
+                num_sugg = 3
+                inp = pref
+                prompt = f"Instruction: Generate only {num_sugg} similar topics that could be suggested for new conversation that takes influence from but are not present in the following user profile: {inp} In the generated answer, generate each of the suggested topics separated by a comma like so: TOPIC1,TOPIC2,TOPIC3,TOPIC4,etc.\nSuggested Topics:"
+                sugg_topics = generate_recommendation(prompt)
+                output_file.write(f"{x['message']}|{cot_out}|{pref}|{sugg_topics}\n\n")
+                print(f"{x['message']}|{cot_out}|{pref}|{sugg_topics}")
             else:
                 output_file.write(f"TARGET RESPONSE: {x['message']}\n")
                 prev_msg = x['message']
