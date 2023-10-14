@@ -11,13 +11,13 @@ def train(model, dataloader, tokenizer, num_epochs=10):
     print("Starting model training...")
 
     input_examples = [
-        "\"LeBron James\"",
-        "\"Star Wars Episode 1: The Phantom Menace\"",
-        "\"Country Music\"",
-        "\"Beach\"",
-        "\"Spaghetti\"",
-        "\"Harry Potter and the Sorcerers' Stone\"",
-        "\"Minecraft\""
+        "LeBron James is my favorite basketball player.",
+        "I love the movie \"Star Wars Episode 1: The Phantom Menace\"",
+        "I don't like Country Music.",
+        "Let's go to the Beach!",
+        "I like eating Spaghetti",
+        "\"Harry Potter and the Sorcerers' Stone\" is a good book.",
+        "I just played Minecraft."
         ]
     criteria = torch.optim.Adam(model.parameters(), lr= 1e-4)
     
@@ -48,10 +48,12 @@ def train(model, dataloader, tokenizer, num_epochs=10):
 
             # Generate examples with each input in 'input_examples'
             for in_str in input_examples:
-                in_ids = tokenizer(in_str, return_tensors='pt').input_ids
+                inst_in = "Instruction: Generate a list of topics increasing in specificity to define the subject.\n\n"
+                inst_in += "Input:[CONTEXT]{}[ENDOFDIALOGUE][QUESTION]The topics defining the input are".format(in_str)
+                in_ids = tokenizer(inst_in, return_tensors='pt').input_ids
                 example = model.generate(in_ids.cuda(), max_new_tokens=50)
                 dec_out = tokenizer.decode(example[0], skip_special_tokens=True)
-                log.write("\tInput:{}, Output:{}\n".format(in_str, dec_out))
+                log.write("\tInput:{}, Output:{}\n".format(inst_in, dec_out))
             #log.write("Epoch:{}, EpLoss:{}, Input:\"{}\", Output:\"{}\"\n".format(epoch, eploss/len(dataloader), in_str, dec_out))
             #print("Epoch:{}, EpLoss:{}, Input:\"{}\", Output:\"{}\"".format(epoch, eploss/len(dataloader), in_str, dec_out))
             print("Epoch:{}, EpLoss:{}\n".format(epoch, eploss/len(dataloader)))
@@ -80,7 +82,7 @@ class TopicDataset(Dataset):
         instruction = "Instruction: Generate a list of topics increasing in specificity to define the subject.\n\n"
         instruction += "Input:[CONTEXT]{}[ENDOFDIALOGUE][QUESTION]The topics defining the input are".format(inp)
         #topic_inp = self.tokenizer(topic_inp, max_length=50, padding='max_length', truncation=True, return_tensors='pt').input_ids
-        inp = self.tokenizer(instruction, max_length=50, padding='max_length', truncation=True, return_tensors='pt').input_ids
+        inp = self.tokenizer(instruction, max_length=60, padding='max_length', truncation=True, return_tensors='pt').input_ids
         out = self.tokenizer(out, max_length=50, padding='max_length', truncation=True, return_tensors='pt').input_ids
         return inp, out
 
@@ -109,12 +111,12 @@ if __name__ == '__main__':
     inst_model.to(device)
     
     
-    train(inst_model, dl, inst_tokenizer, 4)
+    train(inst_model, dl, inst_tokenizer, 2)
 
     #torch.save(blen_model.state_dict(), './model/blenderbot.pt')
     #torch.save(inst_model.state_dict(), './model/intructdialogue.pt')
 
     try:
-        torch.save(inst_model.module.state_dict(), './model/topic_er2.pt')
+        torch.save(inst_model.module.state_dict(), './model/topic_er3.pt')
     except AttributeError:
-        torch.save(inst_model.state_dict(), './model/topic_er2.pt')
+        torch.save(inst_model.state_dict(), './model/topic_er3.pt')

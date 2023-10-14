@@ -677,3 +677,542 @@ Epoch:3, EpLoss:0.13705318820390974
 
 	Input:"Minecraft", Output:video games,yes)|(Minecraft,yes)
 
+================ STARTING A NEW RUN == 2023-10-13 15:43:33.804579 =================
+Epoch:0, EpLoss:1.021258709996796
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(book title,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.13877586521315233
+	Input:"LeBron James", Output:(basketball player,yes)|(LeBron James,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:(music,yes)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-13 20:10:47.118369 =================
+Epoch:0, EpLoss:1.0263333517042073
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,unknown)|(country music,yes)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(book,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-13 20:24:39.940218 =================
+Epoch:0, EpLoss:9.016639218946393
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios.
+Epoch:1, EpLoss:4.774567229896071
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+================ STARTING A NEW RUN == 2023-10-13 20:47:49.891516 =================
+Epoch:0, EpLoss:9.03438297983562
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you interested in country music?
+	Input:"Beach", Output:"Beach" is an English term referring to a body of water.
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios. It's similar to Minecraft.
+Epoch:1, EpLoss:4.780909850836941
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:"Beach" is an English term referring to a body of water.
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:2, EpLoss:4.083024237144507
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you played it?
+Epoch:3, EpLoss:3.6510416366266862
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" - Wikipedia
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+================ STARTING A NEW RUN == 2023-10-13 21:06:04.680693 =================
+Epoch:0, EpLoss:9.040175291910126
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you interested in country music?
+	Input:"Beach", Output:"Beach" is an English term referring to a body of water.
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios. It's similar to Minecraft.
+Epoch:1, EpLoss:4.78170940408296
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game developed by Mojave Entertainment. It's similar to Minecraft.
+Epoch:2, EpLoss:4.082381540508361
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you played it?
+Epoch:3, EpLoss:3.6510963690908333
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas and released in 1999.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" - Wikipedia
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:4, EpLoss:3.2648781920163827
+	Input:"LeBron James", Output:James James is an American basketball player who plays basketball for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:5, EpLoss:2.88710353020846
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love playing Minecraft. It's an online game developed by Blizzard Entertainment.
+Epoch:6, EpLoss:2.5092746298849296
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love playing Minecraft. It's an online game developed by Blizzard Entertainment.
+Epoch:7, EpLoss:2.1369291914707165
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in the US state of Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+================ STARTING A NEW RUN == 2023-10-13 21:34:50.524074 =================
+Epoch:0, EpLoss:9.040827041607724
+	Input:"LeBron James", Output:James James is a basketball player from the United States.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you interested in country music?
+	Input:"Beach", Output:"Beach" is an English term referring to a body of water.
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game developed by Mojave Studios. It's similar to Minecraft.
+Epoch:1, EpLoss:4.781164424841484
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by George Lucas.
+	Input:"Country Music", Output:are you a fan of country music?
+	Input:"Beach", Output:can be found on the beach
+	Input:"Spaghetti", Output:can be cooked in a wide variety of ways.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game developed by Mojave Entertainment. It's similar to Minecraft.
+Epoch:2, EpLoss:4.081932748904069
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:Star Wars Episode 1: The Phantom Menace is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:are you interested in music?
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:(Italian dish)
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerer's Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you played it?
+Epoch:3, EpLoss:3.6509305016275797
+	Input:"LeBron James", Output:James James is an American basketball player who plays for the Cleveland Cavaliers.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" is a sci-fi adventure film directed by Christopher Nolan.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" - Wikipedia
+	Input:"Spaghetti", Output:do you like spaghetti?
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' stone is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you ever played it?
+Epoch:4, EpLoss:3.26441020030154
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:5, EpLoss:2.887370460911801
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House" is a popular beach house in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game similar to Minecraft. Have you played it?
+Epoch:6, EpLoss:2.509992050782345
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+	Input:"Beach", Output:"Beach House"
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:Harry Potter and the Sorcerers' Stone is a fantasy novel written by J.K. Rowling.
+	Input:"Minecraft", Output:It's a video game developed by Mojang.
+Epoch:7, EpLoss:2.1359353419125937
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is a term used to describe a part of the body of water in the ocean.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" is a fantasy novel written by J.K. Rowling
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:8, EpLoss:1.7759219003065922
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:9, EpLoss:1.4430068537378995
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:10, EpLoss:1.1518994387257042
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. Have you ever played it?
+Epoch:11, EpLoss:0.9115321995538958
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009.
+Epoch:12, EpLoss:0.7252897449087298
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:13, EpLoss:0.5854253848774011
+	Input:"LeBron James", Output:James James is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+Epoch:14, EpLoss:0.4838273103157299
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009.
+Epoch:15, EpLoss:0.40905048673232774
+	Input:"LeBron James", Output:(NBA player) is a basketball player from Cleveland, Ohio.
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" is the name of a beach in Florida.
+	Input:"Spaghetti", Output:"Spaghetti and meatballs" is a dish from Italy.
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:I love the game Minecraft. It was developed in 2009. Have you played it?
+================ STARTING A NEW RUN == 2023-10-13 22:12:31.440078 =================
+Epoch:0, EpLoss:4.186085979904284
+	Input:"LeBron James", Output:(NBA player)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach" refers to the beach in Florida.
+	Input:"Spaghetti", Output:(Italian dish)
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:"Minecraft" is a popular video game developed in 2013.
+Epoch:1, EpLoss:0.6259611617577704
+	Input:"LeBron James", Output:(NBA player, basketball player, retired)
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace" was written by George Lucas.
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,spaghetti,yes)|(Italian dish,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:"Minecraft" is a video game similar to Minecraft.
+Epoch:2, EpLoss:0.2179829066164756
+	Input:"LeBron James", Output:(NBA player, basketball player, retired)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:(beach,yes)
+
+	Input:"Spaghetti", Output:(food,spaghetti,yes)|(Italian dish,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone" was written by J.K. Rowling.
+	Input:"Minecraft", Output:"Minecraft" is a game similar to "Minecraft" in Minecraft, which was released in 2013.
+================ STARTING A NEW RUN == 2023-10-13 22:22:17.876614 =================
+Epoch:0, EpLoss:4.191786795711973
+	Input:"LeBron James", Output:(basketball player)
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:"Beach House"
+	Input:"Spaghetti", Output:(Italian dish)
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone"
+	Input:"Minecraft", Output:"Minecraft" is a game developed by Mojapa.
+Epoch:1, EpLoss:0.6275031173771078
+	Input:"LeBron James", Output:(NBA player, basketball player, retired)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:"Star Wars Episode 1: The Phantom Menace"
+	Input:"Country Music", Output:(music genre)
+
+	Input:"Beach", Output:(food,beach,yes)
+
+	Input:"Spaghetti", Output:(food,spaghetti dish,Italian dish)
+	Input:"Harry Potter and the Sorcerers' Stone", Output:"Harry Potter and the Sorcerers' Stone"
+	Input:"Minecraft", Output:"Minecraft" is an online game developed by Mojang in 2012.
+================ STARTING A NEW RUN == 2023-10-13 22:27:32.037859 =================
+Epoch:0, EpLoss:4.174467634926573
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.624582319881357
+	Input:"LeBron James", Output:(sports,yes)|(basketball player,unknown)|(LeBron James,yes)
+
+	Input:"Star Wars Episode 1: The Phantom Menace", Output:(movie,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:"Country Music", Output:(music,yes)|(music genre,unknown)|(country music,yes)
+
+	Input:"Beach", Output:(travel,yes)|(beach,yes)
+
+	Input:"Spaghetti", Output:(food,yes)|(spaghetti,yes)
+
+	Input:"Harry Potter and the Sorcerers' Stone", Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:"Minecraft", Output:(video games,yes)|(Minecraft,yes)
+
+================ STARTING A NEW RUN == 2023-10-13 22:32:47.239983 =================
+================ STARTING A NEW RUN == 2023-10-13 22:34:13.072505 =================
+================ STARTING A NEW RUN == 2023-10-13 22:36:09.219672 =================
+Epoch:0, EpLoss:2.315740109150281
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(basketball,yes)|(LeBron James,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(Star Wars,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,no) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(book,yes)|(Harry Potter,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(game,yes)|(Mount,yes) 
+Epoch:1, EpLoss:0.22492002157750957
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(basketball player,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(Star Wars,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,no)|(country music,no) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes) 
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Mount,yes) 
+================ STARTING A NEW RUN == 2023-10-13 22:53:19.055137 =================
+Epoch:0, EpLoss:0.42592161988426824
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(favorite basketball player,yes)|(LeBron James,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(Star Wars,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,no)|(country music,no)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(weekend,yes)|(beach,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+Epoch:1, EpLoss:0.14184088079693788
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(favorite player,yes)|(LeBron James,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movie,yes)|(movie title,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,yes)|(music genre,no)|(Country,no)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(weekend,yes)|(beach,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter,yes)
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+================ STARTING A NEW RUN == 2023-10-13 23:08:52.561668 =================
+Epoch:0, EpLoss:1.0198986785548725
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(basketball player,unknown)|(LeBron James,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movies,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,no)|(country music,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+
+Epoch:1, EpLoss:0.13719697492687324
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]LeBron James is my favorite basketball player.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(sports,yes)|(basketball player,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I love the movie "Star Wars Episode 1: The Phantom Menace"[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(movies,yes)|(Star Wars Episode 1: The Phantom Menace,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I don't like Country Music.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(music,yes)|(music genre,no)|(Country,no)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]Let's go to the Beach![ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(travel,yes)|(beach,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I like eating Spaghetti[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(food,yes)|(spaghetti,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]"Harry Potter and the Sorcerers' Stone" is a good book.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(books,yes)|(Harry Potter and the Sorcerers' Stone,yes)
+
+	Input:Instruction: Generate a list of topics increasing in specificity to define the subject.
+
+Input:[CONTEXT]I just played Minecraft.[ENDOFDIALOGUE][QUESTION]The topics defining the input are, Output:(video games,yes)|(Minecraft,yes)
+
