@@ -1,0 +1,240 @@
+User: I watched football yesterday.
+==== cot: sports,yes)|(football,yes)
+==== nodes: ['sports', 'football']
+==== focus topic: football
+==== db edges to focus topic: [('football', 'sports')]
+==== db all edges: [('sports', 'football')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'football': 'positive'}
+==== xtract_prof: {'football': 'positive', 'sports': 'positive'}
+==== topics recs: ['soccer', 'sportsmanship', 'sportsmanship']
+==== guideline: The user likes football. Direct the conversation to one of the following 3 topics: ['soccer', 'sportsmanship', 'sportsmanship'].
+Bot:  Football is the most popular sport in the world. Do you have a favorite team?
+User: My favorite team is the Kansas City Chiefs.
+==== cot: sports,yes)|(favorite team,yes)
+==== nodes: ['sports', 'football', 'favorite team']
+==== focus topic: favorite team
+==== db edges to focus topic: [('favorite team', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'favorite team': 'positive'}
+==== xtract_prof: {'favorite team': 'positive', 'sports': 'positive'}
+==== topics recs: ['sports', 'sports events', 'sports personalities']
+==== guideline: The user likes favorite team. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities'].
+Bot:  That's cool. Who's your favorite team and why do you like the chiefs?
+User: I told you already. The chiefs are my favorite team.
+==== cot: sports,yes)|(team,no)|(Chiefs,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs']
+==== focus topic: Chiefs
+==== db edges to focus topic: [('Chiefs', 'sports'), ('Chiefs', 'team')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'team': 'negative', 'Chiefs': 'positive'}
+==== xtract_prof: {'Chiefs': 'positive', 'sports': 'positive', 'team': 'negative'}
+==== topics recs: ['sports', 'sportsmanship', 'sportsmanship']
+==== guideline: The user likes Chiefs. Direct the conversation to one of the following 3 topics: ['sports', 'sportsmanship', 'sportsmanship'].
+Bot:  Do you have a favorite team that plays in the National Football League or any other professional sports?
+User: Yes, the Chiefs play in the NFL. I also like the Golden State Warriors. They play in the NBA.
+==== cot: sports,yes)|(NFL,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL']
+==== focus topic: NFL
+==== db edges to focus topic: [('NFL', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'NFL': 'positive'}
+==== xtract_prof: {'NFL': 'positive', 'sports': 'positive'}
+==== topics recs: ['NFL', 'sports controversies', 'football statistics']
+==== guideline: The user likes NFL. Direct the conversation to one of the following 3 topics: ['NFL', 'sports controversies', 'football statistics'].
+Bot:  Do you have a favorite team in the National Basketball League or the NBA?
+User: I told you. The Golden State Warriors.
+==== cot: sports,yes)|(favorite team,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL']
+==== focus topic: favorite team
+==== db edges to focus topic: [('favorite team', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'favorite team': 'positive'}
+==== xtract_prof: {'favorite team': 'positive', 'sports': 'positive'}
+==== topics recs: ['sports', 'sports events', 'sports personalities']
+==== guideline: The user likes favorite team. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities'].
+Bot:  The Warriors are my favorite team too! Who is your favorite player on the Warriors?
+User: I like Steph Curry, he is the best.
+==== cot: sports,yes)|(favorite player,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player']
+==== focus topic: favorite player
+==== db edges to focus topic: [('favorite player', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'favorite player': 'positive'}
+==== xtract_prof: {'favorite player': 'positive', 'sports': 'positive'}
+==== topics recs: ['sports', 'sports events', 'sports fans']
+==== guideline: The user likes favorite player. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports fans'].
+Bot:  Stephen Curry is a great player! What's your favorite sport or event to watch?
+User: I think the super bowl is the best.
+==== cot: sports,yes)|(Super Bowl,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl']
+==== focus topic: Super Bowl
+==== db edges to focus topic: [('Super Bowl', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'Super Bowl': 'positive'}
+==== xtract_prof: {'Super Bowl': 'positive', 'sports': 'positive'}
+==== topics recs: ['sports', 'sports events', 'sports personalities']
+==== guideline: The user likes Super Bowl. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities'].
+Bot:  Who is your favorite super bowl team and why do you think they are the best team in the world?
+User: The Kansas City Chiefs are the best, because they have won the super bowl 2 times!
+==== cot: sports,yes)|(favorite team,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl']
+==== focus topic: favorite team
+==== db edges to focus topic: [('favorite team', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'favorite team': 'positive'}
+==== xtract_prof: {'favorite team': 'positive', 'sports': 'positive'}
+==== topics recs: ['sports', 'sports events', 'sports personalities']
+==== guideline: The user likes favorite team. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities'].
+Bot:  That's awesome! Do you have a favorite team that you root for in the Super Bowl?
+User: Not always, every year there are different teams in the Super Bowl.
+==== cot: sports,yes)|(Super Bowl,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl']
+==== focus topic: Super Bowl
+==== db edges to focus topic: [('Super Bowl', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'Super Bowl': 'positive'}
+==== xtract_prof: {'Super Bowl': 'positive', 'sports': 'positive'}
+==== topics recs: ['sports', 'sports events', 'sports personalities']
+==== guideline: The user likes Super Bowl. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities'].
+Bot:  Do you have a favorite team that plays in the superbowl every year? What's your favorite sport?
+User: No teams have every played in the super bowl every year. I would say football is my favorite sport.
+==== cot: sports,yes)|(football,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl']
+==== focus topic: football
+==== db edges to focus topic: [('football', 'sports')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'sports': 'positive', 'football': 'positive'}
+==== xtract_prof: {'football': 'positive', 'sports': 'positive'}
+==== topics recs: ['soccer', 'sportsmanship', 'sportsmanship']
+==== guideline: The user likes football. Direct the conversation to one of the following 3 topics: ['soccer', 'sportsmanship', 'sportsmanship'].
+Bot:  Do you have a favorite team that plays in the Super Bowl every year? What's your favorite team?
+User: I don't like sports.
+==== cot: sports,no)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl']
+==== focus topic: sports
+==== db edges to focus topic: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'negative'}
+==== pref: {'sports': 'negative'}
+==== xtract_prof: {'sports': 'negative', 'football': 'positive', 'favorite team': 'positive', 'team': 'negative', 'Chiefs': 'positive', 'NFL': 'positive', 'favorite player': 'positive', 'Super Bowl': 'positive'}
+==== topics recs: ['football', 'sports news', 'football statistics']
+==== guideline: The user dislikes sports. Direct the conversation to one of the following 3 topics: ['football', 'sports news', 'football statistics'].
+Bot:  Do you have any other hobbies that you like to do instead of watching or participating in sports?
+User: I like to read books.
+==== cot: books,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books']
+==== focus topic: books
+==== db edges to focus topic: []
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'books': 'positive'}
+==== xtract_prof: {'books': 'positive'}
+==== topics recs: ['book clubs', 'book recommendations', 'book clubs', 'book clubs']
+==== guideline: The user likes books. Direct the conversation to one of the following 3 topics: ['book clubs', 'book recommendations', 'book clubs', 'book clubs'].
+Bot:  Do you have a favorite book club or book club that you like to go to the most?
+User: I go to Virginia Tech's book club. It is a lot of fun!
+==== cot: hobby,yes)|(book club,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club']
+==== focus topic: book club
+==== db edges to focus topic: [('book club', 'hobby')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'hobby': 'positive', 'book club': 'positive'}
+==== xtract_prof: {'book club': 'positive', 'hobby': 'positive'}
+==== topics recs: ['book clubs', 'craft projects', 'craft fairs']
+==== guideline: The user likes book club. Direct the conversation to one of the following 3 topics: ['book clubs', 'craft projects', 'craft fairs'].
+Bot:  That's really cool! What other topics do you like to talk about at the book club?
+User: I talk to my friends about video games sometimes when I go to book club.
+==== cot: hobby,yes)|(video games,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games']
+==== focus topic: video games
+==== db edges to focus topic: [('video games', 'hobby')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'hobby': 'positive', 'video games': 'positive'}
+==== xtract_prof: {'video games': 'positive', 'hobby': 'positive'}
+==== topics recs: ['video editing', 'crafting', 'crafting communities']
+==== guideline: The user likes video games. Direct the conversation to one of the following 3 topics: ['video editing', 'crafting', 'crafting communities'].
+Bot:  What other topics do you talk to your friends about when you go to the book club?
+User: We like to talk about our pets as well.
+==== cot: pets,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games', 'pets']
+==== focus topic: pets
+==== db edges to focus topic: []
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'pets': 'positive'}
+==== xtract_prof: {'pets': 'positive'}
+==== topics recs: ['pet care', 'pet adoption', 'pet adoption']
+==== guideline: The user likes pets. Direct the conversation to one of the following 3 topics: ['pet care', 'pet adoption', 'pet adoption'].
+Bot:  That's interesting. Do you have any pets of your own or are you interested in pet adoption?
+User: I don't have any pets, but I would like to get a dog!
+==== cot: pets,yes)|(dog,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games', 'pets', 'dog']
+==== focus topic: dog
+==== db edges to focus topic: [('dog', 'pets')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games'), ('pets', 'dog')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'pets': 'positive', 'dog': 'positive'}
+==== xtract_prof: {'dog': 'positive', 'pets': 'positive'}
+==== topics recs: ['pet care', 'pet adoption', 'pet adoption']
+==== guideline: The user likes dog. Direct the conversation to one of the following 3 topics: ['pet care', 'pet adoption', 'pet adoption'].
+Bot:  That's great! What kind of dog do you want to get? There are so many to choose from!
+User: I really like golden retrievers.
+==== cot: (animals,yes)|(dog breed,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games', 'pets', 'dog', 'animals', 'dog breed']
+==== focus topic: dog breed
+==== db edges to focus topic: [('dog breed', 'animals')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games'), ('pets', 'dog'), ('animals', 'dog breed')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'animals': 'positive', 'dog breed': 'positive'}
+==== xtract_prof: {'dog breed': 'positive', 'animals': 'positive'}
+==== topics recs: ['dog training', 'animal welfare', 'pet adoption']
+==== guideline: The user likes dog breed. Direct the conversation to one of the following 3 topics: ['dog training', 'animal welfare', 'pet adoption'].
+Bot:  What is your favorite breed of dog breed and why do you prefer them over other breeds?
+User: I would say that german shepherds are my favorite breed. I think that their colors are so cool!
+==== cot: (((,yes)|(dog breed,yes)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games', 'pets', 'dog', 'animals', 'dog breed', '']
+==== focus topic: dog breed
+==== db edges to focus topic: [('dog breed', 'animals'), ('dog breed', '')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games'), ('pets', 'dog'), ('animals', 'dog breed'), ('dog breed', '')]
+==== db nodes: {'pref': 'positive'}
+==== pref: {'': 'positive', 'dog breed': 'positive'}
+==== xtract_prof: {'dog breed': 'positive', 'animals': 'positive', '': 'positive'}
+==== topics recs: ['dog training', 'animal welfare', 'pet adoption']
+==== guideline: The user likes dog breed. Direct the conversation to one of the following 3 topics: ['dog training', 'animal welfare', 'pet adoption'].
+Bot:  German Shephards are great dogs! What's your favorite breed of dog training and pet adoption?
+User: I have never trained a dog before, so I do not know.
+==== cot: (pets,yes)|(dog training,no)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games', 'pets', 'dog', 'animals', 'dog breed', '', 'dog training']
+==== focus topic: dog training
+==== db edges to focus topic: [('dog training', 'pets')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games'), ('pets', 'dog'), ('pets', 'dog training'), ('animals', 'dog breed'), ('dog breed', '')]
+==== db nodes: {'pref': 'negative'}
+==== pref: {'pets': 'positive', 'dog training': 'negative'}
+==== xtract_prof: {'dog training': 'negative', 'pets': 'positive'}
+==== topics recs: ['pet care', 'pet care', 'pet adoption']
+==== guideline: The user dislikes dog training. Direct the conversation to one of the following 3 topics: ['pet care', 'pet care', 'pet adoption'].
+Bot:  That's too bad. Have you ever thought about training a dog to be a service dog for people with disabilities?
+User: That sounds like a lot of work to me. I respect people who do it, but I don't think I would like to do that.
+==== cot: outdoor activity,no)|(hiking,no)
+==== nodes: ['sports', 'football', 'favorite team', 'team', 'Chiefs', 'NFL', 'favorite player', 'Super Bowl', 'books', 'hobby', 'book club', 'video games', 'pets', 'dog', 'animals', 'dog breed', '', 'dog training', 'outdoor activity', 'hiking']
+==== focus topic: hiking
+==== db edges to focus topic: [('hiking', 'outdoor activity')]
+==== db all edges: [('sports', 'football'), ('sports', 'favorite team'), ('sports', 'team'), ('sports', 'Chiefs'), ('sports', 'NFL'), ('sports', 'favorite player'), ('sports', 'Super Bowl'), ('team', 'Chiefs'), ('hobby', 'book club'), ('hobby', 'video games'), ('pets', 'dog'), ('pets', 'dog training'), ('animals', 'dog breed'), ('dog breed', ''), ('outdoor activity', 'hiking')]
+==== db nodes: {'pref': 'negative'}
+==== pref: {'outdoor activity': 'negative', 'hiking': 'negative'}
+==== xtract_prof: {'hiking': 'negative', 'outdoor activity': 'negative'}
+==== topics recs: ['hiking trails', 'outdoor festivals', 'hiking gear']
+==== guideline: The user dislikes hiking. Direct the conversation to one of the following 3 topics: ['hiking trails', 'outdoor festivals', 'hiking gear'].
+Bot:  Hiking is a great way to get outdoors. What's your favorite hiking trail or festival?
