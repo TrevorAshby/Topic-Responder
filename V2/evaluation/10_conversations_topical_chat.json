@@ -1,0 +1,2160 @@
+{
+    "t_bde29ce2-4153-4056-9eb7-f4ad710505fe": {
+    "article_url": "https://www.washingtonpost.com/blogs/compost/wp/2018/04/05/endangered-species-are-the-real-threats/",
+    "config": "C",
+    "content": [
+      {
+        "message": "Are you a fan of Google or Microsoft?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Both are excellent technology they are helpful in many ways. For the security purpose both are super.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I'm not  a huge fan of Google, but I use it a lot because I have to. I think they are a monopoly in some sense. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Google provides online related services and products, which includes online ads, search engine and cloud computing.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah, their services are good. I'm just not a fan of intrusive they can be on our personal lives. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Google is leading the alphabet subsidiary and will continue to be the Umbrella company for Alphabet internet interest.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Did you know Google had hundreds of live goats to cut the grass in the past? \n",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "It is very interesting. Google provide \"Chrome OS\" which is a light weight OS. Google provided a lot of hardware mainly in 2010 to 2015. ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I like Google Chrome. Do you use it as well for your browser? ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yes.Google is the biggest search engine and Google service figure out top 100 website, including Youtube and Blogger.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "By the way, do you like Fish? ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yes. They form a sister group of tourniquets- they make the sea water clean and remove the dust from it. Fish is the biggest part in the eco-system.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Did you know that a seahorse is the only fish to have a neck? ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Freshwater fish only drink water through the skin via Osmosis, Saltwater fish drink water through the mouth. Dolphins are friendly to human beings.",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Interesting, they also have gills. Did you know that jellyfish are immortal? ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yes. Fish is the important resources of human world wide for the commercial and subsistence fish hunts the fish in the wild fisheries.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "What about cats, do you like cats? I'm a dog fan myself. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "The cat is referred as domestic cat and wild cat. They make our world very clean from rats! ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah, cats can be cool, but they sure do spend a lot of their time sleeping. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Cats hear the sounds too faint or too high frequency human ears can hear. ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I heard that too. Well, it was nice chatting with you. Have a good day. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_1abc9c37-387d-4013-8691-88ef8c010e58": {
+    "article_url": "https://www.washingtonpost.com/entertainment/theater_dance/womens-voices-notes-an-exotic-imogen-and-a-down-home-hound/2018/01/21/559a4ad0-feb2-11e7-bb03-722769454f82_story.html",
+    "config": "B",
+    "content": [
+      {
+        "message": "do you like dance?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes  I do. Did you know Bruce Lee was a cha cha dancer?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes he even won a hardcore cha cha championship in 1958",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. Did you know Tupac was a ballet dancer?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes and he even was in the production of the nutcracker",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. Ballet dancer go through 4 pairs of shoes a week",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes that is a lot of shoes and also a lot of money",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah true. Did you know babies are really good at dancing?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes and they smile more when they hit the beat",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah they are much smarter than we give them credit for",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "True Did you know Jackson had a patent on a dancing device?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes it helped him smooth out his dance moves",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Nice. Do you like Shakespeare?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes I do. Do you know that he popularized many phrases",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes like good riddance, in my heart of hearts and such",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes and then he also invented names like Jessica, Olivia and Miranda",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes. And for his works you have to use old english for it to make sense",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes otherwise the rhymes and puns do not seem to work out",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes. He lived at the same time as Pocahontas too",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I wonder if they met how that would go from there",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah interesting point. Nice chat",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_1a600621-5ad4-409c-a812-bc0b2bb03aa6": {
+    "article_url": "https://www.washingtonpost.com/blogs/compost/wp/2018/04/05/endangered-species-are-the-real-threats/",
+    "config": "C",
+    "content": [
+      {
+        "message": "Hey what's up do use Google very often?I really love the company and was surprised to hear that it was founded back in 1998.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "i think everyone must use it daily! its become ingrained in every day life",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Agreed. The Google headquarters in Mountain View California is nicknamed the Google Plex.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "thats funny. The current CEO is Sundar Pichai, i didnt know Larry Page was replaced",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Oh yeah I didn't know that either. I also want to go to google Plex to see the goats who mow their lawn by eating it.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "say what now?? they have that??",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yeah apparently lol! They do that instead of hiring people to mow!",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "thats both funny and i guess imaginative. leave it to a huge tech company to employ actual goats!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah exactly I am sure they are cheaper. One thing I bet they couldn't exploit is fish. I think fish are so cool there is actually a breed of jellyfish that is immortal.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "i had rememered hearing about that before. Immortatlity is wasted on a jellyfish haha. did you know a seahorse is the only fish that has an actual neck?",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That is so funny I guess I never considered a seahorse a fish. The black swallower fish sounds a lot like a snake because it can eat pray that is so large.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "i guess they live up to their name then!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "It seems they do. I also didn't know that there was a difference with how freshwater and saltwater fish drink.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "thats crazy. i wonder why fresh water ones only use osmosis? ",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah and saltwater fish are lucky because they can do that and drink through their mouth's.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "seems like fresh water fish got the short end of the stick with that one. Have you ever been to a cat cafe?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I have never been to a cat cafe no, what about you? Seems like they are popular in Japan and Taiwan.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "no but I would love to! paying hourly to hang out with adorable cats? im in!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah that would be a lot of fun. I didn't realize that cats sleep so much. Must be nice.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "i guess thats where the phrase \"cat nap\" comes from",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Oh yeah I guess so ha ha. There's even a town in Alaska that has a mayor cat.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_01269680-99c3-4ab4-9df3-23901e0623c9": {
+    "article_url": "https://www.washingtonpost.com/entertainment/theater_dance/womens-voices-notes-an-exotic-imogen-and-a-down-home-hound/2018/01/21/559a4ad0-feb2-11e7-bb03-722769454f82_story.html",
+    "config": "C",
+    "content": [
+      {
+        "message": "Hi!  do you like to dance?",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I love to dance a lot. How about you?",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I am really bad, but it is a good time.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Dancing is a lot of fun. Did you know that Bruce Lee was a great dancer?",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I heard that, winning Cha Cha championships and everything!",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yes that is amazing. He won the Hong Kong cha-cha championship back in 1958 in fact.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I always just thought of him as a martial arts legend.  Now he is a dance legend of sorts too!",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yeah!! That is correct. He was a fantastic martial artist. Did you know that Tupac danced ballet in high school?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah!  He was the mouse king in the Nutcracker.  Thats pretty cool, I would definitely never have guessed that about him.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Neither did I. That is insane because Tupac was a famous rapper. ",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "He was indeed, his music is even in the library of congress.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I didn't know this thanks for sharing.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Sure thing!  Did you hear about Michael Jackson's special patent shoes?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "No. I know that Michael Jackson was a fantastic dancer but can you tell me more about his patent shoes if you don't mind.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "There was a specific device in his shoes that helped with his extreme lean in some dance moves.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Wow!!! That is amazing coming from such a talented singer and dancer. I couldn't even dance like that even if I dreamed of it.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Me neither. I could never be a professional dancer.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I heard that some professional ballet dancer can go through four pairs of shoes in a week.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That is crazy!  That can't be cheap for them.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "No. I think its very expensive for them to be professional ballet dancers based on this.",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "It has been great chatting but I must go!  Gotta go get my Bruce Lee on, the martial arts part...  definitely not the dance.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Ha Ha!!! It was so nice chatting with you as well!! Have a nice day!!! Bye",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Bye",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_c4f84350-a9e8-4928-bde8-5193b62388e0": {
+    "article_url": "https://www.washingtonpost.com/entertainment/theater_dance/womens-voices-notes-an-exotic-imogen-and-a-down-home-hound/2018/01/21/559a4ad0-feb2-11e7-bb03-722769454f82_story.html",
+    "config": "B",
+    "content": [
+      {
+        "message": "do you like dance?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I love it. Did you know Bruce Lee was a dancer?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes he even won a cha cha championship in 1958",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. Did you know ballet dancers use a lot of shoes?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes they go through 4 pairs in a single week",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah that is a lot of shoes and also a lot of money",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. Babies are also really good at dancing when they hear music",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes and they smile more when they hit the beat",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah pretty cute. Did you know Tupac was a ballet dancer?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes he was in the nutcracker as the mouse king",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. DO you like SHakespeare?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I love his work. Did you know he popularized many terms that we use to this day?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes terms like, good riddance, in my heart of heart and such",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes. He lives at the same time as Pocahontas did",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I wonder if they had met what he would have written about her.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah good point. He also invented some women's names",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes among those are Olivia, Miranda and Jessica",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. Did you know that his works have to stick to the old english language to make sense?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes especially with punk and rhymes, they do not work with modern language",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah. Did you know Tchaikozsky donated his skull in hopes it will be used in Shakespeare's plays?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes and did get used so that is good. Nice chat",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_222ac48a-a52e-401a-a1c9-b2436edd8096": {
+    "article_url": "https://www.washingtonpost.com/blogs/compost/wp/2018/04/05/endangered-species-are-the-real-threats/",
+    "config": "A",
+    "content": [
+      {
+        "message": "hi, do you use google much?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes, I think it is the most effective search engine. How about you? Do you use gmail?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes. a google search takes more computing power than sending astronauts tot he moon",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "And before on Google moon they used to use cheese for close ups!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "do you know how google maps calculates traffic?",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I am not sure, how do they do this?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "they track how fast android devices are moving",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Interesting! Google really is taking over the world. Their data center electricity use is 0.01 percent of all worldwide electricity.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes for sure they are. they have grown so much over the years",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "But I like that they like to have fun too. Have you ever typed askew into Google?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "No I have. What does the results turn?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "You should try it! It tilts the page. Another fun thing Google does is call new employees nogglers. They have to wear propeller beanies. Or is this mean?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Oh, not sure about that really. People say it is a great place to work at though",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Before Google launched gmail, that was the name of a free email service offered by garfield's website. That actually seems more fun.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I know now everytime I open gmail I think of garfield",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Speaking of cats, I would love to get a glow in the dark one. They have those in South Korea.",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Wow. In Japana and Taiwan there are cat cafes where you can play with them",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That seems fun! That reminds me of the Anderson house bed and breakfast in Minnesota. They used to offer a free cat for the night when you booked a room.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "wow. there is a town in alaska where the mayor of the town is a cat",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That is cool. Cats are a pretty smart species. There has not been a cat species extinction in 10,000 years.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "They are indeed very smart and that proves it. Nice chatting with you.",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_38454270-bfca-4263-8513-3fb4a05fd376": {
+    "article_url": "https://www.washingtonpost.com/news/comic-riffs/wp/2018/03/29/harley-quinn-will-meet-the-new-gods-in-comic-books-this-summer/",
+    "config": "B",
+    "content": [
+      {
+        "message": "Do you like comic books?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I do like comic books!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Have you heard that Harley Quinn has a new comic book series coming out?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "AS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I have not heard that.  I know that comic book legend Stan Lee used to end every phone conversation with \"excelsior!\"",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I've heard that too. Did you know that the DC in DC comics stands for Detective Comics?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I just read that today.  The largest comic book market is in Japan.  I believe it.  My son loves to read those mangas.",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I would love to go there. I used to like reading Manga too. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "The manga market is Japan is valued at $6 to $7 billion dollars!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That is wild! Did you know that Michigan State University library has the largest publicly available comic book collection in the world?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I didn't know that.  I wonder how many people use it.  By comparison to Japan, the US comic book market in the US and Canada is $1.09 billion!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That's crazy, Japan is way more into comic books than America it seems. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I agree!  The Marvel cinematic universe takes place in earth -199999, a multiverse different from the original comic book multiverse, earth-616!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That's pretty wild. Marvel published a \"generic comic book,\" in order to trademark the names \"superhero\" and \"super-villain.\" That was pretty smart of them. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "No doubt!  Do you know much about the planets or the universe?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I know a little bit. I've heard that Venus does not tilt. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "That interesting.  Uranus is different to.  It actually rotates sideways and rolls around the sun rather than spins like the other planets.",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That's really interesting. I've also heard that Jupiter's moon Ganymede would be considered a planet if it orbited the sun. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "It must be pretty big then!  I wouldn't want to ever visit the unnamed planet where shards of glass precipitate sideways at 4500 mph!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I don't see that being a pleasant place. It's even 2000 degree weather. That sounds like hell to me!",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Hahah That's a good way of putting it! ",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Well I have to get to work, I hope you have a good day. It was nice chatting with you!",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Good",
+      "agent_2": "Excellent"
+    }
+  },
+  "t_23942b1a-e379-41bd-826d-3e500f4f0e1a": {
+    "article_url": "https://www.washingtonpost.com/news/comic-riffs/wp/2018/03/29/harley-quinn-will-meet-the-new-gods-in-comic-books-this-summer/",
+    "config": "C",
+    "content": [
+      {
+        "message": "Can you believe there is stars that can be cold enough to be touched ? The universe is so diverse. ",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Its amazing and ever evolving. ",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Yeah and there is even places that exist but we never will be able to see because they are too far away. ",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "They are saying space pulls galaxies outside of universe that we could see",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Yes that is what I was saying, albeit I doubt that there is only one electron in the universe like some people say. ",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "I don't see anything supporting or denying that theory so we would never know for sure. ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Yeah, but only one ? For all the universe ? It does not seems logic ...",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "There is only one sun that warms earth and all other planets so why not just one electron? ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Because an electron is part of matter, the water you drink, the chair you sit on. Saying there is only 1 electron in the universe is like saying there is 1 grain of wheat in your bread.  ",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "It makes sense when you put it that way but in terms of that universe size the electron could be very big.",
+        "agent": "agent_2",
+        "sentiment": "Disgusted",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Maybe they did mean to say that our universe is contained in an electron in another universe ?",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "I don't know but I am at the end of knowledge on this subject. What do you think about the facts of comics? I would have thought US invented them, but it's Japan or UK.",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS3",
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Japan has a great printing history, I am not surprised about this. Do you read comics books ? I have read a few but not about super-heroes. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "I used to in my childhood but not any more, I used to love inspector Gadget. ",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Was Inspect Gadget a comics on Paper or a cartoon on TV ? I was talking about what Marvel is publishing.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "On Paper and yes I do recall seeing Super-hero and Hulk books.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "I think that Hulk is in the Marvel universe. But like I said, I never read anything from Marvel nor DC comics. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Right me neither, there were so many good choices of comics when I was growing up. ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Not where I lived, if I want to read a comic book, I had to go to the library. But as I think about it Tintin is a comic book, so I was wrong, I did read a lot of them when I was young but they were European.  ",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "Mine all time favorite was Bozo the clown, books and TV both. ",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      },
+      {
+        "message": "I did saw a lot of cartoons on TV, but I don't think that considered as a comic book. have a nice day. ",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": ""
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Passable",
+      "agent_2": "Passable"
+    }
+  },
+  "t_f289d280-afcd-46f5-97e1-64a9e3aedc70": {
+    "article_url": "https://www.washingtonpost.com/lifestyle/kidspost/for-summer-movies-heroes-and-heroines-step-into-the-spotlight/2018/05/22/49d6f08c-5465-11e8-abd8-265bd07a9859_story.html",
+    "config": "D",
+    "content": [
+      {
+        "message": "Are you a Star Wars fan? I need to rewatch the OT and the prequels so I can watch the subsequent stuff for the first time and understand what's going on.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Hi! Yes, I am a huge fan of Star Wars! I also loved how it was the first major movie to be dubbed in Navajo! I think that is so cool!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "Yeah, that's wild. I guess it takes a pretty small audience to pay for the translation work.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Agreed. Isn't it also funny James Earl Jones only spent two and half hours recording his lines for Darth Vader? I also can't believe he was only paid $7500! Geez, that's pocket change.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "$7500 is amazingly low. I guess since Darth Vader was masked Jones could just record everything at once in the studio.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Agreed. Can you also believe that George Lucas' wife at the time, Marcia, won an academy award for her editing on Star Wars and yet George Lucas didn't win an academy award for directing. That is just downright unbelievable!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "A lot of people think the OT was so much better than the prequels because of her influence.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yeah it was because of her that so many major changes were made like Leia's good luck kiss, Obi Wan's death, etc. She was truly a big influence!",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I remember thinking just about everything in the prequels' timeline was off, based on the mental version of the past the OT led us to construct. But I'd have to rewatch to nail it down.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah I would have to watch it as well! So are you also a fan of Chewbacca? I love him. I think it's funny there's a bat species called the Chewbacca bat. That's hilarious!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "I never felt strongly about Chewbacca one way or the other TBH. But I've got to google a picture of that bat to see what it looks like!",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I would like to see it as well. Did you know Chewbacca actually had a wife and two boys? That's pretty interesting!",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "I vaguely recall reading something in the Star Wars fictional universe where a young Han Solo stayed with Chewbacca and his mom in their home.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That's so weird, isn't it? Ha! Are you one of the fans who believes both r2d2 and Chewbacca were secret rebel agents? I kind of think it's an interesting theory. ",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I wish I knew enough about the background to have an opinion, but the last Star Wars I watched was Episode III, when it came out on video. I really need to rewatch to refresh my memory of it. ",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Same here! Like, I also had forgotten that before his companionship with Chewbacca, Hans Solo was an imperial lieutenant!",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "Yeah, I don't remember that at all. He definitely doesn't seem like the type.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Indeed he doesn't. But I've always liked Chewbacca because he reminded me of a giant dog. Ha! Speaking of dogs, I think it's cool that dogs, along with elephants, are the only animals that understand pointing!",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I wouldn't be surprised if cats understood it but just didn't care, LOL.",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Ha! No kidding. Speaking of dogs and cats, I like how Google prefers dogs over cats and even states in their code of conduct that they're a dog company! That is awesome!",
+        "agent": "agent_2",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "Yeah, that's a weird official policy for what's supposed to be a neutral search engine! Nice chatting with you.",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Good"
+    }
+  },
+  "t_d61bd2b1-d554-406f-afb9-5a745a7a9ad1": {
+    "article_url": "https://www.washingtonpost.com/lifestyle/style/ask-amy-cat-ownership-causes-couples-concerns/2018/02/13/db01bc92-076a-11e8-b48c-b07fea957bd5_story.html",
+    "config": "B",
+    "content": [
+      {
+        "message": "Naming a cloned cat \"copy cat\", that's cute.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "You must have ESP. I was going to tell you teh same thing! I have a sad story to tell there are less tigers living in the wild in Asia than as pets in the US.",
+        "agent": "agent_2",
+        "sentiment": "Sad",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Really? That's awful to hear!",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Poor"
+      },
+      {
+        "message": "Of Roosevelt's 20 pets two were a bear and hyena!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "Whoa, cool! I know he seemed to be quite the animal lover.",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Poor"
+      },
+      {
+        "message": "And there are more pets in Japan than there are children under 15. You can't be a pets \"OWNER\" in Boulder but you can be their guardian.  ",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I have a pet. I am an ailurophile meaning I love cats.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Cool word! Did you know there are 20 quintillion animal varieties on Earth?",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "That is a lot! And in 2002 Germany gave them legal rights.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yeah, and the Loch Ness monster is protected under the 1912 Scottish Animal Protection Act.",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I wonder if the immortal jellyfish needs protecting... being immortal and all.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Lol...speaking of water animals, did you know that hiccoughs are a left over from evolution when we had gills?",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Maybe that connection is part of why 84% of human disease genes have counterparts in zebrafish, too... hmm.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Hmm? Good theory. Seeing that the most popular pets are cats and dogs it is no surprise that they are commonly used for therapy in hospitals.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Well, they are good at helping people adjust to new situations, too.",
+        "agent": "agent_1",
+        "sentiment": "Happy",
+        "knowledge_source": [
+          "AS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes, like for elderly who are without companions.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Or people with anxiety and depression, or kids with autism.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes, a seahorse wouldn't be very good for that purpose. Did you know seahorses are the only fish with a neck?",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "I don't think a black swallower fish would be good as a companion pet either because it can eat prey twice its length!",
+        "agent": "agent_1",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "That would freak me out! But I bet it catches that prey using its acoustic communication!",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "Could be. Fish are cool like that. I think it's neat that amphibians and reptiles and birds and mammals all had the same ancestry with fish.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "I wonder if reptiles are considered ectothermic like most fish?",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "That would be a good thing to know, especially because some of them make good pets.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yep, but I don't know if walking a gecko would give the same health benefits as walking a dog",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Probably not. Dog walking is good because it gives companionship and exercise at the same time.",
+        "agent": "agent_1",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Hey, did you know the first marine predator was the shark? They developed in the Silurian period.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "Very interesting. I wonder how many aquatic species have gone extinct since then...",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1",
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Or have evolved into other species. The shark has a higher core temperature than other fish because it is an active swimmer.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Passable"
+      },
+      {
+        "message": "That makes sense. I always thought sharks were pretty interesting because they have cartilage instead of bone.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Yes, fascinating fact! Tuna also hold a higher core temperature. They are in the same class as shark because they are also active swimmers.",
+        "agent": "agent_2",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS1"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Tuna can get quite large, too. It's cool how big some fish get.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "Personal Knowledge"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "One more before we go...did you know domesticated animals develop a white patch on their forehead?",
+        "agent": "agent_2",
+        "sentiment": "Neutral",
+        "knowledge_source": [
+          "FS3"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "Yeah. that is a pretty cool way to know they are domesticated rather than wild.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      },
+      {
+        "message": "Very cool chatting with you. Did you know there are 6331 groups of genes? They are common to all living animals!",
+        "agent": "agent_2",
+        "sentiment": "Surprised",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Good"
+      },
+      {
+        "message": "It was a cool exercise in zoology chatting with you.",
+        "agent": "agent_1",
+        "sentiment": "Curious to dive deeper",
+        "knowledge_source": [
+          "FS2"
+        ],
+        "turn_rating": "Excellent"
+      }
+    ],
+    "conversation_rating": {
+      "agent_1": "Excellent",
+      "agent_2": "Good"
+    }
+  }
+}
