@@ -1,0 +1,25 @@
+Evaluation Pipeline:
+
+Preparation:
+1. For every conversation turn by the user:
+    1a. Extract the topic
+    2b. Store in Graph_i (Graph_i = Graph_{i-1})
+    3b. Grab Focus topic
+2. Do this for every conversation turn.
+
+Utterance Level Evaluation:
+1. For every conversation turn, generate a response based upon preparation_i (user_utterance, graph, etc.)
+2. Calculate the Bleu, Rouge, and Neural evaluation for the generated response w.r.t original output.
+3. Calculate similar metrics for the baseline model(s) w.r.t original output.
+
+Quantitative Evaluation:
+- Bleu
+- Rouge
+- GPT-4? InstructEval?
+
+Qualitative
+- User study?
+
+QUESTIONS:
+- When using BLEU and ROUGE, the response might be good, but not very similar to the original response? This will
+lead to low scores for a potentially good generation.
