@@ -7,3 +7,6 @@ __pycache__
 V2/evaluation/TIAGE
 V2/evaluation/topical_chat
 api_key.txt
+V2/evaluation/UniEval/
+V2/evaluation/TAKE/
+V2/CoT/topic_extraction/hf_model/
