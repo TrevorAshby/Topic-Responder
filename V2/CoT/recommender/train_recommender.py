@@ -118,8 +118,14 @@ if __name__ == '__main__':
     
     
     train(rec_model, dl, rec_tokenizer, 5, True)
-
+    num_mods = 0
     try:
-       torch.save(rec_model.module.state_dict(), './model/rec_er.pt')
+        torch.save(rec_model.module.state_dict(), f'./model/cnds_model{num_mods}.pt')
+
+        rec_model.module.save_pretrained('./hf_model/')
+        rec_tokenizer.save_pretrained('./hf_model/')
     except AttributeError:
-       torch.save(rec_model.state_dict(), './model/rec_er.pt')
+        torch.save(rec_model.state_dict(), f'./model/cnds_model{num_mods}.pt')
+
+        rec_model.save_pretrained('./hf_model/')
+        rec_tokenizer.save_pretrained('./hf_model/')

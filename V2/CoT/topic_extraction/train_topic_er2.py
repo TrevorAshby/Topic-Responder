@@ -98,8 +98,8 @@ class TopicDataset(Dataset):
 
 device_id = '0' # need to change this to 6 when I am training w/ jingyuan's GPU
 max_length = 150
-batch_size = 32
-epoch_num = 5
+batch_size = 16
+epoch_num = 4
 
 if __name__ == '__main__':
 
@@ -108,7 +108,9 @@ if __name__ == '__main__':
 
     # download the models
     inst_tokenizer = AutoTokenizer.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v0.3")
-    inst_model = AutoModelForCausalLM.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v0.3", torch_dtype=torch.float32)
+    inst_model = AutoModelForCausalLM.from_pretrained("TinyLlama/TinyLlama-1.1B-Chat-v0.3")#, torch_dtype=torch.float32)
+    # inst_tokenizer = AutoTokenizer.from_pretrained("./hf_model/")
+    # inst_model = AutoModelForCausalLM.from_pretrained("./hf_model/", torch_dtype=torch.float32)
 
     # create dataloader 
     ds = TopicDataset('./topic_xtract_data/tracker_input_cot_new.txt', './topic_xtract_data/tracker_output_cot.txt', inst_tokenizer, max_length)
