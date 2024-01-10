@@ -56,12 +56,23 @@ def train(model1, dl, tokenizer1, num_epochs=10):
 
         log.write("Epoch:{}, EpLoss1:{}\n".format(epoch, eploss1/len(dl)))
 
+        try:
+            # torch.save(inst_model.module.state_dict(), f'./model/cnds_model{num_mods}.pt')
+
+            model1.module.save_pretrained('../model/resp_model/')
+            tokenizer1.save_pretrained('../model/resp_model/')
+        except AttributeError:
+            # torch.save(model1.state_dict(), f'./model/cnds_model{num_mods}.pt')
+
+            model1.module.save_pretrained('../model/resp_model/')
+            tokenizer1.save_pretrained('../model/resp_model/')
+
 
 
 device_id = '0' # need to change this to 6 when I am training w/ jingyuan's GPU
 max_length = 128
 batch_size = 32
-epoch_num = 50
+epoch_num = 10
 
 
 # our dataset class
@@ -92,7 +103,7 @@ if __name__ == '__main__':
     blen_model = AutoModelForSeq2SeqLM.from_pretrained("facebook/blenderbot-400m-distill")
 
     # create dataloader
-    ds = GenDataset('../data/responder_train_data.txt', blen_tokenizer, max_length)
+    ds = GenDataset('../data/responder_train_data_expanded.txt', blen_tokenizer, max_length)
     dl = torch.utils.data.DataLoader(ds, batch_size=batch_size, shuffle=True)
 
     blen_model = torch.nn.DataParallel(blen_model, device_ids=[0])
@@ -101,12 +112,12 @@ if __name__ == '__main__':
     blen_model.to(device)
     
     
-    train(blen_model, dl, blen_tokenizer, 10)
+    train(blen_model, dl, blen_tokenizer, epoch_num)
 
-    try:
-        torch.save(blen_model.module.state_dict(), './model/responder_model.pt')
-    except AttributeError:
-        torch.save(blen_model.state_dict(), './model/responder_model.pt')
+    # try:
+    #     torch.save(blen_model.module.state_dict(), './model/responder_model.pt')
+    # except AttributeError:
+    #     torch.save(blen_model.state_dict(), './model/responder_model.pt')
 
     
     

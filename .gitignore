@@ -1,5 +1,6 @@
 model/guideliner.pt
 model/*.pt
+model/resp_model/
 V2/CoT/recommender/model/*.pt
 V2/CoT/topic_extraction/model/*.pt
 V2/CoT/topical_chat
@@ -12,3 +13,4 @@ V2/evaluation/TAKE/
 V2/evaluation/edsgi/
 V2/CoT/topic_extraction/hf_model/
 V2/CoT/recommender/hf_model/
+V2/evaluation/multiwoz/MULTIWOZ2.1/

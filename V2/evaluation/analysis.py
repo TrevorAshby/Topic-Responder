@@ -67,7 +67,7 @@ def update_graph(top_pref_prof, g):
 
 def generate_recommendation(text_in, tok_in, mod_in):
     tok_text = tok_in(text_in, return_tensors='pt').to('cuda:0')
-    gen_text = mod_in.generate(**tok_text, max_length=60)
+    gen_text = mod_in.generate(**tok_text, max_length=1024)
     dec_text = tok_in.decode(gen_text[0], skip_special_tokens=True)
     return dec_text
 
@@ -84,87 +84,114 @@ cot_tokenizer = AutoTokenizer.from_pretrained("../CoT/topic_extraction/hf_model/
 cot_model = AutoModelForCausalLM.from_pretrained("../CoT/topic_extraction/hf_model/")
 
 recc_tokenizer = AutoTokenizer.from_pretrained("../CoT/recommender/hf_model/")
-recc_model = AutoModelForSeq2SeqLM.from_pretrained("../CoT/recommender/hf_model/")
+recc_model = AutoModelForSeq2SeqLM.from_pretrained("../CoT/recommender/hf_model/", torch_dtype=torch.float32)
 
-resp_tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
-resp_model = AutoModelForSeq2SeqLM.from_pretrained("TrevorAshby/blenderbot-400M-distill")
+# resp_tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
+# resp_model = AutoModelForSeq2SeqLM.from_pretrained("TrevorAshby/blenderbot-400M-distill")
+
+# resp_tokenizer = AutoTokenizer.from_pretrained("../../model/resp_model/")
+# resp_model = AutoModelForSeq2SeqLM.from_pretrained("../../model/resp_model/")
+
+resp_tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf")
+resp_model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf", token='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',torch_dtype=torch.float32)
 
 # baseline 1
-b1_tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
-b1_model = AutoModelForSeq2SeqLM.from_pretrained("facebook/blenderbot-400M-distill")
+# b1_tokenizer = AutoTokenizer.from_pretrained("facebook/blenderbot-400M-distill")
+# b1_model = AutoModelForSeq2SeqLM.from_pretrained("facebook/blenderbot-400M-distill")
 
 # baseline 2
-#! this is where TAKE belongs
+#! this is where OTTers belongs
+# otter_responses = open('./otter/result_ep:test.txt', 'r').readlines()
+# otter_target = open('./otter/target.csv', 'r').readlines()
+# otter_source = open('./otter/source.csv', 'r').readlines()
+
+# otter_responses = open('./otter/result_ep:test_tiage.txt', 'r').readlines()
+# otter_target = open('./otter/target_tiage.csv', 'r').readlines()
+# otter_source = open('./otter/source_tiage.csv', 'r').readlines()
+
+otter_responses = open('./otter/result_ep:test_multiwoz.txt', 'r').readlines()
+otter_target = open('./otter/target_multiwoz.csv', 'r').readlines()
+otter_source = open('./otter/source_multiwoz.csv', 'r').readlines()
 
 # load models to gpu
 cot_model.to('cuda:0')
 recc_model.to('cuda:0')
 resp_model.to('cuda:0')
 
-b1_model.to('cuda:0')
+# b1_model.to('cuda:0')
 
 # ------ FUNCTIONS ------ #
 def generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, num_examples=50):
     tcds = json.loads(open(read_path, 'r').read())
     save_js = {}
-
+    articles = []
     for i, t in enumerate(tcds):
-        if i == num_examples:
-            break
+        try:
+            if tcds[t]['article_url'] not in articles:
+                if len(articles) >= num_examples:
+                    break
 
-        graph = nx.Graph()
-        # agent_1 is user?
-        conv_list = []
-        utterance = None
-        ground_truth = None
-        conv_history = []
-        for j, msg in enumerate(tqdm(tcds[t]['content'])):
-            is_issue = False
-            if msg['agent'] == 'agent_1':
-                utterance = msg['message']
-                # generate the graph
-                #try:
-                topic_xtract = generate_cot(utterance, cot_tokenizer, cot_model)
-                topic_pref_profile = CoT_to_Preference(topic_xtract.strip())
-                update_graph(topic_pref_profile, graph)
-                focus_topic = list(topic_pref_profile.keys())[0]
-                #except:
-                #    is_issue = True
+                graph = nx.Graph()
+                # agent_1 is user?
+                conv_list = []
+                utterance = None
+                ground_truth = None
+                conv_history = []
+                for j, msg in enumerate(tqdm(tcds[t]['content'])):
+                    is_issue = False
+                    if msg['agent'] == 'agent_1':
+                        utterance = msg['message']
+                        # generate the graph
+                        #try:
+                        topic_xtract = generate_cot(utterance, cot_tokenizer, cot_model)
+                        topic_pref_profile = CoT_to_Preference(topic_xtract.strip())
+                        update_graph(topic_pref_profile, graph)
+                        focus_topic = list(topic_pref_profile.keys())[0]
+                        #except:
+                        #    is_issue = True
 
+                    else:
+                        ground_truth = msg['message']
+                    
+                    if is_issue:
+                        utterance = 'Nothing'
+                        ground_truth = 'Nothing'
+                        focus_topic = 'Nothing'
+                        pickled = 'Nothing'
+                        topic_xtract = 'Nothing'
+                        temp = {'utterance':utterance,'ground_truth':ground_truth, 'topic_xtract':topic_xtract,'focus_topic':focus_topic,'graph':pickled}
+                        conv_list.append(temp)
+
+                        utterance = None
+                        ground_truth = None
+                    if utterance != None and ground_truth != None:
+                        # make graph string
+                        
+                        pickled = codecs.encode(pickle.dumps(graph), "base64").decode()
+                        conv_history.append(utterance) # added
+                        temp = {'conv_history': conv_history.copy(),'utterance':utterance,'ground_truth':ground_truth, 'topic_xtract':topic_xtract, 'focus_topic':focus_topic,'graph':pickled}
+                        conv_list.append(temp)
+                        conv_history.append(ground_truth) # added
+                        utterance = None
+                        ground_truth = None
+                        
+                
+                save_js[t] = conv_list
+                articles.append(tcds[t]['article_url'])
             else:
-                ground_truth = msg['message']
-            
-            if is_issue:
-                utterance = 'Nothing'
-                ground_truth = 'Nothing'
-                focus_topic = 'Nothing'
-                pickled = 'Nothing'
-                topic_xtract = 'Nothing'
-                temp = {'utterance':utterance,'ground_truth':ground_truth, 'topic_xtract':topic_xtract,'focus_topic':focus_topic,'graph':pickled}
-                conv_list.append(temp)
-
-                utterance = None
-                ground_truth = None
-            if utterance != None and ground_truth != None:
-                # make graph string
-                
-                pickled = codecs.encode(pickle.dumps(graph), "base64").decode()
-                conv_history.append(utterance) # added
-                temp = {'conv_history': conv_history.copy(),'utterance':utterance,'ground_truth':ground_truth, 'topic_xtract':topic_xtract, 'focus_topic':focus_topic,'graph':pickled}
-                conv_list.append(temp)
-                conv_history.append(ground_truth) # added
-                utterance = None
-                ground_truth = None
-                
-        
-        save_js[t] = conv_list
+                continue
+        except:
+            continue
 
     with open(write_path, 'w') as fp:
         json.dump(save_js, fp)
 
-def run_evaluation(rouge,response,target,uni_evaluator):
+def run_evaluation(rouge,response, ch, target,uni_evaluator):
     conv_history = [f'{target}\n']
-
+    # c = ch.copy()
+    # c.append(target)
+    # conv_history = [''.join(c)]
+    
     # Bleu
     bl = nltk.translate.bleu_score.sentence_bleu([response], target)
 
@@ -208,6 +235,7 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
     save_js = {}
 
     # go through each conversation instance
+    otter_idx = 0
     for i, t in enumerate(eval_tcds):
         if i == num_examples:
             break
@@ -215,12 +243,14 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
         for j, inst in enumerate(tqdm(eval_tcds[t])):
             
             if use_history:
-                user_in = ''.join([f'{c}\n' for c in inst['conv_history']][-3:])
+                user_in = ''.join([f' person1:{c}' if i % 2 == 0 else f' person2:{c}' for i, c in enumerate(inst['conv_history'])])
+                # user_in = user_in[:-len('</s> <s>')]
             else:
                 user_in = inst['utterance']
 
 
             real_response = inst['ground_truth']
+            real_response = f'person2:{real_response}'
             # unpickle graph
             pickled = inst['graph']
             focus_topic = inst['focus_topic']
@@ -240,20 +270,27 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
 
                 # template guideline generation
                 if xtract_prof[focus_topic] == 'positive':
-                    tpref = 'The user likes'
+                    tpref = 'Person1 likes'
                 elif xtract_prof[focus_topic] == 'negative':
-                    tpref = 'The user dislikes'
+                    tpref = 'Person1 dislikes'
                 else:
                     tpref = 'It is unclear if the user likes or dislikes'
 
-                guideline = f'{tpref} {focus_topic}. Direct the conversation to one of the following 3 topics: {topic_recs}.'
+                guideline = f'{tpref} {focus_topic}. person2\'s response should fall into one of the following 3 topics: {topic_recs}.'
 
                 # generate response from our pipeline
-                blend_in_ids = resp_tokenizer([f'{user_in} [GUIDELINE] {guideline}'], max_length=128, return_tensors='pt', truncation=True).to('cuda:0')
-                blend_example = resp_model.generate(**blend_in_ids, max_length=60)
-                our_response = resp_tokenizer.batch_decode(blend_example, skip_special_tokens=True)[0]
+
+                #! use the next 2 lines if mistral being used
+                llama_in = f'<s>[INST] <<SYS>>\nYou are a person participating in a conversation. You are specifically person2. <</SYS>>\nGenerate the next conversation turn for person2 responding to person1 in this conversation: {user_in.replace("</s> <s>", " ")} Limit the generated response to 1-2 sentences and compliant with this guideline: {guideline} [/INST] person2:'
+                blend_in_ids = resp_tokenizer(llama_in, max_length=1024, return_tensors='pt', truncation=True).to('cuda:0')
+
+                #! comment this if using mistral
+                # blend_in_ids = resp_tokenizer([f'{user_in} [GUIDELINE] {guideline}'], max_length=128, return_tensors='pt', truncation=True).to('cuda:0')
                 
-                our_bleu, our_rouge, our_unieval = run_evaluation(rouge,our_response,real_response,uni_evaluator)
+                blend_example = resp_model.generate(**blend_in_ids)
+                our_response = resp_tokenizer.batch_decode(blend_example, skip_special_tokens=True)[0].split('[/INST]')[-1]
+                
+                our_bleu, our_rouge, our_unieval = run_evaluation(rouge,our_response, inst['conv_history'], real_response,uni_evaluator)
 
                 ours = {'generated':our_response, 
                         'bleu':our_bleu, 
@@ -265,11 +302,16 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
                         'pref_prof':xtract_prof}
                 
                 # generate response from baseline 1
-                blend_in_ids = b1_tokenizer([f'{user_in}'], max_length=128, return_tensors='pt', truncation=True).to('cuda:0')
-                blend_example = b1_model.generate(**blend_in_ids, max_length=60)
-                b1_response = b1_tokenizer.batch_decode(blend_example, skip_special_tokens=True)[0]
+                #! use the next 2 lines if mistral being used
+                llama_in = f'<s>[INST] <<SYS>>\nYou are a person participating in a conversation. You are specifically person2. <</SYS>>\nGenerate the next conversation turn for person2 responding to person1 in this conversation: {user_in.replace("</s> <s>", " ")} Limit the generated response to 1-2 sentences [/INST] person2:'
+                blend_in_ids = resp_tokenizer(llama_in, max_length=1024, return_tensors='pt', truncation=True).to('cuda:0')
+
+                #! comment this if using mistral
+                # blend_in_ids = b1_tokenizer([f'{user_in}'], max_length=128, return_tensors='pt', truncation=True).to('cuda:0')
+                blend_example = b1_model.generate(**blend_in_ids)
+                b1_response = b1_tokenizer.batch_decode(blend_example, skip_special_tokens=True)[0].split('[/INST]')[-1]
                 
-                b1_bleu, b1_rouge, b1_unieval = run_evaluation(rouge,b1_response,real_response,uni_evaluator)
+                b1_bleu, b1_rouge, b1_unieval = run_evaluation(rouge,b1_response, inst['conv_history'],real_response,uni_evaluator)
 
                 b1 = {'generated':b1_response, 
                     'bleu':b1_bleu, 
@@ -277,25 +319,54 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
                     'unieval':b1_unieval}
                 
                 # generate response from baseline 2
-                #! this is where TAKE belongs
+                #! this is where OTTers belongs
+                # get response, conversation history, real response
+                # if len(inst['conv_history']) >= 3:
+                ott_bleu, ott_rouge, ott_unieval = run_evaluation(rouge, f'person2:{otter_responses[otter_idx]}', inst['conv_history'], f'person2:{otter_target[otter_idx]}', uni_evaluator)
+                ott = {
+                    'generated':otter_responses[otter_idx],
+                    'src/trg':otter_source[otter_idx],
+                    'bleu':ott_bleu,
+                    'rouge':ott_rouge,
+                    'unieval':ott_unieval
+                }
+                otter_idx += 1
+                # else:
+                #     ott = {
+                #         'generated':"shorter than 3",
+                #         'bleu':"shorter than 3",
+                #         'rouge':"shorter than 3",
+                #         'unieval':"shorter than 3"
+                #     }
 
-                temp = {'user_in':user_in, 'ours':ours, 'b1':b1, 'target_response':real_response}
+                temp = {'user_in':user_in, 'ours':ours, 'b1(vanilla)':b1, 'b2(ott)':ott, 'target_response':real_response}
                 conv_list.append(temp)
                 # save [input, our output, bleu, rouge, output baselines, bleu, rouge, GPT-4 ranking]
         save_js[t] = conv_list
 
-    with open(write_path, 'w') as fp:
-        json.dump(save_js, fp)
+        with open(write_path, 'w') as fp:
+            json.dump(save_js, fp)
 
 
 if __name__ == '__main__':
     
-    # main function
-    read_path = './topical_chat/Topical-Chat/conversations/train.json'
-    write_path = './eval_ds2.json'
-    # print('Starting Graph Eval File Generation...')
-    # generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, 10)
+    #! TOPICAL CHAT
+    # read_path = './topical_chat/Topical-Chat/conversations/test_freq.json'
+    # write_path = './eval_ds2_complete_5000.json'
+    
+    #! TIAGE
+    # read_path = './tiage/tc_anno_test.json'
+    # write_path = './eval_ds2_complete_tiage_5000.json'
+    
+    #! MULTIWOZ
+    read_path = './multiwoz/tc_anno_test.json'
+    write_path = './eval_ds2_complete_multiwoz_1200.json'
 
-    write_path2 = './eval_final2.json'
+    print('Starting Graph Eval File Generation...')
+    # generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, 1200)
+
+    write_path2 = './eval_final2_01022024_complete_hist.json'
     print('Starting Pipeline Evaluation...')
-    evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1_model, b1_tokenizer, write_path, write_path2, 10, True)
+    evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, resp_model, resp_tokenizer, write_path, write_path2, 1200, True)
+    
+    #evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1_model, b1_tokenizer, write_path, write_path2, 10, True)

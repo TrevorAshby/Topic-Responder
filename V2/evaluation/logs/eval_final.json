@@ -1,0 +1,1426 @@
+{
+    "t_bde29ce2-4153-4056-9eb7-f4ad710505fe": [
+        {
+            "user_in": "Are you a fan of Google or Microsoft?",
+            "generated": " What are some of the topics that you like to talk about with your friends and family?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.11764705882352941,
+                "rouge2": 0.0,
+                "rougeL": 0.11764705882352941,
+                "rougeLsum": 0.11764705882352941
+            },
+            "ground_truth": "Both are excellent technology they are helpful in many ways. For the security purpose both are super.",
+            "guideline": "The user likes Google. Direct the conversation to one of the following 3 topics: ['technology', 'science', 'technology trends']."
+        },
+        {
+            "user_in": "I'm not  a huge fan of Google, but I use it a lot because I have to. I think they are a monopoly in some sense. ",
+            "generated": " What are some of the other topics that you like to talk about on the topic of technology?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Google provides online related services and products, which includes online ads, search engine and cloud computing.",
+            "guideline": "The user dislikes Google. Direct the conversation to one of the following 3 topics: ['technology', 'science', 'technology trends']."
+        },
+        {
+            "user_in": "Yeah, their services are good. I'm just not a fan of intrusive they can be on our personal lives. ",
+            "generated": " What do you mean by \"Technological Surfing\" and \"Internet Safety\"?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.14285714285714285,
+                "rouge2": 0.0,
+                "rougeL": 0.14285714285714285,
+                "rougeLsum": 0.14285714285714285
+            },
+            "ground_truth": "Google is leading the alphabet subsidiary and will continue to be the Umbrella company for Alphabet internet interest.",
+            "guideline": "The user dislikes surfing. Direct the conversation to one of the following 3 topics: ['surfing tips', 'tech trends', 'internet safety']."
+        },
+        {
+            "user_in": "Did you know Google had hundreds of live goats to cut the grass in the past? \n",
+            "generated": " Goats are so cute! What other topics do you like to talk about on the internet?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.048780487804878044,
+                "rouge2": 0.0,
+                "rougeL": 0.048780487804878044,
+                "rougeLsum": 0.048780487804878044
+            },
+            "ground_truth": "It is very interesting. Google provide \"Chrome OS\" which is a light weight OS. Google provided a lot of hardware mainly in 2010 to 2015. ",
+            "guideline": "The user likes goats. Direct the conversation to one of the following 3 topics: ['goat care', 'animal welfare', 'wildlife conservation']."
+        },
+        {
+            "user_in": "I like Google Chrome. Do you use it as well for your browser? ",
+            "generated": " What other topics do you like to use the Chrome to talk to other users about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.05714285714285714,
+                "rouge2": 0.0,
+                "rougeL": 0.05714285714285714,
+                "rougeLsum": 0.05714285714285714
+            },
+            "ground_truth": "Yes.Google is the biggest search engine and Google service figure out top 100 website, including Youtube and Blogger.",
+            "guideline": "The user likes Google Chrome. Direct the conversation to one of the following 3 topics: ['Google Chrome', 'technology', 'internet usage']."
+        },
+        {
+            "user_in": "By the way, do you like Fish? ",
+            "generated": " I love fish! What's your favorite recipe that you've learned to cook with fish gear?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.043478260869565216,
+                "rouge2": 0.0,
+                "rougeL": 0.043478260869565216,
+                "rougeLsum": 0.043478260869565216
+            },
+            "ground_truth": "Yes. They form a sister group of tourniquets- they make the sea water clean and remove the dust from it. Fish is the biggest part in the eco-system.",
+            "guideline": "The user likes fish. Direct the conversation to one of the following 3 topics: ['fish recipes', 'fish care', 'fishing gear']."
+        },
+        {
+            "user_in": "Did you know that a seahorse is the only fish to have a neck? ",
+            "generated": " I did not know that. What other topics do you have in mind for me to discuss?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.049999999999999996,
+                "rouge2": 0.0,
+                "rougeL": 0.049999999999999996,
+                "rougeLsum": 0.049999999999999996
+            },
+            "ground_truth": "Freshwater fish only drink water through the skin via Osmosis, Saltwater fish drink water through the mouth. Dolphins are friendly to human beings.",
+            "guideline": "The user likes seahorse. Direct the conversation to one of the following 3 topics: ['animal welfare', 'wildlife conservation', 'pet care']."
+        },
+        {
+            "user_in": "Interesting, they also have gills. Did you know that jellyfish are immortal? ",
+            "generated": " I did not know that! What other topics do you like to talk about? Do you have a favorite animal?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes. Fish is the important resources of human world wide for the commercial and subsistence fish hunts the fish in the wild fisheries.",
+            "guideline": "The user likes jellyfish. Direct the conversation to one of the following 3 topics: ['jellyfish care', 'animal welfare', 'fish habitats']."
+        },
+        {
+            "user_in": "What about cats, do you like cats? I'm a dog fan myself. ",
+            "generated": " I love cats too! What's your favorite breed of cat and why do you prefer cats over dogs?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10810810810810811,
+                "rouge2": 0.05714285714285714,
+                "rougeL": 0.10810810810810811,
+                "rougeLsum": 0.10810810810810811
+            },
+            "ground_truth": "The cat is referred as domestic cat and wild cat. They make our world very clean from rats! ",
+            "guideline": "The user likes cats. Direct the conversation to one of the following 3 topics: ['cat care', 'pet care', 'pet adoption']."
+        },
+        {
+            "user_in": "Yeah, cats can be cool, but they sure do spend a lot of their time sleeping. ",
+            "generated": " What do you think about pet adoption? Do you think it's a good idea to adopt a cat from a shelter?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Cats hear the sounds too faint or too high frequency human ears can hear. ",
+            "guideline": "The user likes cat sleeping. Direct the conversation to one of the following 3 topics: ['cat care', 'pet care', 'pet adoption']."
+        }
+    ],
+    "t_1abc9c37-387d-4013-8691-88ef8c010e58": [
+        {
+            "user_in": "do you like dance?",
+            "generated": " Do you like to dance? \"Dance\" is a group of physical, mental, and social movements.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.21428571428571427,
+                "rouge2": 0.0,
+                "rougeL": 0.21428571428571427,
+                "rougeLsum": 0.21428571428571427
+            },
+            "ground_truth": "Yes  I do. Did you know Bruce Lee was a cha cha dancer?",
+            "guideline": "It is unclear if the user likes or dislikes dancing. Direct the conversation to one of the following 3 topics: ['dancing', 'dance styles', 'dance routines']."
+        },
+        {
+            "user_in": "Yes he even won a hardcore cha cha championship in 1958",
+            "generated": " That's amazing! What other topics do you like to talk about with sports personalities?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.08333333333333334,
+                "rouge2": 0.0,
+                "rougeL": 0.08333333333333334,
+                "rougeLsum": 0.08333333333333334
+            },
+            "ground_truth": "Yeah. Did you know Tupac was a ballet dancer?",
+            "guideline": "The user likes championship. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities']."
+        },
+        {
+            "user_in": "Yes and he even was in the production of the nutcracker",
+            "generated": " That's so cool! What other topics did he talk about in the movie trailers?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yeah. Ballet dancer go through 4 pairs of shoes a week",
+            "guideline": "The user likes movie actor. Direct the conversation to one of the following 3 topics: ['movie reviews', 'movie trailers', 'movie reviews']."
+        },
+        {
+            "user_in": "Yes that is a lot of shoes and also a lot of money",
+            "generated": " Shopping is my favorite thing to do! What's your favorite shoe to shop for?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yeah true. Did you know babies are really good at dancing?",
+            "guideline": "The user likes shoes. Direct the conversation to one of the following 3 topics: ['shopping tips', 'shopping destinations', 'shopping trends']."
+        },
+        {
+            "user_in": "Yes and they smile more when they hit the beat",
+            "generated": " What's your favorite genre of music to listen to when you go to a music festival?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yeah they are much smarter than we give them credit for",
+            "guideline": "The user likes music taste. Direct the conversation to one of the following 3 topics: ['music appreciation', 'music appreciation', 'music festivals']."
+        },
+        {
+            "user_in": "True Did you know Jackson had a patent on a dancing device?",
+            "generated": " I did not know that! What other topics did you have in mind for the conversation?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes it helped him smooth out his dance moves",
+            "guideline": "The user likes dancing. Direct the conversation to one of the following 3 topics: ['dance styles', 'music appreciation', 'dance routines']."
+        },
+        {
+            "user_in": "Nice. Do you like Shakespeare?",
+            "generated": " Shakespare is great! What's your favorite book or club to get recommendations for?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes I do. Do you know that he popularized many phrases",
+            "guideline": "It is unclear if the user likes or dislikes favorite author. Direct the conversation to one of the following 3 topics: ['a book recommendation', 'book clubs', 'book recommendations']."
+        },
+        {
+            "user_in": "Yes like good riddance, in my heart of hearts and such",
+            "generated": " What are some of your favorite movies that you've seen in the cinema genre?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes and then he also invented names like Jessica, Olivia and Miranda",
+            "guideline": "The user likes movie genre. Direct the conversation to one of the following 3 topics: ['movie reviews', 'movie adaptations', 'movie quotes']."
+        },
+        {
+            "user_in": "Yes. And for his works you have to use old english for it to make sense",
+            "generated": " That's really interesting. Do you have any book recommendations that you would recommend for a book reader?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.06666666666666667,
+                "rouge2": 0.0,
+                "rougeL": 0.06666666666666667,
+                "rougeLsum": 0.06666666666666667
+            },
+            "ground_truth": "Yes otherwise the rhymes and puns do not seem to work out",
+            "guideline": "The user likes book recommendation. Direct the conversation to one of the following 3 topics: ['book clubs', 'book recommendations', 'book adaptations']."
+        },
+        {
+            "user_in": "Yes. He lived at the same time as Pocahontas too",
+            "generated": " Early history is fascinating. Do you have any other topics you'd like to share with me?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "I wonder if they met how that would go from there",
+            "guideline": "The user likes early history. Direct the conversation to one of the following 3 topics: ['history', 'history books', 'history of science', 'history of art']."
+        }
+    ],
+    "t_1a600621-5ad4-409c-a812-bc0b2bb03aa6": [
+        {
+            "user_in": "Hey what's up do use Google very often?I really love the company and was surprised to hear that it was founded back in 1998.",
+            "generated": " That's really cool! What are some of the other topics that you like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "i think everyone must use it daily! its become ingrained in every day life",
+            "guideline": "The user likes Google. Direct the conversation to one of the following 3 topics: ['technology', 'science', 'technology trends']."
+        },
+        {
+            "user_in": "Agreed. The Google headquarters in Mountain View California is nicknamed the Google Plex.",
+            "generated": " That's so cool! What other topics do you like to talk about with the Plex?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.06451612903225808,
+                "rouge2": 0.0,
+                "rougeL": 0.06451612903225808,
+                "rougeLsum": 0.06451612903225808
+            },
+            "ground_truth": "thats funny. The current CEO is Sundar Pichai, i didnt know Larry Page was replaced",
+            "guideline": "The user likes Google Plex. Direct the conversation to one of the following 3 topics: ['technology', 'science', 'technology trends']."
+        },
+        {
+            "user_in": "Oh yeah I didn't know that either. I also want to go to google Plex to see the goats who mow their lawn by eating it.",
+            "generated": " What other topics do you like to talk about besides Plex and eating goats by mowing your lawn?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.08333333333333333,
+                "rouge2": 0.0,
+                "rougeL": 0.08333333333333333,
+                "rougeLsum": 0.08333333333333333
+            },
+            "ground_truth": "say what now?? they have that??",
+            "guideline": "The user likes  Plex. Direct the conversation to one of the following 3 topics: ['apologies', 'travel tips', 'activities', 'relaxation']."
+        },
+        {
+            "user_in": "Yeah apparently lol! They do that instead of hiring people to mow!",
+            "generated": " What do you mean by \"directing the conversation\" to the third top of the conversation?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0606060606060606,
+                "rouge2": 0.0,
+                "rougeL": 0.0606060606060606,
+                "rougeLsum": 0.0606060606060606
+            },
+            "ground_truth": "thats both funny and i guess imaginative. leave it to a huge tech company to employ actual goats!",
+            "guideline": "The user likes mowing. Direct the conversation to one of the following 3 topics: ['mower maintenance', 'gardening', 'mowing equipment']."
+        },
+        {
+            "user_in": "Yeah exactly I am sure they are cheaper. One thing I bet they couldn't exploit is fish. I think fish are so cool there is actually a breed of jellyfish that is immortal.",
+            "generated": " That's really interesting! What other topics would you like to know about fish care and fish care?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.21739130434782608,
+                "rouge2": 0.0,
+                "rougeL": 0.17391304347826086,
+                "rougeLsum": 0.17391304347826086
+            },
+            "ground_truth": "i had rememered hearing about that before. Immortatlity is wasted on a jellyfish haha. did you know a seahorse is the only fish that has an actual neck?",
+            "guideline": "The user likes jellyfish. Direct the conversation to one of the following 3 topics: ['jellyfish care', 'fish nutrition', 'fish care']."
+        },
+        {
+            "user_in": "That is so funny I guess I never considered a seahorse a fish. The black swallower fish sounds a lot like a snake because it can eat pray that is so large.",
+            "generated": " What are the other three topics you would like to talk about? I'm interested in learning more about these topics.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.13333333333333333,
+                "rouge2": 0.0,
+                "rougeL": 0.06666666666666667,
+                "rougeLsum": 0.06666666666666667
+            },
+            "ground_truth": "i guess they live up to their name then!",
+            "guideline": "The user dislikes seafood. Direct the conversation to one of the following 3 topics: ['seafood', 'wildlife conservation', 'animals', 'animals habitats']."
+        },
+        {
+            "user_in": "It seems they do. I also didn't know that there was a difference with how freshwater and saltwater fish drink.",
+            "generated": " Fishing gear is a great way to catch fish. What's your favorite type of fishing gear?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "thats crazy. i wonder why fresh water ones only use osmosis? ",
+            "guideline": "The user likes freshwater and saltwater. Direct the conversation to one of the following 3 topics: ['fishing gear', 'fishing destinations', 'fishing gear']."
+        },
+        {
+            "user_in": "Yeah and saltwater fish are lucky because they can do that and drink through their mouth's.",
+            "generated": " Sushi is delicious! What's your favorite dish to make at a foodie gathering?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.1081081081081081,
+                "rouge2": 0.0,
+                "rougeL": 0.1081081081081081,
+                "rougeLsum": 0.1081081081081081
+            },
+            "ground_truth": "seems like fresh water fish got the short end of the stick with that one. Have you ever been to a cat cafe?",
+            "guideline": "The user likes sushi. Direct the conversation to one of the following 3 topics: ['sushi recipes', 'foodie gatherings', 'culinary adventures']."
+        },
+        {
+            "user_in": "I have never been to a cat cafe no, what about you? Seems like they are popular in Japan and Taiwan.",
+            "generated": " I've never been either, but I've heard they're really popular. What's your favorite cat caf\u00e9 item to get there?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.15384615384615383,
+                "rouge2": 0.05405405405405406,
+                "rougeL": 0.15384615384615383,
+                "rougeLsum": 0.15384615384615383
+            },
+            "ground_truth": "no but I would love to! paying hourly to hang out with adorable cats? im in!",
+            "guideline": "It is unclear if the user likes or dislikes cat cafe. Direct the conversation to one of the following 3 topics: ['cat cafe', 'cat cafes', 'cat cafes', 'cat cafes']."
+        },
+        {
+            "user_in": "Yeah that would be a lot of fun. I didn't realize that cats sleep so much. Must be nice.",
+            "generated": " What are the other three topics of the cat care and welfare topics you're talking about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.14814814814814817,
+                "rouge2": 0.0,
+                "rougeL": 0.14814814814814817,
+                "rougeLsum": 0.14814814814814817
+            },
+            "ground_truth": "i guess thats where the phrase \"cat nap\" comes from",
+            "guideline": "The user likes cat sleeping. Direct the conversation to one of the following 3 topics: ['cat care', 'animal welfare', 'cat behavior']."
+        }
+    ],
+    "t_01269680-99c3-4ab4-9df3-23901e0623c9": [
+        {
+            "user_in": "Hi!  do you like to dance?",
+            "generated": " I love to dance! Dancing is so much fun! What's your favorite dance move?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.33333333333333337,
+                "rouge2": 0.2727272727272727,
+                "rougeL": 0.33333333333333337,
+                "rougeLsum": 0.33333333333333337
+            },
+            "ground_truth": "I love to dance a lot. How about you?",
+            "guideline": "The user likes dancing. Direct the conversation to one of the following 3 topics: ['dancing', 'dance moves', 'dance routines']."
+        },
+        {
+            "user_in": "I am really bad, but it is a good time.",
+            "generated": " Reading is a great hobby. What are some of the top topics that you like to read?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.3636363636363636,
+                "rouge2": 0.12903225806451615,
+                "rougeL": 0.24242424242424243,
+                "rougeLsum": 0.24242424242424243
+            },
+            "ground_truth": "Dancing is a lot of fun. Did you know that Bruce Lee was a great dancer?",
+            "guideline": "The user likes reading. Direct the conversation to one of the following 3 topics: ['a hobby', 'reading tips', 'reading challenges']."
+        },
+        {
+            "user_in": "I heard that, winning Cha Cha championships and everything!",
+            "generated": " That's awesome! What other topics does Cha Cha Cha cha cha like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.1818181818181818,
+                "rouge2": 0.06451612903225808,
+                "rougeL": 0.1818181818181818,
+                "rougeLsum": 0.1818181818181818
+            },
+            "ground_truth": "Yes that is amazing. He won the Hong Kong cha-cha championship back in 1958 in fact.",
+            "guideline": "The user likes Cha Cha. Direct the conversation to one of the following 3 topics: ['adolescent development', 'sportsmanship', 'championship events']."
+        },
+        {
+            "user_in": "I always just thought of him as a martial arts legend.  Now he is a dance legend of sorts too!",
+            "generated": " Do you have any favorite dance styles or dance routines that you like to dance to?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.11111111111111112,
+                "rouge2": 0.0,
+                "rougeL": 0.11111111111111112,
+                "rougeLsum": 0.11111111111111112
+            },
+            "ground_truth": "Yeah!! That is correct. He was a fantastic martial artist. Did you know that Tupac danced ballet in high school?",
+            "guideline": "The user likes dancing. Direct the conversation to one of the following 3 topics: ['dance styles', 'music appreciation', 'dance routines']."
+        },
+        {
+            "user_in": "Yeah!  He was the mouse king in the Nutcracker.  Thats pretty cool, I would definitely never have guessed that about him.",
+            "generated": " That's really cool! What other topics do you like to talk about with movie trailers?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.07142857142857144,
+                "rouge2": 0.0,
+                "rougeL": 0.07142857142857144,
+                "rougeLsum": 0.07142857142857144
+            },
+            "ground_truth": "Neither did I. That is insane because Tupac was a famous rapper. ",
+            "guideline": "The user likes movie character. Direct the conversation to one of the following 3 topics: ['movie reviews', 'movie trailers', 'movie quotes']."
+        },
+        {
+            "user_in": "He was indeed, his music is even in the library of congress.",
+            "generated": " What's your favorite composer or music festival that he has performed at?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "I didn't know this thanks for sharing.",
+            "guideline": "The user likes classical music. Direct the conversation to one of the following 3 topics: ['classical composers', 'music appreciation', 'music festivals']."
+        },
+        {
+            "user_in": "Sure thing!  Did you hear about Michael Jackson's special patent shoes?",
+            "generated": " What other topics do you like to talk about? Do you have any other favorite shoes?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.19512195121951217,
+                "rouge2": 0.0,
+                "rougeL": 0.14634146341463414,
+                "rougeLsum": 0.14634146341463414
+            },
+            "ground_truth": "No. I know that Michael Jackson was a fantastic dancer but can you tell me more about his patent shoes if you don't mind.",
+            "guideline": "The user likes Michael Jackson's patent shoes. Direct the conversation to one of the following 3 topics: ['Michael Jackson patent shoes', 'patent shoes', 'patent shoes', \"Michael Jackson's patent shoes\"]."
+        },
+        {
+            "user_in": "There was a specific device in his shoes that helped with his extreme lean in some dance moves.",
+            "generated": " What was the specific device that helped in his shoe to help in some dancing moves?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.048780487804878044,
+                "rouge2": 0.0,
+                "rougeL": 0.048780487804878044,
+                "rougeLsum": 0.048780487804878044
+            },
+            "ground_truth": "Wow!!! That is amazing coming from such a talented singer and dancer. I couldn't even dance like that even if I dreamed of it.",
+            "guideline": "The user likes shoes. Direct the conversation to one of the following 3 topics: ['dancing shoes', 'dancing styles', 'dance routines']."
+        },
+        {
+            "user_in": "Me neither. I could never be a professional dancer.",
+            "generated": " Do you have any tips for someone who wants to dance professionally or do you just want tips?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "I heard that some professional ballet dancer can go through four pairs of shoes in a week.",
+            "guideline": "The user dislikes dancing. Direct the conversation to one of the following 3 topics: ['dancing', 'shoes', 'running tips']."
+        },
+        {
+            "user_in": "That is crazy!  That can't be cheap for them.",
+            "generated": " That's a great idea! What other topics do you have in mind for the restaurant?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0625,
+                "rouge2": 0.0,
+                "rougeL": 0.0625,
+                "rougeLsum": 0.0625
+            },
+            "ground_truth": "No. I think its very expensive for them to be professional ballet dancers based on this.",
+            "guideline": "The user likes restaurant. Direct the conversation to one of the following 3 topics: ['restaurant reviews', 'food culture', 'restaurant menus']."
+        },
+        {
+            "user_in": "It has been great chatting but I must go!  Gotta go get my Bruce Lee on, the martial arts part...  definitely not the dance.",
+            "generated": " Do you have any other topics you'd like to share with me about the culture of Asia?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.17647058823529413,
+                "rouge2": 0.0,
+                "rougeL": 0.11764705882352941,
+                "rougeLsum": 0.11764705882352941
+            },
+            "ground_truth": "Ha Ha!!! It was so nice chatting with you as well!! Have a nice day!!! Bye",
+            "guideline": "The user likes goodbye. Direct the conversation to one of the following 3 topics: ['asian culture', 'travel tips', 'cultural festivals']."
+        }
+    ],
+    "t_c4f84350-a9e8-4928-bde8-5193b62388e0": [
+        {
+            "user_in": "do you like dance?",
+            "generated": " Do you like to dance? \"Dance\" is a group of physical, mental, and social movements.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.15384615384615383,
+                "rouge2": 0.0,
+                "rougeL": 0.15384615384615383,
+                "rougeLsum": 0.15384615384615383
+            },
+            "ground_truth": "I love it. Did you know Bruce Lee was a dancer?",
+            "guideline": "It is unclear if the user likes or dislikes dancing. Direct the conversation to one of the following 3 topics: ['dancing', 'dance styles', 'dance routines']."
+        },
+        {
+            "user_in": "Yes he even won a cha cha championship in 1958",
+            "generated": " That's amazing! What other topics do you like to talk about with sports personalities?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.07692307692307691,
+                "rouge2": 0.0,
+                "rougeL": 0.07692307692307691,
+                "rougeLsum": 0.07692307692307691
+            },
+            "ground_truth": "Yeah. Did you know ballet dancers use a lot of shoes?",
+            "guideline": "The user likes championship. Direct the conversation to one of the following 3 topics: ['sports', 'sports events', 'sports personalities']."
+        },
+        {
+            "user_in": "Yes they go through 4 pairs in a single week",
+            "generated": " That's a lot of shopping! Do you have any tips for someone who likes to shop?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.26666666666666666,
+                "rouge2": 0.14285714285714288,
+                "rougeL": 0.26666666666666666,
+                "rougeLsum": 0.26666666666666666
+            },
+            "ground_truth": "Yeah that is a lot of shoes and also a lot of money",
+            "guideline": "The user likes shopping. Direct the conversation to one of the following 3 topics: ['fashion trends', 'shopping tips', 'fashion trends']."
+        },
+        {
+            "user_in": "Yeah. Babies are also really good at dancing when they hear music",
+            "generated": " Do you have any favorite dance styles or dance routines that you like to dance to?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes and they smile more when they hit the beat",
+            "guideline": "The user likes dancing. Direct the conversation to one of the following 3 topics: ['dance styles', 'music appreciation', 'dance routines']."
+        },
+        {
+            "user_in": "Yeah pretty cute. Did you know Tupac was a ballet dancer?",
+            "generated": " I didn't know that! What other topics do you like to talk about or listen to?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes he was in the nutcracker as the mouse king",
+            "guideline": "It is unclear if the user likes or dislikes Tupac. Direct the conversation to one of the following 3 topics: ['music appreciation', 'music history', 'music festivals']."
+        },
+        {
+            "user_in": "Yeah. DO you like SHakespeare?",
+            "generated": " That's a good point. Do you have any other favorite plays or plays that you like to read about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.16216216216216214,
+                "rouge2": 0.0,
+                "rougeL": 0.16216216216216214,
+                "rougeLsum": 0.16216216216216214
+            },
+            "ground_truth": "I love his work. Did you know he popularized many terms that we use to this day?",
+            "guideline": "It is unclear if the user likes or dislikes Shakespeare. Direct the conversation to one of the following 3 topics: ['Shakespeare plays', 'biographies', 'literary classics']."
+        },
+        {
+            "user_in": "Yes terms like, good riddance, in my heart of heart and such",
+            "generated": " That's a great way to put it. What other topics do you like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yes. He lives at the same time as Pocahontas did",
+            "guideline": "The user likes goodbye. Direct the conversation to one of the following 3 topics: ['asian culture', 'travel tips', 'cultural festivals']."
+        },
+        {
+            "user_in": "I wonder if they had met what he would have written about her.",
+            "generated": " That's a good point. I wonder what she would've written about if she had met the author.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.20689655172413793,
+                "rouge2": 0.07407407407407407,
+                "rougeL": 0.13793103448275862,
+                "rougeLsum": 0.13793103448275862
+            },
+            "ground_truth": "Yeah good point. He also invented some women's names",
+            "guideline": "It is unclear if the user likes or dislikes book recommendation. Direct the conversation to one of the following 3 topics: ['book clubs', 'book recommendations', 'book adaptations']."
+        },
+        {
+            "user_in": "Yes among those are Olivia, Miranda and Jessica",
+            "generated": " Those are great topics. Do you have a favorite family member that you like to talk to?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.28571428571428575,
+                "rouge2": 0.0,
+                "rougeL": 0.22857142857142856,
+                "rougeLsum": 0.22857142857142856
+            },
+            "ground_truth": "Yeah. Did you know that his works have to stick to the old english language to make sense?",
+            "guideline": "The user likes favorite family members. Direct the conversation to one of the following 3 topics: ['family relationships', 'suicide prevention', 'family holidays']."
+        },
+        {
+            "user_in": "Yes especially with punk and rhymes, they do not work with modern language",
+            "generated": " What's your favorite genre of music to listen to when you go to a festival?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.11764705882352941,
+                "rouge2": 0.0,
+                "rougeL": 0.058823529411764705,
+                "rougeLsum": 0.058823529411764705
+            },
+            "ground_truth": "Yeah. Did you know Tchaikozsky donated his skull in hopes it will be used in Shakespeare's plays?",
+            "guideline": "The user likes music genre. Direct the conversation to one of the following 3 topics: ['music appreciation', 'music history', 'music festivals']."
+        }
+    ],
+    "t_222ac48a-a52e-401a-a1c9-b2436edd8096": [
+        {
+            "user_in": "hi, do you use google much?",
+            "generated": " I do use google quite a bit. What are some of the top topics that you like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.3243243243243243,
+                "rouge2": 0.0,
+                "rougeL": 0.16216216216216214,
+                "rougeLsum": 0.16216216216216214
+            },
+            "ground_truth": "Yes, I think it is the most effective search engine. How about you? Do you use gmail?",
+            "guideline": "It is unclear if the user likes or dislikes Google. Direct the conversation to one of the following 3 topics: ['technology', 'science', 'technology trends']."
+        },
+        {
+            "user_in": "Yes. a google search takes more computing power than sending astronauts tot he moon",
+            "generated": " What are some of the other topics that you like to talk about on the internet? ",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.13793103448275862,
+                "rouge2": 0.0,
+                "rougeL": 0.06896551724137931,
+                "rougeLsum": 0.06896551724137931
+            },
+            "ground_truth": "And before on Google moon they used to use cheese for close ups!",
+            "guideline": "The user likes Google search. Direct the conversation to one of the following 3 topics: ['technology', 'science', 'technology trends']."
+        },
+        {
+            "user_in": "do you know how google maps calculates traffic?",
+            "generated": " Google maps is a great way to keep track of traffic. Do you use it a lot?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.07692307692307691,
+                "rouge2": 0.0,
+                "rougeL": 0.07692307692307691,
+                "rougeLsum": 0.07692307692307691
+            },
+            "ground_truth": "I am not sure, how do they do this?",
+            "guideline": "The user likes traffic. Direct the conversation to one of the following 3 topics: ['traffic jams', 'transport infrastructure', 'transport safety']."
+        },
+        {
+            "user_in": "they track how fast android devices are moving",
+            "generated": " That's interesting. Do you have any other apps or apps that you use to track and track?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10256410256410256,
+                "rouge2": 0.0,
+                "rougeL": 0.10256410256410256,
+                "rougeLsum": 0.10256410256410256
+            },
+            "ground_truth": "Interesting! Google really is taking over the world. Their data center electricity use is 0.01 percent of all worldwide electricity.",
+            "guideline": "The user likes smartphone tracking. Direct the conversation to one of the following 3 topics: ['smartphone apps', 'app development', 'technology trends']."
+        },
+        {
+            "user_in": "Yes for sure they are. they have grown so much over the years",
+            "generated": " Grandparents are the best! What other topics do you like to talk about with them?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.18750000000000003,
+                "rouge2": 0.06666666666666667,
+                "rougeL": 0.125,
+                "rougeLsum": 0.125
+            },
+            "ground_truth": "But I like that they like to have fun too. Have you ever typed askew into Google?",
+            "guideline": "The user likes grandparents. Direct the conversation to one of the following 3 topics: ['grandparents', 'family relationships', \"grandchildren's health\"]."
+        },
+        {
+            "user_in": "No I have. What does the results turn?",
+            "generated": " What do you mean by \"directing the conversation\" to the third top of the three topics?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.18181818181818182,
+                "rouge2": 0.0,
+                "rougeL": 0.13636363636363635,
+                "rougeLsum": 0.13636363636363635
+            },
+            "ground_truth": "You should try it! It tilts the page. Another fun thing Google does is call new employees nogglers. They have to wear propeller beanies. Or is this mean?",
+            "guideline": "It is unclear if the user likes or dislikes news. Direct the conversation to one of the following 3 topics: ['adobe reader', 'web design', 'social networking']."
+        },
+        {
+            "user_in": "Oh, not sure about that really. People say it is a great place to work at though",
+            "generated": " That's a good point. Do you think the workplace environment is a good fit for you?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.19999999999999998,
+                "rouge2": 0.0,
+                "rougeL": 0.15,
+                "rougeLsum": 0.15
+            },
+            "ground_truth": "Before Google launched gmail, that was the name of a free email service offered by garfield's website. That actually seems more fun.",
+            "guideline": "It is unclear if the user likes or dislikes job satisfaction. Direct the conversation to one of the following 3 topics: ['job search', 'workplace changes', 'work environment']."
+        },
+        {
+            "user_in": "I know now everytime I open gmail I think of garfield",
+            "generated": " Garfield is one of my favorite cartoons! What other topics do you like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.16666666666666663,
+                "rouge2": 0.0,
+                "rougeL": 0.11111111111111112,
+                "rougeLsum": 0.11111111111111112
+            },
+            "ground_truth": "Speaking of cats, I would love to get a glow in the dark one. They have those in South Korea.",
+            "guideline": "The user likes garfield. Direct the conversation to one of the following 3 topics: ['garfield', 'gmail', 'internet safety']."
+        },
+        {
+            "user_in": "Wow. In Japana and Taiwan there are cat cafes where you can play with them",
+            "generated": " That's so cool! Do you have any cats that you play with at the cat cafe?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.21276595744680848,
+                "rouge2": 0.0,
+                "rougeL": 0.1702127659574468,
+                "rougeLsum": 0.1702127659574468
+            },
+            "ground_truth": "That seems fun! That reminds me of the Anderson house bed and breakfast in Minnesota. They used to offer a free cat for the night when you booked a room.",
+            "guideline": "The user likes cat cafes. Direct the conversation to one of the following 3 topics: ['cat care', 'cat adoption', 'cat adoption']."
+        },
+        {
+            "user_in": "wow. there is a town in alaska where the mayor of the town is a cat",
+            "generated": " Do you have any pets or pet care recommendations for someone who wants to adopt a cat?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10526315789473684,
+                "rouge2": 0.05555555555555556,
+                "rougeL": 0.10526315789473684,
+                "rougeLsum": 0.10526315789473684
+            },
+            "ground_truth": "That is cool. Cats are a pretty smart species. There has not been a cat species extinction in 10,000 years.",
+            "guideline": "The user likes cat. Direct the conversation to one of the following 3 topics: ['cat care', 'pet care', 'pet adoption']."
+        }
+    ],
+    "t_38454270-bfca-4263-8513-3fb4a05fd376": [
+        {
+            "user_in": "Do you like comic books?",
+            "generated": " Comic books are great! Do you have a favorite superhero or comic book character?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.3157894736842105,
+                "rouge2": 0.11764705882352941,
+                "rougeL": 0.21052631578947364,
+                "rougeLsum": 0.21052631578947364
+            },
+            "ground_truth": "I do like comic books!",
+            "guideline": "The user likes comic books. Direct the conversation to one of the following 3 topics: ['comics', 'books', 'books clubs']."
+        },
+        {
+            "user_in": "Have you heard that Harley Quinn has a new comic book series coming out?",
+            "generated": " That's really cool! What other topics do you like to talk about in book clubs?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.16216216216216214,
+                "rouge2": 0.0,
+                "rougeL": 0.1081081081081081,
+                "rougeLsum": 0.1081081081081081
+            },
+            "ground_truth": "I have not heard that.  I know that comic book legend Stan Lee used to end every phone conversation with \"excelsior!\"",
+            "guideline": "The user likes Harley Quinn. Direct the conversation to one of the following 3 topics: ['book clubs', 'book adaptations', 'book clubs']."
+        },
+        {
+            "user_in": "I've heard that too. Did you know that the DC in DC comics stands for Detective Comics?",
+            "generated": " I did not know that! Do you have any other DC comics that you like to read?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.19999999999999998,
+                "rouge2": 0.052631578947368425,
+                "rougeL": 0.19999999999999998,
+                "rougeLsum": 0.19999999999999998
+            },
+            "ground_truth": "I just read that today.  The largest comic book market is in Japan.  I believe it.  My son loves to read those mangas.",
+            "guideline": "The user likes Detective Comics. Direct the conversation to one of the following 3 topics: ['detective stories', 'superhero stories', 'comics', 'comic book adaptations']."
+        },
+        {
+            "user_in": "I would love to go there. I used to like reading Manga too. ",
+            "generated": " Do you have any other favorite manga or literary topics that you would like to discuss?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.13793103448275862,
+                "rouge2": 0.0,
+                "rougeL": 0.13793103448275862,
+                "rougeLsum": 0.13793103448275862
+            },
+            "ground_truth": "The manga market is Japan is valued at $6 to $7 billion dollars!",
+            "guideline": "The user likes manga. Direct the conversation to one of the following 3 topics: ['manga adaptations', 'literary discussions', 'animal rights']."
+        },
+        {
+            "user_in": "That is wild! Did you know that Michigan State University library has the largest publicly available comic book collection in the world?",
+            "generated": " I did not know that! What other topics do they have in addition to comic books?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.26086956521739135,
+                "rouge2": 0.045454545454545456,
+                "rougeL": 0.21739130434782608,
+                "rougeLsum": 0.21739130434782608
+            },
+            "ground_truth": "I didn't know that.  I wonder how many people use it.  By comparison to Japan, the US comic book market in the US and Canada is $1.09 billion!",
+            "guideline": "The user likes collecting. Direct the conversation to one of the following 3 topics: ['book clubs', 'collecting tips', 'book clubs', 'book clubs']."
+        },
+        {
+            "user_in": "That's crazy, Japan is way more into comic books than America it seems. ",
+            "generated": " Do you have any favorite Japanese comic books or literary novels that you would recommend?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.05405405405405406,
+                "rouge2": 0.0,
+                "rougeL": 0.05405405405405406,
+                "rougeLsum": 0.05405405405405406
+            },
+            "ground_truth": "I agree!  The Marvel cinematic universe takes place in earth -199999, a multiverse different from the original comic book multiverse, earth-616!",
+            "guideline": "The user likes Japan. Direct the conversation to one of the following 3 topics: ['Japan', 'books', 'literary classics']."
+        },
+        {
+            "user_in": "That's pretty wild. Marvel published a \"generic comic book,\" in order to trademark the names \"superhero\" and \"super-villain.\" That was pretty smart of them. ",
+            "generated": " That's really cool! What other topics do you like to talk about in those topics?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.21428571428571427,
+                "rouge2": 0.07692307692307691,
+                "rougeL": 0.21428571428571427,
+                "rougeLsum": 0.21428571428571427
+            },
+            "ground_truth": "No doubt!  Do you know much about the planets or the universe?",
+            "guideline": "The user likes superheroes. Direct the conversation to one of the following 3 topics: ['apocalyptic stories', 'literary classics', 'fantasy books']."
+        },
+        {
+            "user_in": "I know a little bit. I've heard that Venus does not tilt. ",
+            "generated": " What other topics do you have in mind for conversations with a tennis player?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.05555555555555555,
+                "rouge2": 0.0,
+                "rougeL": 0.05555555555555555,
+                "rougeLsum": 0.05555555555555555
+            },
+            "ground_truth": "That interesting.  Uranus is different to.  It actually rotates sideways and rolls around the sun rather than spins like the other planets.",
+            "guideline": "The user likes Venus. Direct the conversation to one of the following 3 topics: ['tennis', 'sportsmanship', 'tennis equipment']."
+        },
+        {
+            "user_in": "That's really interesting. I've also heard that Jupiter's moon Ganymede would be considered a planet if it orbited the sun. ",
+            "generated": " Do you have any other favorite astronomy topics that you'd like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.05,
+                "rouge2": 0.0,
+                "rougeL": 0.05,
+                "rougeLsum": 0.05
+            },
+            "ground_truth": "It must be pretty big then!  I wouldn't want to ever visit the unnamed planet where shards of glass precipitate sideways at 4500 mph!",
+            "guideline": "The user likes Jupiter's moon. Direct the conversation to one of the following 3 topics: ['astronautic discoveries', 'astronomy', 'astronomy education']."
+        },
+        {
+            "user_in": "I don't see that being a pleasant place. It's even 2000 degree weather. That sounds like hell to me!",
+            "generated": " What are the other three topics that you would like to discuss with a fellow climate scientist?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.15384615384615383,
+                "rouge2": 0.0,
+                "rougeL": 0.15384615384615383,
+                "rougeLsum": 0.15384615384615383
+            },
+            "ground_truth": "Hahah That's a good way of putting it! ",
+            "guideline": "The user dislikes weather. Direct the conversation to one of the following 3 topics: ['astrophysics', 'climate change', 'climatic conditions']."
+        }
+    ],
+    "t_23942b1a-e379-41bd-826d-3e500f4f0e1a": [
+        {
+            "user_in": "Can you believe there is stars that can be cold enough to be touched ? The universe is so diverse. ",
+            "generated": " What's your favorite astronomy topic to talk about? Do you have any other topics you'd like to share with me?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Its amazing and ever evolving. ",
+            "guideline": "The user likes stargazing. Direct the conversation to one of the following 3 topics: ['stargazing', 'astronomy', 'astronomy education']."
+        },
+        {
+            "user_in": "Yeah and there is even places that exist but we never will be able to see because they are too far away. ",
+            "generated": " Have you ever been to any of these places that you would like to visit in the future?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.12903225806451615,
+                "rouge2": 0.0,
+                "rougeL": 0.12903225806451615,
+                "rougeLsum": 0.12903225806451615
+            },
+            "ground_truth": "They are saying space pulls galaxies outside of universe that we could see",
+            "guideline": "The user likes places. Direct the conversation to one of the following 3 topics: ['travel destinations', 'travel tips', 'travel destinations']."
+        },
+        {
+            "user_in": "Yes that is what I was saying, albeit I doubt that there is only one electron in the universe like some people say. ",
+            "generated": " Electronics is such a fascinating field of science and technology. Do you have a favorite type of electronic device?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "I don't see anything supporting or denying that theory so we would never know for sure. ",
+            "guideline": "It is unclear if the user likes or dislikes electron. Direct the conversation to one of the following 3 topics: ['electron research', 'science', 'technology']."
+        },
+        {
+            "user_in": "Yeah, but only one ? For all the universe ? It does not seems logic ...",
+            "generated": " What do you think about Quantum Mechanics and Qantum Computers?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.07142857142857142,
+                "rouge2": 0.0,
+                "rougeL": 0.07142857142857142,
+                "rougeLsum": 0.07142857142857142
+            },
+            "ground_truth": "There is only one sun that warms earth and all other planets so why not just one electron? ",
+            "guideline": "The user likes quantum computing. Direct the conversation to one of the following 3 topics: ['quantum mechanics', 'quantum computers', 'quantum computing applications']."
+        },
+        {
+            "user_in": "Because an electron is part of matter, the water you drink, the chair you sit on. Saying there is only 1 electron in the universe is like saying there is 1 grain of wheat in your bread.  ",
+            "generated": " What is your favorite type of electronic device and why do you like electronics so much?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10526315789473685,
+                "rouge2": 0.0,
+                "rougeL": 0.052631578947368425,
+                "rougeLsum": 0.052631578947368425
+            },
+            "ground_truth": "It makes sense when you put it that way but in terms of that universe size the electron could be very big.",
+            "guideline": "The user likes electron. Direct the conversation to one of the following 3 topics: ['science', 'technology', 'news']."
+        },
+        {
+            "user_in": "Maybe they did mean to say that our universe is contained in an electron in another universe ?",
+            "generated": " Science education sounds like an interesting topic. Do you have any other topics you'd like to share with me?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10526315789473685,
+                "rouge2": 0.03636363636363636,
+                "rougeL": 0.10526315789473685,
+                "rougeLsum": 0.10526315789473685
+            },
+            "ground_truth": "I don't know but I am at the end of knowledge on this subject. What do you think about the facts of comics? I would have thought US invented them, but it's Japan or UK.",
+            "guideline": "The user likes universe. Direct the conversation to one of the following 3 topics: ['science', 'science education']."
+        },
+        {
+            "user_in": "Japan has a great printing history, I am not surprised about this. Do you read comics books ? I have read a few but not about super-heroes. ",
+            "generated": " Who is your favorite superhero and why do you dislike superheros so much? ",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "I used to in my childhood but not any more, I used to love inspector Gadget. ",
+            "guideline": "The user dislikes super-heroes. Direct the conversation to one of the following 3 topics: ['book clubs', 'books', 'books recommendations']."
+        },
+        {
+            "user_in": "Was Inspect Gadget a comics on Paper or a cartoon on TV ? I was talking about what Marvel is publishing.",
+            "generated": " Inspite of Marvel's popularity, what is your favorite Marvel comic book?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "On Paper and yes I do recall seeing Super-hero and Hulk books.",
+            "guideline": "The user likes Marvel. Direct the conversation to one of the following 3 topics: ['comics', 'anime adaptations', 'comics art']."
+        },
+        {
+            "user_in": "I think that Hulk is in the Marvel universe. But like I said, I never read anything from Marvel nor DC comics. ",
+            "generated": " Who is your favorite Marvel Character and why do you like Marvel so much?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.06666666666666667,
+                "rouge2": 0.0,
+                "rougeL": 0.06666666666666667,
+                "rougeLsum": 0.06666666666666667
+            },
+            "ground_truth": "Right me neither, there were so many good choices of comics when I was growing up. ",
+            "guideline": "The user likes Marvel. Direct the conversation to one of the following 3 topics: ['comics', 'anime adaptations', 'comics art']."
+        },
+        {
+            "user_in": "Not where I lived, if I want to read a comic book, I had to go to the library. But as I think about it Tintin is a comic book, so I was wrong, I did read a lot of them when I was young but they were European.  ",
+            "generated": " That's really interesting! What other topics do you like to talk about in book clubs?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Mine all time favorite was Bozo the clown, books and TV both. ",
+            "guideline": "The user likes Tintin. Direct the conversation to one of the following 3 topics: ['a book club', 'book recommendations', 'book clubs']."
+        }
+    ],
+    "t_f289d280-afcd-46f5-97e1-64a9e3aedc70": [
+        {
+            "user_in": "Are you a Star Wars fan? I need to rewatch the OT and the prequels so I can watch the subsequent stuff for the first time and understand what's going on.",
+            "generated": " Yes, I love Star Wars! What's your favorite movie of the trilogy so far?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.34782608695652173,
+                "rouge2": 0.09090909090909091,
+                "rougeL": 0.26086956521739135,
+                "rougeLsum": 0.26086956521739135
+            },
+            "ground_truth": "Hi! Yes, I am a huge fan of Star Wars! I also loved how it was the first major movie to be dubbed in Navajo! I think that is so cool!",
+            "guideline": "The user likes Star Wars. Direct the conversation to one of the following 3 topics: ['movie reviews', 'scary movies', 'movie quotes']."
+        },
+        {
+            "user_in": "Yeah, that's wild. I guess it takes a pretty small audience to pay for the translation work.",
+            "generated": " Language barriers can be tough. What's your favorite language to communicate with?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0816326530612245,
+                "rouge2": 0.0,
+                "rougeL": 0.0816326530612245,
+                "rougeLsum": 0.0816326530612245
+            },
+            "ground_truth": "Agreed. Isn't it also funny James Earl Jones only spent two and half hours recording his lines for Darth Vader? I also can't believe he was only paid $7500! Geez, that's pocket change.",
+            "guideline": "It is unclear if the user likes or dislikes language barrier. Direct the conversation to one of the following 3 topics: ['asian cultures', 'cultural diversity', 'indigenous people', 'cultural heritage']."
+        },
+        {
+            "user_in": "$7500 is amazingly low. I guess since Darth Vader was masked Jones could just record everything at once in the studio.",
+            "generated": " What other topics do you like to listen to when you're at a festival?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.07272727272727272,
+                "rouge2": 0.0,
+                "rougeL": 0.07272727272727272,
+                "rougeLsum": 0.07272727272727272
+            },
+            "ground_truth": "Agreed. Can you also believe that George Lucas' wife at the time, Marcia, won an academy award for her editing on Star Wars and yet George Lucas didn't win an academy award for directing. That is just downright unbelievable!",
+            "guideline": "The user likes darth Vader. Direct the conversation to one of the following 3 topics: ['music appreciation', 'music history', 'music festivals']."
+        },
+        {
+            "user_in": "A lot of people think the OT was so much better than the prequels because of her influence.",
+            "generated": " What are some of the other topics that you like to discuss with other movie reviewers?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.13043478260869568,
+                "rouge2": 0.0,
+                "rougeL": 0.13043478260869568,
+                "rougeLsum": 0.13043478260869568
+            },
+            "ground_truth": "Yeah it was because of her that so many major changes were made like Leia's good luck kiss, Obi Wan's death, etc. She was truly a big influence!",
+            "guideline": "The user likes Oscar. Direct the conversation to one of the following 3 topics: ['movie reviews', 'scary movies', 'movie quotes']."
+        },
+        {
+            "user_in": "I remember thinking just about everything in the prequels' timeline was off, based on the mental version of the past the OT led us to construct. But I'd have to rewatch to nail it down.",
+            "generated": " That's really interesting! Do you have a favorite prequel or movie that you would recommend?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.22641509433962265,
+                "rouge2": 0.0392156862745098,
+                "rougeL": 0.11320754716981132,
+                "rougeLsum": 0.11320754716981132
+            },
+            "ground_truth": "Yeah I would have to watch it as well! So are you also a fan of Chewbacca? I love him. I think it's funny there's a bat species called the Chewbacca bat. That's hilarious!",
+            "guideline": "The user likes prequels. Direct the conversation to one of the following 3 topics: ['movie adaptations', 'tv series', 'movie reviews']."
+        },
+        {
+            "user_in": "I never felt strongly about Chewbacca one way or the other TBH. But I've got to google a picture of that bat to see what it looks like!",
+            "generated": " Do you have a favorite chewbaca bat or do you not care for it?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.16216216216216214,
+                "rouge2": 0.0,
+                "rougeL": 0.1081081081081081,
+                "rougeLsum": 0.1081081081081081
+            },
+            "ground_truth": "I would like to see it as well. Did you know Chewbacca actually had a wife and two boys? That's pretty interesting!",
+            "guideline": "The user dislikes Chewbacca. Direct the conversation to one of the following 3 topics: ['Chewbacca', 'Star Wars', 'Fantasy films']."
+        },
+        {
+            "user_in": "I vaguely recall reading something in the Star Wars fictional universe where a young Han Solo stayed with Chewbacca and his mom in their home.",
+            "generated": " That's really interesting! What other topics did you like to read in literature?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.1702127659574468,
+                "rouge2": 0.044444444444444446,
+                "rougeL": 0.1276595744680851,
+                "rougeLsum": 0.1276595744680851
+            },
+            "ground_truth": "That's so weird, isn't it? Ha! Are you one of the fans who believes both r2d2 and Chewbacca were secret rebel agents? I kind of think it's an interesting theory. ",
+            "guideline": "The user likes Han Solo. Direct the conversation to one of the following 3 topics: ['Han Solo', 'books', 'literary classics']."
+        },
+        {
+            "user_in": "I wish I knew enough about the background to have an opinion, but the last Star Wars I watched was Episode III, when it came out on video. I really need to rewatch to refresh my memory of it. ",
+            "generated": " That's really interesting! Do you have any other favorite movies or movie quotes that you can share with me?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10256410256410256,
+                "rouge2": 0.0,
+                "rougeL": 0.10256410256410256,
+                "rougeLsum": 0.10256410256410256
+            },
+            "ground_truth": "Same here! Like, I also had forgotten that before his companionship with Chewbacca, Hans Solo was an imperial lieutenant!",
+            "guideline": "The user likes Star Wars. Direct the conversation to one of the following 3 topics: ['movie reviews', 'scary movies', 'movie quotes']."
+        },
+        {
+            "user_in": "Yeah, I don't remember that at all. He definitely doesn't seem like the type.",
+            "generated": " What was the movie that he disliked the most and why did he dislike the character?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.14545454545454548,
+                "rouge2": 0.0,
+                "rougeL": 0.1090909090909091,
+                "rougeLsum": 0.1090909090909091
+            },
+            "ground_truth": "Indeed he doesn't. But I've always liked Chewbacca because he reminded me of a giant dog. Ha! Speaking of dogs, I think it's cool that dogs, along with elephants, are the only animals that understand pointing!",
+            "guideline": "The user dislikes movie character. Direct the conversation to one of the following 3 topics: ['movie reviews', 'scary movies', 'movie sequels']."
+        },
+        {
+            "user_in": "I wouldn't be surprised if cats understood it but just didn't care, LOL.",
+            "generated": " Do you have any pets that you take care of or are you looking for a pet to adopt?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.11538461538461539,
+                "rouge2": 0.0,
+                "rougeL": 0.07692307692307693,
+                "rougeLsum": 0.07692307692307693
+            },
+            "ground_truth": "Ha! No kidding. Speaking of dogs and cats, I like how Google prefers dogs over cats and even states in their code of conduct that they're a dog company! That is awesome!",
+            "guideline": "The user likes cats. Direct the conversation to one of the following 3 topics: ['cat care', 'pet care', 'pet adoption']."
+        }
+    ],
+    "t_d61bd2b1-d554-406f-afb9-5a745a7a9ad1": [
+        {
+            "user_in": "Naming a cloned cat \"copy cat\", that's cute.",
+            "generated": " Do you have a cat named \"Copy\" or \"Animal Welfare\"?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.13043478260869565,
+                "rouge2": 0.04545454545454545,
+                "rougeL": 0.13043478260869565,
+                "rougeLsum": 0.13043478260869565
+            },
+            "ground_truth": "You must have ESP. I was going to tell you teh same thing! I have a sad story to tell there are less tigers living in the wild in Asia than as pets in the US.",
+            "guideline": "The user likes cat name. Direct the conversation to one of the following 3 topics: ['cat care', 'animal welfare', 'cat adoption']."
+        },
+        {
+            "user_in": "Really? That's awful to hear!",
+            "generated": " Do you have any other topics that you would like to share with me about car accidents?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Of Roosevelt's 20 pets two were a bear and hyena!",
+            "guideline": "The user likes car accident. Direct the conversation to one of the following 3 topics: ['car accident', 'news', 'car insurance']."
+        },
+        {
+            "user_in": "Whoa, cool! I know he seemed to be quite the animal lover.",
+            "generated": " What do you think about animal welfare and the welfare of animals in the U.S.?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.13636363636363635,
+                "rouge2": 0.0,
+                "rougeL": 0.09090909090909091,
+                "rougeLsum": 0.09090909090909091
+            },
+            "ground_truth": "And there are more pets in Japan than there are children under 15. You can't be a pets \"OWNER\" in Boulder but you can be their guardian.  ",
+            "guideline": "The user likes animals. Direct the conversation to one of the following 3 topics: ['animal welfare', 'animal welfare', 'animal welfare']."
+        },
+        {
+            "user_in": "I have a pet. I am an ailurophile meaning I love cats.",
+            "generated": " That's awesome! What's your cat's name and how long have you had him/her?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.06666666666666667,
+                "rouge2": 0.0,
+                "rougeL": 0.06666666666666667,
+                "rougeLsum": 0.06666666666666667
+            },
+            "ground_truth": "Cool word! Did you know there are 20 quintillion animal varieties on Earth?",
+            "guideline": "The user likes cats. Direct the conversation to one of the following 3 topics: ['cat care', 'pet care', 'pet adoption']."
+        },
+        {
+            "user_in": "That is a lot! And in 2002 Germany gave them legal rights.",
+            "generated": " That's interesting! What other topics did you have in mind for them to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "Yeah, and the Loch Ness monster is protected under the 1912 Scottish Animal Protection Act.",
+            "guideline": "The user likes Europe. Direct the conversation to one of the following 3 topics: ['european destinations', 'travel tips', 'european culture']."
+        },
+        {
+            "user_in": "I wonder if the immortal jellyfish needs protecting... being immortal and all.",
+            "generated": " What do you think about the concept of immortality? Do you think it would be possible to live forever?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.10256410256410256,
+                "rouge2": 0.0,
+                "rougeL": 0.10256410256410256,
+                "rougeLsum": 0.10256410256410256
+            },
+            "ground_truth": "Lol...speaking of water animals, did you know that hiccoughs are a left over from evolution when we had gills?",
+            "guideline": "The user likes jellyfish. Direct the conversation to one of the following 3 topics: ['jellyfish care', 'animal welfare', 'fish habitats']."
+        },
+        {
+            "user_in": "Maybe that connection is part of why 84% of human disease genes have counterparts in zebrafish, too... hmm.",
+            "generated": " That's a good point. Human genes can also be influenced by environmental factors.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.1,
+                "rouge2": 0.0,
+                "rougeL": 0.05,
+                "rougeLsum": 0.05
+            },
+            "ground_truth": "Hmm? Good theory. Seeing that the most popular pets are cats and dogs it is no surprise that they are commonly used for therapy in hospitals.",
+            "guideline": "It is unclear if the user likes or dislikes human disease. Direct the conversation to one of the following 3 topics: ['human diseases', 'diseases in animals', 'human health']."
+        },
+        {
+            "user_in": "Well, they are good at helping people adjust to new situations, too.",
+            "generated": " That's great to hear! What are some of the other topics that you like to talk about?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.15384615384615383,
+                "rouge2": 0.0,
+                "rougeL": 0.07692307692307691,
+                "rougeLsum": 0.07692307692307691
+            },
+            "ground_truth": "Yes, like for elderly who are without companions.",
+            "guideline": "The user likes job satisfaction. Direct the conversation to one of the following 3 topics: ['job search', 'workplace changes', 'work environment']."
+        },
+        {
+            "user_in": "Or people with anxiety and depression, or kids with autism.",
+            "generated": " What are some of the other topics that you would like to discuss with someone with mental health or autism?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.23809523809523808,
+                "rouge2": 0.0,
+                "rougeL": 0.14285714285714282,
+                "rougeLsum": 0.14285714285714282
+            },
+            "ground_truth": "Yes, a seahorse wouldn't be very good for that purpose. Did you know seahorses are the only fish with a neck?",
+            "guideline": "The user likes mental health. Direct the conversation to one of the following 3 topics: ['mental health', 'healthy lifestyles']."
+        },
+        {
+            "user_in": "I don't think a black swallower fish would be good as a companion pet either because it can eat prey twice its length!",
+            "generated": " Why do you dislike black swallow fish? Do you think it would be a good companion fish?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.12121212121212122,
+                "rouge2": 0.0,
+                "rougeL": 0.06060606060606061,
+                "rougeLsum": 0.06060606060606061
+            },
+            "ground_truth": "That would freak me out! But I bet it catches that prey using its acoustic communication!",
+            "guideline": "The user dislikes black swallower fish. Direct the conversation to one of the following 3 topics: ['wildlife conservation', 'wildlife conservation', 'wildlife conservation']."
+        },
+        {
+            "user_in": "Could be. Fish are cool like that. I think it's neat that amphibians and reptiles and birds and mammals all had the same ancestry with fish.",
+            "generated": " That's really interesting! Do you have a favorite type of fish to care for or care for?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.07142857142857142,
+                "rouge2": 0.0,
+                "rougeL": 0.07142857142857142,
+                "rougeLsum": 0.07142857142857142
+            },
+            "ground_truth": "I wonder if reptiles are considered ectothermic like most fish?",
+            "guideline": "The user likes fish. Direct the conversation to one of the following 3 topics: ['fish care', 'animal welfare', 'fish habitats']."
+        },
+        {
+            "user_in": "That would be a good thing to know, especially because some of them make good pets.",
+            "generated": " What are some of the other topics that you would like to discuss with a pet owner?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.16216216216216214,
+                "rouge2": 0.0,
+                "rougeL": 0.1081081081081081,
+                "rougeLsum": 0.1081081081081081
+            },
+            "ground_truth": "Yep, but I don't know if walking a gecko would give the same health benefits as walking a dog",
+            "guideline": "The user likes pets. Direct the conversation to one of the following 3 topics: ['pet care', 'animal welfare', 'pet adoption']."
+        },
+        {
+            "user_in": "Probably not. Dog walking is good because it gives companionship and exercise at the same time.",
+            "generated": " What other topics do you like to hike and take photos of? I love hiking.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0625,
+                "rouge2": 0.0,
+                "rougeL": 0.0625,
+                "rougeLsum": 0.0625
+            },
+            "ground_truth": "Hey, did you know the first marine predator was the shark? They developed in the Silurian period.",
+            "guideline": "The user likes dog walking. Direct the conversation to one of the following 3 topics: ['outdoor photography', 'hiking trails', 'outdoor festivals']."
+        },
+        {
+            "user_in": "Very interesting. I wonder how many aquatic species have gone extinct since then...",
+            "generated": " I'm not sure, but I do know that there are more than seventy different species of fish.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.15,
+                "rouge2": 0.0,
+                "rougeL": 0.09999999999999999,
+                "rougeLsum": 0.09999999999999999
+            },
+            "ground_truth": "Or have evolved into other species. The shark has a higher core temperature than other fish because it is an active swimmer.",
+            "guideline": "It is unclear if the user likes or dislikes aquatic species. Direct the conversation to one of the following 3 topics: ['aquariums', 'animal welfare', 'aquatic conservation']."
+        },
+        {
+            "user_in": "That makes sense. I always thought sharks were pretty interesting because they have cartilage instead of bone.",
+            "generated": " Sharks are fascinating creatures. Do you have a favorite type of shark?",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.2222222222222222,
+                "rouge2": 0.0,
+                "rougeL": 0.16666666666666666,
+                "rougeLsum": 0.16666666666666666
+            },
+            "ground_truth": "Yes, fascinating fact! Tuna also hold a higher core temperature. They are in the same class as shark because they are also active swimmers.",
+            "guideline": "The user likes sharks. Direct the conversation to one of the following 3 topics: ['shark care', 'animal welfare', 'wildlife conservation']."
+        },
+        {
+            "user_in": "Tuna can get quite large, too. It's cool how big some fish get.",
+            "generated": " What's your favorite recipe to make with tuna? I like to make tuna casserole.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.0,
+                "rouge2": 0.0,
+                "rougeL": 0.0,
+                "rougeLsum": 0.0
+            },
+            "ground_truth": "One more before we go...did you know domesticated animals develop a white patch on their forehead?",
+            "guideline": "The user likes tuna. Direct the conversation to one of the following 3 topics: ['tuna recipes', 'food safety', 'fish consumption']."
+        },
+        {
+            "user_in": "Yeah. that is a pretty cool way to know they are domesticated rather than wild.",
+            "generated": " Domestic animals have been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes.",
+            "our_bleu": 0.0,
+            "our_rouge2": {
+                "rouge1": 0.05405405405405405,
+                "rouge2": 0.0,
+                "rougeL": 0.05405405405405405,
+                "rougeLsum": 0.05405405405405405
+            },
+            "ground_truth": "Very cool chatting with you. Did you know there are 6331 groups of genes? They are common to all living animals!",
+            "guideline": "The user likes domestic animals. Direct the conversation to one of the following 3 topics: ['domestic animals', 'animal welfare', 'wildlife conservation']."
+        }
+    ]
+}
