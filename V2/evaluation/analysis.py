@@ -187,7 +187,6 @@ def generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, nu
         json.dump(save_js, fp)
 
 def run_evaluation(rouge,response, ch, target,uni_evaluator):
-def run_evaluation(rouge,response, ch, target,uni_evaluator):
     conv_history = [f'{target}\n']
     # c = ch.copy()
     # c.append(target)
@@ -366,7 +365,7 @@ if __name__ == '__main__':
     print('Starting Graph Eval File Generation...')
     # generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, 1200)
 
-    write_path2 = './eval_final2_01022024_complete_hist.json'
+    write_path2 = './eval_final2_01102024_complete_hist.json'
     print('Starting Pipeline Evaluation...')
     evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, resp_model, resp_tokenizer, write_path, write_path2, 1200, True)
     
