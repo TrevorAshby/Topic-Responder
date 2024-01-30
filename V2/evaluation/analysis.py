@@ -14,6 +14,8 @@ import re
 
 from UniEval.UniEval.utils import convert_to_json
 from UniEval.UniEval.metric.evaluator import get_evaluator
+from openai import OpenAI
+
 
 
 # ------ UTILITIES ------ #
@@ -109,14 +111,28 @@ resp_model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-chat-hf
 # otter_target = open('./otter/target_tiage.csv', 'r').readlines()
 # otter_source = open('./otter/source_tiage.csv', 'r').readlines()
 
-otter_responses = open('./otter/result_ep:test_multiwoz.txt', 'r').readlines()
-otter_target = open('./otter/target_multiwoz.csv', 'r').readlines()
-otter_source = open('./otter/source_multiwoz.csv', 'r').readlines()
+# otter_responses = open('./otter/result_ep:test_multiwoz.txt', 'r').readlines()
+# otter_target = open('./otter/target_multiwoz.csv', 'r').readlines()
+# otter_source = open('./otter/source_multiwoz.csv', 'r').readlines()
+
+otter_responses = open('./otter/result_ep:test_valid.txt', 'r').readlines()
+otter_target = open('./otter/target_valid.csv', 'r').readlines()
+otter_source = open('./otter/source_valid.csv', 'r').readlines()
+
+# baseline 3
+#! THIS IS WHERE VICUNA BELONGS
+b3_tokenizer = AutoTokenizer.from_pretrained("lmsys/vicuna-7b-v1.5")
+b3_model = AutoModelForCausalLM.from_pretrained("lmsys/vicuna-7b-v1.5")
+
+# baseline 4
+#! THIS IS WHERE OPENAI BELONGS
+b4_client = OpenAI(api_key=open('../../api_key.txt', 'r').read())
 
 # load models to gpu
 cot_model.to('cuda:0')
 recc_model.to('cuda:0')
 resp_model.to('cuda:0')
+b3_model.to('cuda:1') #! might need to make this another GPU
 
 # b1_model.to('cuda:0')
 
@@ -280,7 +296,7 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
 
                 # generate response from our pipeline
 
-                #! use the next 2 lines if mistral being used
+                #! use the next 2 lines if mistral not being used
                 llama_in = f'<s>[INST] <<SYS>>\nYou are a person participating in a conversation. You are specifically person2. <</SYS>>\nGenerate the next conversation turn for person2 responding to person1 in this conversation: {user_in.replace("</s> <s>", " ")} Limit the generated response to 1-2 sentences and compliant with this guideline: {guideline} [/INST] person2:'
                 blend_in_ids = resp_tokenizer(llama_in, max_length=1024, return_tensors='pt', truncation=True).to('cuda:0')
 
@@ -302,7 +318,7 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
                         'pref_prof':xtract_prof}
                 
                 # generate response from baseline 1
-                #! use the next 2 lines if mistral being used
+                #! use the next 2 lines if mistral not being used
                 llama_in = f'<s>[INST] <<SYS>>\nYou are a person participating in a conversation. You are specifically person2. <</SYS>>\nGenerate the next conversation turn for person2 responding to person1 in this conversation: {user_in.replace("</s> <s>", " ")} Limit the generated response to 1-2 sentences [/INST] person2:'
                 blend_in_ids = resp_tokenizer(llama_in, max_length=1024, return_tensors='pt', truncation=True).to('cuda:0')
 
@@ -339,7 +355,41 @@ def evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1
                 #         'unieval':"shorter than 3"
                 #     }
 
-                temp = {'user_in':user_in, 'ours':ours, 'b1(vanilla)':b1, 'b2(ott)':ott, 'target_response':real_response}
+                # generate a response for baseline 3
+                #! THIS IS WHERE VICUNA BELONGS
+                inputs = b3_tokenizer(user_in + 'person2:', return_tensors="pt").to('cuda:1')
+
+                # Generate
+                generate_ids = b3_model.generate(inputs.input_ids, max_length=500)
+                b3_out = b3_tokenizer.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
+
+                b3_out = b3_out.split("person2:")[-1]
+                # run evaluation
+                b3_bleu, b3_rouge, b3_unieval = run_evaluation(rouge, f'person2:{b3_out}', inst['conv_history'], real_response, uni_evaluator)
+                b3 = {
+                    'generated':f'person2:{b3_out}',
+                    'bleu':b3_bleu,
+                    'rouge':b3_rouge,
+                    'unieval':b3_unieval
+                }
+
+                # generate a response for baseline 4
+                #! THIS IS WHERE GPT3.5 BELONGS
+                completion = b4_client.chat.completions.create(model='gpt-3.5-turbo',
+                                            messages=[{"role": "system", "content": "You are a person participating in a conversation. You are specifically person2."},
+                                                      {"role": "user", "content": f"Generate the next conversation turn for person2 responding to person1 in this conversation: {user_in} Limit the generated response to 1-5 sentences."}])
+                b4_out = completion.choices[0].message.content
+                # run evaluation
+                b4_bleu, b4_rouge, b4_unieval = run_evaluation(rouge, f'person2:{b4_out}', inst['conv_history'], real_response, uni_evaluator)
+                b4 = {
+                    'generated':f'person2:{b4_out}',
+                    'bleu':b4_bleu,
+                    'rouge':b4_rouge,
+                    'unieval':b4_unieval
+                }
+
+
+                temp = {'user_in':user_in, 'ours':ours, 'b1(vanilla)':b1, 'b2(ott)':ott, 'b3(vicuna)':b3, 'b4(chatgpt)':b4, 'target_response':real_response}
                 conv_list.append(temp)
                 # save [input, our output, bleu, rouge, output baselines, bleu, rouge, GPT-4 ranking]
         save_js[t] = conv_list
@@ -352,21 +402,24 @@ if __name__ == '__main__':
     
     #! TOPICAL CHAT
     # read_path = './topical_chat/Topical-Chat/conversations/test_freq.json'
-    # write_path = './eval_ds2_complete_5000.json'
+    # write_path = './eval_ds2_complete.json'
+    
+    # read_path = './topical_chat/Topical-Chat/conversations/valid_freq.json'
+    # write_path = './eval_ds2_complete_valid.json'
     
     #! TIAGE
-    # read_path = './tiage/tc_anno_test.json'
-    # write_path = './eval_ds2_complete_tiage_5000.json'
+    read_path = './tiage/tc_anno_test.json'
+    write_path = './eval_ds2_complete_tiage_5000.json'
     
     #! MULTIWOZ
-    read_path = './multiwoz/tc_anno_test.json'
-    write_path = './eval_ds2_complete_multiwoz_1200.json'
+    # read_path = './multiwoz/tc_anno_test.json'
+    # write_path = './eval_ds2_complete_multiwoz_1200.json'
 
     print('Starting Graph Eval File Generation...')
-    # generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, 1200)
+    # generate_graph_eval_file(cot_model, cot_tokenizer, read_path, write_path, 2400)
 
-    write_path2 = './eval_final2_01102024_complete_hist.json'
+    write_path2 = './EVAL_FINAL_01282024_b1-4_tiage.json'
     print('Starting Pipeline Evaluation...')
-    evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, resp_model, resp_tokenizer, write_path, write_path2, 1200, True)
+    evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, resp_model, resp_tokenizer, write_path, write_path2, 2400, True)
     
     #evaluate_pipeline(recc_model, recc_tokenizer, resp_model, resp_tokenizer, b1_model, b1_tokenizer, write_path, write_path2, 10, True)
