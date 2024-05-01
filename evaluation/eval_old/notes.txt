@@ -1,0 +1,54 @@
+Evaluation Pipeline:
+
+NOTICE: Models have not been enlarged.
+Response model (enc/dec): 400m parameters -> LLAMA2/Vicuna (watch out for potentially rogue decoder only models)
+Recommender model (enc/dec): 770m parameters
+Extraction model (enc/dec): ~400m parameters (1.63 GB) -> LLAMA2/Vicuna
+
+Preparation:
+1. For every conversation turn by the user:
+    1a. Extract the topic
+    2b. Store in Graph_i (Graph_i = Graph_{i-1})
+    3b. Grab Focus topic
+2. Do this for every conversation turn.
+
+Utterance Level Evaluation:
+1. For every conversation turn, generate a response based upon preparation_i (user_utterance, graph, etc.)
+2. Calculate the Bleu, Rouge, and Neural evaluation for the generated response w.r.t original output.
+3. Calculate similar metrics for the baseline model(s) w.r.t original output.
+
+Quantitative Evaluation:
+- Bleu
+- Rouge
+- GPT-4: referenced and unref
+- InstructEval (c)
+- UniEval
+- Unreferenced metrics *
+
+Qualitative (conversation level) (keep it simple) (20-30 turns)
+- User study?
+
+QUESTIONS:
+- When using BLEU and ROUGE, the response might be good, but not very similar to the original response? This will
+lead to low scores for a potentially good generation.
+
+Baselines:
+- LLAMA 2/Vicuna
+- Blenderbot
+- Topic Resonder (?)
+
+
+* investigate training data (why does "What are..." occur so often.)
+* include extracted topics (output)
+* include suggested topics (output)
+
+
+input, intermediate outputs, generated_i, evaluation_i (bleu, rouge, etc.), baseline_i, eval_i (bleu, etc.)
+
+- Random Human Annotated Samples (~200), is A better than B? (win/tie/lose)
+- Random order, and don't let annotators know
+    - (win/tie/lose) quality
+    - column 1, column 2, which is better? (keep is simple)
+
+
+- Harmfullness? Safety?

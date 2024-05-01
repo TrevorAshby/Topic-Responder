@@ -1,0 +1,2510 @@
+{
+    "0": {
+        "b0": [
+            [
+                {
+                    "TV show": "positive",
+                    "Pok\u00e9mon": "unknown"
+                },
+                "TV show",
+                " I have watched some Pokemon in the past. I know the boy in the show that is always trying to catch them is named Ash. ",
+                "agent_2 likes TV show. agent_1's response should fall into one of the following 3 topics: ['Pokemon', 'video games', 'game reviews'].",
+                [
+                    "Pokemon",
+                    "video games",
+                    "game reviews"
+                ],
+                {
+                    "TV show": "positive",
+                    "Pok\u00e9mon": "unknown"
+                }
+            ]
+        ],
+        "b1": [
+            " I have watched and played some of that. Is it still around? I figured it was a long time ago they would have caught all of those pokemon. "
+        ],
+        "b3": [
+            "I have watched Pokemon. I think it is a cute show. I do not have any kids though. person 1:I have watched it as well. I think it is a cute show. I do not have kids either. I think it is interesting that there are over 750 episodes of Pokemon. I wonder how many I have watched.\nperson 2:I have watched a few. I think they are cute as well. I think it is interesting that the Pokemon craze caused a spike in the number of college students majoring in japanese."
+        ],
+        "bt": "No, I haven't watch pokemon. My sons use to play with the when they were little. Now they use their phones looking for pokemon in the neighborhood. It is funny.",
+        "conv": [
+            "Did you know that the University of Iowa's locker room is painted pink? I wonder why?",
+            "I think I did hear something about that.  I imagine it is an attempt to psych the other team out.",
+            "So, it would be in the visiting team's locker room but not their own?",
+            "Right.  Teams do all kinds of things to bother the competition. I've heard of teams having heated benches in the winter for themselves but not for the visitors.",
+            "I would hate a cold bench. Then again, I wouldn't want to be some place that cold or watching football.",
+            "I'd rather watch it inside where it's warm.  Have you heard about the Georgia Tech-Cumberland game of 1916?",
+            "No, what happened in that game?",
+            "Georgia Tech defeated Cumberland but here's the thing, they defeated them by a score of 222-0!",
+            "That is insane. How could that even happen?",
+            "I don't know but it did.  It's the highest scoring game in history.",
+            "I'm sure. I don't even watch much and I couldn't imagine that score. I wonder if most people left or were they curious to see how high it would go?",
+            "I guess it depended on what team you were pulling for.  To me, it's surprising that the highest scoring game was in college football and not professional.",
+            "Maybe it is because some are not as good in college so they may be playing against someone not on their level.",
+            "Good point.  Professional does have a player that has never fumbled the ball.",
+            "I've heard that. Wasn't it a Patriot player?",
+            "It was. It was a running back by the name of Benjarvus Green Ellis.",
+            "That is an interesting name. It's like he has a lot of names.",
+            "i guess so.  Do you watch espn?",
+            "No. I don't have regular cable. I use a ROKU and I think you would have to pay extra for ESPN. I didn't watch it when I did have cable though.",
+            "Oh, I was going to tell you about them winning an emmy but that's okay.  Well, do you watch or have you watched pokemon?"
+        ]
+    },
+    "1": {
+        "b0": [
+            [
+                {
+                    "sports": "negative",
+                    "basketball": "negative"
+                },
+                "sports",
+                " lol. all that work for a pro team and you get paid, no? ",
+                "agent_1 dislikes sports. agent_2's response should fall into one of the following 3 topics: ['basketball', 'sportsmanship', 'basketball statistics'].",
+                [
+                    "basketball",
+                    "sportsmanship",
+                    "basketball statistics"
+                ],
+                {
+                    "sports": "negative",
+                    "basketball": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah the coaches get paid but they aren't good enough to make it to the nba, anyway, thanks for talking with me. "
+        ],
+        "b3": [
+            "I think that is interesting. I wonder if he was a good inventor but a bad coach? \nperson 2:I think so, I think he was a good inventor, he was a losing coach though."
+        ],
+        "bt": "14 of the world's 25 largest stadiums belong to american college football teams! I guess it is a pretty popular sport.",
+        "conv": [
+            "What do you think about Keith Jacksons death?",
+            "It's sad. I wonder how many people grew up hearing his voice?",
+            "I imagine this number in the millions taking into account he had a 54 year broadcasting carreer, so sad, but he was old.",
+            "I like that he used this phrase alot Whoa, Nellie!",
+            "That was a good phrase I liked it as well, did you see the beer comercial, the one in which he used this phrase?",
+            "I didn't. I did see the ABC would not let him retire at 70!",
+            "Yeah I think he ended his carreer in 2006, he got lured and decided to stay, he had a great voice.",
+            "He was also a marine. Looks like he had been calling games since he was young. ",
+            "Wow this guy sure is full with suprises, he didnt only call football games but also pro basketball games as well as other sports.",
+            "Crazy busy it seems. He didn't say anything when Woody Hayes punched a clemson player either!",
+            "Yeah I heard he was criticized because of this, wonder why he did that, maybe he had it coming. ",
+            "I don't think he saw the punch. He also won an Emmy!",
+            "Do you happen to know why he won the emmy?",
+            "apparently for the work he did calling the games. He was inducted into the sportscasters hall of fame too.",
+            "Yeah I can see why, the guy has a big resume its sad that his wife and children are left behind, as well as three grandchildren, they must be crying a lot.",
+            "probably so. Snoop dogg wrote a fight song for his son's high school football team.",
+            "Thats nice from Snoop Dogg, can you tell me more about that song?",
+            "no, it doesn't say anything more about it. Sorry. I can tell you this though. The highest paid across all u.s. department of defense employees are three football coaches of the service branch teams",
+            "Oh I see I will have to google it then, and they must have a good salary then, the inventor of basketball was a bad coach."
+        ]
+    },
+    "2": {
+        "b0": [
+            [
+                {
+                    "TV": "positive",
+                    "classical Latin": "positive"
+                },
+                "TV",
+                " That sounds very interesting. I wonder why they were at the top of the charts in 1957. ",
+                "agent_1 likes TV. agent_2's response should fall into one of the following 3 topics: ['classical composers', 'music appreciation', 'classical music appreciation'].",
+                [
+                    "classical composers",
+                    "music appreciation",
+                    "classical music appreciation"
+                ],
+                {
+                    "TV": "positive",
+                    "classical Latin": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " That is interesting. so what you are saying is that the radio has taken over your life "
+        ],
+        "b3": [
+            "I wonder what that would be like to listen to. I wonder if they have any classical latin newstations. I would like to listen to those. \nperson 2:I'm not sure, but I'm sure it would be interesting. I wonder if they have any classical latin newstations."
+        ],
+        "bt": "The one that gives the news in latin right?",
+        "conv": [
+            "Do you watch or keep up on much basketball?It's definitely a team sport I didn't play much of ",
+            "I watch it from time to time as I enjoy it. do you have a favorite player?",
+            "I haven't really had a favorite since Michael Jordan. The guy who invented the sport was a coach at the University of Kansas, and the only losing one at that",
+            "Go figure. do you know who kareem abdul-jabaar was?",
+            "I heard he was good at dunking. It was banned from college basketball for over ten years from how frequently he used it",
+            "yeah so strange. do you know what the nz basketball team is called?",
+            "Do they have an official name, or are you referencing the nickname Tall Blacks?",
+            "Yeah I am not too sure but that is certainly what they are called",
+            "Apparently the Supreme Court enjoys a game of basketball too. On the top floor of the building they shoot hoops at what has been called \"the highest court in the land.\"",
+            "Good for them, how handy to play there at work. ",
+            "Many of my friends growing up were big basketball and footballs fans. The highest paid state employee in 39 of the 50 states coaches one of those two states at the college level",
+            "I guess it pays to be a coach then. the players themselves also get paid quite a bit too. do you listen to the radio much?",
+            "I don't, actually, but I use other things that utilize radio waves. It's pretty crazy how the sound can be extracted and transformed over miles",
+            "Actually if you turn it to am you can catch Jupiter's storms",
+            "Those are some strong storms! Considering how many artists are from Canada, I wouldn't mind tuning into stations that have to play at least 40% Canadian music by law",
+            "Yes very true. do you know how soldiers used to make radios during WWII?",
+            "From what I remember, all it would take is a pencil and razorblade, though I'm not sure how it would make sound",
+            "I do not even know what channels they would be able to listen to",
+            "If they were in Europe, it would be interesting if they could pick up Finnish stations. One of them has a new program in classical Latin"
+        ]
+    },
+    "3": {
+        "b0": [
+            [
+                {
+                    "politics": "negative",
+                    "cat running against": "negative"
+                },
+                "politics",
+                " It's a small town so they probably just chose a cat because they don't have to travel and can do it all online! ",
+                "agent_2 dislikes politics. agent_1's response should fall into one of the following 3 topics: ['political issues', 'economic conditions', 'political debate'].",
+                [
+                    "political issues",
+                    "economic conditions",
+                    "political debate"
+                ],
+                {
+                    "politics": "negative",
+                    "cat running against": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Hahahah!  Maybe it was one of those \"running\" dogs that can run faster than a human! "
+        ],
+        "b3": [
+            "lol  I would like to see that.  I would also like to see a cat run for president.  I think it would be funny.  lol  Did you know that the cat in the Godfather 1 and 2 was actually a stray that they let stay on the set?  I"
+        ],
+        "bt": "Hahah Yes it would be!  I've had a good time chatting with you!",
+        "conv": [
+            "Hi are you a football fan?",
+            "Hi, no not really.  Are you?",
+            "I watch it during the season because I don't have anything better to do.  Especially for the Monday and Thursday night games.",
+            "I get that, especially when there is only 11 minutes of action in a game.  I guess the rest is commercials?",
+            "Isn't that crazy that it's such a short amount of time for something they drag out of 3 hours?",
+            "I know! They sure do milk it for all its worth.  ",
+            "ESPN won an emmy for creating the superimposed yellow first down line on tv.  That has been a good addition to watching games.",
+            "Yeah, that was a good addition. Can't believe that Benjarvus Green-Ellis never fumbled.  Amazing!",
+            "That's an incredible stat to have!  The average lifetime earnings of an engineer is higher than the average lifetime earnings of an NFL or MLB player.  Probably due to having longer careers.",
+            "Yeah, that's what I would think.  NFL careers are probably pretty short on average due to injury, and it is really hard to get to the majors and stick there long enough to make any serious money",
+            "Yes.  Did you know that there is no written rule that prevents females from playing in the NFL?  Maybe we'll see on soon?",
+            "Maybe we will!  That would help boost ratings, I would think.  Maybe then they'll start letting the Saint's cheerleaders eat in the same restaurants as the players.  What a stupid rule!",
+            "That is an odd rule for sure!  Kind of dumb.",
+            "Do you a cat?  They are amazing creatures.  One is a mayor in Alaska!",
+            "I have one outside.  Yes they are.  I would like to see the cat cafes they have in Japan.  Do you know how those work?",
+            "Yes!  They can pay by the hour to play with cats and have drinks. Seems like a cool place!",
+            "I agree!  When a cat reaches the age of 15 they have usually spent 10 of those years sleeping!",
+            "That's a life well lived lol.  Cats can also co-author physics papers!",
+            "What?  That is crazy!  lol  There is a cat named Stubbs who is the mayor of a town called Talkeetna in Alaska!  How does that work?  lol",
+            "I wonder who that cat ran against?  It would've been funny if the other candidate was a dog!"
+        ]
+    },
+    "4": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "rowing": "positive",
+                    "cold war": "positive"
+                },
+                "sports",
+                " Hard to believe it took until 1998 for them to be allowed to take their calls on the field with them ",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['rowing techniques', 'sportsmanship', 'cold war history'].",
+                [
+                    "rowing techniques",
+                    "sportsmanship",
+                    "cold war history"
+                ],
+                {
+                    "sports": "positive",
+                    "Michigan": "negative",
+                    "favorite player": "positive",
+                    "team": "positive",
+                    "michigan": "negative",
+                    "favorite voice": "positive",
+                    "players": "negative",
+                    "rowing": "positive",
+                    "cold war": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Haha. What was the rowing like? Did they use wood or metal oars? "
+        ],
+        "b3": [
+            "I wonder if he ever called the Dakota at 65 mph?\nperson 1:I don't know. I would like to see that. I wonder if he ever called a game in the secret stadium in Atlanta?"
+        ],
+        "bt": "Oh wow I did not know that! Thats some Rocky 4 stuff",
+        "conv": [
+            "Hi, how are you?",
+            "well thanks! Do you know anything about keith jackson?",
+            "I do, I love college football and can hear him say \"Whoa Nelly!\". What about you, are you familiar with him?",
+            "Me as well. Im a huge Michigan fan so he is really memorable with his \"Hello Heisman\" call",
+            "Nice. I feel like he was on a lot of Michigan calls, wasn't he?",
+            "Yeah we was. When he retired in 1998, the Michigan marching band spelled out, \"THANKS KEITH.",
+            "That's such a nice gesture. For the longest time he was the voice of college football. Did you go to Michigan?",
+            "I did not just a big fan. My favorite player of all time attended there so It was how I became a fan",
+            "Who is your favorite player of all time?",
+            "Charles Woodson. Keith Jackson was also announcing that game when he cemented his Heisman against Ohio St",
+            "Nice. I liked Woodson. I went to Illinois so I do not have as much to cheer for as you do. I do remember getting stomped by michigan many times and then hitting the bars after...",
+            "Rough haha. Keith Jackson was park of a lot of memorable games! Including when Woody Hayes punched a player",
+            "I can't believe he was criticized for that call. He went back and clarified on the call.",
+            "I know right! At least he was still able to an Emmy and be inducted into two sportscasting halls of fame",
+            "Yeah, there are a few iconic voices and he is one, along with Musberger, Costas, and Al Michaels.",
+            "All great voices. Would be good for radio as well as tv",
+            "Yeah. When reading, I did not know he did so many sports. That's a ton of calls.",
+            "I know! Even the Olympics",
+            "He went to Russia to call rowing during the cold war too. That takes guts."
+        ]
+    },
+    "5": {
+        "b0": [
+            [
+                {
+                    "job": "positive",
+                    "fame": "negative"
+                },
+                "job",
+                " Yes I think Nebraskan Jim Mora was one of them. ",
+                "agent_1 likes job. agent_2's response should fall into one of the following 3 topics: ['career', 'fame', 'career goals'].",
+                [
+                    "career",
+                    "fame",
+                    "career goals"
+                ],
+                {
+                    "job": "positive",
+                    "fame": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yes some of them are very outrageous in their salaries like Mark Richt who got $1 million in 2015 to leave his coaching job. "
+        ],
+        "b3": [
+            "I think the highest paid state employee in my state is the football coach.  person 2:I wonder if that is true in Texas.  The football coach of the University of Texas is the highest paid state employee.\nperson 1:I wonder if that is true in Kansas. The basketball coach of the University of Kansas is the highest paid state employee."
+        ],
+        "bt": "I don't know them by name but I am sure there are.  It was nice talking to you.  ",
+        "conv": [
+            "Have you heard of Keith Jackson?",
+            "Yes, he is the voice of college football right?  Do you know what broadcast he was on?",
+            "He did Saturday afternoon broadcasts on ABC. Seemed he had a long fulfilling life. He was 89.",
+            "I do recall him covering a wide variety of sports for radio and television.  Do you recall what he would call the linemen guards?",
+            "He had a lot of funny terminology. Like a \"bantam rooster\" and \"Whoa Nellie!\"",
+            "He was a very funny and interesting man.  Something else that is funny is the University of Iowa painted the visiting locker room pink.  I wonder what the visiting football teams thought about that.  ",
+            "Yeah it was probably before pink became popular for professional football players to support breast cancer",
+            "Do you watch a lot of football?",
+            "Not really. How about you? I know that football has really grown in popularity. In the 60s, top bowlers made twice as much as football stars.",
+            "Yes.  I am a big fan.  I love researching about the history of football.  I just read the other day that in 1916, the highest score ever in a football game was 222 to 0.  Georgia Tech vs. Cumberland.  We don't see such a high number like this.  ",
+            "Wow! Probably would not have been the case if Benjarvus Green Ellis was on their team. He has never fumbled the ball.",
+            "That's right.  Green Ellis is a rare player for sure just like Kareem Abdul.  His dominant use of the dunk got the shot banned from college basketball for over a decade!",
+            "That's funny! I'd love to watch play basketball in the us surpeme court building-it's called \"the highest court in the land\"",
+            "Really?  What teams usually play there?",
+            "I think it's just for the employees at the building. Wonder if any judges play. Hmmm....",
+            "Do you know who the inventor of basketball is?\n",
+            "I think that's James Naismith and he is the only losing coach in the University of Kansas's history.",
+            "Well its better to be known for that than the name of the New Zealand basketball team.",
+            "Are there any famous college football or basketball coaches? In 39 out of 50 states, the highest paid state employee is iether a college football or basketball coach"
+        ]
+    },
+    "6": {
+        "b0": [
+            [
+                {
+                    "video games": "positive",
+                    "game length": "unknown"
+                },
+                "video games",
+                " Did you know that the University of Alabama has a UPC code on its football game tickets that allows the school to track who's coming to the games? I wonder if other schools do the same... ",
+                "agent_2 likes video games. agent_1's response should fall into one of the following 3 topics: ['video game reviews', 'game genres', 'game reviews'].",
+                [
+                    "video game reviews",
+                    "game genres",
+                    "game reviews"
+                ],
+                {
+                    "video games": "positive",
+                    "game length": "unknown"
+                }
+            ]
+        ],
+        "b1": [
+            " In american football its 3 quarters, 12 minutes each or 60 minutes total "
+        ],
+        "b3": [
+            "I would imagine it would be a long game. I would be happy to be a paid cheerleader for a football team. I would be happy to be a paid cheerleader for any sport. I would be happy to be a paid cheerleader for any team period. I would be happy to be a paid cheerleader for the new orleans saints. I would be happy to be a cheerleader for any nfl team. I would be happy to be a cheerleader for any nfl team. I would be happy to be a cheerleader for any nba team. I would"
+        ],
+        "bt": "HA That' would have lasted for ever... Like listening to nuntii latini - a weekly news programme conducted entirely in classical latin",
+        "conv": [
+            "Hi, how are you?",
+            "I am well thanks. How deep do you think NCAA basketball violations go?",
+            "Not well but I also think the NCAA is so weak now that the findings of any major sanctions will be difficult and take a long time to investigate. What about you?",
+            "I think there is a lot behind the scenes that we dont see. SOme coaches have come out and admitted to it. Arizona Coach Sean Miller discussed a $100,000 bribe to land star recruit Deandre Ayton",
+            "I know the Ayton allegations were dismissed by him but the advent of sneaker companies acting as intermeidaries has complicted the investigation.",
+            "I did not know that. I feel bad for these kids. They sre being used to make a lot of money. And I dont feel are fairly compensated even with a scholarship",
+            "I agree. I think they should let the kids forgo their scholarship and make money instead. Can you imagine how much money some of these kids could make? And if it were'nt for the FBI, this Arizona/Sean Miller/Ayton scandal would not have been know. It's ridiculous.",
+            "And the NCAA keeps saying they can control everything but its impossible. A 18 year old kid gets offered money. Who says no?",
+            "Right? I would ask for even more. I have no idea how I would have walked away and say no to that offer. What about you?",
+            "It would be really hard to say no. ",
+            "Yeah. I wonder how successful teams like Duke can be at that high level and not break rules...",
+            "And its crazy to think 39 out of 50 states, the highest paid state employee is either a college football or basketball coach. These kids helped get you money. And not all of them will make it pro",
+            "I know. I wish there was more they could get...",
+            "Football has got to be crazy too. Its a money maker for a lot of colleges",
+            "Yeah. The only good thing about this model is that it pays for the lesser sports, like swimming and volleyball.",
+            "Did you know Espn won an emmy for the creation of the yellow first down line ",
+            "I did not. I was also shocked to find out the university of iowa's locker room for visiting football teams is completely painted pink",
+            "Its crazy that in the 1960's top bowlers made twice as much as top football stars. Look where the money is now",
+            "Or that the highest score ever in a football game occurred in 1916 when georgia tech defeated cumberland 222-0. Don't you have to pull the qb when you're down 60?",
+            "I wonder how long that game lasted. Even without commercials interrupting "
+        ]
+    },
+    "7": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "NFL": "positive"
+                },
+                "sports",
+                " Yeah, I think it was that one female quarterback in the NFL who was with the Atlanta Falcons. ",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['football', 'sportsmanship', 'football statistics'].",
+                [
+                    "football",
+                    "sportsmanship",
+                    "football statistics"
+                ],
+                {
+                    "sports": "positive",
+                    "football": "positive",
+                    "NFL": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah, but I do not remember that ever happening, but that would be interesting to know what she did. "
+        ],
+        "b3": [
+            "I did not know that. I think it would be interesting to see a woman play. I wonder if they would have to follow the same rules as the men?\nperson 2:I think so, but I think it would be good for them to have the same rules, it would make them more equal."
+        ],
+        "bt": "Wow, no I didn't know that. Have there been any female players? ",
+        "conv": [
+            "Do you like cats?",
+            "Yeah, cats are cool. Do you own one? ",
+            "No,but many of my friends do have one or more, they sleep a lot",
+            "Apparently, after living for 15 years, 10 of it is from sleeping. ",
+            "That is a lot. Did you know there is a town , where the Mayor is a cat?",
+            "I think that is in Alaska, right? ",
+            "Yes, the town is Talkeetna, and the cat has been major since 1997",
+            "Wow, I wonder if he has to make a lot of executive decisions? ",
+            "I guess he is a very honest major. I would like to go to a cafe where one can play with cats!",
+            "yeah, me too. They had a cat in the opening scene of the godfather. ",
+            "Did you know a cat was once named co-author of a book?",
+            "Yeah, but a physicist right? I wonder why though? ",
+            "That is right! Hey do you like football?",
+            "I do. I watched the superbowl a few weeks ago, kind of boring for the big game. ",
+            "Season is over!! when the season starts they only rest one weekend!",
+            "Yeah, well apparently Iowa paints their locker room pink for visiting teams. ",
+            "That is so funny, they want to intimidate the visitors, right?",
+            "Yeah, it sounds like it. I'm surprised it is allowed, aren't you? ",
+            "They allow many things, did you know the NFL would allow a woman to play, there is no rule against"
+        ]
+    },
+    "8": {
+        "b0": [
+            [
+                {
+                    "music": "negative",
+                    "instruments": "negative"
+                },
+                "music",
+                " Yeah, I only did it for about 6 months because I didn't like it much. It was a really tough crowd. In that time, I learned that it was better to make them laugh and not really to be too serious. But, it was fun while it lasted. ",
+                "agent_1 dislikes music. agent_2's response should fall into one of the following 3 topics: ['music appreciation', 'music history', 'musical instruments'].",
+                [
+                    "music appreciation",
+                    "music history",
+                    "musical instruments"
+                ],
+                {
+                    "music": "negative",
+                    "music entertainment": "negative",
+                    "instruments": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Me either. I used to do stand up in college and that was enough to make me give up on it. The crowds were never responsive enough to warrant it. I even took a \"mic\" stand once and tried to do my own thing. Like the \"late, great\" (he was great in SNL) Chris Farley. He was a comedian who did stand up and he was quite funny. Anyway, he tried his own talk"
+        ],
+        "b3": [
+            "I"
+        ],
+        "bt": "LOL....so is mine when I'm not being an entertainer. I retired from it two years ago, and now can't believe what I did for all that time. Adrenaline and nervous energy is what I used to do all those shows. (Always told myself, use the nervousness as your asset, it'll make you do a better job...and it did!)",
+        "conv": [
+            "Radio is such a fascinating technology. ",
+            "Good Morning, yes radio is great. I was a DJ on the radio!",
+            "That is so cool! I always thought that would be a very stressful job since you are always live on the air. ",
+            "It could be at times, I remember when I was at the Ohio School for Radio back in the 80's. I had to do the earliest show, and it was one thing waking up so early to do a 6am shift, let alone the teachers taking out the needles for the records, so I couldn't play anything and had to talk.",
+            "Wow..that is crazy. Did you ever play any of the old radio dramas?",
+            "No I didn't, that would have been a good and easy radio thing. Just pipe into the radio broadcast and sit back! They would always have their own commercials during those shows, thus I wouldn't have to talk or do anything. ",
+            "It would have been neat to be there when some of those broadcasts first came over the air. It was like tv that required thinking. ",
+            "I'd have to agree. In radio training, they did have me and a colleague broadcast a Demolition Derby at a county fair. That was fun, though we had car parts flying all over our broadcast booth. (That wasn't very fun dodging those things)",
+            "Demo derbys are crazy but fun. It should almost be classified as its own sport. It definitely takes endurance to compete in one of those. ",
+            "Yep....wow, I didn't know that Keith Jackson passed away. Dang it....he was a good sportscaster for ESPN.",
+            "I never knew much about him. I'm not a huge sports person. Was he well known?",
+            "Keith Jackson was pretty much on every Saturday at ESPN. Yep, he was a pretty well-known guy and a good announcer.",
+            "Was he one of the announcers that went into it after a career in sports or someone who just started announcing?",
+            "I believe that Keith Jackson was just an announcer, but he did it for a lot of years. That's one of the guys I thought of when I went to school for radio. I never did sports talk professionally, but always wondered how I would do doing football games. But, all I got was a demolition derby...lol",
+            "lol..I think you won out with the demo. Football always seemed like a really slow game to me. Lots of talking and waiting around but very little game play. ",
+            "That's why I liked my training in radio. It taught me how to relay information to the audience. And after I left radio, I went into club DJ'ing. Heck...I've never been afraid  of a microphone!",
+            "Is DJ-ing as exciting as movies make it out to be? Given my experience in the bar scene I feel like it would be a lot of annoying drunk people. ",
+            "Well, yes, you just hit it. Club DJ'ing was very very different than doing it on the radio. I remember getting disturbed by many a drunk person in those clubs. You had to be pretty quick with the comebacks to when they would shout stuff out. But you had to do it \"clean\" and not upset the person ridiculing you, and at the same time make the crowd laugh.",
+            "I don't think I would have been very good at that. My wit tends to be a bit biting and sarcastic to be said over a microphone. "
+        ]
+    },
+    "9": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "basketball": "positive"
+                },
+                "sports",
+                " Yeah they have those huge stadiums for high school games now. Well its been nice chatting with you ",
+                "agent_2 likes sports. agent_1's response should fall into one of the following 3 topics: ['basketball players', 'sportsmanship', 'basketball camps'].",
+                [
+                    "basketball players",
+                    "sportsmanship",
+                    "basketball camps"
+                ],
+                {
+                    "sports": "positive",
+                    "soccer": "negative",
+                    "coach": "negative",
+                    "basketball": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Did you know they have a video game for football that lets you kick the ball with your feet? "
+        ],
+        "b3": [
+            "I wonder how many games have been played there. 18,000 seats? That's a lot of people.\nperson 1:I know right, that is a lot of people, and it cost $60 million to build"
+        ],
+        "bt": "Wow that is a lot of people , bet it cost a lot too",
+        "conv": [
+            "do you watch the NFL?",
+            "I sure do. How about yourself?",
+            "Me too. Did you know women can play in the NFL too?",
+            "Did not know there, are there limitations though?",
+            "Nope as long as you qualify, you are allowed to play",
+            "Nice. Did you hear they are placing tracking chips on the players now?",
+            "Nice, are they doing that for a particular reason?",
+            "Yes they are collecting stuff such as velocity and rotation and a bunch of others",
+            "Nice I hope they can use those to make the game safer too",
+            "I hope so too. Did you know there is a coach who used to be a rocket scientist",
+            "There is such a thing? WHat a change of careers. WHo is it?",
+            "It is Matt Patricia and he graduated from a school that had tons of math symbols in the name",
+            "Nice. Did you know U of Iowa painted the visitor locker room pink?",
+            "I wonder if that is supposed to have some effect on the players",
+            "I am not sure. In the 60s bowlers used to make more than NFL players",
+            "Yeah I guess it was a more popular game back then. Their coaches are the highest paid people",
+            "Yeah no surprise there. Do you know what the highest score in college football is?",
+            "Hmmm no I do not, what is it. Did you hear about that giant stadium in Texas?",
+            "The highest score is 222-0, Georgia Tech versus Cumberland, and I do not know abut that stadium",
+            "WOw what a score, The stadium is for a high school and can seat 18 000 people"
+        ]
+    },
+    "10": {
+        "b0": [
+            [
+                {
+                    "news": "positive",
+                    "supreme court": "positive"
+                },
+                "news",
+                " I wonder why they had to take such drastic measures to stop the spread of basketball. I wonder if the court is used for any other purposes. ",
+                "agent_1 likes news. agent_2's response should fall into one of the following 3 topics: ['court cases', 'law reform', 'judicial appointments'].",
+                [
+                    "court cases",
+                    "law reform",
+                    "judicial appointments"
+                ],
+                {
+                    "news": "positive",
+                    "supreme court": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Nice. Thanks. I'll tell my husband. "
+        ],
+        "b3": [
+            "That is pretty cool. I wonder if they play there?\nperson 2:I am guessing they do. Do you know who invented the game of basketball?"
+        ],
+        "bt": "What is your favorite basketball team? ",
+        "conv": [
+            "Hi there, do you watch the NFL?",
+            "Hi! Yes I do sometimes. What's your favorite team?",
+            "I think the Patriots, I like them best. One of their former QB never fumbled a ball in his career. How about you?",
+            "My husband is from the bay area so we root for the Oakland Raiders. ",
+            "Nice, cool. Do you know what the highest score ever recorded in a game is?",
+            "222-0",
+            "Yeah that must have been quite the game. Do you know who played, the two teams?",
+            "Georgia tech and cumberland. Are you familiar with different kinds of football from different parts of the world?",
+            "Yeah there are tons of different kinds like soccer, Canadian and Australian football, rugby, a bunch of them",
+            "I'm originally from Hungary and our football there is soccer. My grandpa was a huge fan.",
+            "Nice, it is a good sport. Did you know ESPN won an Emmy once?",
+            "I had no idea. I wonder why the University of Iowa's locker room is painted pink.",
+            "I think they did that to intimidate the opposing team but I am not sure if that really works",
+            "Oh ok I see. Do you watch basketball?",
+            "I watch it sometimes. I didn't know until recently that the dunk shot was banned because of Kareem Abdul-Jabbar",
+            "I didn't know that either. Or that in 39 out of 50 states, the highest paid state employee is either a college football or basketball coach. There is lots of money in sports.",
+            "Yeah that is for sure, lots of people watch it so no surprise I guess. Do you know who invented the sport?",
+            "James Naismith. Interesting that he is the only losing coach in the University of Kansas history",
+            "Yeah that is pretty bizarre. Have you heard of the highest basketball court in the land?",
+            "I haven't heard of it. Do you know where it is located?",
+            "Yeah it is in the US supreme court building and it is on the top floor, hence the name I am guessing"
+        ]
+    },
+    "11": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "basketball": "positive"
+                },
+                "sports",
+                " Yea I think that is true and it's also true that the women's basketball is far inferior to the men's ",
+                "agent_2 likes sports. agent_1's response should fall into one of the following 3 topics: ['basketball', 'sportsmanship', 'basketball statistics'].",
+                [
+                    "basketball",
+                    "sportsmanship",
+                    "basketball statistics"
+                ],
+                {
+                    "sports": "positive",
+                    "football": "negative",
+                    "playing sports": "negative",
+                    "football players": "positive",
+                    "bad teams": "positive",
+                    "basketball": "positive",
+                    "3-pointers": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Well it is fun to watch. I like it better on the WNBA than the NBA anyways. "
+        ],
+        "b3": [
+            "I think"
+        ],
+        "bt": "Probably. I wonder what it's like in New Zealand, they have a basketball team nicknamed the \"tall blacks\" lol",
+        "conv": [
+            "How are you? Do you watch Football at all? Charles Snowden recently led the VA Cavaliers over Louisville",
+            "I can't say that I am much of a football fan. It seems like a very different game depending on where in the world it is played though. ",
+            "Yea, I guess in the US it's known as gridiron around the world. I guess Snowden is a good player in basketball too",
+            "Strange that he would play both. They seem like they would require drastically different sports skills. ",
+            "Yea but I guess it doesn't matter as much at the college level, plus he played basketball for Coach O.J. Johnson who use to play football as well",
+            "A good coach makes all the difference in the world. I am surprised that more former pros don't coach especially since they really don't make as much money as people tend to think they do. ",
+            "I guess most former players aren't into recruiting players, I know VA coach had to rebuild his football program, must of been stressful",
+            "Stressful but lucrative if you are good at what you do. The sponsers seem to want to follow pros that have had good careers. Especially if they are known for something like highest rushing yards or biggest lineman or never fumbling. ",
+            "Yea but coaching wasn't always lucrative, at least not in the 1960s, the top bowlers made twice as much as the top football players",
+            "I wonder if that is because they have a longer career. It seems like with all the injuries that football players no matter where they are just can't keep going for long. ",
+            "Probably has something to do with football not being as popular in the 1960s and individual bowlers probably made more money winning competitions",
+            "I feel bad for the players on teams that just aren't good. It isn't always the fault of the players either. Look at the superbowl this year. 13-3 is just bad. Of course not nearly as bad as the record holding 222-0 but still. ",
+            "Yea 222-0 is pretty bad, I'm not surprised no one has come close to score as much as Georgia tech did back in 1916",
+            "At a certain point during a game like that you almost want to just call it. I would expect scores like that out of basketball games not football. ",
+            "Yea but they had loopsided scores like that in basketball years ago. Kareem Abdul-Jabbar was so dominant in college that they banned the dunk for over a decade because of him",
+            "I don't understand the love of the dunk. Yeah it looks sort of cool but the skill level is so much higher when it comes to 3 pointers. ",
+            "Well I guess the dunk was pretty impressive when few people could actually reach the hoop 10 feet up",
+            "That's true. A good vertical is important in basketball. I wonder if they lower the hoop in WNBA or if the women are dunking at the same level. ",
+            "I don't know the exact stats but im pretty sure the hoop is lower than the NBA's 10 feet and the diameter is larger than 18 inches",
+            "It seems like it depends on where in the world the games are located. I think in America it is more about showmanship than game skills necessarily. "
+        ]
+    },
+    "12": {
+        "b0": [
+            [
+                {
+                    "music": "positive",
+                    "radio": "positive"
+                },
+                "music",
+                " Awesome, same here! It's nice talking to you too. I wish i lived in alaska, you can legally own a dog there! ",
+                "agent_1 likes music. agent_2's response should fall into one of the following 3 topics: ['radio stations', 'music genres', 'music festivals'].",
+                [
+                    "radio stations",
+                    "music genres",
+                    "music festivals"
+                ],
+                {
+                    "music": "positive",
+                    "radio": "positive",
+                    "music genre": "negative",
+                    "Canadian music": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yes it has come a long way! I enjoyed chatting with you as well! "
+        ],
+        "b3": [
+            "Thanks you too!\nperson 2:Have a good day!"
+        ],
+        "bt": "Oh yeah that would be cool. Once a Hanson song became the most requested song on an alt rock radio station lol. You too have a good evening!",
+        "conv": [
+            "Football or Basketball, do you have a favorite?",
+            "Football! It's more exciting I think. I like the american version though!",
+            "I agree with you, football americano for sure! do you follow college football?",
+            "Yeah I do! It's so popular! 14 of the 25 biggest stadiums are college football!",
+            "that is crazy to think. I think about the university of michigan and how crazy big that is. Have you heard of the Iowa Hawkeyes?",
+            "Yes I have. The flags in stadiums like that weigh 1100 pounds!",
+            "That is crazy heavy! I wonder how they put them up at the top of stadiums. The hawkeyes painted their visitor locker room pink",
+            "Haha that is hilarious. Snoop Dogg once wrote a fight song for his son's high school football team!",
+            "I want to hear that lol, I wonder if it was ever on the radio",
+            "Good question. Bing Crosby sounded very popular back in the 1940's!",
+            "Who was Bing Cosby?",
+            "He was a musician back in the old days lol! His recordings filled more than half of the radio time in his prime!",
+            "wow, I need to hear this guy! Not in Canada though, they are required to play 40% canadian music",
+            "Yeah interesting law. I wonder if they play that station that translates solar activity into sound?",
+            "I wonder too, there is an AM radio frequency that catches Jupiter's radio storms",
+            "Very cool, wonder if it just sounds like static or what? Bill Murray voiced the Human Torch in the 1970's fantastic four radio show!",
+            "no way! Now i need to look that up. It probably was amazing",
+            "Yeah I bet. Surprisingly, one of the top radio acts in 1930's was a ventriloquist...people must have been hard up for entertainment.",
+            "For sure lol! the radio has come a long way. I like to go to some free website and listen to dramas on it. It was so great chatting with you!"
+        ]
+    },
+    "13": {
+        "b0": [
+            [
+                {
+                    "music": "negative",
+                    "music industry": "negative"
+                },
+                "music",
+                " I wonder how much they actually make compared to other groups. I wonder if they're actually in the top 10 of highest paid celebrities. In any case, it is what it is. ",
+                "agent_1 dislikes music. agent_2's response should fall into one of the following 3 topics: ['music appreciation', 'music industry', 'music industry trends'].",
+                [
+                    "music appreciation",
+                    "music industry",
+                    "music industry trends"
+                ],
+                {
+                    "music": "negative",
+                    "music industry": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yea, it is sad. It should be about the love of the game, not the money. Anyway, great chat! "
+        ],
+        "b3": [
+            "I agree. I think the only exception is the few that actually use their skills in other areas. Like the guy who became a doctor. \nperson 2:I think that is a good example. I think it would be cool to see a player become a doctor or something."
+        ],
+        "bt": "Hugh waste! I think that a percentage of the earned income should automatically go to funding projects or foundations that better the citizens lives or economy. ",
+        "conv": [
+            "Hi. I didn't know that benjarvus green-ellis never had a fumble.  Impressive!",
+            "I know, right? I thought it was weird how the cheerleaders arent allowed to eat in the same restaurants as the nfl players.",
+            "yeah, that is bizarre.  Iowa's visiting locker room is pink.  Strange",
+            "I wonder if that was meant to try to demoralize the players",
+            "Seems like it would work lol.  ",
+            "I was shocked that the highest score in a football game was 222... THATS CRAZY!",
+            "No doubt.  And the other team was shut out!  Also, bowlers used to make more than football players.  That's changed!",
+            "Yea it has... could you imagine if bowlers were paid more than nfl players now? They would make average 6-12 million a year for bowling lol",
+            "That'd be nuts!  An NFL game only has 11 minutes of gameplay...I never would have guessed that",
+            "I already knew that, which is why I get so frustrated with how long a game takes :(",
+            "Yeah, I can imagine that would be frustrating.  I usually only watch the super bowl and that game takes forever!",
+            "I thought it was pretty cool that the cat in the opening scene of the Godfather, was just a stray. Chances are that was an unplanned scene.",
+            "I'd bet that, too.  So, in asia you can pay to play with cats...now that's weird!",
+            "I think its a waste of money lol just get a cat",
+            "no doubt, cats are everywhere! ",
+            "Everywhere including Alaska... where they are made mayors. Now thats weird lol",
+            "They also co-author physics papers!",
+            "Im not sure the actual purpose of either, but they are both pretty strange!",
+            "Yeah, I don't get it either lol.  Apparently cats just sleep for two-thirds of their lives anyway",
+            "yea, Im 35 right now... I couldn't imagine sleeping 12 years of that. No wonder cats are considered lazy lol",
+            "That's basically sleeping 16 hours a day...I cannot imagine that",
+            "I will say that I was pleased to see that at least an engineer has higher wages than an nfl or mlb player. I faithfully believe that sport players are WAY overpaid.",
+            "Considering how unimportant their jobs are, I agree.  Unfortunately they generate a ton of revenue sense people pay so much for tickets and merch.  Its all a waste IMO"
+        ]
+    },
+    "14": {
+        "b0": [
+            [
+                {
+                    "activity": "positive",
+                    "outdoor activities": "positive"
+                },
+                "activity",
+                " I would agree! I've been to some great festivals in my day too, although I've never attended the Austin City Limit festival. Apparently, Creed performed there in 2002 and it was so bad that three people sued the festival. That's why I don't like Creed! ",
+                "agent_1 likes activity. agent_2's response should fall into one of the following 3 topics: ['outdoor photography', 'hiking destinations', 'outdoor festivals'].",
+                [
+                    "outdoor photography",
+                    "hiking destinations",
+                    "outdoor festivals"
+                ],
+                {
+                    "activity": "positive",
+                    "outdoor activities": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Thank you for chatting with me today! It's been great! "
+        ],
+        "b3": [
+            "Well, it was nice chatting with you!\nperson 2:You too!"
+        ],
+        "bt": "I'd rather listen to Hanson than a ventriloquist. One of the most popular radio acts of the 1930s was a ventriloquist. It baffled contemporary critics, and it baffles me, too! ",
+        "conv": [
+            "HI how are you?",
+            "Hey! I just got in from a game of basketball! We had enough players for the common 5 player teams. Do you like basketball?",
+            "I do a little bit. Did you guys win?!",
+            "Oh yeah! I got 3 field goals, which are worth 2 points each. I was so tired, I was glad my team had the most points at the end of regulation play, and we didn't have to go into overtime!",
+            "Good job! Did you know the New Zealand team is nicknamed the \"tall blacks\"?",
+            "No way! I didn't know that. I was bummed that I didn't make any 3 point shots today, but then I remembered that Shaq has only one recorded 3 point shot throughout his entire basketball career! ",
+            "Youll get it next game! I love how the us supreme court has a bball court on the top floor!",
+            "Everybody loves basketball! Vasectomy rates increase during March Madness so that men can stay home for a few days to watch basketball. That's pretty extreme!",
+            "That is absolutely hilarious. College baskeball and football coaches make bank, apparently!",
+            "Yeah, and the highest paid across all US Department of Defense employees are three football coaches of the service branch teams. Maybe I need to start playing football instead!",
+            "They are the highest paid state employees in 39 states!",
+            "Even high school football involves some serious money. In Allen, Texas, the high school football stadium cost $60 million to build! It seats 18,000 people!",
+            "It is funny how Iowas locker room for visitors in painted in all pink!",
+            "I heard about that! College stadiums are no joke. Fourteen of the world's largest 25 stadiums belong to American college football teams! ",
+            "That is wild. The highest score of a football game ever was 222 to 0!",
+            "No way. A Snoop Dogg song just came on the radio, and it reminded me that he once wrote a fight song for his son's high school football team! I don't think I've ever heard that one over the radio waves!",
+            "Radio waves are fascinating. Apparently you can hear Jupiters radio storms on an am radio.",
+            "Wow! There's also a radio station that translates solar activity into sound so that you can listen live to the sun's music. I wonder what it sounds like?",
+            "It is probably better than regular AM radio!",
+            "Haha! I thought you were going to say it's probably better than Hanson! But a Hanson song once became the most requested track on a Chicago alt-rock radio station because the DJs didn't reveal the band. Sneaky!",
+            "Probably better than that also!"
+        ]
+    },
+    "15": {
+        "b0": [
+            [
+                {
+                    "conversation": "positive"
+                },
+                "conversation",
+                " You too! I hope you have a great day as well! ",
+                "agent_1 likes conversation. agent_2's response should fall into one of the following 3 topics: [''].",
+                [
+                    ""
+                ],
+                {
+                    "conversation": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " It was great chatting with you too! Have a great day! "
+        ],
+        "b3": [
+            "You too! Have a good day! Bye!\nperson 2:Bye!"
+        ],
+        "bt": "Nice chatting with you as well! Have a great day! Goodbye! :)",
+        "conv": [
+            "Hi do you like football?",
+            "Hi! Yes, I do like football! Do you? I was just reading about how there is no written rule against female players in the NFL. Women would be allowed to join if the met the league's eligibility requirements.",
+            "Yep, that's true but seeing how big the guys are its no surprise that no woman has ever joined or wanted to join a team haha",
+            "I agree! And semi-related, I've heard that the University of Iowa's locker room for visiting football teams is completely painted pink! ",
+            "Yeah, that a great way to decrease team moral haha",
+            "Exactly! Or maybe make the other team angry! In the 60's top bowlers made twice as much money as the top football stars!",
+            "Now that is weird to hear because of the big difference in physicalness.",
+            "Absolutely! I'm sure football pays more than bowling, these days! Ha. So, the highest score ever in a football game was in 1916! When Georgia Tech beat Cumberland 222-0!",
+            "Yeah, now that is crazy to hear. How could they even let that game continue?",
+            "It sounds like a world record loss and win! That's pretty interesting!",
+            "Yeah and i'm sure it wqas pretty embarrasing too, WOW",
+            "Have you ever had a pet cat?",
+            "Yes, i have 4 cats actually!",
+            "Aw nice! I have 3 cats! :) I just found out that the cat in The Godfather movie, was a stray that was found on set. I hope they gave the cat a good home after filming!",
+            "That's sweet to hear, the cat got its own cameo apearance!",
+            "Wow, here is a fun fact! When a cat reaches 15 years old, they've spent 10 of their lives sleeping!",
+            "Yeah, thats a long cat nap for sure!",
+            "Absolutely! There are cat cafes n Japan and Taiwan where people can pay hourly to play with cat and have drinks. I'd like to see some of those where I live!",
+            "Me too,l i have been to Japan and never saw them!",
+            "Oh really? I'd love to visit Japan! They have such a neat culture! I even find their food interesting!",
+            "Yeah, it was a great experience! Well, i gotta go. It was nice chatting with you! Have a great day!"
+        ]
+    },
+    "16": {
+        "b0": [
+            [
+                {
+                    "video games": "positive",
+                    "game knowledge": "negative"
+                },
+                "video games",
+                " Baby Naismith was a boy, and he was the son of the inventor, so maybe they were not aware of all the rules.  It was a long time ago, after all. ",
+                "agent_1 likes video games. agent_2's response should fall into one of the following 3 topics: ['video game reviews', 'gaming culture', 'video game reviews'].",
+                [
+                    "video game reviews",
+                    "gaming culture",
+                    "video game reviews"
+                ],
+                {
+                    "video games": "positive",
+                    "game score": "positive",
+                    "game knowledge": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " I know right!  I bet he was down about it, but still happy to have invented the game.  Intriguing facts, though.  Like, did you know the same person found both baseball and basketball? "
+        ],
+        "b3": [
+            "I know, right?  I wonder if he was a good"
+        ],
+        "bt": "Exactly, or would have at least rewritten the rules to favor his team, somehow.  Anyway, have you heard about the basketball court on the top floor of the Supreme Court building?",
+        "conv": [
+            "good morning! do you like football?",
+            "Good morning, yes, I do.  How about you?",
+            "Yes I do.  Did you know that the highest score on a game was 222-0?",
+            "I had heard that before, I don't think it would happen today, though.  It would be considered unsportsmanlike conduct.  Who's your favorite team?",
+            "You're probably right about that.  Also, I think teams have advanced in their skills.  I know this was a college game that had that score but college teams have skills nowadays.",
+            "Yes, they do.  My favorite team is the Patriots.",
+            "I like several professional teams to be honest.  After watching Patrick Mahomes this past season I've added the Chiefs to my list of favorites!",
+            "That's cool, I never think about them.  I'm pretty mainstream and rookie.  Just like the New England Patriots because they win so much.  Don't like being on the losing side. Lol",
+            "I know what you mean. It's depressing when one of my teams loses.  Speaking of the patriots though, have you heard of Benjarvus Green-Ellis?",
+            "I think I have, he's a former Patriots running back, I believe.",
+            "Yeah, I heard that he never fumbled the ball in his entire career. That's really impressive!",
+            "Yes, that is impressive.  I can't imagine the pressure he must have felt to remain perfect.  I could not have done that!",
+            "i never thought about it like that but you're right. The announcers probably mentioned it every time he had the ball.",
+            "All eyes on him.  Laser focused to see if he messed up.  I wonder if Kareem Abdul- Jabbar felt any pressure when he was dunking the basketball in college?",
+            "hmm, I don't know.  I guess if it was expected of him then he probably did.",
+            "Well, he was so good at it, he got it banned from college basketball for over a decade.  I'm sure every game everyone was watching to see if he'd dunk the ball.  Do you like basketball, too?",
+            "I like some. I did watch the women's big 12 championship game last night. It was actually pretty good for a while.  I'm glad the dunk shot is no longer banned by the way.",
+            "That's awesome, I watch it occasionally, as well.  I find it ironic that James Naismith was the only losing coach in the University of Kansas's history, though.  He invented the game of basketball after all.",
+            "That is odd! You would think that he would know the game inside out and be the best at it after all."
+        ]
+    },
+    "17": {
+        "b0": [
+            [
+                {
+                    "fashion": "negative",
+                    "New Orleans cheerleaders": "negative"
+                },
+                "fashion",
+                " Yes they have to pay for their own uniforms ",
+                "agent_1 dislikes fashion. agent_2's response should fall into one of the following 3 topics: ['fashion trends', 'fashion industry', 'sportsmanship'].",
+                [
+                    "fashion trends",
+                    "fashion industry",
+                    "sportsmanship"
+                ],
+                {
+                    "fashion": "negative",
+                    "New Orleans cheerleaders": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah they have to be naked from the waist upwards "
+        ],
+        "b3": [
+            "Yes they have to leave if a player comes in and they are in a restaurant\nperson 2:Yes that is so unfair. Do you know why the Saints are called the Saints?"
+        ],
+        "bt": "Yes they are not allowed to eat at the same place as the players",
+        "conv": [
+            "do you watch football?",
+            "I sure do. Do you know the U of Iowa painted the visitor locker room pink?",
+            "I wonder if that is supposed to have some effect on the opposing team",
+            "I wonder too. Did you know bowlers made more than football players in the 60s?",
+            "Yes I guess football was not as popular back in the day as it is now",
+            "True. Do you know what the highest score in college football is?",
+            "Yes that was 222-0 when Georgia Tech beat Cumberland",
+            "Yeah that a score and all the way back in 1916",
+            "Yeah. DO you know ESPN won an Emmy once?",
+            "Yes that was for the superimposed yellow line",
+            "Yeah they did a good job there, easier to watch the game at home",
+            "True. Do you know who Benjarvus Green-Ellis is?",
+            "Yes he is the rb that never fumbled the ball in his career",
+            "Yeah. Did you know women can play in the NFL?",
+            "Yea there is no rule against that as long as they qualify",
+            "Yes. The game average is only 11 minutes of play anyways",
+            "Yeah. Engineers make more than football players over their lifetime",
+            "Yes they have longer careers too though so more time to make money",
+            "True. Did you hear of that rule for New Orleans cheerleaders?"
+        ]
+    },
+    "18": {
+        "b0": [
+            [
+                {
+                    "sports": "negative",
+                    "Super Bowl": "negative"
+                },
+                "sports",
+                " Yea that's pretty wild. I don't think I've ever met a person who has never watched the Super Bowl, it's usually either a really big football person or a person who just really like the parties ",
+                "agent_1 dislikes sports. agent_2's response should fall into one of the following 3 topics: ['football', 'sports statistics', 'football philosophies'].",
+                [
+                    "football",
+                    "sports statistics",
+                    "football philosophies"
+                ],
+                {
+                    "sports": "negative",
+                    "football": "positive",
+                    "money": "positive",
+                    "NFL players": "negative",
+                    "favorite team": "positive",
+                    "New England Patriots": "positive",
+                    "Super Bowl": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yea it's crazy. I wonder if they ever got fined by the league for those actions "
+        ],
+        "b3": [
+            "I know, that's crazy. I wonder if they won any games in that court? \nperson 2:I'm not sure, but it sounds like they had a lot of bad behavior going on. I know the Saints cheerleaders aren't allowed to eat at the same resturant as any nfl player."
+        ],
+        "bt": "Lol well the fans in Philli do have a bad reputation so I'm not surprised there was an actual court inside the stadium",
+        "conv": [
+            "Hi, how are you?",
+            "Doing good? Do you follow football at all? It's a family of sports that includes rugby, gridiron, and soccer",
+            "Why yes, I do I love all types of football.  Do you like football?",
+            "Yea I enjoy gridiron, I also think rugby football is pretty interesting too, would love to play it",
+            "Interesting to me that the word \"football\" is understood to refer to whichever form of football that is most popular in the regional context in which the word appears.  So football in some areas, is called soccer in other parts.",
+            "Yea, I wonder if there is any other football variation types besides American football, soccer, and rugby",
+            "Oh, there's more, for sure.  ",
+            "I wonder how much money other footballers make, in the US an average engineer makes more than an average nfl player over their lifetime",
+            "I think the true Soccer players make pretty good bank.",
+            "I wonder if soccer players are tracked like how the NFL embeds chips into shoulder pads and footballs to track things like velocity and location",
+            "I guess the could place a tracker in their shin guards or shoes?  Not many places to place a tracker on them, unlike the NFL players. Lol",
+            "No, I guess not. It's funny how the nfl tracks all these stats yet the average game only has 11 minutes of gameplay",
+            "I know, I felt like the last Super bowl I watched was about 3 hours long.",
+            "Yea that was excruciating to watch. Do you have a favorite nfl team out of the 32?",
+            "I like the New England Patriots and the GOAT!",
+            "Yea the patriots are a great team. Did you know apparently Benjarvus Green-Ellis never fumbled the ball in his career?",
+            "Yes, that's an impressive feat, just imagine the stress and pressure to remain perfect.  I know I couldn't do it.lol",
+            "Yea that pretty tough, probably tougher than the time Georgia tech scored 222 points on Cumberland back in 1916",
+            "That sounds like a train wreck, but it would never happen today.  That last Super bowl was the lowest scoring Super bowl, ever. On a side note, I read somewhere that the Eagles once set up a court in their stadium for six years because of their fan's bad behavior.  Isn't that wild?"
+        ]
+    },
+    "19": {
+        "b0": [
+            [
+                {
+                    "food": "positive",
+                    "restaurant": "positive",
+                    "walk out": "negative"
+                },
+                "food",
+                " That is just unacceptable! ",
+                "agent_1 likes food. agent_2's response should fall into one of the following 3 topics: ['restaurant reviews', 'food safety', 'restaurant recommendations'].",
+                [
+                    "restaurant reviews",
+                    "food safety",
+                    "restaurant recommendations"
+                ],
+                {
+                    "food": "positive",
+                    "restaurant": "positive",
+                    "walk out": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah he is that former nba player who is now a reporter"
+        ],
+        "b3": [
+            "Yeah that is so unfair. Do you like Tom Brady?\nperson 2:I do like him. Did you know he was a backup QB in high school?"
+        ],
+        "bt": "Yes it is so sexist and it really need to go now",
+        "conv": [
+            "do you like football?",
+            "I sure do.. Did you know U of Iowa painted the visitor locker room  pink?",
+            "I wonder if it is supposed to have some effect on them",
+            "I wonder too. DId you know bowlers used to make more than nfl players in the 60s",
+            "Yes I guess football was not that popular back then as it is now",
+            "True. Do you know the highest score in college football?",
+            "Yes that is 222-0 when Georgia Tech beat Cumberland",
+            "Yeah what a game and that was way back in 1916",
+            "Yeah. ESPN once won an EMmy for the superimposed yellow line",
+            "Nice. Did you know women can play too?\n",
+            "Yes as there is no written rule that prevents them from doing so",
+            "Yeah and if they meet the requirements then they are good to go",
+            "Yeah. THe average gameplay is only 11 minutes anyways",
+            "True and yet we are glued to the tv for hours to an end",
+            "Yeah. Engineers make more than players over the lifetime",
+            "Yes I guess they also have longer careers to it adds up",
+            "True. Did you hear of that rule for Saints cheerleaders?",
+            "Yes they are not allowed to eat in the same place as the players",
+            "Yeah and worse, they have to leave mid meal if they walk in"
+        ]
+    },
+    "20": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "coach": "positive"
+                },
+                "sports",
+                " I will have to look it up later. It was so nice chatting with you. ",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['sports', 'sportsmanship', 'football statistics'].",
+                [
+                    "sports",
+                    "sportsmanship",
+                    "football statistics"
+                ],
+                {
+                    "sports": "positive",
+                    "NFL": "positive",
+                    "favorite team": "negative",
+                    "Saints": "positive",
+                    "nfl players": "positive",
+                    "patriots": "positive",
+                    "football team": "positive",
+                    "game": "positive",
+                    "favorite player": "positive",
+                    "patrick mahomes": "positive",
+                    "football": "positive",
+                    "pinking": "positive",
+                    "coach": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " You too! "
+        ],
+        "b3": [
+            "Thanks, you too."
+        ],
+        "bt": "You as well",
+        "conv": [
+            "Hello, you follow the NFL much?",
+            "I do. I am getting ready to watch the playoff games",
+            "for sure, who you rooting for? Saints?",
+            "Absolutely and the Patriots.",
+            "for sure, did you know the saints cheerleaders are forbidden from eating at restaurants containing nfl players? I am rooting for the patriots also",
+            "Yeah, its a bit hypocritical of the team and the NFL to have a rule like that",
+            "for sure, very sexist. Speaking of the patriots, did you know benjarvus green-ellis never fumbled in his career ",
+            "Didn't he fumble a couple of weeks ago?",
+            "He recently retired a year or two ago, that is impressive. Hopefully the patriots take a note from him during the playoffs",
+            "This years 17-week season has wrapped up and now we hit the playoffs. Who do you think will win the Super Bowl this year?",
+            "I think the bears have a chance, but I think the saints will make a run, you?",
+            "Yes. I am worried though this may be the last year of Brees and Brady. I will have to find a young QB to follow now",
+            "for sure, patrick mahomes is killing it and a good role model, he may be the next star qb if he follows up with another great season",
+            "I am really loving watching that kid above all the other young QBs in the NFL.",
+            "for sure, do you follow college football at all?",
+            "A little bit. I am a secret fan of the Chiefs. I follow Ohio State on the college level",
+            "for sure, I am an Iowa fan, did you know they painted their opponent locker room pink?",
+            "Yeah, thats a bit ridiculous. I need to look at pics online to see what it looks like.",
+            "for sure, it was from their coach years ago who was a psychology graduate. Good chatting with you, you were fast and informative!"
+        ]
+    },
+    "21": {
+        "b0": [
+            [
+                {
+                    "sports": "negative",
+                    "football": "negative"
+                },
+                "sports",
+                " Yeah that is sad especially when they take home the championship! ",
+                "agent_2 dislikes sports. agent_1's response should fall into one of the following 3 topics: ['sports', 'sports controversies', 'football statistics'].",
+                [
+                    "sports",
+                    "sports controversies",
+                    "football statistics"
+                ],
+                {
+                    "sports": "negative",
+                    "football": "negative",
+                    "NBA": "negative",
+                    "female NFL league": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah its sad, both men and women alike. In all of history only two have won the golden ball, the only men and the only woman "
+        ],
+        "b3": [
+            "I agree. Did you know that the NFL uses tracking chips in their players?\nperson 1:Yes they do. Do you know why?"
+        ],
+        "bt": "Yes it really is. The movie concussion was very insightful for that. Well it was lovely speaking with you today. Enjoy the weekend.",
+        "conv": [
+            "Good evening partner. What's your take on football? I like watching American football but not Rugby.",
+            "I like football and dont like rugby or gaelic football, the nomal version is the one that I like",
+            "Yes similar to my liked! I like all levels. There was a high school team that played despite their science building burning down in the background!",
+            "They did, you know  that there is a really expensive high school stadium in Texas, it has a cost of $60 million to get build",
+            "Wow that is a huge cost. Seems like the fans need to behave better in Philly. They have a court setup in the stadium!",
+            "They do? I wonder why, that is really strange",
+            "Yes because of their fans bad behavior!",
+            "Oh I guess that makes sense, having a court there and having the trails in the moment, 14 out of the 25 largest stadiums in the world are of college football teams",
+            "Exactly. Wow that is impressive. College football is big. Tim Tebow was big in college but not so much the NFL. He was actually offered to play arena football by Kiss.",
+            "Not really sure who is Tim Bow but yeah, many great college players dissapoint later when the go to the NFL",
+            "Yes it is tough to make it. Maybe someday a female will play, there is no written rule against it.",
+            "I think that will be great, there should be like a female NFL league, ",
+            "Yeah that would be interesting. On average an NFL game only lasts 11 minutes!",
+            "Only 11 minutes! that sure is a scam, have you ever seen those huge flags at the stadiums?",
+            "Yeah they are huge. I think the University of Iowa has one and they also have pink locker rooms!",
+            "Thats funny, and yeah I bet they do, those flafs cost $50,000 each and weight a lot",
+            "Wow interesting. The average lifetime earnings of an engineer make more than that of an NFL player!",
+            "That kind of makes sense, engineers do have larger carreers",
+            "Yeah and they don't get injured nearly as often! ",
+            "No, most football players end up with brain damage or other injuries that is really sad"
+        ]
+    },
+    "22": {
+        "b0": [
+            [
+                {
+                    "school": "negative"
+                },
+                "school",
+                " And I think that pro teams would be more like the military, where you have to pass a physical to play. In the NFL, if you get caught using performance enhancing drugs you get suspended, but if you try to cheat the system you get drafted into the NFL ",
+                "agent_1 dislikes school. agent_2's response should fall into one of the following 3 topics: ['soccer players', 'sportsmanship', 'sportsmanship'].",
+                [
+                    "soccer players",
+                    "sportsmanship",
+                    "sportsmanship"
+                ],
+                {
+                    "school": "negative",
+                    "stadium": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Exactly. You always wonder why the football coach gets more money than the teachers. "
+        ],
+        "b3": [
+            "I think it's crazy that the highest paid state employee is the college"
+        ],
+        "bt": "I've enjoyed talking about football! I have to go and have my dinner now. ",
+        "conv": [
+            "I'm wondering when women are finally going to play in the NFL.",
+            "I think there was a womens' league years ago but I am not sure. It was not the NFL though.",
+            "Was that the league with lingerie or something? Five or six a side football?",
+            "Something like that yes. But I think if a woman wants to play in the NFL and is good enough, she should be allowed. ",
+            "I wonder if women can play some positions like kicker and punter because size is not really the issue? What about male cheerleaders though?",
+            "Cheerleading is really hard! You have to be athletic. I have a male friend who was a cheerleader in high school and he was great at it. ",
+            "I've heard that the Saints cheerleaders can't eat in the same restaurant as the players. What up with dat? ",
+            "I hadn't heard that! Wow. I have heard that cheerleaders have a lot of strict rules though. Do the football players have a lot of rules they have to follow?",
+            "Probably rules about drug use. And standing during the National Anthem!  :0",
+            "Haha! I can't believe how much football coaches get paid. I heard that the coaches for the military teams get paid more than anyone else in the department of defense. That's crazy!",
+            "That's the market for you. There's so much money from TV and stuff. I heard that in the past the players really didn't make much. Now engineers make more over their careers than pro athletes.",
+            "It seems like it is very easy to get injuries that can end a career. So engineers probably are able to put in a lot more years at their jobs. ",
+            "Yeah. It's a fantasy to think a person could become a football player. Seriously, engineers are needed more than players. Priorities in society can get screwy.",
+            "I went to high school with someone who played for the Panthers. Now he sells cars. You're right about priorities though. Football is more important than academics in most high schools and colleges. They spend a lot of money on it. ",
+            "I would play high school to get a scholarship though. The best way to get an education is to be a good athlete, not a good student.",
+            "I heard there is a high school stadium in Texas that cost $60 million. I don't really think that is right.",
+            "How much money goes to textbooks after the stadium is payed for? I heard that a high school team kept playing a game even when their school was on fire.",
+            "I heard that 14 of the world's largest stadiums belong to college football teams... I wonder how many of those are state schools. Our taxes shouldn't be paying for that. ",
+            "I wonder how many jobs are created though. I know lots of people love the sport. ",
+            "That is true. I think maybe it would be better if instead of school teams it was more like the European soccer system, where you grow up playing for a club and then go pro. ",
+            "Yeah, that's true. No confusion over the purpose of school."
+        ]
+    },
+    "23": {
+        "b0": [
+            [
+                {
+                    "TV": "positive",
+                    "commercials": "positive"
+                },
+                "TV",
+                " I wonder why they painted it pink. ",
+                "agent_1 likes TV. agent_2's response should fall into one of the following 3 topics: ['TV shows', 'movie reviews', 'commercials'].",
+                [
+                    "TV shows",
+                    "movie reviews",
+                    "commercials"
+                ],
+                {
+                    "TV": "positive",
+                    "commercials": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " I don't know if I'd be up for that "
+        ],
+        "b3": [
+            "Haha, that's awesome! I wonder if they have a pink locker room at"
+        ],
+        "bt": "Hey, pink isn't such a bad color. A lot of football players wear it to show support for breast cancer fighters and survivors.",
+        "conv": [
+            "Chris Thompson will be a key player to help the Redskins quarterback Alex Smith this year",
+            "Yeah, I heard his health has improved a lot.",
+            "He comes from Florida State and worked his way back from a fractured fibula ending the 2017 season which was too bad",
+            "He was a little nervous getting back on the field but he's finding his groove again.",
+            "I'm glad he reports it felt good and he's able to make playes",
+            "It will be about 18 months from the initial injury until he feels like himself again though",
+            "Did you hear that top bowlers in the 60's made more than top football stars by 2x's?",
+            "That's so interesting considering how crazy our nation is for football these days!",
+            "The highest score in a football game was a whopping 222-0 in 1916.  That is embarrassing!",
+            "I wonder how that happened! That's a game I'd love to see. I'm not really into football. The average NFL game only has 11 minutes of live gameplay. Maybe that's why it doesn't keep my interest.",
+            "The NFL also is using tracking chips in shoulder pads to record moves and footballs to track velocity, rotation, ball speed and location.  I guess you have to perform without excuses!",
+            "Yeah, football is a serious sport! You can also see how important it is by the technology that is developing. Apparently, ESPN won an emmy for creating the superimposed yellow line.",
+            "If you go to the Eagles, you have to watch your behavior because they had a temporary court set up in their stadium for six years due to their fans bad behavior!",
+            "That is funny! I wish people would be more into women's sports. Women aren't prohibited from being in the NFL but have yet been able to meet eligibility requirements.",
+            "That would be awesome for them to show their skills someday!  Did you hear about the high school football team that kept playing in '65 even though their science building burned down behind them.  I'm surprised they had a separate science building.",
+            "That's interesting! Will you be watching the Superbowl? I heard it's coming up",
+            "I hope the Eagles make it again.  Hopefully they don't have to set up a court though",
+            "Ha. I don't usually watch football but will probably watch the Superbowl. The suspense is exciting.",
+            "The commercials are usually fun, and who doesn't like good food and friends?  If you visit Iowa check out the pink visiting teams locker room at University of Iowa haha"
+        ]
+    },
+    "24": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "ESPN": "positive"
+                },
+                "sports",
+                " Yeah they have come a long way since those yellow and black cards ",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['basketball', 'sports news', 'basketball statistics'].",
+                [
+                    "basketball",
+                    "sports news",
+                    "basketball statistics"
+                ],
+                {
+                    "sports": "positive",
+                    "NFL": "positive",
+                    "playoffs": "positive",
+                    "basketball": "positive",
+                    "ESPN": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah they did for total sports which was a good thing "
+        ],
+        "b3": [
+            "Yeah that is pretty cool. Did you know the highest paid state employee is either a college football or basketball coach in 39 states?\nperson 1:Wow that is crazy. Did you know the inventor of basketball was the only losing coach at University of Kansas?"
+        ],
+        "bt": "Yeah that is great because it has made watching the game from home much easier",
+        "conv": [
+            "hi do you watch the nfl?",
+            "I sure do. DO you know how many teams are in the nfl?",
+            "Yes there are 32 teams divided between NFC and AFC",
+            "Right. Did you know women can play?",
+            "Yeah there is no written rule against them playing if they qualify",
+            "Yeah pretty neat. THe game only has 11 minutes of active play after all",
+            "Yeah that is short and we are glued to the tv for so long watching the game",
+            "Exactly. Did you know engineers make more than them over their lifetime?",
+            "I am not surprised as they have longer careers so more time to make money",
+            "Yeah true. Did you hear about that rule for New Orleans cheerleaders?",
+            "Yeah about them not being able to eat in the same place as the players?",
+            "Yeah and worst, they have to leave mid meal if they walk in",
+            "Yeah it is really sexist though and should be banished",
+            "I hope that happens. DId you know they are putting tracking chips on the players now?",
+            "Yeah they are using those to track velocity and speed and all that stuff",
+            "Yeah I hope they can use those stats to make the games a bit safer too",
+            "Hope so too. U of Iowa painted their visitor locker room pink",
+            "Hmm I wonder why. Bowlers used to make more than football players in the 60s",
+            "Yeah that is crazy. ESPN won an Emmy for the superimposed yellow line"
+        ]
+    },
+    "25": {
+        "b0": [
+            [
+                {
+                    "TV show": "unknown"
+                },
+                "TV show",
+                " It was the 1985 World Series and they were the winners ",
+                "agent_1 likes TV show. agent_2's response should fall into one of the following 3 topics: ['TV shows', 'actors', 'movie reviews'].",
+                [
+                    "TV shows",
+                    "actors",
+                    "movie reviews"
+                ],
+                {
+                    "TV show": "positive",
+                    "actor": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " I think it was the Birds of prey court, it's a funny image to think about, birds eating pizza and donuts "
+        ],
+        "b3": [
+            "Did you know that the highest paid state employee in 39 out of 50 states is either a college football or basketball coach?\nperson 2:No, that's crazy, I wonder if that's the case in Texas"
+        ],
+        "bt": "I remember a stand up comedian talked about the eagles having their own court in the stadium before",
+        "conv": [
+            "I was unaware that the top bowlers in the 60s made as much as top football stars. ",
+            "Yea, most football players had regular jobs when they weren't playing so I guess it's not unrealistic for top bowlers to make more than them during the 1960s",
+            "Yeah, crazy. ESPN won an emmy for the creation of the superimposed yellow line that represents the 1st down marker. ",
+            "It's funny how it took so long for someone to think of something as simple as putting a yellow line for a first down took so long to be thought of",
+            "I wonder if it was the fact that the technology didn't exist at the time? ",
+            "It's possible, I mean now they have tracking chips embedded in every player's equipment, funny how far sports has come along",
+            "Interesting, concept though",
+            "Yea, it's neat they can measure things such as velocity, rotation, ball speed, and location",
+            "Well, the University of Iowa's locker room is painted pink, crazy",
+            "that's crazy, I wonder what color the locker rooms were for the arena football team Kiss bought",
+            "I'm not sure, that's a great question though, probably black and white? ",
+            "Maybe that's why Tim Tebow never signed with them",
+            "I don't blame him, to be honest, I think he is overrated though. ",
+            "Yea, not a great qb, would have made a better RB, not as good as Benjarvus Green-Ellis though, he hasn't fumbled in his career yet",
+            "I think so too, funny you mention that. I'm not all that surprised that the average NFL game has only 11 minutes of live gameplay. ",
+            "No, it's not that surprising they only play 11 minutes when you think of all the time they spend between plays setting up the next play",
+            "Yeah, sometimes when I'm watching a game, I think that they do take a bit too much time running the clock out and stuff, but oh well. ",
+            "It's funny how grueling the game is on your body when there is only 11 mins of gameplay and 16 games a year",
+            "Yeah, I remember reading about some players having to sit in a tub full of ice after the game was over. ",
+            "Yep, it's a rough sport, the Eagles even had their own court room in their stadium",
+            "I head about that, I'm not sure where though. "
+        ]
+    },
+    "26": {
+        "b0": [
+            [
+                {
+                    "holiday": "positive",
+                    "Christmas gift": "positive"
+                },
+                "holiday",
+                " Hope they all get a stomach ache ",
+                "agent_2 likes holiday. agent_1's response should fall into one of the following 3 topics: ['holiday recipes', 'food pairing', 'Christmas traditions'].",
+                [
+                    "holiday recipes",
+                    "food pairing",
+                    "Christmas traditions"
+                ],
+                {
+                    "holiday": "positive",
+                    "Christmas gift": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " the only teams I know about iowa football is when Iowa state got suspended for 30 days in 2003 "
+        ],
+        "b3": [
+            "That is a fun fact.  Thanks.  Have a good holiday.  Goodbye. person 1:Goodbye!"
+        ],
+        "bt": "Thank you.",
+        "conv": [
+            "Hi.  do you watch football",
+            "Yes I do, I am especially interested right now in following Jordan Reed to see if he will really be able to take the next step in his promising career after his surgery.",
+            "who is your team",
+            "Well, Jordan Reed is on the Redskins, so I am following them currently.",
+            "I see.  do you know that the highest score ever in a football game occurred in 1916, and the score was 222-0",
+            "Yes, I had heard that before! I wonder how much money football players made in that time. I heard that in the 1960s it was only half as much as popular bowlers of the time.",
+            "Yeah, that fact surprised me a lot.  ",
+            "I was also surprised to learn that ESPN won an Emmy for creating that yellow first down line graphic on television. I never realize that sports media could also win those Hollywood awards!",
+            "I do not know how a sport program could win an emmy.  Did they have an acting skill?",
+            "No, I guess that the yellow line thing was so innovative for American football media coverage at the time that it was considered worthy of an award!",
+            "I concur.  Btw, did you know that former Patriot running back benjarvus green-ellis never fumbled the footall in his career",
+            "No, I didn't, but that's impressive. I wonder if they have used those NFL tracking chips in the shoulder pad to record his speed and velocity and stuff?",
+            "I do not think so because this is a new technology",
+            "Oh, that's a good point! Well either way it's too bad that football players even that talented only make half as much as engineers",
+            "but it is quick money and fame.",
+            "Yeah but also it sounds like they control your life quite a bit! Even other athletes such as the NFL New Orleans Saints cheerleaders have strict rules against eating in a restaurant at the same time as an NFL player.",
+            "I see.  Did you know that nfl has no written rule against female players.  They are allowed to play if they meet the requirements",
+            "Wow, so the NFL actually treats women better as players than the cheerleaders get treated apparently!",
+            "I would think so.  Btw, nice chatting with you.  Happy holiday",
+            "Merry Christmas to you, and I'll leave you with this fun fact: The university of Iowa's locker room provided for visiting football players is completely painted pink!"
+        ]
+    },
+    "27": {
+        "b0": [
+            [
+                {
+                    "TV": "negative"
+                },
+                "TV",
+                " Did you know they have a mayor of Talkeentna? ",
+                "agent_1 dislikes TV. agent_2's response should fall into one of the following 3 topics: ['TV shows', 'movie reviews', 'sports events'].",
+                [
+                    "TV shows",
+                    "movie reviews",
+                    "sports events"
+                ],
+                {
+                    "TV": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " You have a good night. "
+        ],
+        "b3": [
+            "Well, it's been nice chatting with you. I hope you have a good evening. \nperson 2:Same to you."
+        ],
+        "bt": "Right! Those chains are too funny i never even thought about that, lol!!! Would want to be a New Orleans cheerleader they get treated like second class citizens if there eating at a restaurant and a player comes in.",
+        "conv": [
+            "Hi, do you like college foot ball?",
+            "Yeah but i don't get to watch at all. How about you?",
+            "I do love it and watch it all the time. Do you have a favorite team?",
+            "I don't who's yours. Did you know the Iowa visiting locker room is painted pink. ",
+            "I am an Illinois fan. We have not had much to cheer about lately. I heard rumors about the locker room. I wonder if it works.",
+            "Not on me it was just make me made and want to make sure i won! How about you?",
+            "Probably not. I am not sure I could get more laid back or passive. I just don't care... I would care if I got beat 222-0. I would have a team meeting after that.",
+            "Oh my God yes that bus ride home was either screaming or dead silent, lol! Cumberland got their butts kicked. ",
+            "I have never heard of that school so I wonder if they just closed after that beating?",
+            "Yeah that sounds about right! lol!! Did your hear that espn won an award?",
+            "They have probably won a lot. For what?",
+            "No they won it for that superimposed yellow line for the first down. ",
+            "I feel like that is a low bar to hurdle. A yellow line?",
+            "I know but it made life watching the game on tv that much simpler. ",
+            "It does. I am surprised they still have old guys measuring first downs with chains. It is 2019 and tennis uses computers and sensors, can't the NFL?",
+            "Well apparently they are spending all there money on tracking chips.",
+            "They could use it in footballs to figure it out. They need to be better. Plus it would speed up play.",
+            "Right well there is only 11 minutes of live game play anyway. ",
+            "I know. I need less commercials and chain gang time though. "
+        ]
+    },
+    "28": {
+        "b0": [
+            [
+                {
+                    "video games": "negative"
+                },
+                "video games",
+                " Ya, 3 hours is a long time to be watching one sport, but it is so popular. I wonder what the game is like in Canada, they have to change it to Canadian football because the rules are different. ",
+                "agent_2 dislikes video games. agent_1's response should fall into one of the following 3 topics: ['video games', 'gaming culture', 'video game reviews'].",
+                [
+                    "video games",
+                    "gaming culture",
+                    "video game reviews"
+                ],
+                {
+                    "video games": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " That is too long, I need to catch up on my sleep. the NFL is too popular. I wonder when the next season will start. Do you watch? "
+        ],
+        "b3": [
+            "I know right, I think it is crazy that the average lifetime earnings of an engineer is higher than the average lifetime earnings of an NFL player. \nperson 1:Ya, I would have thought it would have been the other way around."
+        ],
+        "bt": "Exactly, well great chatting.",
+        "conv": [
+            "Are you a big redskins fan?",
+            "No but I like ha-ha clinton dix and alex smith as players though, I am a vikings fan, how about you?",
+            "I am actually a Patriots fan but I think it was smart of them to give up at fourth round pick for Dix.",
+            "For sure, he is a good player and good for defense. I am not a saints fan too much though, I don't like how they treat their cheerleards",
+            "Definitely odd how they have a rule that they cant eat with players.",
+            "right, I feel that is sexist and why the  other 31 other teams don't say anything!",
+            "I am pretty sure the NFL is still a private business they can kind of do whatever they want.",
+            "that is a good point, lol. Did you hear about the tracking chips they use in shoulder pads?",
+            "Something along those lines, it tracks there speed or something?",
+            "Yea it tracks all their movement and other data. pretty interesting! They must have been created by engineers making the big bucks",
+            "Funny you say that the average engineer has higher lifetimes earnings than an NFL player!",
+            "wow, I should have been an engineer instead of dreaming about playing in the NFL lol! Do you have a favorite college team?",
+            "I would have to say university of Iowa.",
+            "Me too, that is my Alma Mater! Did you hear about their locker rooms?",
+            "I heard they are pink, is that for breast cancer or something?",
+            "That is true! That would make sense but they are for the visitors as a calming method. It is psychology 101, the color soothes and makes you relaxed",
+            "Wow, that is some next level stuff! Former patriots running back Benjarvus Green-Ellis has never fumbled a ball.",
+            "That is such a good feat he did. I feel all the running backs ever do now is fumble the ball. He needs to teach a clinic",
+            "Ya, even crazier is that average NFL game is only 11 minutes.",
+            "That is not a lot of time lol. It takes the game from start to finish like 3 hours lol"
+        ]
+    },
+    "29": {
+        "b0": [
+            [
+                {
+                    "college": "negative"
+                },
+                "college",
+                " It's even more crazy when you attend a Ivy League school, according to some of the information you provided earlier. ",
+                "agent_1 dislikes college. agent_2's response should fall into one of the following 3 topics: ['college', 'education', 'college experiences'].",
+                [
+                    "college",
+                    "education",
+                    "college experiences"
+                ],
+                {
+                    "college": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah its getting to the point where its not worth it.  Kids need a good education, but the cost of college isn't worth it. "
+        ],
+        "b3": [
+            "I agree.  I think it's crazy that the average college football stadium is larger than most average towns in the US. \nperson 2:I agree, I think it's crazy that the University of Iowa's visitor locker room is pink."
+        ],
+        "bt": "Still  you kind of have to go.  If you want to be an engineer, at least one that has career earnings more then most football players.",
+        "conv": [
+            "Hello there, do you follow the NFL at all?",
+            "Kind of, but only in passing, I would not say I was an football expert.",
+            "I am not an expert myself, but I follow enough to know what is going on, and I watch all my favorite teams games. ",
+            "What would be your favorite NFL teams?  Are they any good?",
+            "I like the Packers, they weren't very good this season, it was a bummer. ",
+            "I live in North East Ohio, I think fans around here would gladly swap the Packers records for the Browns.",
+            "Yeah the Browns have had some tough times since I have been watching, much better season this one than last though. ",
+            "I guess there is always someone worse than yourself, just heard about the team that lost 222-0.  That must have hurt.",
+            "That sounds awful, I wonder how many Cumberland fans were still in the stands when that game ended?",
+            "Or if they came back the following week.  I guess you have to stick with your team through thick and thin, but that might have pushing the limit.",
+            "Yeah that is the test of a true fan, that you might be critical of the management, but you always stay a fan.",
+            "Would you be a true fan if you ended up in the court set up in the stadium of the Eagles.  In Europe they call those type of fans the Ultras.",
+            "Yeah I have heard a bit about some of the Ultras in European leagues and down in South America as well.  I'm a big fan of international football. ",
+            "What always amazes me is college football and its size, almost seem as big as professional football, I can't think of another amateur sport with that much of a following.",
+            "That is true and the size of the stadiums for college and even high school football is insane. ",
+            "I know, the high school football coach is a minor celebrity around here, I can't say that for any of the teachers.",
+            "Yeah I think the highest paid people in most states are college coaches. ",
+            "Not sure how I feel about that.  I have to send two kids through college one day, with the high cost of college I'm not sure I want a portion going to the football coach.",
+            "Yeah its pretty crazy to me just how much it costs to attend college these days. "
+        ]
+    },
+    "30": {
+        "b0": [
+            [
+                {
+                    "social media": "negative",
+                    "rule": "negative"
+                },
+                "social media",
+                " I agree, women should be treated equally if not better than men in every aspect of life, maybe the Saints will change that rule. You know a woman did actually founded the NFL ",
+                "agent_1 dislikes social media. agent_2's response should fall into one of the following 3 topics: ['social media', 'rules', 'online safety'].",
+                [
+                    "social media",
+                    "rules",
+                    "online safety"
+                ],
+                {
+                    "social media": "negative",
+                    "rule": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah I think they should change that rule, women should be treated equally and not be insulted because of her gender, there is a player named Don Mattingly actually! "
+        ],
+        "b3": [
+            "I know right, I guess the writer of that rule was a sexist man, I wonder if he was a woman hater. \nperson 2:I bet he was, I wonder if he was a woman hater,"
+        ],
+        "bt": "I know right, I mean cheerleaders could actually sue the team for something like that, its a rule that should be abolished",
+        "conv": [
+            "Hello there, are you a fan of football?",
+            "I am a fan, what about you?",
+            "I am as well, did you watch the Super Bowl this past Sunday?",
+            "I did, I was rooting for the patriots, what about you? the game was really close and really defensive not sure if I liked it",
+            "Yeah I didn't like that it was so low scoring and mostly defense, it does not make for an exciting game.  I was partial to either, but I am impressed by the Patriots domination of the league the last 2 decades. ",
+            "Its actually the Superbowl with the fewest points scored, and the Patriots have done things right that is for sure, they used to have a great player called Benjarvus Green Ellis.",
+            "Yeah did you kow he never had a fumble in his entire career!?  That is very impressive. ",
+            "I know, that is really impressive! I bet only a few players have accomplished that, maybe he is the only one, did you know that ESPN won an emmy because of the creation of the first down line",
+            "Yeah that is an interesting fact.  I am trying to think if I can remember watching games before they put that yellow line up there. ",
+            "The yellow line has been there a long time and I think that the emmy is well deserved as it has definetely contributed with a lot to the game.",
+            "Yeah I think it has totally changed how people were able to watch and cheer, it makes so much of a difference. ",
+            "It does, I guess thats why games were so unfair in old times, there was a team that lost by 222 points ",
+            "Yeah isn't that crazy, I wonder if there were any defense playing that day at all!",
+            "I know, it seems like the other team was blind or they were all injured, another interesting fact is that bowlers made more than football players back in 1960",
+            "Yeah I thought that was pretty wild.  I guess if I got the chance to do it again, I would be a pro bowler in the 60's!",
+            "I guess thats a safer sport, football has proven to cause a lot of brain damage in players so thats not good.",
+            "Yeah it has, if you ever watch the movie Concussion, with Will Smith, it definitely makes you think twice about how much damage the sport does to ones body and brain most of all. ",
+            "I think ive seen that film before, I will google it later or maybe its available in Netflix, there is a crazy rules the New Orlans Saints have, its really sexist and rude in fact.",
+            "Yeah that rule seems so outdated and dumb.  I can't believe that is an actual rule. "
+        ]
+    },
+    "31": {
+        "b0": [
+            [
+                {
+                    "music": "negative",
+                    "music genre": "negative"
+                },
+                "music",
+                " It's sad how it's still so sexist even in 2018. ",
+                "agent_1 dislikes music. agent_2's response should fall into one of the following 3 topics: ['music appreciation', 'music history', 'music festivals'].",
+                [
+                    "music appreciation",
+                    "music history",
+                    "music festivals"
+                ],
+                {
+                    "music": "negative",
+                    "music genre": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah, the players should walk out and protest with the cheerleaders. Anyways, it was nice chatting with you today. "
+        ],
+        "b3": [
+            "Its a sexist rule, I agree, but it is a football rule, not a gender rule. \nperson 2:I see. I'm not sure what you mean."
+        ],
+        "bt": "And also it seems that being a football player may not be all it's cracked out to be. An engineer actually makes more in a lifetime!",
+        "conv": [
+            "Are you a NFL fan?",
+            "I am not. Are you?",
+            "Yeah I enjoy watching the NFL.. I think there's 32 teams in the NFL.",
+            "What is your favorite team? It is surprising how much the NFL has gained in popularity. In the 60s, top bowlers made twice a much as top football stars.",
+            "I really like the Titans. However, the quarterback is out with an injury. ",
+            "Oh, sorry to hear. I guess I am not into football because there are only 11  minutes of live gameplay.",
+            "But it's 11 minutes if action!! The super bowl will be coming up soon..",
+            "I hear it's the first Sunday in February. I might get together with some friends to socialize.",
+            "It sure is.. Usually the day after my birthday... The highest scoring game in football was 1916 Georgia Teach beat Cumberland 222-0.. They must have bad offense and defensive.",
+            "Wow, how is that even possible? It's interesting how there is so much technology used these days in football.",
+            "Right.. Especially the graphics on television.. ",
+            "I heard ESPN won an emmy for the superimposed yellow line",
+            "I bet. That was brilliant!! I wonder if women can play in the NFL?",
+            "I read that they actually can, if they can meet requirements. Sadly no women have yet.",
+            "This is nuts.. If a Saint's cheerleader is eating in a restaurant and a football player shows up they have to leave. They aren't allowed to eat at the same restaurant as the players. I wonder why?",
+            "Yes, it seems unfair that the cheerleaders have to leave and never the players.",
+            "Extremely sexist!!",
+            "Indeed. I wonder how they can still get away with it.",
+            "I'm not sure. There is no good reason for that rule."
+        ]
+    },
+    "32": {
+        "b0": [
+            [
+                {
+                    "hobby": "positive",
+                    "hobby type": "positive",
+                    "board games": "positive"
+                },
+                "hobby",
+                " So the Chicago Bears have a cursed stadium. They should play where the cubs play. ",
+                "agent_1 likes hobby. agent_2's response should fall into one of the following 3 topics: ['throwing games', 'board game reviews', 'game mechanics'].",
+                [
+                    "throwing games",
+                    "board game reviews",
+                    "game mechanics"
+                ],
+                {
+                    "hobby": "positive",
+                    "throwing balls": "positive",
+                    "hobby type": "positive",
+                    "board games": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Did you know that the NFL uses a 16 team schedule instead of a 17 team schedule like the other major sports? "
+        ],
+        "b3": [
+            "Did you know that the NFL uses tracking chips embedded in players shoulder pads to record their every move on the field.  They can even record the velocity of a player's arm when he releases the ball.  What a great tool for coaches! person 2:I did not know that, that is awesome, I wonder how they use that information. \nperson 1:I have no idea, maybe to help with the game play, or to help with recruiting and scouting players."
+        ],
+        "bt": "In the NFL, there is no written rule against women playing.",
+        "conv": [
+            "Hello there, do you follow the NFL at all?",
+            "I love the NFL. What about you?",
+            "I follow but mostly my favorite team, I do watch more during the playoffs I will say though.  How about you?",
+            "Same here. Who's your favorite team? Mine is the Bengals.",
+            "Nice! I used to play with the Bengals in tecmo super bowl all the time.  I'm a Packer fan. ",
+            "HAHA - I love tecmo super bowl. Did you know Iowa painted the opposing teams locker room pink?",
+            "Yeah I heard about that, I wonder who gave the final ok for that to be done, I bet they weren't overly PC lol. ",
+            "Not too sure lol. The 1960's top bowlers made twice as much as the top NFL stars.",
+            "That is so crazy, it just shows how much bigger the NFL has gotten since then. ",
+            "I agree. Bowlers probably don't make a whole lot these days.",
+            "No not these days, but I still think it would be pretty sweet to make a living throwing those balls around, lots of women too lol. ",
+            "That would be pretty awesome. Gotta love the attention too. lol",
+            "Oh yeah, greasy hands, thin crust frozen pizza, and lots of high life beer. ",
+            "LOL! The highest score ever in a football game was 222-0.",
+            "Holy crap, I think I have read about that, oh Cumberland so sorry for you lol. ",
+            "Yea that is bad. Green-Ellis has never fumbled the football in his entire NFL career.",
+            "That is very impressive, I wonder how many total carries he had?",
+            "Not sure on that, but I know he was a starter so I'd imagine a lot of carries.",
+            "Yeah thats true he was so probably a decent amount you are right. "
+        ]
+    },
+    "33": {
+        "b0": [
+            [
+                {
+                    "weekend": "unknown"
+                },
+                "weekend",
+                " Apparently it is about 16 games or so. So, as you know the Patriots are one of the Super bowl wins. ",
+                "It is unclear if the agent_2 likes or dislikes weekend. agent_2's response should fall into one of the following 3 topics: ['weekend plans', 'travel tips', 'holiday destinations'].",
+                [
+                    "weekend plans",
+                    "travel tips",
+                    "holiday destinations"
+                ],
+                {
+                    "weekend": "unknown"
+                }
+            ]
+        ],
+        "b1": [
+            " Total games played is 2560, so about 9-10 games each team plays "
+        ],
+        "b3": [
+            "17 weeks.  I was thinking it would be shorter.  lol  I guess the longest season is the Super Bowl.  I would have guessed that to be shorter.  lol \nperson 2:I would have guessed that as well, I guess the longest season is the regular season."
+        ],
+        "bt": "I believe 17 weeks but every team gets a bye week so they play 16 games a season.",
+        "conv": [
+            "Do you watch the NFL?",
+            "A little, you? I can't watch like i use to years ago so im not current.",
+            "Which of the 32 teams is your favorite?",
+            "Well back in the day it was the Green Bay Packers. Not sure how they rank these days though. So it's the National Football league which consist of the afc and the nfc right?",
+            "Yep, 16 in each I think. I am a vikings fan. What are your thoughts on the saints",
+            "Nothing really like i said haven't watch in while. Why what do you know? I am aware that they plan to put tracking chips in player padding as well as the footballs. ",
+            "if their cheerleaders are eating at a restaurant and the players come, they have to leave, kind of sexist",
+            "I think so. Do you know in Austria Rugby is consider to be football? ",
+            "I did not know that, that is more brutal I think. I wonder if their actual gameplay lasts longer than the Nfls 11 minutes",
+            "So many commercials i guess because that's hard to believe. Do you know about the high school in Allen Texas?  ",
+            "For sure, what about that school?",
+            "There is a High School in Allen Texas that seats 18,000 ppl and cost 60 million to build. ",
+            "wow, I heard that a while ago. Waste of tax payer money. Do you have a favorite college team?",
+            "I don't i ever only watched Pro if given a chance. Is it much different?",
+            "Not too much, I am an Iowa Hawkeye fan, they paint the visiting locker room pink!",
+            "Haha, That might just make me mad and want to win even more. So how do you feel about the tracking chips they are about to start using in the pro's?",
+            "For sure it is supposed to calm them down lol. I heard about that, probably made my engineers who make more money than nfl players do in their lifetime",
+            "Yeah i get that but give me the 10-15 and i'm out not the 40-50, you know! So do you know how long a regular season last? ",
+            "I dont know how long it lasts, how long?"
+        ]
+    },
+    "34": {
+        "b0": [
+            [
+                {
+                    "sports": "negative",
+                    "playtime": "negative"
+                },
+                "sports",
+                " Really, it seems like there are a lot more action in the NFL compared to other sports, I like it ",
+                "agent_1 dislikes sports. agent_2's response should fall into one of the following 3 topics: ['football', 'sportsmanship', 'football statistics'].",
+                [
+                    "football",
+                    "sportsmanship",
+                    "football statistics"
+                ],
+                {
+                    "sports": "negative",
+                    "Thursday night football": "positive",
+                    "players": "negative",
+                    "women": "positive",
+                    "WNFL": "positive",
+                    "NFL": "unknown",
+                    "playtime": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " I read that, and wondered why the rest of the time was so boring. "
+        ],
+        "b3": [
+            "I did not know that. I wonder what they do the rest of the time.  person 2:I have no idea, I guess they have to take breaks and stuff, I know that there is only 11 minutes of live gameplay, thats really short"
+        ],
+        "bt": "No didn't know that, 11 minutes of live playtime doesn't seem right, anyways im getting kind of tired, its late so Im going to call it a night. ",
+        "conv": [
+            "Hi Turker, are you a fan of NFL, if yes do you watch Thursday night football?",
+            "I am a fan, my Thursday nights wouldn't be the same withou that sacred sport, what about you?",
+            "I feel the same way, I like Thursday night football and I hope nothing change.",
+            "It seems like the Thursday packages isnt going anywhere so that is a good thin, did you know Disney is the owner of ABC and ESPN?",
+            "No I had no Idea, since Disney always had it own channel, they must have recently brought ABC and ESPN.",
+            "Yeah seems like they are buying everything these days, Star Wars, Marvel and now those two channels as well",
+            "Wow, Disney doing good, I knew there was the Disney channel for many years, when I was small that was my favorite channel.",
+            "It was  great channel I liked it as well, crazy how much money TV moves and also how much money football moves, $900 million for Thursday night games alone",
+            "Wow it's amazing, did you know ESPN is laying off large numbers of workers?",
+            "No I didnt know that, its terrible, I wonder why, have you watched The Bing Bang Theory?",
+            "I used to, but not any more since they got older, after that seems like things wasn't the same.",
+            "Well its a really funny show, it has an average of 18 million viewers. The NBC has great series in it. ",
+            "Yes I read about the viewers, did you know that women has a chance to play in the nfl if they meet eligibility?",
+            "I didnt know about that, what do you think about that rule? would you like to watch a woman in the NFL?",
+            "I don't think so, because this will change the entire paste of the game, I don't think 250 and 300 lbs menwould want to tackle women head on, I would like to see a WNFL, women only.",
+            "Yeah I dont think its a good sport to mix genres, do you know who Matt Patricia is?",
+            "No I don't have any Ideal, does she have something to do with the NfL?",
+            "Matt Patricia is a male lol, he is a rocket scientist and also a coach in the NFL",
+            "Wow, I feel a little embarrassed for not knowing that, first chance I get I will read upon him.",
+            "Patricia its a girls name so don't worry its an honest mistake, he must be a really smart guy though being a rocket scientist and all",
+            "I thought it was a woman at first, did you know that only 11 minutes of live playtime in a nfl game?"
+        ]
+    },
+    "35": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "NFL player": "positive"
+                },
+                "sports",
+                " Yea, although I don't know if she would be able to tackle or block for sure ",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['football', 'sportsmanship', 'football statistics'].",
+                [
+                    "football",
+                    "sportsmanship",
+                    "football statistics"
+                ],
+                {
+                    "sports": "positive",
+                    "football": "positive",
+                    "NFL": "negative",
+                    "NFL player": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " I agree, I wonder why they wouldn't let a male player wear a hijab in protest of equality as well "
+        ],
+        "b3": [
+            "I think we will too.  I wonder if they would allow a"
+        ],
+        "bt": "Yea since there is no rules against female players I can see one become a place kicker",
+        "conv": [
+            "did you know that Minnie Mouse's name is short for Minerva? haha that is weird",
+            "I had no clue, I also didn't know Disney was founded by Roy Disney too",
+            "No I didn't know that, or that wall-e was named after Walter Elias Disney, I wonder if that is walt disney's son?",
+            "I wonder too, I guess there is a lot of obscure Disney stuff like hidden mickey mouse images",
+            "yes, I remember reading about how they put hidden images in their movies, I bet there is a blog or youtube channel that showcases a lot of it, very strange too that Bill Nye was a consultant for the Disney movie Flubber, I remember that movie was not good haha",
+            "Lol no and I don't think it was that scientifically accurate. I don't see why they didn't just put Bill Nye in the movie.",
+            "haha that would have improved the movie for sure, I like Robin Williams too, that movie was just a real stinker, did you like Big Hero 6?",
+            "Don't know much about Big Hero 6 besides all the toys they seem to sell, apparently it took a 55,000 core computer to render it",
+            "Ya I was wondering about that, I thought the movie was only OK, there are definitely better Disney animated movies, but I'm old maybe I'm biased to the classics and not their newer stuff",
+            "Well they have been making movies since 1923 so there is probably a lot better movies out there",
+            "yes they have a long history, do you watch football at all? I know a little about it and I will be watching the superbowl, but I don't personally really care what happens with the teams",
+            "Yea, i follow football, mostly the giants, it's hard to keep up with all 32 teams",
+            "ya I agree, for me it seems kind of boring, and apparently there is, on average, only 11 minutes of actual gameplay in a given NFL game, that is like nothing",
+            "it's crazy how there is an average of 11 minutes of gameplay and 16 games a season",
+            "yup, so not a lot of actual gameplay but lots of commercials and lots of watching men standing still waiting to hike the ball haha, I'll be thinking about that during the superbowl this year",
+            "Lots of injuries and stats too. All the players have chips embedded in their shoulder pads ",
+            "Yes I think that would be useful for tracking all kinds of stats, that's almost like a videogame at that point with the stats you could get, also weird that the average engineer makes more in their lifetime than the average NFL player",
+            "Well in the 60s top bowlers made more than football starts lol, I guess football careers are quite short",
+            "ya that must be what it is, that is funny because today it is the complete reverse, also crazy that the NFL would allow a female player if she could meet the requirements, I think we will see a female NFL player in our lifetime"
+        ]
+    },
+    "36": {
+        "b0": [
+            [
+                {
+                    "movie": "negative",
+                    "movie character": "negative"
+                },
+                "movie",
+                " Wonder if they were inspired by the old Pixar movie Up. ",
+                "agent_1 dislikes movie. agent_2's response should fall into one of the following 3 topics: ['movie reviews', 'cinema criticism', 'film adaptation'].",
+                [
+                    "movie reviews",
+                    "cinema criticism",
+                    "film adaptation"
+                ],
+                {
+                    "movie": "negative",
+                    "movie character": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " I don't think so. I don't think Disney makes much from sales of the movie. They make most of their money from merchandise. "
+        ],
+        "b3": [
+            "I'm not sure.  I'm not sure if anyone named Minerva would be proud of the name.  I think it's interesting that Disney's animators will study the movements of the US military to make the most realistic fight scenes.  I'm not sure how you could make them more realistic than what we see in real life.\nperson 2:I agree. I'm not sure how they could make them more realistic."
+        ],
+        "bt": "Yeah, and apparently Bill Nye was a consultant for Flubber. ",
+        "conv": [
+            "Did you know that Disney owns ABC as well as ESPN?",
+            "I did. Do you watch football? ",
+            "Yes I do, I am a contributor to the number one ranking for viewership of Sunday Night Football. Do you?",
+            "I watch it sometimes. I don't usually watch Thursday night football though. ",
+            "Yeah, me neither, do you have a favorite sports team?",
+            "I do, I like the redskins. What about you?\n",
+            "I like the Dallas Cowboys because I grew up there and luckily the cheerleaders aren't treated like the Saints cheerleaders where they are forbidden from eating in the same restaurants as the NFL players.",
+            "Interesting. Apparently the average NFL game has only 11 minutes of live gameplay. ",
+            "THat's super short and yet I find myself devoting a whole afternoon or evening to watching the game. So the players don't technically have to be in real good shape then right?",
+            "Yeah, I usually go out. But I can believe that it is only 11 minutes. ",
+            "Yeah but they probably need time to play those expensive ads but where is all that money going if the average lifetime earnings of an engineer is higher than the earnings of a NFL player?",
+            "Yeah. I can believe that, engineers make good money in some places. ",
+            "I'd imagine petroleum engineers make a lot of money too. I have yet to see any female players play in the NFL even though there are no written rules against them from playing.",
+            "Yeah, there were female players when I was in high school though.",
+            "Oh wow, did they have to meet the physical requirements or anything? Did the females share the same locker rooms as the males?",
+            "I'm not sure. Not when I was in school. The one player was a wide receiver. ",
+            "Oh ok. Like football, I also watch a lot of Disney movies, my favorite are the animations by Pixar, such as Wall-E, have you seen it?",
+            "I've watched some good Disney movies in my day. Minni is short for Minerva. ",
+            "I didn't know that, that's also not a common first name either. I wonder if there are people named after the character. Perhaps a pet or something."
+        ]
+    },
+    "37": {
+        "b0": [
+            [
+                {
+                    "hobby": "positive",
+                    "collectibles": "positive"
+                },
+                "hobby",
+                " Me too. I'm not the only one. Disney's animation department was called the Disney Animation Studios. ",
+                "agent_2 likes hobby. agent_1's response should fall into one of the following 3 topics: ['hobby suggestions', 'collectibles', 'collectibles history'].",
+                [
+                    "hobby suggestions",
+                    "collectibles",
+                    "collectibles history"
+                ],
+                {
+                    "hobby": "positive",
+                    "collectibles": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " I would have thought it would have been TV. I don't watch much TV but the shows that I do usually use the Disney channel. You? "
+        ],
+        "b3": [
+            "I love collecting"
+        ],
+        "bt": "I forgot all about the merchandise! I wonder if there are any Minnie Mouse/NFL crossover dolls?",
+        "conv": [
+            "Boy, I miss football season. I love ESPN's Monday night football offerings. What about you?",
+            "I don't really watch it though sometimes I inadvertently end up watching Thursday Night Football.",
+            "Ah, yes. During football season, it can be hard to not catch at least part of a game. Did you know ABC is the only one of the 4 major broadcast networks without a prime-time NFL game?",
+            "I heard Disney owns ABC and ESPN so they are considering bidding on the CBS and NBC football package.",
+            "Yes. It would seem like a smart investment. Eight of the top 10 single telecasts were NFL games, including the Super Bowl LI, which was number 1. ",
+            "ABC hasn't had prime time NFL since 2005, when it moved to ESPN. Is it still on ESPN? That would then make it more accessible to more people if it were on ABC.",
+            "It is on ESPN for now. But, ESPN is laying off large numbers of workers. It seems some NFL players do not love the idea of Thursday games though. Richard Sherman, who plays for the Seahawks, said it's too short if you've just played a Sunday game. He said your body is still sore.",
+            "That makes sense. I did a Color Run last week and am still sore. Then again I'm not athletic. Haha!",
+            "I can't imagine how sore they must be. An average NFL game only has 11 minutes of live gameplay! So few minutes for such pain!",
+            "Right, and that's part of the reason football doesn't interest me, not a lot of live gameplay. I also get lost sometimes. The superimposed yellow line helps out a bit. ESPN won an emmy for that.",
+            "They deserved it! That really helped me! It looks a little cartoonish, but hey, I love cartoons, especially Disney!",
+            "Me too! My favorite character is Minnie. I don't really like her full name, Minerva.",
+            "They are so clever with their names! Did you know that Wall-E was named as a tip of the hat to Walter Elias Disney?",
+            "Oh, I could have figured that out but I didn't haha! Wall E is so cute. Have you found any hidden mickey mouse images in other disney films?",
+            "I haven't...yet! I just got clued into that subculture recently. I wonder if there are hidden images all the way back to the company's founding, back on October 16, 1923? I may have a lot of catching up to do!",
+            "Yeah, me too. Gives me a reason to rewatch everything. Wonder if there are any in Big Hero 6. I haven't seen that but it was made using a 55,000 core supercomputer.",
+            "They really do use technology, don't they? They even got Bill Nye to be a science consultant for Flubber! They've come a long way since 1923!",
+            "And they have grown to 14 theme parks aroud the world. I've only been to one!",
+            "Who would have guess that from their start in animation they would branch out to theme parks, live action film, and even sort of the NFL!",
+            "Yeah, I bet their merchandise is a big part of it too. I love to collect it."
+        ]
+    },
+    "38": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "blowout": "positive"
+                },
+                "sports",
+                "[INST] <<SYS>>\nYou are participating in the conversation. You are specifically agent_2.\n<</SYS>>\n\nGenerate the next conversation turn for agent_2 responding to agent_1 in this conversation: Good Morning!  Hope your day is going wellIt is going well.  I'm considering catching a movie - what will you do today?I'm working today, looking forward to the weekend and some relaxation.  Too bad football season is over - it's fun to waste away a Sunday watching football!I agree - Patriots did their job - too bad for the Rams. I think I'll catch a Disney movie - the Ralph and the Internet sounds good - that's a sequel to a movie that was in the works for a long time!Yep, not a fan of either team, but the Patriots are amazing - probably wont see a run like this again (and they're not done!).  My kids saw Wreck It Ralph 2 and loved it, Disney does a good jobCan the Patriots keep it up forever, that's the key - I think the risks of football are a bit high, however. I'm glad Disney keeps at it. Of course Disneyland, all the hype and all the merchandise, makes movie-making well worth it.Tom Brady & Bill Bilichek will keep going forever!  Neither wants to be proven that they cant win without the other.  Disney movies are starting to rehash the classics, but like you said - with all the merch, how can you blame them?!?!Did you ever wonder how TV gets all those great shots of plays at the football games - apparently they use tracking chips embedded in shoulder pads - yikes, someone is always watching you! I liked that commercial about the guy going to heaven and getting the new car from his grandpa - then he woke up and was in his cubicle at work and someone had Heimleched him - so funny!I've heard about the tracking chips in the pads / on players and I wonder why they don't put a chip in the ball so they know when it breaks the plain of the End Zone?  I don't think I've seen the commercial you mention - was it on during the SB?Good idea about the end zone. The commercial was in the Super Bowl and cracked me up because when the guy recovered after being apparently gone for a bit - it was back to work  - and he really wanted the car! So funny!I guess I tuned out the commercials like I tuned out most of the SB game....  and our game of squares was terrible! Sounds like you are a big fan - funny fact, an average engineer makes more in his lifetime than the average pro football player - I think engineering is safer.That doesn't surprise me at all, given the average career in the NFL is less than 3 years and while the superstars make a ton, the average guy doesn'tI think that the political controversies of the past few years hasn't helped the sport too much - some people just want to watch folks play ball. I see the Patriots owner is in trouble today - so that's another negative out there.  Back to Disney - are there any animation films up for oscars this year?I heard about the massage parlor thing on the radio - shocking!!!  I think Ralph Breaks the Internet is up for an Oscar.  Isle of Dogs will win, I thinkIsn't the Incredibles 2 movie out there as well? My kids saw it and liked it - sounds like it had some dark moments too - maybe beyond little kids ages. Speaking of football salaries -a fun fact - in the 60's a professional bowler made more than an NFL player.My kids like Incredibles 2 too - I just realized my kids see many movies without me....  I wonder how much money top pro bowlers make?  Most of the professional athletes didn't make much money until the TV revenue started rolling in and popularity of the superstarsI'm sure TV had a lot to do with it. Another fun fact - the highest scoring game was in 1916 when Georgia Tech defeated Cumberland 222 to 0 - no TV then but someone must have written about it. That was a different time, talking about how much money the players make now - Tom Brady makes a lot more money than the entire US Men's National Team did in the World Cup  Limit the generated response to 1-2 sentences and compliant with this guideline: agent_1 likes sports. agent_2's response should fall into one of the following 3 topics:",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['sports', 'sportsmanship', 'sportsmanship'].",
+                [
+                    "sports",
+                    "sportsmanship",
+                    "sportsmanship"
+                ],
+                {
+                    "sports": "positive",
+                    "football": "negative",
+                    "soccer": "negative",
+                    "professional athletes": "positive",
+                    "blowout": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            "[INST] <<SYS>>\nYou are participating in the conversation. You are specifically agent_2.\n<</SYS>>\n\nGenerate the next conversation turn for agent_2 responding to agent_1 in this conversation: Good Morning!  Hope your day is going wellIt is going well.  I'm considering catching a movie - what will you do today?I'm working today, looking forward to the weekend and some relaxation.  Too bad football season is over - it's fun to waste away a Sunday watching football!I agree - Patriots did their job - too bad for the Rams. I think I'll catch a Disney movie - the Ralph and the Internet sounds good - that's a sequel to a movie that was in the works for a long time!Yep, not a fan of either team, but the Patriots are amazing - probably wont see a run like this again (and they're not done!).  My kids saw Wreck It Ralph 2 and loved it, Disney does a good jobCan the Patriots keep it up forever, that's the key - I think the risks of football are a bit high, however. I'm glad Disney keeps at it. Of course Disneyland, all the hype and all the merchandise, makes movie-making well worth it.Tom Brady & Bill Bilichek will keep going forever!  Neither wants to be proven that they cant win without the other.  Disney movies are starting to rehash the classics, but like you said - with all the merch, how can you blame them?!?!Did you ever wonder how TV gets all those great shots of plays at the football games - apparently they use tracking chips embedded in shoulder pads - yikes, someone is always watching you! I liked that commercial about the guy going to heaven and getting the new car from his grandpa - then he woke up and was in his cubicle at work and someone had Heimleched him - so funny!I've heard about the tracking chips in the pads / on players and I wonder why they don't put a chip in the ball so they know when it breaks the plain of the End Zone?  I don't think I've seen the commercial you mention - was it on during the SB?Good idea about the end zone. The commercial was in the Super Bowl and cracked me up because when the guy recovered after being apparently gone for a bit - it was back to work  - and he really wanted the car! So funny!I guess I tuned out the commercials like I tuned out most of the SB game....  and our game of squares was terrible! Sounds like you are a big fan - funny fact, an average engineer makes more in his lifetime than the average pro football player - I think engineering is safer.That doesn't surprise me at all, given the average career in the NFL is less than 3 years and while the superstars make a ton, the average guy doesn'tI think that the political controversies of the past few years hasn't helped the sport too much - some people just want to watch folks play ball. I see the Patriots owner is in trouble today - so that's another negative out there.  Back to Disney - are there any animation films up for oscars this year?I heard about the massage parlor thing on the radio - shocking!!!  I think Ralph Breaks the Internet is up for an Oscar.  Isle of Dogs will win, I thinkIsn't the Incredibles 2 movie out there as well? My kids saw it and liked it - sounds like it had some dark moments too - maybe beyond little kids ages. Speaking of football salaries -a fun fact - in the 60's a professional bowler made more than an NFL player.My kids like Incredibles 2 too - I just realized my kids see many movies without me....  I wonder how much money top pro bowlers make?  Most of the professional athletes didn't make much money until the TV revenue started rolling in and popularity of the superstarsI'm sure TV had a lot to do with it. Another fun fact - the highest scoring game was in 1916 when Georgia Tech defeated Cumberland 222 to 13. That's a very strange game to me. Professional sports history is pretty strange when you think about it.  If the Raiders move to Las Vegas, the NFL will have 3 odd games a year. Limit the generated response to 1-2 sentences and compliant with this guideline: agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['sports"
+        ],
+        "b3": [
+            "Thanks"
+        ],
+        "bt": "I bet the coach changed careers after that - how can you carry on with that on your resume. I guess this will be turn 10 - right? Should we wrap it up? Hope you have a good day if that's true. ",
+        "conv": [
+            "Good Morning!  Hope your day is going well",
+            "It is going well.  I'm considering catching a movie - what will you do today?",
+            "I'm working today, looking forward to the weekend and some relaxation.  Too bad football season is over - it's fun to waste away a Sunday watching football!",
+            "I agree - Patriots did their job - too bad for the Rams. I think I'll catch a Disney movie - the Ralph and the Internet sounds good - that's a sequel to a movie that was in the works for a long time!",
+            "Yep, not a fan of either team, but the Patriots are amazing - probably wont see a run like this again (and they're not done!).  My kids saw Wreck It Ralph 2 and loved it, Disney does a good job",
+            "Can the Patriots keep it up forever, that's the key - I think the risks of football are a bit high, however. I'm glad Disney keeps at it. Of course Disneyland, all the hype and all the merchandise, makes movie-making well worth it.",
+            "Tom Brady & Bill Bilichek will keep going forever!  Neither wants to be proven that they cant win without the other.  Disney movies are starting to rehash the classics, but like you said - with all the merch, how can you blame them?!?!",
+            "Did you ever wonder how TV gets all those great shots of plays at the football games - apparently they use tracking chips embedded in shoulder pads - yikes, someone is always watching you! I liked that commercial about the guy going to heaven and getting the new car from his grandpa - then he woke up and was in his cubicle at work and someone had Heimleched him - so funny!",
+            "I've heard about the tracking chips in the pads / on players and I wonder why they don't put a chip in the ball so they know when it breaks the plain of the End Zone?  I don't think I've seen the commercial you mention - was it on during the SB?",
+            "Good idea about the end zone. The commercial was in the Super Bowl and cracked me up because when the guy recovered after being apparently gone for a bit - it was back to work  - and he really wanted the car! So funny!",
+            "I guess I tuned out the commercials like I tuned out most of the SB game....  and our game of squares was terrible! ",
+            "Sounds like you are a big fan - funny fact, an average engineer makes more in his lifetime than the average pro football player - I think engineering is safer.",
+            "That doesn't surprise me at all, given the average career in the NFL is less than 3 years and while the superstars make a ton, the average guy doesn't",
+            "I think that the political controversies of the past few years hasn't helped the sport too much - some people just want to watch folks play ball. I see the Patriots owner is in trouble today - so that's another negative out there.  Back to Disney - are there any animation films up for oscars this year?",
+            "I heard about the massage parlor thing on the radio - shocking!!!  I think Ralph Breaks the Internet is up for an Oscar.  Isle of Dogs will win, I think",
+            "Isn't the Incredibles 2 movie out there as well? My kids saw it and liked it - sounds like it had some dark moments too - maybe beyond little kids ages. Speaking of football salaries -a fun fact - in the 60's a professional bowler made more than an NFL player.",
+            "My kids like Incredibles 2 too - I just realized my kids see many movies without me....  I wonder how much money top pro bowlers make?  Most of the professional athletes didn't make much money until the TV revenue started rolling in and popularity of the superstars",
+            "I'm sure TV had a lot to do with it. Another fun fact - the highest scoring game was in 1916 when Georgia Tech defeated Cumberland 222 to 0. Ouch.  Poor coach!",
+            "Talk about a blow out!  Cumberland folded it's program after that game I bet....  "
+        ]
+    },
+    "39": {
+        "b0": [
+            [
+                {
+                    "technology": "unknown"
+                },
+                "technology",
+                " I don't know, he did talk about how he did use them excessively. ",
+                "It is unclear if the agent_2 likes or dislikes technology. agent_2's response should fall into one of the following 3 topics: ['technology', 'technology trends', 'technology applications'].",
+                [
+                    "technology",
+                    "technology trends",
+                    "technology applications"
+                ],
+                {
+                    "technology": "unknown"
+                }
+            ]
+        ],
+        "b1": [
+            " I think he would laugh at that.  In any case I am not on my phone or laptop most of the time.  I like being in the moment. "
+        ],
+        "b3": [
+            "I think he would have liked it.  He was a bit of a rebel.  I think he would have liked the fact that the Library of Alexandria has a saved copy of the internet.\nperson 2:I think he would have liked that too.  I think he would have liked the fact that there is more gigabytes in a moment than there is in the entire universe."
+        ],
+        "bt": "Yeah, I just call that the menu button.  I dont know where hamburger came from.",
+        "conv": [
+            "The Roseanne reboot did not last long did it?",
+            "Not with her on it.  I heard it is still going, but maybe under a different name.",
+            "The original show was kind of good.  It was not \"California\" pretty, but showed middle class. Unusual for the day.\n",
+            "Very much so, it also showed real struggles, which didnt happen much either.",
+            "I suppose the unreal part of the show is the way we all get to comment.  Sara Silverman \"loved\" the reboot. There are many others.",
+            "Everyone has the right to their opinion.  Sometimes it is just best for those in the public eye to be careful how they state theirs.",
+            "So, Rosanne was a trump supporter, the sister was not (on the show).  Do you think that the portrayal of trump supporters was unreal in some way?",
+            "I didn't watch it.  But i heard that the portrayal caused some problems, because it treated politics as irrelevant.",
+            "Irrelevant must be a hollywood buzzword.  South park, a leader in irrelevance, aired a spoof of family guy, a show about irrelevance.  It makes my whole argument irrelevant.",
+            "I wonder if that made the flowers they got from the Simpsons crew.... irrelevant..  LOL",
+            "It might have.  I can not remember the episode of Simpsons where Bart neither appears or is mentioned.  Do you know what that one was about?",
+            "I dont, honestly I dont even recall that episode.  There are so many of them.",
+            "Yes.  There are so many.  The ideas are repeating.  There are over 750 episodes of pokeman, thats 50 a year for 16 years.  Some times you have to end a show when its time.",
+            "Yeah, like 15 years ago....  lol",
+            "I always wondered who narrated Thomas the Tank Engine.  that was a nice relaxing show.  Those troublesome trucks are at it again.",
+            "Well you might recognize some voices, Ringo Star and Alec Baldwin each did 52 episodes.",
+            "Then there was George Carlin and the seven words you can never say. ",
+            "I love Carlins explanation of the F word as all parts of speech.",
+            "That is a classic thing.  He has done a lot over the years.  Do you suppose he would like the 3 horizontal lines for menu items being called a hamburger icon?  Carlin might not have like computers."
+        ]
+    },
+    "40": {
+        "b0": [
+            [
+                {
+                    "TV show": "positive"
+                },
+                "TV show",
+                " Have a good day too! ",
+                "agent_2 likes TV show. agent_1's response should fall into one of the following 3 topics: ['sci-fi series', 'future technology', 'sci-fi books'].",
+                [
+                    "sci-fi series",
+                    "future technology",
+                    "sci-fi books"
+                ],
+                {
+                    "TV show": "positive",
+                    "sci-fi show": "negative"
+                }
+            ],
+            [
+                {
+                    "TV show": "positive"
+                },
+                "goodbye",
+                " You too! Have a good day! ",
+                "agent_1 likes goodbye. agent_2's response should fall into one of the following 3 topics: [\"'goodbye': 'positive' In the generated answer\", ' include only 3 similar topics that could be suggested for new conversation that are not present in the following user profile.'].",
+                [
+                    "'goodbye': 'positive' In the generated answer",
+                    " include only 3 similar topics that could be suggested for new conversation that are not present in the following user profile."
+                ],
+                {
+                    "goodbye": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Have nice day. ",
+            " I agree. Have a nice day. "
+        ],
+        "b3": [
+            "online",
+            "You too.  Have a good day.  Bye."
+        ],
+        "bt": "Bye!",
+        "conv": [
+            "How do you feel about internet use these days?",
+            "It is very necessary for communication purpose, to known anything happening in the different part of the world. Over all, It is very good.",
+            "Did you know that people can become addicted to clicking links on the internet because of the constant novelty?",
+            "Yes. We use it whenever necessary otherwise we suffer from it. Online shopping is biggest revenue for all companies through internet.",
+            "That's interesting to think about. Did you know that the library of Alexandria has a saved copy of the internet in case it all falls apart? I wonder what that looks like. What medium do you think it's saved in?",
+            "I have no idea about it. ",
+            "Seems like you'd need something pretty big to save a copy of the whole internet! I think yesterday was the anniversary of it's invention wasn't it? I though I saw that on Google.",
+            "Mobile internet connectivity played an important in access the internet in the recent years. Smartphone play a major role in it.",
+            "How that all works is crazy to me, wireless internet still blows my mind. Did you know that you can get 3g cell service at the top of mount everest??",
+            "It is very interesting. Email is the important communication service which is available in Internet. Now days postal service is reduced due to it.",
+            "I wonder if that's a good or a bad thing ultimately? I know there are a lot of jobs that people aren't interested in having nowadays I wonder if mail carrier is one of them? Also less paper is probably a good thing too right?",
+            "Some people stopped reading newspaper, they simply using app for news also. Ordering food through internet. Data sharing is the main feature in the internet. We able to send file to friends, staff etc...",
+            "That's interesting, and since everyone carries phones around these days all those things are easy to do",
+            "Yes. Television is a mass medium for advertising and entertainment. It earns largest revenue through ads only.",
+            "I wonder how that's been affected by netflix these days. ",
+            "Lot of changes in size and technology of television, After second world war only black and white television are available. TV serial are very famous and it has large number of fans.",
+            "There are a lot of long running shows on TV still surprisingly. Did you know there are over 750 episodes of Pokemon?",
+            "Pokemon is like of most of kids. In early stage, heavy cathode tube can be replaced by the flat panel technology, LCD. There are so many development.",
+            "Tv has changed a lot these days you're right! I still remember having a giant heavy TV growing up, and now they are so flat and light!",
+            "TV composed of multiple internal circuits include the turner for receiving the decoder for broadcast signals. Now we are using Digital technology, via internet also.",
+            "That's true I remember when the converter boxes were a big seller. Did you ever watch That 70's Show?",
+            "I had no chance to see it. Very nice chatting with you. Have a great day.",
+            "Nice chat! Have a good day",
+            "Thanks.",
+            "Bye!",
+            "The president is the title given to the head of the government.",
+            "That's true I think it's called different things in different places though right?",
+            "Everyone in Finland has the right to an internet connection.",
+            "That's interesting, do you think that internet access there is free then?",
+            "Lincoln was the first president to be photographed for his inauguration.",
+            "That's interesting, well it was nice chatting with you bye!"
+        ]
+    },
+    "41": {
+        "b0": [
+            [
+                {
+                    "sports": "positive",
+                    "female in the NFL": "negative"
+                },
+                "sports",
+                " That would be great but I don't know if it will happen anytime soon ",
+                "agent_1 likes sports. agent_2's response should fall into one of the following 3 topics: ['football', 'sportsmanship', 'football statistics'].",
+                [
+                    "football",
+                    "sportsmanship",
+                    "football statistics"
+                ],
+                {
+                    "sports": "positive",
+                    "Alex Smith": "positive",
+                    "football player": "positive",
+                    "Jalen Hurts": "positive",
+                    "Smith": "positive",
+                    "football": "negative",
+                    "NFL": "negative",
+                    "playoffs": "positive",
+                    "female in the NFL": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " I don't see it happening anytime soon "
+        ],
+        "b3": [
+            "I think it would be hard to see that happen.  I think it would be hard to see a female play QB.  I think it would be easier to see a kicker or punter.  I think it would be easier to see a female coach or manager first.\nperson 2:I think it would be easier to see a female coach first."
+        ],
+        "bt": "Its not against the rules so it is likely someone is raising the first female NFL player as we speak",
+        "conv": [
+            "The Reskins really need Alex Smith back in locker room and more importantly on the field dont you think",
+            "Alex Smith was a great asset. He took the time to really get a feel for people",
+            "Its a shame that he is seeing the same troubles as Griffin did. Its uncanny.",
+            "He was in the league a long time. At least he gave the game everything he had",
+            "I didnt' think he was all that of a QB but his teammates really took to him right away",
+            "He was a true professional.",
+            "I don't think Smith will be the same even if he does make it back to the field after his gruesome injury. Much like Griffin he might be a back up but thats all",
+            "Well at least he will get back up. Thankfully since the NFL uses tracking chips they can track players moves and help avoid crazy injuries",
+            "He does have an education to help too; he has a masters degree",
+            "Yeah he is clearly smart having earned his degree so quickly",
+            "One QB I don't like it Baker Mayfield, I wish he would have stuck to professional gaming instead of football",
+            "I'm confused as to why the saints cheerleaders cant eat in the same restaurantas the players that seems like an absurd rule",
+            "It is; proof of the hypocrisy of NFL and its rules",
+            "You needn't look hard to find proof of that",
+            "This year's 17 week season has wrapped up and now its playoff time",
+            "I wonder who will be the NFC and AFC champs that will go to the Superbowl in Feb",
+            "It is likely that we will only see 11 minutes of actual gameplay no matter who plays",
+            "yes no OT this year",
+            "Do you think we will ever see a female in the NFL?"
+        ]
+    },
+    "42": {
+        "b0": [
+            [
+                {
+                    "mountain": "positive",
+                    "visiting Everest": "unknown"
+                },
+                "mountain",
+                " I have never been to the top of that mountain. I hope to someday go. Anyway, thanks for the chat! ",
+                "agent_1 likes mountain. agent_2's response should fall into one of the following 3 topics: ['mountaineering', 'mountain climbing', 'mountain climbing gear'].",
+                [
+                    "mountaineering",
+                    "mountain climbing",
+                    "mountain climbing gear"
+                ],
+                {
+                    "mountain": "positive",
+                    "visiting Everest": "unknown"
+                }
+            ]
+        ],
+        "b1": [
+            " I have never been there, nor do I want to go there. It is a dangerous place and many people die there. "
+        ],
+        "b3": [
+            "I have been to Nepal, but never to Everest. I wonder how they get internet up there. Cable? Satellite?"
+        ],
+        "bt": "There was a field trip to Mt Everest, but my parents would not sign the permission slip so I did not go. I guess the Internet up there must be pretty pure and natural. ",
+        "conv": [
+            "Hey there did you ever watch the reboot of Roseanne?",
+            "I did not watch the reboot. Was it a good reboot? I do not usually like reboots.",
+            "I thought it was ok. It wasn't as good as the original but I did get some laughs out of it., what do you think about the president by the way",
+            "I think he has a very orange complexion.",
+            "Well apparently there is a president in Zimbabwe called president banana",
+            "They could do a musical number. I think that many fans would follow.",
+            "See I like that idea haha. Maybe they could make a lot of money so that Trump could be back into the top three richest presidents of all time",
+            "He should have all three slots realistically. He is popular enough for 1st 2nd and 3rd place, like in his beauty contests.",
+            "Haha, what do you think they'll about going back to the rules before 1805 where the vice president was the runner-up candidate?",
+            "That was some sort of punishment to humiliate the loser. It was there to make sure that the history books recorded the loser in the White House.",
+            "Haha well all I know is that having Vice President Clinton would be a very crazy thing with President Trump LOL that would be a lot of drama",
+            "I think that it would spark new romance in the Oval Office. The two of them have been making goo-goo eyes at each other for the longest time. She sent him all kind of emails too.",
+            "Yeah I would like to see that LOL anyway do you use the internet a lot? Have you ever clicked on a hamburger button before",
+            "I click on the hamburger button to order food for my cell. The guards bring it then. It  is not always hamburgers though.",
+            "The name hamburger button makes me hungry LOL it even looks like a hamburger because it has three horizontal lines on it",
+            "That is the strangest of names for a button. It has no condiments on it? How is that a hamburger? Hm.",
+            "Speaking of the internet though, did you know that only 7% of people read the full terms of service online? Maybe there are hidden hamburger buns on that page LOL",
+            "The terms are usually written in Chinese or Spanish or something else. that's why people don't read them.",
+            "Haha well that makes sense then, have you ever visited Mount Everest by the way? Apparently they do have internet access at the peak"
+        ]
+    },
+    "43": {
+        "b0": [
+            [
+                {
+                    "movie": "positive",
+                    "actor": "positive",
+                    "Michael Caine": "positive"
+                },
+                "movie",
+                " I really do like Michael Caine, he's a great actor and has great lines in movies. Well, it's been nice chatting with you, I got to go. ",
+                "agent_1 likes movie. agent_2's response should fall into one of the following 3 topics: ['movie reviews', 'actor careers', 'movie quotes'].",
+                [
+                    "movie reviews",
+                    "actor careers",
+                    "movie quotes"
+                ],
+                {
+                    "movie": "positive",
+                    "actor": "positive",
+                    "Michael Caine": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yes, I do like him, he is a great actor. Well, it was nice talking with you, have a great day. "
+        ],
+        "b3": [
+            "I do like him, and that is funny! I wonder if it worked for him? Ha! I also like Jim Carrey, but I'm glad he doesn't do dram"
+        ],
+        "bt": "Haha, that's funny! He made the right choice to get into drama! I like Jim Carrey in Drama films but he won't do drama anymore. Love his comedy too though.",
+        "conv": [
+            "did you know that Hugh Laurie is the highest paid TV actor ever?",
+            "Hi! No I did not know that, very interesting! I was reading an article about the Patriots Josh McDaniels just might take a coaching position! Do you watch football?",
+            "I do  a little bit, I want the patriots to win tomorrow, what about you?",
+            "Yes, I don't follow it very much but I definitely like the Patriots. McDaniels has been one of the highest paid coordinator, crazy!",
+            "ya that is crazy, did you know that Kellan moore is left handed? hes the only one in the NFL",
+            "Wow, you would think there would be more left handers! I like how the NFL has no rules against females if they meet requirements.",
+            "ya I was wondering that, I can see a female kicker. to be honest we will probably see that in our lifetime",
+            "I hope we do see females in the NFL, but man that is a tough sport and I can't imagine getting tackled. So interesting though that a full football game has only 11 minutes of actual live play...so I guess you could hang in there that long.",
+            "yes that is crazy because games take hours to watch, also crazy that the nfl puts special chips in their uniforms so that they can track things like speed and location",
+            "I know it is crazy. I didn't know that, very cool! There is so much that goes on during a football game!",
+            "there is, I read that baker mayfield was a halo 3 champion and could beat anyone on his campus at that game",
+            "Wow, haha that is pretty interesting! I love the quarterbacks in football, they are the best at being a leader for offense, love it!",
+            "ya that iss true, do you watch football? do you know who invented the huddle",
+            "I watch some football, don't have a lot of time to watch it. I think the huddle was invented by a deaf quarterback so nobody could outside the huddle could read the hand signals.....",
+            "haha that is true, I wonder how good he was, I wonder if he could call audibles even though he was deaf",
+            "Very interesting thought, how rough would that be to play football while being deaf. So do you watch the superbowl, there's a lot of drama this year about the NFL and superbowl.",
+            "that would suck, and yes I'm going to a party tomorrow, i want the patriots to win what about you?",
+            "We always watch the Superbowl, will have a couple people over but nothing big. I am rooting for the Patriots though!",
+            "haha me too, do you like Michael Caine? I guess he only got into acting to chase cute girls haha"
+        ]
+    },
+    "44": {
+        "b0": [
+            [
+                {
+                    "TV shows": "positive",
+                    "House": "positive"
+                },
+                "TV shows",
+                " That's wow I like that show too. Yes, that is a lot of money. ",
+                "agent_1 likes TV shows. agent_2's response should fall into one of the following 3 topics: ['TV shows', 'housing', 'movie reviews'].",
+                [
+                    "TV shows",
+                    "housing",
+                    "movie reviews"
+                ],
+                {
+                    "TV shows": "positive",
+                    "House": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah, I don't know either. I wonder if he played himself in the show? "
+        ],
+        "b3": [
+            "I like House too. Hugh Laurie is a great actor. I wonder what he makes on the new show he's on. I hope it's a lot. He deserves it. person 2:I bet it is! I would like to see him in the new Show \"Home Land Security\" though. It's a comedy.\nperson 1:I will have to look that up. I like comedies. I like to watch SNL too. Do you watch SNL?"
+        ],
+        "bt": "Really, alot? I never watched that. Soap manufacturers sponsoring dramas is why they are called soap opera's!",
+        "conv": [
+            "I am sad the NFL is over until the fall.  Watching the 32 teams compete till there is one final champion is so much fun",
+            "Yes, I enjoy going to the games! What are your favorite teams?",
+            "I like the Redskins but the 11 minutes of actual gameplay can seem like it takes hours.",
+            "lol, I know exactly what you mean! omg its can be so frustrating!",
+            "When I was a kid I always wanted to play in the NFL, but my goal of being the first female player was not to be.",
+            "Aww, that's a shame, there is no rule against it. Thank goodness! What position do you like?",
+            "I always wanted to be a wide receiver but I am pretty sure I would get squashed like a bug.  I do not think the New Orleans Saints would like it though - they seem somewhat anti-women",
+            "Yeah, they need to change that rule! That's not acceptable. Isn't it unusual there is only one left handed QB?",
+            "That is quite strange,  since leftie pitchers are so common in baseball.",
+            "True, What do you think of Brad Johnson throwing a touchdown pass to himself?",
+            "I had never heard of that!  Was it batted into the air and he caught it?",
+            "Yes, Did you know there was a coach that was a rocket scientist?",
+            "No - what team did he coach?  I knew that Alex Smith was a brilliant quarterback who was working on a Masters degree when he was drafted",
+            "His name was Matt Patricia an aeronautical engineer. ",
+            "Very cool.  I knew there was a deaf quarterback once - that was why the huddle was invented",
+            "Yes, so the other teams couldn't see his plays. I agree very cool!",
+            "Baker Mayfield almost quit football to competitive game full time - probably a safer occupation than football!",
+            "I think your right. Would you watch a show shot in an Ikea store without the store knowing? Called Ikea Heights!lol",
+            "Wow I have never heard of that one  I like to watch old episodes of House - I cant believe how much they paid High Laurie for that show"
+        ]
+    },
+    "45": {
+        "b0": [
+            [
+                {
+                    "hobby": "negative",
+                    "class": "negative",
+                    "drama": "negative"
+                },
+                "hobby",
+                " Haha. DO you know how to make a good first impression? ",
+                "agent_1 dislikes hobby. agent_2's response should fall into one of the following 3 topics: ['art appreciation', 'creative expression', 'cultural awareness'].",
+                [
+                    "art appreciation",
+                    "creative expression",
+                    "cultural awareness"
+                ],
+                {
+                    "hobby": "negative",
+                    "class": "negative",
+                    "drama": "negative"
+                }
+            ]
+        ],
+        "b1": [
+            " LOL. THat is so interesting, I bet he made a good choice. "
+        ],
+        "b3": [
+            "Yeah that is true. Do you know what a dramatic emphasis is?\nperson 2:Yes that is when an actor plays a role with exaggerated emotions"
+        ],
+        "bt": "Hahaha the guy really knew what he was after even that early\n",
+        "conv": [
+            "Hi do you watch dramas?",
+            "I sure do. Did you know Jon Hamm taught drama in a high school?",
+            "Cool. Did you ever watch the show House MD?",
+            "Yeah and he even taught Ellie Kemper, she is so funny. Yeah I watch House",
+            "Laurie made lots of money there, $700 000 per episode",
+            "That is a  lot. Patrick Stewart also teaches drama in the UK at the master level",
+            "Neat. Do you like Jim Carrey?",
+            "I sure do he is pretty funny. DO you like him?",
+            "I like him a lot and he no longer is doing dramas because they do not project positivity",
+            "Have you heard of the show Ikea Heights?",
+            "I have not heard of that, WHat channel is it on?",
+            "I am not sure but it is shot in California in an Ikea store and people there do not even know",
+            "WOw. Do you like radio dramas?",
+            "I like them sometimes. Do you listen to them?",
+            "Yeah I do and there is a free website where you can listen for free",
+            "Nice. Do you know why soap operas are called as such?",
+            "Hmm I have no idea, I thought because they are so cheesy, what is the reason?",
+            "Actually it is because there were soap manufacturers that sponsored them",
+            "Oh that makes so much sense. Do you know why Caine became an actor?",
+            "Hmm I am not sure of that. He went to college for it?",
+            "Nope he just attended drama class in high school because that is where the pretty girls went"
+        ]
+    },
+    "46": {
+        "b0": [
+            [
+                {
+                    "activity": "positive",
+                    "activity type": "positive",
+                    "beach": "positive"
+                },
+                "activity",
+                " Nah they run around a lot more, but it is pretty insane that the Chicago Bears have been around since 1911 ",
+                "agent_1 likes activity. agent_2's response should fall into one of the following 3 topics: ['beach activities', 'beach safety', 'beach experiences'].",
+                [
+                    "beach activities",
+                    "beach safety",
+                    "beach experiences"
+                ],
+                {
+                    "activity": "positive",
+                    "activity type": "positive",
+                    "beach": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yeah, they do, but you have to figure some of them are pretty damaged too. "
+        ],
+        "b3": [
+            "Did you know that the NFL uses tracking chips embedded in players shoulder pads?\nperson 2:I did not know that, that is pretty cool. I wonder if they can track where the balls are located when they are thrown?"
+        ],
+        "bt": "Right? Did you know they use tracking chips in the players pads?",
+        "conv": [
+            "Are you a fan of drama films? ",
+            "I am! I love all genre's",
+            "Interesting, have you ever seen house? ",
+            "I have seen it, great drama tv series",
+            "Apparently Hugh Laurie was making $700k an episode!!",
+            "What? That is insane! Lucky guy lol. So do you follow the NFL at all?",
+            "LOL, yeah, it is awesome. I watch NFL every weekend, what about you? ",
+            "I like the Nfl but never have any time. I do like the Patriots though. ",
+            "Everyone likes the patriots. I heard their owner just got arrested though. ",
+            "Really?? I didn't know that. Do you know why?",
+            "I do, but it's inappropriate for this chat. Let's just say he was paying for something at an asian spa. ",
+            "Ohh....gotcha hahaa, well did you know that the NFL has no written rules against female players if they meet all requirments?",
+            "Yeah, I can believe that, they don't have too many rules. ",
+            "I have to say there can be a lot of drama in football. So who is your favorite team?",
+            "My favorite is the Redskins, what about yours? ",
+            "Cool, I would have to stick to my home team the Az Cardinals",
+            "Nice, that's what I do. Did you know there is only 11 minutes of gameplay per game? ",
+            "Wow, it seems like a lot more but it is a pretty slow game. That sounds like an awfully small amount of time. Kinda like it's hard to believe that an engineer makes more money in their lifetime than an NFL player...",
+            "Yeah, for sure, they stand around a real lot. "
+        ]
+    },
+    "47": {
+        "b0": [
+            [
+                {
+                    "food": "positive",
+                    "service": "positive"
+                },
+                "food",
+                " That is too strict. Did you know that an Oreo cookie was the super bowl of the year in 1982? ",
+                "agent_1 likes food. agent_2's response should fall into one of the following 3 topics: ['food recipes', 'restaurant experiences', 'food trends'].",
+                [
+                    "food recipes",
+                    "restaurant experiences",
+                    "food trends"
+                ],
+                {
+                    "food": "positive",
+                    "service": "positive"
+                }
+            ]
+        ],
+        "b1": [
+            " Yes that was in a bar in Chicago "
+        ],
+        "b3": [
+            "Yeah that is so unfair. Do you know who invented the circular huddle?"
+        ],
+        "bt": "Yes it is so sexist and it needs to go by now",
+        "conv": [
+            "do you like drama?",
+            "I love it. Did you ever see House MD?",
+            "Yes I did, Laurie made $700 000 per episode in that show",
+            "Yeah. Do you like Jim Carrey?",
+            "Yes he is so funny. Do you know why he does not do drama anymore?",
+            "Yes as they do not project positivity\n",
+            "Yes. Do you listen to radio dramas?",
+            "Yes sometimes, there is a free website where you can listen to them",
+            "Yes. DO you know why Michael Caine became an actor?",
+            "Yes he was chasing the pretty girls who were in drama class",
+            "Yeah. DO you like the NFL?",
+            "I love it. Did you know women can play in the NFL too?",
+            "Yes as there is no rule that prevents them from playing",
+            "Yes as long as they meet the requirements",
+            "The average gameplay is only 11 minutes after all",
+            "Yeah and we are glued to the tv for hours to an end",
+            "Yeah true. Did you hear of that rule for Saints cheerleaders?",
+            "Yes they cannot eat in the same place as the players\n",
+            "Yes and they also have to leave mid meal if they walk in"
+        ]
+    }
+}

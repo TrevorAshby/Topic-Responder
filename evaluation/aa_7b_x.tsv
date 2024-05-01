@@ -1,0 +1,1336 @@
+targets	response	score
+Not really, I just listen to the radio when I'm driving.	[' music no ']	[' music no ']	0.9999999965634914
+Not really, I'm not that into sports. What about you?	[' sports unknown ']	[' sports yes ', ' sports interest unknown ']	0.7252607301529903
+No, I haven't. What kind of food do they serve?	[' food yes ', ' restaurant yes ', ' 10th street restaurant yes ']	[' restaurant yes ', ' food yes ']	0.7983532354446394
+I have heard of that one, but I haven't read it yet. So what do you like to do for fun?	[' hobby yes   yes ']	[' hobby yes ']	0.9510965781457517
+Not really. I'm not very good at it.	[' food no ', ' cooking no ']	[' cooking no ']	0.8508826557119378
+No, I have been avoiding them.	[' news no ']	[' news no ']	0.9999999912586689
+Definitely Chandler. Who do you like?	[' TV show yes ', ' character yes ']	[' TV shows yes ', ' character preference yes ']	0.6738420301620162
+Not really, I don't like crowds and loud music.	[' music no ', ' concerts no ']	[' music no ', ' concerts no ']	0.8594137578500841
+To be honest, I was not a big fan of it.	[' TV shows yes ', ' Game of Thrones final season no ']	[' TV series no ', ' Game of Thrones no ']	0.5771037272550184
+Where have you been?	[' travel yes ', ' place visited unknown ']	[' travel yes ']	0.6250391725775736
+It's okay, I guess. It pays the bills.	[' work yes ']	[' career yes ', ' job satisfaction no ']	0.5171036487490581
+Oh okay, sounds tiring! I'm not really interested in talking about work, to be honest. Do you have any other topic in mind?	[' interests no ']	[' work no ']	0.5549126322961906
+Sounds cool, but I'm not really into nature or camping or anything like that.	[' travel no ', ' nature no ']	[' travel unknown ', ' nature no ']	0.6189521720702474
+Not really. I mostly just watch cat videos.	[' YouTube no ']	[' cat videos no ']	0.6078808021390001
+Yeah, it was good to catch up. Bye!	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+No, I haven't. What's it called?	[' food yes ', ' restaurant yes ']	[' food yes ', ' restaurant yes ', ' taqueria yes ']	0.7660814665200937
+Not really, I've mostly been watching stuff on Netflix lately.	[' movies no ']	[' TV shows no ']	0.6074145282130557
+I'm not really into it.	[' music yes ', ' music genre unknown ', ' jazz no ']	[' sports no ']	0.3807914052439149
+Not really, I'm not really into art.	[' art no ']	[' art no ']	0.9999999973943268
+No, but I really want to. What did you like most about it?	[' travel yes ', ' Europe yes ', ' likes unknown ']	[' travel yes ', ' Japan trip yes ']	0.49451211998407496
+No, I haven't had a chance to catch up on my TV shows lately.	[' TV shows no ']	[' TV shows no ']	0.9999999937532956
+Not really, I don't have much of a travel budget right now.	[' travel yes   no ']	[' travel no ']	0.8983029660953148
+Oh, really? I'm not a fan of Italian cuisine.	[' food no ', ' Italian cuisine no ']	[' food yes ', ' Italian food no ']	0.7080812291546721
+No, I don't really watch TV or movies that much.	[' TV shows no ', ' movies no ']	[' entertainment no ', ' TV shows/movies no ']	0.6909675815528578
+Books aren't really my thing, to be honest.	[' books no ']	[' book no ']	0.8583480947508343
+No, I haven't. Is it any good?	[' food yes ', ' new Italian place yes ']	[' food yes ', ' restaurant unknown ', ' Italian unknown ']	0.48173939451315784
+Yeah, I love exploring new places!	[' travel yes ']	[' travel yes ']	0.9999999753587387
+Not really, I don't play too many video games.	[' video games no ']	[' hobbies yes ', ' video games no ']	0.6414343762199226
+Mostly science fiction and fantasy.	[' book no ', ' science fiction no ']	[' books yes ', ' genre yes ', ' science fiction yes ']	0.5251242386133902
+Actually, no. I haven't traveled anywhere in a while. Sorry.	[' travel no ']	[' travel no ']	0.9999999872250708
+Nope, not really into that either.	[' dance no ', ' ballet no ']	[' movie no ', ' movie genre no ']	0.5151793860193634
+Well, I've been to a few different trails, but my favorite is probably Mount Rainier.	[' outdoor activities yes ', ' hiking spots yes ', ' Mount Rainier yes ']	[' hiking yes ', ' Mount Rainier yes ']	0.5837744582210754
+Yes, I have. I really enjoyed them!	[' food yes ', ' Korean tacos yes ']	[' books yes ', ' Harry Potter series yes ']	0.4445312808920677
+Not really, I've been sticking to cooking at home.	[' food no ', ' restaurants no ']	[' restaurant no ']	0.7631849631602116
+Not really. I used to be into basketball but not so much anymore.	[' sports no ']	[' sports no ', ' basketball no ']	0.8650707407441998
+Sorry, but I'd rather not share it.	[' music yes ', ' band name no ']	[' food yes ', ' restaurant yes ', ' Italian cuisine yes ']	0.4028643466384021
+No, I haven't.	[' food yes ', ' restaurant unknown ']	[' places no ', ' cafe no ']	0.35975666636433246
+Not really, I find them quite boring.	[' sports no ']	[' board games no ']	0.5503938169133293
+Mostly first-person shooters like Call of Duty.	[' video games yes ', ' game genre yes ', ' Call of Duty yes ']	[' hobbies yes ', ' video games yes ', ' Call of Duty yes ']	0.5570821756333638
+Actually, I'm not really into reading.	[' books no ']	[' books no ']	0.9999999905938901
+I don't really have one particular favorite, but I like action movies in general.	[' movies yes ', ' action movies yes ']	[' movies yes ', ' movie genre yes ', ' action yes ']	0.7871335377143671
+It's pretty cloudy and looks like it's gonna rain.	[' weather no ']	[' weather no ']	0.9999999863457758
+You too.	[' greeting yes ']	[' farewell yes ']	0.6361411518450175
+Not really, not in the mood for that kind of food.	[' food no ', ' cuisine no ', ' Mexican no ']	[' restaurant no ', ' Italian food no ']	0.6230383912050662
+Hmm, I've never heard of that.	[' books no ', ' The Picture of Dorian Gray no ']	[' TV yes ', ' TV show unknown ', ' The Office unknown ']	0.30445235126301673
+Actually, yes! I just finished a really interesting biography about Abraham Lincoln.	[' books yes ', ' biography yes ', ' Abraham Lincoln yes ']	[' books yes ', ' biographies yes ', ' Lincoln yes ']	0.629578132259793
+Not really, I find it quite boring.	[' books no ']	[' reading no ']	0.6718813449511324
+That's cool. Honestly, I'm not really into rock music.	[' music no ', ' rock no ']	[' music yes ', ' music genre no ', ' rock music no ']	0.7294487667241676
+Hmm, I haven't. What's it about?	[' movies yes ', ' Parasite yes ']	[' TV yes ', ' Mindhunter yes ']	0.5761761972566579
+Actually, I'm not a big reader.	[' books no ']	[' books no ']	0.9999999905938901
+I like trying new things, but not certain types of food like sushi or spicy food.	[' food yes ', ' sushi no ']	[' food yes ', ' food types yes ']	0.7081438711352573
+Not really.	[' movie no ']	[' video games no ']	0.5678714311907267
+No, not really.	[' recipe unknown ']	[' sports no ']	0.13312679256566207
+It was amazing. The atmosphere was just electric.	[' music festival yes ', ' experience yes ']	[' sports yes ', ' game yes ']	0.48393788083694933
+Nah, we just hung out at the park all day.	[' outing yes', 'shopping no ']	[' park yes ']	0.4113126625878296
+Yeah, I'm really into cooking. I could talk about food all day!	[' food yes ', ' cooking yes ']	[' food yes ', ' cooking yes ']	0.8452003319459505
+No, not really interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+I'm not really into pets myself.	[' pets no ']	[' pets no ']	0.999999977518144
+No, I haven't. Is it as good as Breaking Bad?	[' TV show yes ', ' Better Call Saul unknown ']	[' TV shows yes ', ' TV show quality unknown ']	0.6288152913852109
+No, I'm allergic to cats and dogs.	[' pets no ']	[' pets no ', ' cats no ']	0.9364473704793489
+Probably Skyrim.	[' video games yes ', ' favorite video game yes ', ' Skyrim yes ']	[' video games yes ', ' favorite game yes ', ' Skyrim yes ']	0.7415561274223345
+Yeah, I love watching crime series. How about you?	[' movies and shows yes ', ' crime series yes ']	[' TV series yes ', ' crime series yes ']	0.6979603280151412
+I'm not a great dancer, so I usually avoid it if I can.	[' dancing no ']	[' dancing no ']	0.9999999831407493
+I'm not a big sports fan.	[' sports no ']	[' sports no ']	0.9999999819397033
+I recommend the margherita pizza, it's also pretty good.	[' food yes ', ' pizza yes ', ' margherita pizza yes ']	[' food yes ', ' pizza yes ']	0.8152503194102129
+I enjoy a lot of different kinds of music. Lately, I've been listening to a lot of indie rock.	[' music yes ', ' favorite genre yes ', ' indie rock yes ']	[' music yes ', ' music genre yes ', ' indie rock yes ']	0.7755098481723309
+No, I haven't. I'm not really a fan of that kind of food.	[' food no ']	[' food no ', ' spicy food no ']	0.9006711790904289
+Yeah, it's definitely worth it in the long run.	[' finance unknown ', ' saving money yes ']	[' learning yes ']	0.339074448657439
+No, I haven't. I'm not really into that kind of thing. It seems too scary for me.	[' haunted houses no ']	[' adventure sports no ']	0.3773475648414011
+Not really. Movies aren't really my thing.	[' movie no ']	[' movie no ']	0.9999999796277829
+Not really. I don't watch that much TV.	[' TV shows no ']	[' TV show no ']	0.9479853235010943
+Jazz is not my thing, sorry.	[' music yes ', ' jazz no ']	[' music no ', ' jazz music no ']	0.8098325518653341
+Sadly, no. I need to catch up on housework which is incredibly boring.	[' weekend plans no ', ' housework no ']	[' day activities no ', ' housework no ']	0.595573159377607
+No, I haven't. I'm not really interested in traveling to Europe.	[' travel yes ', ' Europe no ']	[' travel no ', ' europe no ']	0.6407973302419628
+Honestly, I don't really care much about music.	[' music yes ']	[' music no ']	0.755824990135444
+No, I haven't.	[' sleep yes ', ' remedy unknown ']	[' travel unknown ', ' International travel no ']	0.27739428364998975
+I'm actually not that into music. I don't listen to it very often.	[' music no ']	[' music no ']	0.9999999965634914
+No, I don't really follow sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+No, I've been pretty lazy the past few weeks.	[' gym no ']	[' exercise no ']	0.6228927552389921
+Yeah, I love animals. They're the best.	[' animals yes ']	[' animals yes ']	0.9999999859668836
+I work in an office doing customer service. It's not very exciting.	[' work yes ', ' type of work no ']	[' career no ', ' customer service no ']	0.40292355914598704
+Yes, I did. The Eiffel Tower is amazing.	[' travel yes ', ' France trip yes ', ' visit to Paris yes ']	[' travel yes ', ' sightseeing yes ', ' Eiffel Tower yes ']	0.5222605271520385
+Honestly, I just like to relax at home and watch TV or something. I'm pretty boring, I guess.	[' entertainment yes ', ' TV yes ']	[' entertainment no ', ' hobbies no ']	0.44833722717242785
+Yeah, I love sports! What's your favorite sport?	[' sports yes ', ' favorite sport unknown ']	[' sports yes ']	0.7365371515394564
+Oh, I see. Well, thanks for sharing your opinion. Anyway, I have to go now. See you later!	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Eh, I'm not a fan.	[' food no ', ' tacos no ']	[' restaurant yes ', ' type of cuisine no ', ' Thai no ']	0.5099481648201484
+Not really. Books are kind of boring to me.	[' books no ']	[' book no ']	0.8583480947508343
+Sounds good, take care.	[' goodbye yes ']	[' ending conversation yes ']	0.5064615154977291
+It’s been a tough day at work.	[' work unknown ']	[' work no ']	0.5341303768400627
+I don't really have one. I listen to whatever's on the radio.	[' music no ']	[' music no ']	0.9999999965634914
+Ugh, don't even get me started on that. It's all just a bunch of lies and corruption.	[' politics no ']	[' news no ', ' politics no ']	0.7769423912971438
+Not really. Just going to visit my family.	[' holidays yes ', ' family yes ']	[' family yes ']	0.7841161637328506
+Uh, sorry to cut this short, but I have to go now. It was nice talking to you!	[' boring topic no ']	[' end yes ']	0.4285695327672707
+I'm going to visit my grandparents.	[' family yes ', ' family visit yes ', ' grandparents yes ']	[' family yes ', ' grandparents yes ']	0.8209021094069966
+Not really, I just focus on the present right now.	[' travel no ']	[' future no ']	0.5751538789620977
+Yes, I really like the latest song by Ariana Grande.	[' music yes ', ' song recommendation yes ', ' Ariana Grande song yes ']	[' music yes ', ' pop singer yes ', ' Ariana Grande yes ']	0.6265328157161587
+Not really, I've just been at work a lot.	[' travel no ']	[' travel no ']	0.9999999872250708
+(sighs) Not really.	[' golf no ']	[' books no ']	0.47746211186378607
+Yeah, I guess that works too. Do you like sports?	[' sports unknown ']	[' sports unknown ']	0.9999999861334308
+Oh, really? I don't particularly like ginger.	[' cooking yes ', ' ingredient no ']	[' food yes ', ' ginger no ']	0.5128264353482145
+Definitely. I just started watching the show Stranger Things, it's really good.	[' entertainment yes ', ' TV shows yes ', ' Stranger Things yes ']	[' TV shows yes ', ' Stranger Things yes ']	0.6814263515244359
+Actually, I've been reading a lot of thrillers lately.	[' literature yes ', ' thrillers yes ']	[' books yes ', ' genre yes ', ' thriller yes ']	0.6380425627083515
+No, I don't have any pets.	[' pets no ']	[' pets no ']	0.999999977518144
+Honestly, I loved everything about it. The writing, the acting, the cinematography...it was all amazing. But I think my favorite episode was the one where they steal the train.	[' TV shows yes ', ' favorite part yes ', ' train heist episode yes ']	[' TV show yes ', ' favorite episode yes ', ' train episode yes ']	0.6118110475616506
+Hmm, never really got into those older movies.	[' movie yes ', ' The Godfather no ']	[' movie no ', ' classic movies no ']	0.6067520138563907
+Not really, I think I prefer just staying at home and relaxing. Thanks for the suggestion though.	[' weekend no ', ' hiking no ']	[' travel no ']	0.5688183730309908
+Yes, I have it on my watchlist but did not get the chance to watch it yet.	[' movie yes ', ' TV series yes ', ' Stranger Things yes ']	[' TV show yes ', ' Game of Thrones yes ']	0.5565662338917463
+To be honest, I've been pretty busy with work, so I haven't had time to watch much of anything.	[' TV shows no ']	[' TV shows no ']	0.9999999937532956
+Actually, I'm not really a fan of those either.	[' movie no ', ' romantic comedies no ']	[' TV shows no ']	0.5050062707603574
+No, I haven't.	[' music no ', ' concerts no ']	[' restaurant yes ', ' new restaurant yes ']	0.26168388835510137
+I like playing video games and reading.	[' video games yes ']	[' entertainment yes ', ' reading yes ']	0.5273134615048034
+No, I haven't. But honestly, it doesn't sound very appealing to me.	[' outdoor activities no ', ' camping no ']	[' entertainment yes ', ' Escape Room no ']	0.39036300566365967
+Not really, I'm open to anything. But I don't like crowded places or tourist traps.	[' travel yes ', ' type of travel no ']	[' travel yes ', ' travel tip no ']	0.7736421644226582
+Mostly fantasy and sci-fi.	[' reading yes ', ' genre yes ', ' fantasy yes ']	[' hobbies yes ', ' reading yes ', ' fantasy and sci-fi books yes ']	0.621451708643225
+Nah, I'm not much of a gamer.	[' video games no ']	[' video games no ']	0.9999999811168708
+Honestly, I don't really have much time for hobbies.	[' hobbies no ']	[' hobbies no ']	0.9999999966230095
+Yes, I really like 1984.	[' books yes ', ' book preference unknown ', ' 1984 yes ']	[' book yes ', ' 1984 yes ']	0.6629021330405483
+It's alright.	[' small talk yes ']	[' work yes ']	0.6388490484448592
+No, not anymore. My knee injury is giving me lots of troubles lately.	[' sports no ', ' soccer no ']	[' sports no ', ' running no ']	0.7243448883234713
+Sounds like a good idea. But I think I should get going now, I have an early morning.	[' ending a conversation yes ', ' early morning no ']	[' goodbye yes ']	0.3907475300862825
+Actually, I'm not much of a reader.	[' book no ']	[' books no ']	0.8583480947508343
+I read different kinds of news, but mostly science and technology.	[' news yes ', ' science and technology yes ']	[' news yes ', ' type of news yes ', ' science and technology yes ']	0.6900226166120693
+Not really, I've been trying to avoid eating out too much.	[' restaurant no ']	[' restaurant no ']	0.9999999839339471
+Yeah, thanks. Bye.	[' farewell unknown ']	[' farewell yes ']	0.6962823698505317
+I'm a software engineer.	[' career unknown ', ' job title unknown ', ' software engineer unknown ']	[' work yes ', ' software engineering yes ']	0.2721654991357267
+I'm a big basketball fan. How about you?	[' sport yes ', ' favorite sport unknown ']	[' sports yes ', ' basketball yes ']	0.5762685732027841
+I agree. That's why I usually don't exercise.	[' health yes ', ' exercise no ']	[' exercise no ']	0.6805990356461498
+Yes, I actually just finished a really great novel.	[' entertainment yes ', ' books yes ']	[' books yes ', ' novel yes ']	0.6259435746851961
+Yeah, it's been nice. See you later.	[' goodbye yes ']	[' goodbye yes ']	0.9999999948937661
+No, not really. I don't go to concerts much.	[' music yes ', ' concerts no ']	[' music no ', ' live music no ']	0.7158506662542043
+That sounds like fun. What kind of dog do you have?	[' weekend plans yes ', ' dog yes ']	[' pets yes ', ' dog yes ']	0.6433810459340432
+Same to you. Talk to you later!	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Hey there, I'm doing okay.	[' greetings yes ']	[' greeting yes ']	0.8192061054623855
+No, and I don't think I want to. I can't handle spicy food.	[' food no ']	[' food yes ', ' spicy food no ']	0.7849485000576824
+I don't really like Tom Hanks movies. They're usually too predictable.	[' movie yes ', ' Tom Hanks movies no ']	[' movie no ', ' movie actor no ', ' Tom Hanks no ']	0.6478110396049903
+I like playing video games, hanging out with my friends, and going to concerts.	[' video games yes ']	[' hobby yes ', ' video games yes ']	0.7013120262584284
+I don't really like sushi all that much.	[' food yes ', ' sushi no ']	[' restaurant yes ', ' sushi no ']	0.6802071675439118
+Yes, I went to Italy a few years ago. It was amazing.	[' travel yes ', ' foreign country yes ', ' Italy yes ']	[' travel yes ', ' Italy yes ']	0.6430786017573381
+Oh, I haven't seen that one in ages. Do you like action movies too?	[' movie yes ', ' action yes ']	[' movie yes ', ' action movie yes ']	0.8206403013895631
+Not really. It's going to be a boring one.	[' weekend yes ', ' boring no ']	[' education no ', ' school curriculum no ']	0.3250719553090715
+Yeah, I like Coldplay. They have some good songs.	[' music yes ', ' band yes ', ' Coldplay yes ']	[' music yes ', ' band yes ', ' Coldplay yes ']	0.7856252876624166
+Well, I like reading and listening to podcasts.	[' hobbies yes ', ' podcasts yes ']	[' hobbies yes ', ' reading yes ']	0.6248072165045989
+We just hung out on the beach mostly. Nothing too exciting.	[' travel yes ', ' beach no ']	[' travel yes ', ' beach no ']	0.6565224312486897
+Well, it depends on what you like. Do you prefer fiction, non-fiction, or something else?	[' books yes ', ' genre yes ']	[' books yes ', ' book genre unknown ']	0.6644910127287835
+I'm a big fan of chicken tikka masala. What about you?	[' food yes ', ' Indian dish yes ', ' chicken tikka masala yes ']	[' food yes ', ' Indian dish unknown ']	0.6053892793788397
+Never heard of them, sorry.	[' music no ']	[' music no ']	0.9999999965634914
+I make a mean lasagna.	[' food yes ']	[' cooking yes ', ' signature dish yes ', ' lasagna yes ']	0.6030396722558657
+Nope, not interested in surfing, to be honest.	[' adventure no ']	[' beach yes ', ' surfing no ']	0.415391249195985
+Not great, actually. I've been swamped with work.	[' work no ']	[' work no ']	0.9999999899962602
+Not really, I'm not a big movie person.	[' movie no ']	[' movie no ']	0.9999999796277829
+Nothing really, I haven't had much time to watch anything lately.	[' Netflix no ', ' watched recently no ']	[' TV show no ']	0.5550654013173346
+Ah, that's too bad. Hey, did you hear about the new iPhone that's coming out soon?	[' technology no ', ' iPhone no ']	[' technology yes ', ' iPhone yes ']	0.5504689172269487
+No, I missed it. I'm not much of a football fan.	[' sports no ']	[' sports no ', ' football no ']	0.8880795445543757
+If you're into sci-fi, I recently watched this show on Amazon called The Expanse. It's pretty good, but it has a bit of a slow start.	[' TV yes ', ' sci-fi yes ', ' The Expanse yes ']	[' TV shows yes ', ' recommendations yes ', ' The Expanse unknown ']	0.4601764177916219
+I'm more of a basketball person.	[' sports yes ', ' favorite sport yes ', ' basketball yes ']	[' sports yes ', ' basketball yes ']	0.7960260018854438
+Yeah, I do. Especially ones that focus on the environment or animals.	[' movie no ']	[' movie yes ', ' documentary yes ']	0.6433498517997809
+Nope, not really my thing.	[' music yes ', ' rap no ']	[' outdoor activities no ']	0.3217219744548028
+No, I haven't really had the time. To be honest, cooking isn't really my thing either. I'm more of a takeout person.	[' recipes no ']	[' cooking no ']	0.7212278435959143
+Yeah, I just listened to a podcast about the Zodiac Killer. Have you ever heard of him?	[' podcasts yes ', ' true crime yes ', ' Zodiac Killer yes ']	[' unknown yes ']	0.4002844041700559
+Pretty good. I went for a hike.	[' recreation yes ']	[' weekend yes ', ' hiking yes ']	0.5532342736797885
+Not really. It was just another day.	[' Work no ']	[' daily routine no ']	0.5112079867349743
+Not really, fortunately.	[' weekend yes ', ' wild animals no ']	[' news no ']	0.32789779748978914
+Honestly, I try not to pay attention to the news these days. It's all so negative.	[' news no ', ' negative news no ']	[' news no ', ' negative news no ']	0.9208118806102142
+Yes, I have a younger brother who's in college right now.	[' family yes ', ' siblings yes ', ' brother yes ']	[' family yes ', ' brothers yes ']	0.810063655916928
+Not really.	[' TV show no ']	[' reading no ']	0.47225598383857925
+Ugh, not that again. I'm so sick of hearing about it.	[' news no ', ' climate change no ']	[' politics no ']	0.5586738151343515
+Yeah, it's been a weird year for movies. Hopefully, things will get better soon. Anyway, I gotta run now. It was good chatting with you!	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+Yes, I have a cat, and it's the best thing ever!	[' pets yes ', ' cat yes ']	[' pets yes ', ' cats yes ']	0.8786058639415337
+Not really. I find it too tiring.	[' outdoors yes ', ' hiking no ']	[' hobby no ', ' reading no ']	0.4532050889993553
+Not really, I don't have much time to read these days.	[' book no ']	[' book no ', ' reading no ']	0.8225367098474341
+Yeah, I have a dog. He's a golden retriever and he's the best thing that's ever happened to me. What's your favorite kind of food?	[' food yes ']	[' food yes ']	0.9999999955522965
+I usually just bring leftovers from home. It's healthier and cheaper that way.	[' food yes ', ' lunch unknown ']	[' food yes ', ' lunch no ']	0.5980571622669484
+Sorry, not really into basketball players. I just like watching the game.	[' sports yes ', ' favorite basketball player no ']	[' sports yes ', ' basketball player no ']	0.7280940336240285
+Actually, I'm not really into comedies. They just don't do it for me.	[' movie yes ', ' movie genre no ']	[' movie no ', ' comedy no ']	0.6947863394846241
+No, I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really. I tend to just spend my free time watching movies or reading.	[' hobby no ']	[' books yes ']	0.3708154762526392
+You too!	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+No, I haven't had the chance to travel much lately.	[' travel no ']	[' travel no ']	0.9999999872250708
+No, I'm not much into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really, sorry.	[' fitness yes ', ' health and fitness tips no ']	[' books no ']	0.320504022206031
+That sounds interesting. I have never been camping before.	[' weekend yes ', ' camping unknown ']	[' travel yes ', '  camping unknown ']	0.5084579113373967
+No, I'm not really a fan of sushi.	[' food no ', ' sushi no ']	[' food yes ', ' sushi no ']	0.7311912799943286
+Honestly, I'm not that into movies.	[' movie yes   no ']	[' movie no ']	0.9120996215384193
+I like to cook and try out new recipes.	[' food yes ']	[' cooking yes ']	0.6904006713141664
+I'm not really into music, but I do like jazz.	[' music unknown ', ' genre yes ', ' jazz yes ']	[' music yes ', ' genre yes ', ' jazz yes ']	0.6791619626574968
+Not really, I find them a bit boring. But some historical sites can be interesting.	[' culture no ', ' museum no ']	[' travel yes ', ' historical sites yes ']	0.3146684563767406
+Not much, just relaxing at home.	[' general chat yes ']	[' weekend no ']	0.2948022254258267
+Not really, I find it kind of boring to watch.	[' sports yes ', ' soccer no ']	[' sports no ']	0.7634941597966886
+Not really, I'm not very interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Yeah, nice talking to you too. Bye.	[' farewell unknown ']	[' farewell yes ']	0.6962823698505317
+Sure, that would be fun.	[' food yes ']	[' hobbies yes ', ' board game yes ']	0.4372017008994913
+I'm a big fan of Italian food, actually.	[' food yes ', ' cuisine yes ', ' Italian food yes ']	[' food yes ', ' cuisine yes ', ' Italian yes ']	0.7206834354444314
+I like listening to classical music. It's really relaxing. Would you like me to recommend some composers to you?	[' music yes ', ' genre yes ', ' classical yes ']	[' music yes ', ' classical music yes ']	0.8048041976028446
+No, I don't really like sushi that much.	[' food no ', ' sushi no ']	[' food yes ', ' sushi no ']	0.7311912799943286
+I don't really know. Maybe somewhere tropical?	[' travel no ', ' tropical destinations unknown ']	[' vacation yes ', ' vacation location yes ', ' tropical yes ']	0.4484730583662392
+Oh, well, still plenty of great plays and shows out there. What other kinds of performances do you enjoy?	[' theater yes ', ' performance yes ']	[' theater yes ', ' performance types unknown ']	0.5649950665755756
+Eh, I don't mind it. I'm not a very active person.	[' lifestyle yes ', ' activity level no ']	[' weekend yes ', ' activity no ']	0.45899603931870675
+Yeah, I do, although I find that they're usually not as good as the books themselves.	[' movies yes ', ' book adaptations yes ']	[' books yes ', ' movie adaptations unknown ']	0.662161046478498
+Not really interested in food right now.	[' food no ']	[' food no ']	0.9999999776546105
+Actually, I'm not really interested in talking about that, either. Sorry.	[' hobbies no ']	[' politics no ']	0.48108300193923503
+I've never played Civilization 6, but I do like strategy games.	[' video games yes ', ' strategy games yes ']	[' hobbies yes ', ' strategy games yes ']	0.6456545459390898
+Alright, I'll add it to my watch-list.	[' TV show yes ', ' Netflix show yes ']	[' TV show yes ', ' Mindhunter yes ']	0.7656831372388098
+Not really, I don't watch a lot of TV.	[' entertainment yes ', ' TV no ']	[' TV show no ']	0.6731858061429998
+Yeah, let's do that. How's your work been lately?	[' work yes ']	[' work no ']	0.6771393382669634
+Probably The Shining. It's a classic.	[' book yes ', ' favorite book yes ', ' The Shining yes ']	[' movie yes ', ' favorite movie yes ', ' The Shining yes ']	0.6066252413018899
+Yeah, I get that. I thought I couldn't give up cheese either, but there are some really good vegan alternatives out there.	[' food yes ', ' veganism yes ', ' vegan alternatives yes ']	[' food yes ', ' veganism yes ']	0.7402815264344568
+No, I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really, I find most movies a bit boring. I prefer watching TV shows.	[' TV shows yes ']	[' movies no ']	0.46255331430790103
+Yeah, it really can be. But enough about work, how about you? What have you been up to lately?	[' personal life yes ']	[' personal life yes ']	0.9999999886037478
+Yeah, I've also been to France and Spain. I loved them both.	[' travel yes ', ' travel in Europe yes ', '  "France"  "Spain"   yes ']	[' travel yes ', ' country yes ', ' Spain yes ']	0.6851559697234807
+Not really, I don't have much free time.	[' hobbies no ']	[' TV shows no ']	0.4441247510099058
+No, I've never been interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Yeah, I've been trying to make time to work out lately.	[' exercise yes ']	[' fitness yes ']	0.6259964111087429
+No, I'm not really into sports.	[' sports yes ', ' sports no ']	[' sports no ']	0.8828051223638912
+Definitely! I'd highly recommend it.	[' theater yes ', ' review yes ']	[' books yes ', ' book recommendation yes ']	0.5087763800235348
+Nah, I'm not really into them.	[' video games yes ', ' game genre yes ', ' puzzle games no ']	[' TV shows no ']	0.40474078078986375
+I haven't seen that one yet.	[' series yes ', ' specific series no ', ' The Family Man unknown ']	[' TV show yes ', ' Stranger Things no ']	0.4040379104570834
+Not really, sorry. I'm not much of a conversationalist.	[' conversation no ']	[' conversation no ']	0.9999999995333135
+I've been really into Vampire Weekend lately.	[' music yes ', ' music band yes ', ' Vampire Weekend yes ']	[' music yes ', ' music group yes ', ' Vampire Weekend yes ']	0.7110248570055137
+I like to read and play video games.	[' hobby yes ', ' reading yes ']	[' hobbies yes ', ' reading yes ']	0.7052239396648312
+I like strong coffee with milk. How about you?	[' coffee yes ', ' preference unknown ']	[' food yes ', ' coffee preference unknown ']	0.5602687288578696
+We went to Mount Baker, it was really beautiful.	[' outdoor activities yes ', ' hiking yes ', ' Mount Baker yes ']	[' outdoor activities yes ', ' hiking trail yes ', ' Mount Baker yes ']	0.5484138095199107
+Just some boring paperwork, nothing interesting, really.	[' work no ', ' paperwork no ']	[' work no ', ' paperwork no ']	0.8100928702240924
+I don't like how people get so caught up in the commercial aspect of it. It's really just a way for businesses to make money.	[' holiday no ']	[' music no ', ' music criticism no ']	0.4599493448215142
+Honestly, I don't really like it. The coffee wasn't great.	[' coffee shop no ', ' coffee quality no ']	[' food and beverage yes ', ' coffee no ']	0.6549457925398771
+I don't know, it's hard to say.	[' sports yes ']	[' hobbies yes ', ' favorite thing to do unknown ']	0.4768465908738543
+Yeah, I like Mexican food a lot!	[' food yes ', ' Mexican food yes ']	[' food yes ', ' cuisine yes ', ' Mexican yes ']	0.736344859498069
+No, not really interested in sports either.	[' sports no ']	[' sports no ']	0.9999999819397033
+Oh yeah, I love sushi! It's one of my favorites.	[' food yes ', ' cuisine yes ', ' sushi yes ']	[' restaurant yes ', ' cuisine yes ', ' sushi yes ']	0.7634423543753909
+Yes, I played it last week.	[' video game yes ', ' latest yes ']	[' video game yes ', ' Valorant yes ']	0.6908666977677183
+I see. Well, it was nice talking to you, but I have to go now.	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+Yeah, maybe. Anyway, I have to get going now. Nice talking to you!	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+No, I haven't heard anything about it.	[' food yes ']	[' restaurant unknown ', ' new restaurant no ']	0.3578154508468328
+Actually, no. I haven't gone anywhere in a while.	[' travel no ']	[' travel no ']	0.9999999872250708
+I'm doing fine, thank you.	[' feeling yes ', ' fine yes ']	[' greeting yes ']	0.5211472452783246
+Not at all. I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Actually, yes. I just finished a very interesting novel.	[' books yes ']	[' books yes ']	0.9999999768175928
+Sure, it's nice to see new places.	[' travel yes ']	[' travel yes ']	0.9999999753587387
+Pretty boring, to be honest.	[' day no ']	[' daily life yes ']	0.4974984074355495
+I don't know, maybe Europe or Asia.	[' travel yes ', ' destination yes ']	[' travel yes ', ' destination unknown ']	0.6594164119949086
+Actually, yes. I just watched this really great crime show.	[' TV shows yes ', ' crime show yes ']	[' TV shows yes ', ' crime show yes ']	0.8130395680137366
+Not really. Just some random sitcoms that were on. Nothing special.	[' TV yes ', ' sitcom no ', ' TV show no ']	[' TV shows no ']	0.7479204049735233
+No, I haven't but it sounds intriguing! Have you ever done any screenwriting?	[' writing yes ', ' screenwriting yes ']	[' writing yes ', ' screenwriting yes ']	0.8506846477552822
+Not really. I'm not that interested in science or technology.	[' science & technology no ']	[' science and technology no ']	0.9224158897165139
+No, I hate hiking. It's too much effort for too little payoff.	[' outdoor activities no ']	[' outdoor activities no ', ' hiking no ']	0.7543554653516316
+Not really. I don't watch movies very often, and the last one I saw wasn't that great.	[' movie no ']	[' movies no ']	0.8874147804621596
+Hmm, okay. Maybe I will.	[' movie yes ', ' movie plot unknown ']	[' books yes ', ' recommendation yes ', ' Gone Girl unknown ']	0.3689451586792899
+Speaking of burgers, have you tried the new chicken sandwich that everyone's talking about?	[' food yes ', ' burger no ']	[' food yes ', ' fast food yes ', ' chicken sandwich yes ']	0.6835585676079785
+It's a historical drama about Queen Elizabeth II's reign. You should definitely check it out.	[' TV shows yes ', ' The Crown yes ']	[' TV shows yes ', ' The Crown yes ']	0.6776112403503909
+It was this sci-fi novel about a Mars colonization mission. It was pretty cool.	[' books yes ', ' sci-fi yes ', ' Mars colonization yes ']	[' book yes ', ' novel yes ', ' Mars colonization yes ']	0.5863669056429007
+The Grand Canyon is so far away, and I don't really like hiking.	[' vacation yes ', ' Grand Canyon no ']	[' nature no ', ' hiking no ']	0.4198332701224413
+Yeah, I don't mind rock. But have you heard about the new tax laws that were just passed? Seems pretty boring to me.	[' politics no ', ' tax laws no ']	[' news no ', ' tax laws no ']	0.6170491579809647
+No, I haven't. I'm not really into that kind of show.	[' TV shows no ', ' Game of Thrones no ']	[' entertainment yes ', ' TV show no ', ' Game of Thrones no ']	0.5777140956250386
+I don't watch a ton of TV, but I've been really into this Korean drama lately. It's called Crash Landing on You.	[' tv show yes ', ' tv show name yes ', ' Crash Landing on You yes ']	[' TV show yes ', ' TV show name yes ', ' Crash Landing on You yes ']	0.7139138275583096
+Oh, I've heard of that place. I'll have to check it out sometime.	[' food yes ', ' Shake Shack yes ']	[' food yes ', ' restaurant yes ']	0.6539084308648824
+No, I'm not really into movies.	[' entertainment no ', ' movie no ']	[' movie no ']	0.8144708852679419
+Maybe. So, how's the weather been lately?	[' general yes ', ' weather no ']	[' weather no ']	0.6390612621486124
+Not really. I spend most of my free time just watching TV.	[' hobbies no ', ' TV no ']	[' entertainment yes ', ' hobbies no ']	0.5536416003423402
+It's going alright.	[' greeting yes ']	[' daily life yes ']	0.403881558825135
+Not really, just watched some Netflix. Have you been watching anything good lately?	[' Netflix no ']	[' TV show yes ']	0.5457043432851415
+Yeah, it can be a very profitable field. But it's not just about the money, you also need to have a passion for it.	[' work yes ']	[' work yes ', ' job suggestion yes ']	0.8371172636422652
+I love going to Central Park, seeing a show on Broadway, and visiting the Metropolitan Museum of Art.	[' travel yes ', ' NYC attraction yes ', ' Central Park/Broadway/Met yes ']	[' activities yes ', ' activities yes ', ' attractions yes ']	0.5046828344915505
+I don't really have one.	[' hobby yes ', ' sports no ']	[' movie yes ', ' comedian no ']	0.3829712882638968
+You're welcome. By the way, do you like to read books?	[' books no ']	[' book yes ']	0.6200966200415904
+Yeah, I've had a few different ones. I'm not a huge fan, though.	[' brewery yes ', ' craft beer no ']	[' pets no ']	0.29934792462217014
+That sounds pretty intense. I don't think I could handle watching something like that.	[' movies no ', ' movie genre no ']	[' movies no ', ' movie genre no ']	0.8924528992346034
+Yeah, guac is great! So, what have you been up to lately?	[' activity yes ']	[' personal life yes ']	0.4203195039294487
+Yeah, I hope so. Anyway, I gotta run. Good talking to you!	[' goodbyes yes ']	[' farewell yes ']	0.7731758275064593
+Not really, I usually just order takeout.	[' cooking no ']	[' cooking no ']	0.9999999960595128
+Definitely, it's one of my favorite shows.	[' TV shows yes ', ' worth watching yes ']	[' TV show yes ', ' Breaking Bad yes ']	0.607782618576898
+Anything that's locally owned and operated, really. I like to support small businesses whenever I can.	[' business yes ', ' local businesses yes ']	[' small business yes ']	0.8074577667980677
+No, what's your new hobby?	[' personal life yes ', ' hobby yes ']	[' hobby yes ']	0.7629947603690903
+Yeah, Japan is definitely on my list. Do you like spicy food?	[' food yes ', ' spicy food yes ']	[' food yes ', ' spicy food unknown ']	0.802231213326644
+No, I haven't.	[' news unknown ', ' travel restrictions no ']	[' food unknown ', ' restaurant no ']	0.360722381408236
+That sounds fun. I used to go camping with my family when I was younger.	[' outing yes ', ' camping yes ', ' family yes ']	[' outdoor activities yes ', ' camping yes ']	0.5642799040588845
+Hmm, I heard mixed reviews about that one. I'm not sure if I'm interested.	[' movie yes ', ' Interstellar no ']	[' TV shows no ', ' Stranger Things no ']	0.3972120645947652
+I do love a good burger. I would definitely check this place out.	[' food yes ', ' burger yes ', ' Burger Palace yes ']	[' food yes ', ' cuisine unknown ']	0.5421948059371263
+To be honest, I'm not really into music.	[' music no ']	[' music no ']	0.9999999965634914
+I like to read biographies and historical fiction.	[' hobby yes ', ' book yes ']	[' hobbies yes ', ' book genre yes ', ' biographies and historical fiction yes ']	0.6024863190379957
+Sure, what's it called?	[' food yes ', ' new restaurant yes ', ' unspecific name yes ']	[' restaurant yes ', ' restaurant name yes ']	0.6800011145513926
+It was alright, didn't do much.	[' weekend no ']	[' weekend no ']	0.9999999968275949
+Not really, I prefer to read manga.	[' interests yes ', ' reading genre yes ', ' manga yes ']	[' comics no ']	0.4362814488413577
+Not really. I just like watching good games, regardless of the teams playing.	[' sports yes ', ' soccer no ']	[' sports yes ', ' team preference no ']	0.5936066372473132
+No, I am not really a fan of that show.	[' TV show no ', ' Game of Thrones no ']	[' TV show no ', ' Game of Thrones no ']	0.6999526680445247
+Sorry, I won't be able to make it. I have too many errands to run.	[' meeting no ', ' coffee catch-up no ']	[' weekend no ', ' errands no ']	0.49306288283347893
+Sure, that sounds like a good idea.	[' food yes ', ' restaurant plan yes ']	[' food yes ', ' Italian food yes ']	0.7129599882735179
+Yeah, I've been thinking about it. Maybe something more creative or fulfilling.	[' job no ', ' career change yes ']	[' career yes ', ' job satisfaction yes ']	0.6031489853149737
+I don't even remember the name. It was that bad.	[' play no ', ' bad play no ']	[' food no ', ' bad restaurants no ']	0.5451495665700329
+Unfortunately, no. It's been a while since I went anywhere exciting.	[' travel no ']	[' travel no ']	0.9999999872250708
+Honestly, it was just some boring memoir for a book club. I didn't really get into it.	[' hobbies yes ', ' reading no ']	[' books no ', ' memoirs no ']	0.46001495073516385
+I like classic rock.	[' music yes ', ' rock yes ']	[' music yes ', ' music genre yes ', ' classic rock yes ']	0.7778625018238955
+I'm not sure, I'm not a big fan of Thai food.	[' restaurant no ', ' food preference no ', ' Thai food no ']	[' restaurant yes ', ' Thai food no ']	0.6525493715850049
+I'm doing pretty well.	[' small talk yes ']	[' greeting yes ']	0.5363223948550397
+I'm not a huge reader, sorry.	[' books no ']	[' books no ']	0.9999999905938901
+No, not yet. Would you recommend it?	[' TV shows yes ', ' Stranger Things unknown ']	[' restaurant yes ', ' recommendation yes ']	0.30385865978224974
+I work in an office, it can be pretty boring at times.	[' job yes ', ' office work no ']	[' work yes ']	0.673881445965667
+Not yet. I'm hoping to do something fun, though. Maybe go for a hike or something.	[' weekend yes ', ' hiking yes ', ' weekend plans yes ']	[' weekend yes ', ' hiking yes ']	0.7023307960398703
+No, I'd be way too scared.	[' sport yes ', ' scuba diving no ']	[' adventure no ']	0.42234452250228816
+Sorry, I don't really keep up with celebrity news.	[' celebrity no ']	[' celebrity no ']	0.9999999920213387
+No, but they sound delicious. Have you ever been to Mexico?	[' travel yes ', ' Mexico unknown ']	[' travel yes ', ' Mexico unknown ']	0.6145008145070374
+I like playing video games, watching TV, things like that.	[' entertainment yes ', ' video games yes ']	[' hobbies yes ', ' video games yes ']	0.6281099333814606
+Sure, what's playing?	[' movie yes ']	[' movie yes ', ' movie theater yes ']	0.9414277182941465
+Actually no, I haven't gotten around to watching any new movies.	[' movies no ']	[' movies no ']	0.999999987089599
+Yeah, it was nice talking to you too. See you later!	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+No, not really. I'm not much of a reader.	[' books no ']	[' books no ']	0.9999999905938901
+No problem, always happy to help.	[' hobbies yes ']	[' thank you yes ']	0.453912281953172
+Actually, I just watched one on Netflix called Marriage Story. It was really well-done.	[' movie yes ', ' Netflix movies yes ', ' Marriage Story yes ']	[' movies yes ', ' recommendations yes ', ' Marriage Story yes ']	0.6020836428697244
+Not really. I always fall asleep while reading.	[' entertainment no ', ' reading no ']	[' book no ']	0.5522391355157543
+I really like Muse. They're an alternative rock band.	[' music yes ', ' rock yes ', ' Muse yes ']	[' music yes ', ' band yes ', ' Muse yes ']	0.7139150629298552
+No, not really. Sports have never really interested me.	[' sports no ']	[' sports no ']	0.9999999819397033
+Yes, I have a dog. He's my best friend.	[' pets yes ', ' dog yes ']	[' pets yes ', ' dog yes ']	0.8902599643002953
+I usually just stay home and read.	[' activity yes ', ' reading yes ']	[' hobbies no ', ' reading yes ']	0.5594345079795645
+I like to hang out with friends and catch up on TV shows.	[' casual conversation yes ', ' TV shows yes ']	[' fun yes ', ' hanging out yes ']	0.5097184326825518
+Actually, yeah, I'm really into cooking. I love trying out new recipes and experimenting with different flavors. How about you?	[' hobbies yes ', ' cooking yes ']	[' hobbies yes ', ' cooking yes ']	0.7532380259490946
+It was great.	[' day unknown ']	[' personal yes ']	0.2333245659396851
+Well, it depends on what you're interested in. What are you hoping to see?	[' travel yes ', ' Europe trip planning yes ']	[' entertainment yes ', ' TV shows unknown ']	0.36581300570675135
+Not really. I don't really watch TV.	[' TV shows no ']	[' entertainment yes ', ' TV shows no ']	0.7110090313011015
+Not really, I haven't traveled much lately.	[' travel no ']	[' travel no ']	0.9999999872250708
+Actually, no. Sorry, I'm not much of a reader.	[' books no ']	[' books no ']	0.9999999905938901
+I like a lot of different artists, but I've been listening to a lot of Taylor Swift lately.	[' music yes ', ' singer yes ', ' Taylor Swift yes ']	[' music yes ', ' favorite artist yes ', ' Taylor Swift yes ']	0.6071471779821752
+Ugh, no. I hate Sudoku. It's so boring.	[' puzzle games no ']	[' hobby yes ', ' puzzle no ', ' Sudoku no ']	0.5892103245304675
+Not really, I try to avoid those kinds of topics. They can be so depressing.	[' news no ']	[' news no ']	0.9999999912586689
+Not really, I have been trying to eat less outside food and cook at home more often to stay healthy.	[' food yes ', ' restaurant no ']	[' restaurant no ']	0.7226356965128806
+Not really, I find them pretty boring. Sorry.	[' sports no ']	[' sports no ']	0.9999999819397033
+I'm afraid I haven't. To be honest, I'm not much of a reader.	[' books no ']	[' books no ']	0.9999999905938901
+I usually just watch TV or play video games.	[' hobbies no ']	[' entertainment yes ', ' TV show unknown ']	0.31655143362978116
+I don't really cook that much.	[' cooking no ']	[' food yes ', ' cooking no ']	0.7303097242449967
+Eh, I'm not really into basketball.	[' sports no ', ' basketball no ']	[' sports no ', ' basketball no ']	0.8650707429945538
+No, I don't. I'm not really a big fan of animals.	[' pets no ', ' pet ownership no ']	[' pets no ']	0.8604685583552911
+Actually, I haven't watched any good movies recently.	[' movie no ']	[' movie no ']	0.9999999796277829
+No, I haven't.	[' movie yes ', ' movie series no ', ' Bourne series no ']	[' food yes ', ' restaurant unknown ']	0.27117741349521257
+Yummy! I'm a big fan of bacon.	[' food yes ', ' bacon yes ']	[' food yes ', ' food preference yes ', ' bacon yes ']	0.7547815452884572
+Honestly, I'm not really into sci-fi movies.	[' movie no ']	[' movie yes ', ' movie genre no ']	0.8120415741116063
+No, I haven't. What is it?	[' food yes ', ' Japanese food yes ', ' Okonomiyaki unknown ']	[' food yes ', ' restaurant yes ', ' 5th Avenue unknown ']	0.4893952507295247
+It was pretty uneventful. I just stayed at home and watched some TV.	[' weekend yes ', ' TV yes ']	[' weekend no ']	0.4939475774977607
+Yeah, I watched it last week. I thought it was a unique concept, but the execution could have been better.	[' movies yes ', ' genre unknown ', ' Yesterday yes ']	[' TV shows yes ', ' opinion yes ']	0.4232950243522137
+Mostly vegetables and herbs. I've got some tomatoes, peppers, basil, and thyme.	[' gardening yes ', ' plants yes ', ' vegetables yes ']	[' hobbies yes ', ' gardening yes ', ' types of plants yes ']	0.632186935960983
+Actually, I find yoga really helpful for reducing stress.	[' mental health yes ', ' yoga yes ']	[' wellness yes ', ' yoga yes ']	0.6922538911577263
+I really enjoy sushi. Have you tried any good sushi places around here?	[' restaurant yes ', ' food yes ', ' sushi yes ']	[' food yes ', ' sushi yes ']	0.7865663516451482
+Why not? You should definitely start playing again.	[' video games yes ']	[' video games yes ']	0.999999982349641
+Yeah, I did.	[' TV show yes ', ' Black Mirror yes ']	[' news yes ']	0.4910341434027433
+No, not really. I've just been staying home a lot since the pandemic.	[' travel no ', ' pandemic no ']	[' travel no ', ' pandemic no ']	0.7000613546169054
+Absolutely, it's concerning how much harm we've done to the planet.	[' climate change yes ', ' climate change severity yes ']	[' environment yes ']	0.6192745518778924
+Mostly just read books or listen to music. Speaking of which, have you checked out any new albums recently?	[' music yes ']	[' music yes ', ' albums unknown ']	0.6826501901720706
+I like classic rock and indie music. The Beatles are my all-time favorite band.	[' music yes ', ' genre yes ', ' The Beatles yes ']	[' music yes ', ' music genre yes ', ' The Beatles yes ']	0.772374091596026
+Absolutely. I think movies are great art forms.	[' movie yes ']	[' movies yes ']	0.8915248191252693
+It was okay.	[' weekend yes ']	[' day unknown ']	0.3203671881852135
+I'm doing alright, thanks.	[' greeting yes ']	[' greeting yes ']	0.999999982467886
+Not really. I just don't watch much TV or movies anymore.	[' TV shows no ']	[' entertainment no ', ' TV no ']	0.7340069705185543
+No, I'm not really into cooking.	[' cooking shows no ']	[' cooking no ']	0.8855612954023706
+Actually, I haven't really been eating out much. Trying to save some money.	[' food no ']	[' food no ']	0.9999999776546105
+I am doing good.	[' wellness yes ']	[' greeting yes ']	0.42502252638494653
+Yeah, I recently re-watched Forrest Gump. That's a classic.	[' movies yes ', ' classic movies yes ', ' Forrest Gump yes ']	[' movie yes ', ' movie name yes ', ' Forrest Gump yes ']	0.6762840938872786
+Not really. Honestly, I'm not a huge fan of live music.	[' concerts no ']	[' music yes ', ' concerts no ']	0.7353797262561831
+"Memento" is a classic thriller that you might like.	[' Movies yes ', ' Memento yes ']	[' movies yes ', ' movie recommendation yes ', ' Memento yes ']	0.6440057487251456
+Not really. I'm not much of a sports fan.	[' sports no ']	[' sports no ']	0.9999999819397033
+I don't read much, but when I do it's usually non-fiction.	[' books unknown ', ' genre yes ', ' non-fiction yes ']	[' book yes ', ' genre yes ', ' non-fiction yes ']	0.5968492248263876
+No, I'm not really into social media.	[' social media no ']	[' social media no ']	0.9999999996312079
+I work in accounting. It's pretty boring, honestly.	[' work no ', ' accounting no ']	[' career yes ', ' accounting no ']	0.5242334783305528
+Yeah, it's hard to beat a good pizza. Anyway, I should probably get going now. It was nice talking to you.	[' end of conversation yes ']	[' goodbye yes ']	0.5216486911207753
+I honestly can't think of any.	[' hobbies no ']	[' music no ', ' favorite artist no ']	0.4895097781710254
+Not really. What kind of documentaries do you usually watch?	[' documentaries no ']	[' TV shows yes ', ' documentary genre yes ']	0.524715217947815
+Oh, I see. Well, I tried this new vegan place near my house last week and loved it.	[' food yes ', ' restaurant yes ']	[' food yes ', ' vegan restaurant yes ']	0.7967051921388496
+Yeah, pizza is my favorite.	[' restaurant unknown ', ' pizza yes ']	[' food yes ', ' pizza yes ']	0.5878174580139246
+No, I haven't. But honestly, I'm not really interested in going there.	[' travel yes ', ' Japan no ']	[' travel no ']	0.5922091562266911
+No, I heard it's not that great.	[' food no ', ' restaurant no ']	[' food yes ', ' restaurant yes ', ' Italian place no ']	0.5698658333624209
+Really? I think you should check it out. It's such a beautiful experience. But okay, how about cooking then? Do you cook a lot?	[' cooking no ']	[' hobby yes ', ' cooking unknown ']	0.5091538905361547
+Huh, that does sound pretty cool. But I'm not really that into sports so I guess I'll have to check out the highlights later.	[' sports no ']	[' sports yes ', ' basketball game yes ']	0.6350940407618865
+I work in marketing. It's pretty boring to be honest.	[' work no ']	[' work no ', ' marketing no ']	0.7679391432321575
+Mostly science fiction and fantasy.	[' hobbies yes ', ' books yes ', ' science fiction yes ']	[' books yes ', ' book genre yes ', ' science fiction yes ']	0.6771556270662494
+Thanks for the recommendation. I think I will.	[' TV show yes ', ' documentary yes ']	[' book yes ', ' The Name of the Wind yes ']	0.4409002937465244
+Not really, I don't watch movies that often.	[' movie no ']	[' movie no ']	0.9999999796277829
+No, I'm really not into first-person shooter games.	[' video games no ', ' first-person shooter games no ']	[' entertainment yes ', ' video games no ', ' Call of Duty no ']	0.5295016113310496
+Hmm, I never really got into sci-fi.	[' books no ', ' genre no ', ' sci-fi novel no ']	[' TV shows no ', ' sci-fi no ']	0.5164385583994412
+I love watching TV shows, especially crime dramas.	[' indoor Activities yes ', ' TV Shows yes ', ' crime dramas yes ']	[' TV shows yes ', ' crime dramas yes ']	0.6233150509655925
+No, I'm just managing as best as I can.	[' health no ']	[' finance no ']	0.611172420489321
+You too.	[' farewell unknown ']	[' farewell yes ']	0.6962823698505317
+No, not really.	[' sports no ']	[' gaming no ']	0.5852129179299138
+No, but I would love to go there someday.	[' travel yes ', ' Japan yes ']	[' travel yes ', ' Japan yes ']	0.7264619893367827
+Not really, I'm more of an indoor person.	[' outdoor activities yes   no ']	[' outdoors no ']	0.7226787937191236
+Yeah, I love playing Call of Duty and Grand Theft Auto.	[' video games yes ', ' game name yes ', ' Call of Duty yes ']	[' entertainment yes ', ' video games yes ', ' Call of Duty and Grand Theft Auto yes ']	0.5498265796765357
+Not much, just working and spending time with family. How about you?	[' personal life yes ', ' family yes ']	[' family yes ']	0.8338061216863943
+Actually, I haven't been keeping up with new music much.	[' music yes ', ' new albums no ']	[' music no ']	0.7077315012657103
+That's cool. I'm not really into pasta though.	[' food yes ', ' Italian cuisine yes ', ' pasta no ']	[' restaurant yes ', ' pasta dishes no ']	0.6096457642700351
+Actually, no. I'm not really interested in movies anymore.	[' movie no ']	[' movie no ']	0.9999999796277829
+Not really. I find them too cliché and predictable.	[' movie no ']	[' movies no ']	0.8874147804621596
+Kinda. I enjoy watching the occasional sci-fi show or movie, but I'm not really into it.	[' movie yes ', ' sci-fi unknown ']	[' entertainment yes ', ' science fiction no ']	0.3201077217203252
+Not really, I've just been re-watching The Office.	[' TV shows/movies no ', ' TV show yes ', ' The Office yes ']	[' TV show no ', ' The Office yes ']	0.6596570298294581
+Yeah, I like a good comedy now and then. What's your favorite comedy movie?	[' movies yes ', ' comedy movies yes ']	[' movies yes ', ' comedy movies yes ']	0.9319882693084018
+Yeah, I wasn't a fan either. Let's talk about something else. What are your plans for the weekend?	[' weekend plans yes ']	[' personal life yes ']	0.36543742279909575
+Workload is too much nowadays.	[' work no ']	[' work no ']	0.9999999899962602
+Yeah, you too. See you later!	[' goodbye yes ']	[' goodbye yes ']	0.9999999948937661
+Honestly, not really. I've been trying to avoid the news lately. It's just depressing.	[' current events no ']	[' news no ']	0.5706173859157282
+Not really. Just the usual boring stuff at work.	[' daily life yes ', ' work no ']	[' work no ']	0.6800936958531542
+Not really, just hoping to relax at home.	[' weekend plan no ']	[' weekend no ']	0.8422224162432354
+Yes, I have. It was a bit overrated in my opinion.	[' reading yes ', ' The Girl on the Train no ']	[' TV show yes ', ' Breaking Bad no ']	0.38514913748520935
+No, I haven't had much time lately to watch anything.	[' movie unknown ', ' Netflix no ']	[' TV show no ']	0.486846900919643
+Yeah, you should. It's going to be an amazing event.	[' music yes ', ' music festival excitement yes ']	[' music yes ', ' music festival yes ']	0.8657641812093269
+Honestly, I don't like to read books.	[' books no ']	[' book no ']	0.8583480947508343
+No, not yet. Do you have any suggestions?	[' plans yes ']	[' travel yes ']	0.5130436379793105
+For several years now, I find it really helps me relax after a long day at work.	[' hobbies yes ', ' video games yes ']	[' music yes ']	0.5392889168902218
+Honestly, I don't really have a favorite. I like trying different types of food.	[' food unknown ']	[' food yes ', ' favorite type of food no ']	0.5708023273189927
+Definitely! Have you heard of The Jinx on HBO?	[' TV shows yes ', ' documentaries yes ', ' The Jinx yes ']	[' TV shows yes ', ' documentary yes ', ' The Jinx yes ']	0.6026046513316391
+I've never tried it, actually.	[' food yes ', ' sushi no ']	[' food yes ', ' cuisine yes ', ' Thai no ']	0.6080528560726968
+No, I haven't.	[' food yes ', ' new restaurant unknown ']	[' TV shows yes ', ' Game of Thrones no ']	0.2467332594831695
+I prefer Italian food.	[' food yes ', ' cuisine yes ', ' Italian food yes ']	[' food yes ', ' cuisine yes ', ' Italian yes ']	0.7206834354444314
+Not really. I've just been focusing on work.	[' travel yes ', ' recent travel no ']	[' career no ', ' work no ']	0.408098485992744
+Yes, I'm reading "Dune" by Frank Herbert.	[' books yes ', ' Dune yes ']	[' books yes ', ' current book yes ', ' Dune yes ']	0.6491588843280784
+Oh,  that's too bad. Goodbye.	[' farewell yes ']	[' farewell no ']	0.8346396701777761
+No, I'm not much of a swimmer.	[' sports no ', ' swimming no ']	[' sports unknown ', ' swimming no ']	0.6395990514787806
+Really? That's cool. Which area of law do you practice in?	[' work yes ', ' practice area yes ']	[' law yes ', ' practice area unknown ']	0.4841134646371655
+No, I haven't really watched anything good lately.	[' movie yes ', ' recent movie no ']	[' movie no ']	0.8241123411004827
+No, unfortunately not. You?	[' music yes ', ' instruments unknown ']	[' music yes ', ' concerts unknown ']	0.5446453125497097
+Oh, I love Friends too! That's such a great show.	[' TV shows yes ', ' favorite TV show yes ', ' Friends yes ']	[' TV show yes ', ' favorite show yes ', ' Friends yes ']	0.7239017075834465
+No, I'm not really a fan of sushi.	[' food no ', ' sushi no ']	[' food no ', ' sushi no ']	0.8273767100111591
+I really enjoyed "The Fault in Our Stars".	[' books yes ', ' favorite book yes ', ' The Fault in Our Stars yes ']	[' book yes ', ' book title yes ', ' The Fault in Our Stars yes ']	0.6458453553110838
+Not really, I think I prefer to stay closer to home. Maybe we should end the conversation for now. Talk to you later!	[' end yes ']	[' travel no ']	0.24229899421952883
+I like reading books and watching documentaries. How about you?	[' free time activities yes ']	[' entertainment yes ', ' books yes ']	0.4948213378703511
+Not much, just trying to get through some work.	[' work no ']	[' work no ']	0.9999999899962602
+I'm more into Asian food, like sushi and ramen.	[' food yes ', ' Asian food yes ', ' ramen yes ']	[' food yes ', ' Asian food yes ']	0.8014283504802426
+Not really, just planning to stay at home and relax.	[' weekend yes ', ' relaxing at home yes ']	[' weekend no ']	0.5705491693952844
+I like to read and hike.	[' hobbies yes ', ' hiking yes ']	[' hobbies yes ', ' hiking yes ']	0.7651132341792977
+Oh, yeah? What kind of food do they serve?	[' food yes ', ' restaurant yes ', ' downtown yes ']	[' restaurant yes ', ' restaurant food yes ']	0.7641350107833
+Not really, I'm not much of a cook myself.	[' cooking no ']	[' cooking no ']	0.9999999960595128
+Nope, no vacation plans. I can't afford to travel right now.	[' vacation no ']	[' travel no ']	0.6952465144566515
+I don't really have a favorite character. How about you?	[' TV show yes ', ' TV show character unknown ']	[' movie yes ', ' movie character yes ']	0.5554523108515138
+Oh, that's cool. But have you heard about the new tax policies that the government has implemented?	[' politics no ', ' tax policies no ']	[' politics yes ']	0.5797440640674849
+No, I didn't. I'm not really interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Honestly, I try not to follow the news too closely. It can be pretty depressing.	[' news no ']	[' news no ']	0.9999999912586689
+Not really, I'm not much of a reader.	[' books no ']	[' books no ']	0.9999999905938901
+I really love the Legend of Zelda series.	[' video games yes ', ' game series yes ', ' Legend of Zelda yes ']	[' video games yes ', ' video game series yes ', ' Legend of Zelda yes ']	0.7191434693504393
+Hmm, I don't really have a sweet tooth. I prefer savoury dishes. Speaking of which, have you tried making homemade pizza before?	[' food yes ', ' homemade food yes ', ' pizza yes ']	[' food yes ', ' pizza yes ']	0.8151981697042179
+The Da Vinci Code.	[' hobby yes ', ' book yes ', ' The Da Vinci Code yes ']	[' books no ', ' The Da Vinci Code no ']	0.457149588674477
+PS4. Do you play any video games?	[' hobby yes ', ' video game yes ']	[' video games yes ', ' personal video games no ']	0.592351298259642
+Actually, no. I don't really celebrate Halloween.	[' holiday no ', ' Halloween party no ']	[' holiday no ', ' Halloween no ']	0.7618797627789526
+Not really. I don't have much interest in traveling to new places.	[' travel no ']	[' travel no ']	0.9999999872250708
+Honestly, I don't really play board games that much.	[' board games no ']	[' board games no ']	0.9999999921002074
+I love playing video games in my free time. How about you? What do you enjoy doing?	[' hobby yes ', ' video games yes ']	[' hobbies yes ', ' video games yes ']	0.6566685247949193
+Not really, I haven't had much time to go to the movies.	[' movie no ']	[' movie no ']	0.9999999796277829
+Actually, I have been getting into the horror genre, so I've been reading a lot of Stephen King.	[' books yes ', ' horror genre yes ', ' Stephen King yes ']	[' book yes ', ' book genre yes ', ' Stephen King yes ']	0.6042806564193377
+Unfortunately, no. I have been cooking at home to save money.	[' food no ']	[' restaurants no ']	0.7157886059624474
+No, I haven't.	[' food no ', ' burger restaurant no ']	[' food yes ', ' new restaurant yes ']	0.6006154706911813
+Yeah, I've heard exercise can be really helpful for stress. I'm not much of a runner, though.	[' daily life yes ', ' running no ']	[' fitness yes ', ' running no ']	0.5108132564186828
+That's cool. So, how is your day going so far?	[' small talk yes ']	[' day yes ']	0.5797738597676578
+Mostly non-fiction, actually. I'm really interested in history and science.	[' books yes ', ' non-fiction yes ']	[' books yes ', ' genre yes ']	0.7197488083429062
+You should definitely go! Oh, hey, it's getting late, I have to go now. Talk to you later!	[' boring no ']	[' goodbye yes ']	0.3775952419619908
+Nope, I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+No way, I'm never trying that. It's way too scary.	[' adventure no ']	[' extreme sports no ']	0.524907270526546
+Well, it's just a normal day.	[' daily life yes ', ' activities yes ']	[' daily routine no ']	0.48627106185789976
+I liked the concept of dreaming within a dream.	[' movie yes ', ' Inception concept yes ']	[' movie yes ', ' movie concept yes ']	0.7319692781951613
+Hmm, that does sound interesting. Maybe I'll check it out sometime.	[' movie yes ']	[' cafe yes ', ' study habits yes ']	0.4618533909128539
+Actually, I haven't had much time to watch anything recently.	[' tv show no ']	[' TV show no ']	0.9999999976587015
+Yes, I love to travel.	[' travel yes ']	[' travel yes ']	0.9999999753587387
+That's understandable. How about movies?	[' movies yes ']	[' movie yes ', ' movie preference no ']	0.7565443287278675
+Not really, I'm more of a book person.	[' video games yes ', ' hobbies no ']	[' sports no ']	0.469688014425482
+No, I can't say I have.	[' food yes ', ' restaurant unknown ']	[' cooking no ']	0.3877766315285425
+It was kind of boring. I just stayed at home.	[' weekend no ']	[' weekend no ']	0.9999999968275949
+I watched a horror movie over the weekend, but it wasn't really my thing.	[' movie no ', ' horror no ']	[' movie no ', ' horror no ']	0.850783667384486
+Sounds good.	[' calendar yes ', ' errands no ']	[' social yes ']	0.37139740584969677
+No, I haven't.	[' TV series yes ']	[' restaurant yes ', ' new restaurant no ']	0.2986328696221111
+No, I haven't. I'm not really interested in food.	[' food no ', ' new restaurant no ']	[' food no ']	0.8094985281544552
+It was pretty boring to be honest.	[' day no ', ' daily life no ', ' boring day no ']	[' day no ', ' boring no ']	0.7604167103442651
+Hmm, what about outdoor activities? Do you like hiking or camping?	[' outdoor-activities yes ', ' outdoor-activity-type unknown ']	[' outdoor activities yes ', ' hiking/camping unknown ']	0.4010119812928508
+Not really, been pretty busy with work.	[' movie no ']	[' TV shows no ']	0.5770193829842102
+I'm not really a foodie, so I don't have any specific preference.	[' food yes ', ' cuisine no ']	[' food no ']	0.7042185528898203
+to be honest, I just like to relax at home and watch Netflix.	[' free time yes ', ' relaxing at home yes ', ' Netflix yes ']	[' entertainment yes ', ' watching Netflix yes ']	0.5717221126073352
+Yeah, same here. Take care!	[' boring no ']	[' farewell yes ']	0.34727945612161637
+I usually play first-person shooter games.	[' video games yes ', ' game genre yes ', ' shooter games yes ']	[' video games yes ', ' game genre yes ', ' first-person shooter yes ']	0.7347384487596592
+Yes, I love it. Nothing beats sleeping under the stars.	[' camping yes ', ' outdoor activities yes ']	[' camping yes ']	0.7789236007903364
+Not really, I find it kind of boring.	[' books no ']	[' reading no ']	0.6718813449511324
+No, I haven't. I don't really have any interest in traveling right now.	[' travel no ']	[' travel no ']	0.9999999872250708
+No, I haven't.	[' games no ']	[' restaurant unknown ']	0.13977204441817004
+I try to be mindful of my impact on the environment, but I wouldn't say I'm an activist or anything.	[' environment unknown ']	[' environment yes ']	0.5767341874505939
+Not really my thing, I already spend too much time in my apartment.	[' travel yes ', ' staycation no ']	[' hobby no ', ' leisure activity no ']	0.3935614525560177
+Oh yeah, I like that one too.	[' virtual reality gaming yes ', ' VR game yes ', ' Beat Saber yes ']	[' entertainment yes ', ' TV show yes ', ' Breaking Bad yes ']	0.4538720553591302
+Right now, I'm really into Call of Duty.	[' hobbies yes ', ' video games yes ', ' Call of Duty yes ']	[' video games yes ', ' favorite game yes ', ' Call of Duty yes ']	0.5728649611361871
+Not really. I don't have much interest in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+I'm not really into that extreme stuff.	[' outdoor activity yes ', ' extreme sports no ']	[' adventure no ']	0.44946555159656165
+I just like to watch movies or read books.	[' movies yes ']	[' free time yes ', ' reading yes ']	0.5419120308331258
+How's work been treating you lately?	[' work no ']	[' work yes ']	0.6771393382669634
+No, I haven't.	[' reading yes ', ' Wheel of Time series no ']	[' travel no ']	0.3303631238468145
+I love watching sitcoms like Friends or Seinfeld.	[' movies/TV shows yes ', ' comedy sitcoms yes ']	[' entertainment yes ', ' tv show yes ', ' sitcoms yes ']	0.6343296995867486
+Mostly first-person shooter games like Call of Duty.	[' games yes ', ' video games yes ', ' Call of Duty yes ']	[' video games yes ', ' game genre yes ', ' Call of Duty yes ']	0.6450504643955027
+Mostly action/adventure games like Assassin's Creed or Call of Duty.	[' video games yes ', ' video game genre yes ', " Assassin's Creed yes "]	[' entertainment yes ', ' video games yes ']	0.6282598768610976
+Not really, I'm kind of afraid of them.	[' animals no ']	[' science yes ', ' scientific theories yes ', ' hypotheses no ']	0.37229821655175127
+Not really. I don't follow sports much. Sorry.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really, I find a lot of new pop songs to be kind of repetitive and boring.	[' music no ', ' pop music no ']	[' music no ', ' pop music no ']	0.9378830722754357
+Oh man, their Pad Thai is amazing! You have to try it.	[' food yes ', ' Thai food dish yes ', ' Pad Thai yes ']	[' food yes ', ' dish yes ', ' Pad Thai yes ']	0.6878343184872842
+Sorry, I can't. I'm going to be swamped with work. Maybe some other time.	[' socializing no ']	[' outdoors no ', ' camping no ']	0.6027085807955141
+Not really, I don't find them that entertaining.	[' gaming no ']	[' movies no ']	0.5266773127362808
+I enjoy hiking and exploring the outdoors.	[' Hobbies yes ', ' Hiking yes ']	[' hobbies yes ', ' outdoor activities yes ', ' hiking yes ']	0.6835538147237661
+No, not really.	[' weekend no ']	[' hobbies no ', ' reading no ']	0.45445908434645355
+No, I actually don't watch sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+No, I don't really care about that show.	[' TV shows"   Game of Thrones no ']	[' TV shows no ', ' Game of Thrones no ']	0.7699446578113971
+I'm really into Italian cuisine.	[' food yes ', ' Italian cuisine yes ']	[' food yes ', ' cuisine yes ', ' Italian yes ']	0.7314876554819856
+Yes, I've been watching Stranger Things on Netflix. It's really good.	[' TV shows yes ', ' favorite show yes ', ' Stranger Things yes ']	[' TV show yes ', ' Stranger Things yes ']	0.6965311801936238
+I saw The Weeknd. He's one of my favorite artists.	[' music yes ', ' singer yes ', ' The Weeknd yes ']	[' music yes ', ' concert yes ', ' The Weeknd yes ']	0.6933275769315997
+Yes, I really enjoyed Knives Out.	[' movies yes ', ' movie title yes ', ' Knives Out yes ']	[' movie yes ', ' movie title yes ', ' Knives Out yes ']	0.6623061829109682
+Yeah, that's a good idea. What do you like to do for fun on the weekends?	[' weekend plans yes ']	[' weekend yes ', ' fun activities unknown ']	0.5429873101408574
+Yeah, I love traveling!	[' travel yes ']	[' travel yes ']	0.9999999753587387
+Not really. I don't have much free time these days.	[' hobby no ']	[' TV shows no ']	0.4157861646405481
+I usually go for a walk or read a book.	[' relaxation yes ', ' activity yes ', ' reading yes ']	[' hobby yes ', ' reading yes ']	0.5885243203867924
+Her name is Luna. She's a German Shepherd.	[' animals yes ', ' German Shepherd yes ']	[' pets yes ', ' dog yes ', ' Luna yes ']	0.5752061853080916
+No, I'm not that interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really, just going to relax at home.	[' plans no ']	[' weekend no ']	0.5704749025231629
+If you're interested in business, I recently read "Shoe Dog" by Phil Knight. It's about how he started Nike.	[' books yes ', ' business books yes ', ' Shoe Dog yes ']	[' books yes ', ' business book yes ', ' Shoe Dog yes ']	0.6996940816056734
+That sounds great. Do you have a favorite snowboarding spot?	[' activity yes ', ' snowboarding spot unknown ']	[' sports yes ', ' snowboarding yes ']	0.4508296782123635
+Not really, I prefer music.	[' music yes ']	[' entertainment yes ', ' books no ']	0.5336797093568044
+Not much, just trying to stay healthy and fit. I've been exercising a lot lately.	[' fitness yes ']	[' fitness yes ']	0.9999999924935621
+Hi, I'm okay.	[' weather no ']	[' greeting yes ']	0.24007639614526877
+Not really. I think I should be getting back to work now, sorry.	[' miscellaneous no ']	[' work no ']	0.5246406731164583
+I love playing football.	[' hobbies yes ', ' football yes ']	[' indoor sports yes ', ' football yes ']	0.6415300578547966
+Mostly just crime documentaries.	[' TV no ', ' crime documentaries no ']	[' TV shows no ', ' documentaries no ']	0.7144860364165089
+Never heard of it. Is it any good?	[' TV yes ', ' show unknown ', ' Bridgerton unknown ']	[' TV series yes ', ' Better Call Saul unknown ']	0.4546187913392454
+Yeah, it was a great match!	[' sports yes ']	[' sports yes ', " yesterday's game yes "]	0.8030272845749808
+No, just hung out at home.	[' weekend yes ']	[' home activities no ']	0.2790156788266165
+It was good. I went to the beach with my family.	[' weekend yes ', ' family yes ']	[' beach yes ']	0.5376946582495432
+I usually just watch TV.	[' hobbies no ']	[' entertainment yes ', ' TV yes ']	0.31907928926121004
+Yeah, it was good to see you too. Talk to you later!	[' goodbye unknown ']	[' goodbye yes ']	0.7191150082914878
+Well, I love reading books. How about you?	[' hobbies yes ', ' reading yes ']	[' book yes ']	0.5834681454025242
+No, I'm not really into reading either.	[' books no ']	[' book no ']	0.8583480947508343
+Sure, that sounds good.	[' food yes ', ' sushi yes ']	[' socializing yes ']	0.5071054174957368
+Yeah, I get that. How about sports? Do you follow any teams?	[' sports no ', ' team following no ']	[' sports yes ', ' sports team unknown ']	0.5310390184204142
+No, I'm allergic to animals.	[' pets no ']	[' pets no ']	0.999999977518144
+Not really, I don't find movies that interesting.	[' movies no ']	[' movie no ']	0.8874147804621596
+Yeah, I love reading! I'm currently reading a mystery novel.	[' reading yes ', ' book yes ', ' mystery novel yes ']	[' entertainment yes ', ' reading yes ', ' mystery novel yes ']	0.6188418399245951
+Not really. I am more of a couch potato.	[' sports yes   no ']	[' sports no ']	0.9044138158029943
+No, I hate working out. It always feels like such a chore.	[' exercise no ']	[' exercise no ']	0.9999999824526764
+No, unfortunately, I don't have any trips planned right now.	[' travel no ', ' upcoming trips no ']	[' travel no ']	0.8514203461242025
+Yeah, I'm currently watching Game of Thrones.	[' TV show yes ', ' Game of Thrones yes ']	[' TV show yes ', ' Game of Thrones yes ']	0.7077542263074095
+Yeah, I used to play soccer in high school.	[' sports yes ', ' soccer yes ']	[' sports yes ', ' soccer yes ']	0.8779252647131814
+Oh no, that's terrible. I don't really want to talk about it.	[' news yes ', ' explosion no ']	[' news no ', ' money crisis no ']	0.48445762593706104
+Actually, I don't really follow sports that much either.	[' sports no ', ' favorite team no ']	[' sports no ']	0.7660513904372797
+Not really, I prefer to just relax and watch TV.	[' fitness no ']	[' exercise no ']	0.6288594335120521
+Sure, if you like fantasy, you should check out "The Name of the Wind" by Patrick Rothfuss. It's amazing.	[' hobbies yes ', ' book recommendation yes ', ' The Name of the Wind yes ']	[' books yes ', ' recommendation yes ', ' The Name of the Wind yes ']	0.5713124106800676
+Not really, I've been cutting back on eating out.	[' food no ']	[' food no ', ' restaurants no ']	0.8578942918085289
+Not yet, but I'd love to.	[' food yes ', ' sushi yes ', ' Main Street sushi place yes ']	[' art yes ']	0.5119074875459719
+Not really. I have been busy with work.	[' books no ']	[' books no ']	0.9999999905938901
+Yes, I just finished "The Martian" by Andy Weir. It was amazing.	[' books yes ', ' The Martian yes ']	[' books yes ', ' The Martian yes ']	0.702914528283127
+Ugh, please no. I'd rather talk about anything else than politics.	[' politics no ', ' election no ']	[' politics no ']	0.8309432543275597
+I'm a big fan of true crime podcasts. I love learning about serial killers and unsolved mysteries.	[' podcasts yes ', ' true crime yes ']	[' podcasts yes ', ' true crime yes ']	0.6705548023302434
+I just finished watching Breaking Bad for the first time, and it was amazing. Have you seen that one?	[' TV shows yes ', ' Breaking Bad yes ']	[' TV show yes ', ' Breaking Bad yes ']	0.7052505469116664
+Not really. It seems like there haven't been any good movies out lately.	[' movie no ']	[' movies no ']	0.8874147804621596
+Justin Bieber.	[' music yes ', ' pop music yes ', ' Justin Bieber yes ']	[' music yes ', ' pop yes ', ' Justin Bieber no ']	0.7043966339835882
+No, I can't stand them.	[' TV shows no ']	[' movie yes ', ' horror no ']	0.45254793538278854
+You too!	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+Not really, I've been rewatching old episodes of Friends.	[' TV show no ', ' Friends yes ']	[' TV shows no ', ' Friends no ']	0.6203688851753778
+No, I haven't yet.	[' TV show yes ', ' Black Mirror no ']	[' restaurant yes ', ' new restaurant yes ']	0.3589403376791733
+Yeah, I like playing video games in my free time.	[' hobby yes ', ' video games yes ']	[' hobbies yes ', ' video games yes ']	0.6566685247949193
+No, I don't. I just appreciate the artistry that goes into making music.	[' music yes ']	[' music yes ', ' music appreciation yes ']	0.9070821436763362
+To be honest, not really. What about you?	[' sports no ']	[' movie yes ']	0.321295752458306
+Well, not really. I spend most of my free time watching TV.	[' hobby no ', ' TV yes ']	[' hobbies no ']	0.5547423820222619
+Yeah, I have. It's good, but I don't get to eat it often because it's so pricey.	[' food unknown ', ' seafood yes ', ' lobster yes ']	[' food yes ', ' Italian restaurant yes ']	0.5390854004071858
+Just okay, you?	[' greeting yes ']	[' health yes ']	0.4833199546050977
+Honestly, I try not to pay attention to the news these days. It's all just depressing.	[' news no ']	[' news no ']	0.9999999912586689
+Not really, I don't have much time for TV.	[' TV shows no ']	[' TV shows no ']	0.9999999937532956
+That sounds like a great idea.	[' restaurant yes ']	[' food yes ', ' restaurant yes ']	0.8297103318838697
+Actually, I don't really like reading.	[' books no ']	[' entertainment yes ', ' reading no ']	0.48312926755434055
+Sorry, I'm not really a drinker.	[' drinks no ']	[' restaurant yes ', ' drinking no ']	0.5837517422541737
+Sometimes, but not always.	[' movie yes ', ' romantic comedy movie unknown ']	[' movie yes ', ' documentaries unknown ']	0.6344794967986618
+Yeah, I'm really into gardening.	[' hobbies yes ', ' gardening yes ']	[' hobbies yes ', ' gardening yes ']	0.8181463724555919
+Not really, I don't have time for that either.	[' exercise no ']	[' video games no ']	0.40936959263903816
+Honestly, I am not much of a book reader.	[' book no ']	[' book no ']	0.9999999892923398
+No, not really.	[' video games no ']	[' books no ']	0.5120592159836665
+Mostly rom-coms. Wimbledon, Love Actually, typical boring stuff.	[' Netflix yes ', ' movie genre no ']	[' movie no ', ' rom-com no ']	0.5150230790783057
+Yeah, actually there is. I'm really into my job lately and I'm psyched about the new project I'm working on.	[' work yes ', ' new project yes ']	[' career yes ', ' job satisfaction yes ']	0.5138482288536464
+Huh, I did not know that.	[' random facts unknown ']	[' food yes ', ' sushi yes ']	0.22692832884863695
+I usually listen to pop music, but not a big fan of Justin Bieber.	[' music yes ', ' Justin Bieber no ']	[' music yes ', ' genre yes ', ' Justin Bieber no ']	0.6577491183332711
+Not really. I'm not very skilled in the kitchen.	[' cooking no ']	[' cooking no ']	0.9999999960595128
+Honestly, I don't care much about that.	[' movie no ', ' James Bond no ']	[' economics no ']	0.42424137643845783
+No, I don't really have any interest in it, to be honest.	[' extreme sports no ', ' skydiving no ']	[' video games no ']	0.4572900714000707
+Definitely, I'll talk to you later.	[' ending conversation yes ']	[' ending the conversation yes ']	0.979530926778364
+I don't really have a preference.	[' movie no ']	[' music no ']	0.6466971289656485
+No, I haven't. I'm not a big fan of Thai food, to be honest.	[' food no ', ' Thai food no ']	[' food no ', ' Thai food no ']	0.8884053443957651
+I enjoy playing video games and watching TV.	[' video games yes ']	[' entertainment yes ', ' video games yes ']	0.7939430622562618
+Not really. I prefer to just go with the flow and not plan things out too much.	[' hobbies yes ']	[' personal life yes ', ' planning no ']	0.4010538055374194
+Ugh, let's not.	[' weather no ']	[' politics no ']	0.48046427966155014
+Honestly, I'm so sick of politics.	[' politics no ']	[' politics no ']	0.9999999938242636
+Honestly, I'm not very picky. I like to try new things.	[' food yes ', ' cuisine unknown ']	[' food yes ', ' cuisine yes ']	0.6762894170646072
+I'm doing alright.	[' greeting yes ']	[' greeting yes ']	0.999999982467886
+No, I haven't. I'm not really into coffee.	[' coffee no ']	[' cafe no ', ' coffee no ']	0.8313042705932374
+Yes, I love Breaking Bad.	[' TV series yes ', ' favorite TV series yes ', ' Breaking Bad yes ']	[' TV show yes ', ' Breaking Bad yes ']	0.6617939676974244
+I'm sorry, I'm not really in the mood to talk about this now.	[' movie no ']	[' Motivation no ']	0.4992678558443553
+No, I haven't. Is it any good?	[' food yes ', ' pizza yes ']	[' books yes ', ' book title unknown ', ' 1984 unknown ']	0.24911765628468127
+I like Ocarina of Time the best.	[' video game yes ', ' video game version yes ', ' Ocarina of Time yes ']	[' hobbies yes ', ' favorite game yes ', ' Ocarina of Time yes ']	0.5708659456907662
+Not really, I don't usually eat out that much.	[' food yes ', ' Italian restaurant no ']	[' restaurant no ']	0.6141137241815517
+Definitely cats. Dogs are too much work.	[' pets yes ', ' dog no ']	[' pets yes ', ' cats vs dogs yes ', ' cats yes ']	0.7408855279094151
+No, I haven't had time to go to a movie theater.	[' movie no ', ' new releases no ']	[' movies no ']	0.7022808634368136
+Yeah, let me know if you find any good places. Oh, by the way, did you hear about the new tax changes coming up?	[' taxes no ']	[' news no ']	0.4567001676453841
+Mostly biographies, self-help, and non-fiction books.	[' book yes ']	[' book yes ', ' book genre yes ']	0.9010272663750156
+No, I'm not really into CrossFit. I prefer running and yoga. Have you watched any good movies recently?	[' movie yes ']	[' movies yes ', ' running no ']	0.5769125127104895
+I enjoy hiking and playing tennis. How about you?	[' personal life yes ', ' hobbies yes ']	[' sport yes ', ' sport he enjoys unknown ']	0.47886653529474243
+I recently went to Europe, it was amazing.	[' travel yes ', ' Europe yes ']	[' travel yes ', ' Europe yes ']	0.7405683245687201
+No, I'm not really into that show.	[' TV show no ', ' Game of Thrones no ']	[' tv shows no ', ' Game of Thrones no ']	0.6782661389521455
+I don't really have a favorite genre.	[' music no ', ' favorite genre no ']	[' music yes ', ' favorite genre no ']	0.7214380359620574
+I'm not much of an artist, to be honest.	[' hobby yes ', ' painting no ']	[' hobby yes ', ' drawing no ']	0.5567202724123103
+Ugh, I can't stand that show. It's so depressing.	[' movie/series yes ', ' TV series unknown', 'Black Mirror no ']	[' TV shows yes ', ' Black Mirror no ']	0.534783497134991
+No, what restaurant?	[' food yes ', ' new restaurant yes ']	[' food yes ', ' new restaurant yes ']	0.8080713051065718
+Ugh, please no. I'm not a big fan of those.	[' jokes no ']	[' TV no ', ' TV genre no ', ' crime shows no ']	0.4532652837185897
+Yeah, that sounds good. What were you thinking?	[' weekend plans unknown ']	[' planning yes ']	0.3206891364836475
+I actually haven't had much time for movies lately.	[' movie no ']	[' movies no ']	0.8874147804621596
+Probably The Godfather.	[' movies yes ', ' favorite movie yes ', ' The Godfather yes ']	[' books yes ', ' favorite book yes ', ' The Godfather yes ']	0.6231507738526333
+No, I did not.	[' food yes ', ' restaurant unknown ']	[' food yes ', ' restaurant unknown ']	0.643108604370892
+Yeah, I’ve watched it. I used to love it, but I got pretty tired of it after a while.	[' TV show yes ', ' comedy show yes ', ' The Office no ']	[' entertainment unknown ', ' TV show yes ', ' Friends no ']	0.43715958908827596
+No, I hate them. I don't see the point in scaring yourself for fun.	[' movies no ', ' movie genres no ', ' horror movies no ']	[' entertainment yes ', ' horror movies no ']	0.6738780092051894
+Actually, I lost touch with him a while back.	[' people yes ', ' mutual friend no ', ' John unknown ']	[' family yes ', ' brother yes ']	0.4478036886715195
+I'm into mystery and suspense novels.	[' reading yes', 'book genre yes ', ' mystery and suspense novels yes ']	[' book yes ', ' genre yes ', ' mystery and suspense yes ']	0.6430066256739276
+No, what kind of cuisine do they serve?	[' food yes ', ' restaurant yes ', ' downtown yes ']	[' food yes ', ' restaurant unknown ']	0.5704384735081635
+Not great. My car broke down on the way to work this morning.	[' transportation no ', ' car trouble no ']	[' car no ', ' car breakdown no ']	0.6746278225956018
+Oh, I've already seen it.	[' movie yes ', ' movie title no ']	[' movie yes ', ' new movie no ']	0.7796879209724654
+No, I haven't. But honestly, I'm not really interested in doing so.	[' outdoor activities yes ', ' skydiving no ']	[' adventure no ']	0.4721644953038596
+Aw, that's so cute.	[' pets yes ', ' dog breed yes ', ' golden retriever yes ']	[' pets yes ', ' mouse yes ']	0.6024500276341886
+Actually, I'm not really into sports either.	[' sports no ']	[' sports no ']	0.9999999819397033
+I'm not really into that genre.	[' book no ', ' thriller novel no ']	[' TV show no ', ' crime drama no ']	0.4197135935454034
+Not really, I find most books boring.	[' book no ']	[' books no ']	0.8583480947508343
+Right now, I am watching Money Heist. It is pretty good.	[' entertainment yes ', ' Netflix show yes ', ' Money Heist yes ']	[' TV show yes ', ' Money Heist yes ']	0.5884136810501448
+Yes, I like pizza. My favorite topping is pepperoni.	[' food yes ', ' pizza yes ', ' pepperoni yes ']	[' food yes ', ' pizza yes ', ' pepperoni yes ']	0.7735455430051844
+That's cool. I don't mind those either. What's your favorite book?	[' books yes ', ' favorite book unknown ']	[' books yes ', ' favorite book unknown ']	0.7346633453220042
+Yeah, I love Chinese food.	[' restaurant yes ']	[' food yes ', ' cuisine yes ', ' Chinese food yes ']	0.6509441531410771
+Definitely. Anyway, I have to get going now. It was nice chatting with you.	[' farewells yes ']	[' end unknown ']	0.10753471397001824
+Yeah, there's this one Italian place that I love. They have the best pasta dishes.	[' food unknown ', ' restaurant yes ']	[' food yes ', ' Italian food yes ']	0.5667902098762414
+Honestly, not really. I have a presentation to work on.	[' work no ']	[' daily routine no ', ' fun activities no ']	0.5300536397109363
+Yeah, I'm really into football. But it's okay, we can talk about something else. Are you interested in politics?	[' politics no ']	[' politics no ']	0.9999999938242636
+Not really, with the pandemic and everything, I'm not sure what I'll be able to do.	[' travel no ']	[' travel no ']	0.9999999872250708
+I saw this really cool sci-fi movie called "Arrival" recently.	[' movie yes ', ' movie title yes ']	[' movie yes ', ' movie genre yes ', ' Arrival yes ']	0.718716294361934
+No, I haven’t. But I’m not really interested in going there.	[' travel no ', ' London no ']	[' travel no ', ' Japan no ']	0.6176793469643619
+No, not really. I just like watching anything that's entertaining.	[' entertainment yes ', ' preferred entertainment unknown ']	[' movie yes ']	0.4525339016523793
+Not really. The only sport I somewhat follow is basketball.	[' sports yes ', ' basketball yes ']	[' sports yes ', ' basketball yes ']	0.864614237395577
+No, I haven't traveled anywhere for a while now.	[' travel no ']	[' travel no ']	0.9999999872250708
+Not much, just working and watching TV.	[' work no ']	[' daily activities no ']	0.538123442096649
+Actually, I'm trying to cut back on alcohol. But thank you anyway.	[' drinks no ']	[' restaurant yes ', ' alcohol no ']	0.5531483420968367
+I read mostly non-fiction, like self-help and business books.	[' books no ']	[' books yes ', ' non-fiction yes ']	0.5514081112167679
+Sorry, I haven't. I don't really have time for TV shows these days. Speaking of time, I have to go.	[' time yes ']	[' time no ']	0.678076126315842
+I took away the importance of following my dreams and listening to my heart.	[' books yes ', ' life lessons yes ']	[' book yes ', ' book lesson yes ']	0.6951503960201764
+Not really. I'm not much of a sports person.	[' sports no ']	[' sports no ']	0.9999999819397033
+Nope, no pets. Not really an animal person.	[' daily life no ', ' pets no ']	[' pets no ']	0.7472099392902599
+I don't have a favorite artist, but I like the work of Daft Punk.	[' music yes ', ' favorite artist yes ', ' Daft Punk yes ']	[' music yes ', ' music artist yes ', ' Daft Punk yes ']	0.7095086970653672
+Definitely! I love exploring new cultures and trying new foods.	[' travel yes ']	[' travel yes ']	0.9999999753587387
+No, I haven't.	[' caf\\u00e9 unknown ', ' new caf\\u00e9 unknown ']	[' food yes ', ' restaurant yes ', ' new downtown restaurant yes ']	0.14404213434288138
+There's a trail nearby that I usually go to. It's nothing too exciting, but it gets the job done.	[' hiking yes ', ' hiking location no ']	[' outdoors yes ', ' hiking trail yes ']	0.6225292791949297
+No, not really.	[' movie no ']	[' technology no ']	0.5391451719184088
+No, I don't really like sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really. I like music, but I usually just listen to whatever's on the radio.	[' events yes ', ' music preferences no ']	[' music no ']	0.5577120076830024
+Not really, sorry.	[' books no ']	[' music no ', ' singer no ']	0.5029886277865488
+Not really, I just eat whatever is convenient.	[' food no ']	[' food no ', ' favorite restaurant no ']	0.7733617623286266
+Action movies are my favourite.	[' entertainment yes ', ' movie genre yes ', ' action yes ']	[' movies yes ', ' movie genre yes ', ' action yes ']	0.6673005230654433
+Sorry, I have a lot of work to do, gotta stay in.	[' drinks no ']	[' work no ']	0.5069182889332349
+Well, I mostly watch documentaries and historical dramas.	[' Netflix yes ', ' TV shows yes ', ' documentaries yes ']	[' TV shows yes ', ' history and documentaries yes ']	0.6831141754630258
+Yeah, I love reading. I just finished reading "The Alchemist." Have you read it before?	[' books yes ', ' The Alchemist yes ']	[' books yes ', ' book title yes ', ' The Alchemist yes ']	0.6751464509921601
+It's true. But I do enjoy playing chess.	[' hobbies yes ', ' chess yes ']	[' hobbies yes ', ' chess yes ']	0.7246875820159004
+Yeah, no problem. Talk to you later.	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+No worries, that's understandable. Well, it was nice chatting with you, but I should get going. Have a good day!	[' farewell yes ']	[' boring topics no ']	0.27208195714632666
+Yeah, I love reading and writing.	[' hobbies yes ', ' reading and writing yes ']	[' creative writing yes ']	0.628220988800558
+Not really. Just catching up on sleep and doing some errands.	[' daily life yes ']	[' daily routine no ']	0.6582560177545949
+Mostly true crime podcasts.	[' podcast yes ', ' true crime yes ']	[' music no ', ' podcasts yes ', ' true crime yes ']	0.5331204055253427
+No, I haven't. But I don't really like spicy things.	[' food no ']	[' food yes ', ' spicy food no ']	0.7849485000576824
+Oh, cool. I'm actually a vegetarian.	[' food yes ', ' vegetarianism no ']	[' food yes ', ' vegetarianism yes ']	0.7107001382654778
+I'm good, thank you.	[' greeting yes ']	[' greeting yes ']	0.999999982467886
+Sorry, I don't care about trendy diets. I eat what I want.	[' diet no ']	[' nutrition no ']	0.7276815457524335
+No, not really.	[' TV show no ']	[' sports no ']	0.5297600679496184
+Sounds interesting! How's their sashimi?	[' food yes ', ' sashimi yes ']	[' food yes ', ' sashimi yes ']	0.7808876506191365
+Not really, they're pretty dull.	[' board games no ']	[' movie no ', ' documentary no ']	0.42983805931870245
+No, I haven't.	[' food unknown ', ' restaurant unknown ']	[' restaurant yes ', ' new restaurant yes ']	0.4924463837353069
+No, I just stayed home and binge-watched a TV show.	[' TV show unknown ']	[' TV show yes ']	0.7805639110465873
+Well, there's this new indie game called Hades that I've been hearing awesome things about. Have you played it?	[' video games yes ', ' Hades unknown ']	[' video games yes ', ' Hades yes ']	0.5606242857611424
+I'm a big fan of the LA Lakers.	[' sports yes ', ' basketball team yes ', ' LA Lakers yes ']	[' sports yes ', ' team yes ', ' LA Lakers yes ']	0.6467140184235219
+Not really, to be honest. I don't know much about it.	[' hobby yes ', ' photography no ']	[' technology yes ', ' AI no ']	0.3354601406103907
+Mostly just hanging out at home or going for a walk.	[' hobby no ', ' activity no ', '  "staying at home"  "going for a walk"   no ']	[' hobby no ', ' walking yes ']	0.4608652355409116
+No, not yet. I've heard mixed reviews about it.	[' food yes ', ' Mexican food yes ', ' downtown Mexican place no ']	[' food yes ', ' restaurant yes ', ' new downtown restaurant unknown ']	0.5492927500504843
+Definitely the food. Have you tried any Japanese cuisine before?	[' food yes ', ' Japanese cuisine yes ']	[' travel yes ', ' Japanese cuisine yes ']	0.6320458262575852
+Same here. Hey, what do you think about politics?	[' politics yes ']	[' politics no ']	0.8070369007384736
+Not much, just stayed in and binge-watched a TV show.	[' weekend yes ', ' TV shows yes ']	[' weekend yes ', ' TV show yes ']	0.728137041945776
+Oh, how about Chernobyl? It's not really a TV show, but it's a great one.	[' TV show yes ', ' show recommendation yes ', ' Chernobyl unknown ']	[' TV show yes ', ' true crime yes ', ' Chernobyl yes ']	0.46565688321270055
+Honestly, I'm not a huge fan of classical music.	[' music no ', ' genre no ', ' Classical music no ']	[' music yes ', ' music genre no ', ' classical music no ']	0.7804896970557995
+Mostly Italian.	[' food yes ', ' cuisine yes ', ' Italian yes ']	[' food yes ', ' Italian cuisine yes ']	0.7314876554819857
+Actually, I haven't read that one. But I've seen the movie.	[' movies yes ', ' The Shining Movie yes ']	[' entertainment yes ', ' movie yes ']	0.730742213169906
+It's going alright, I guess. I've been struggling to come up with new ideas though.	[' work no ', ' struggling no ']	[' writing no ']	0.6065421468934034
+No, I decided to skip it.	[' exercise no ']	[' TV series no ', ' Game of Thrones no ']	0.38753394897314103
+I usually spend my weekends at home catching up on my reading.	[' weekends yes ']	[' weekend no ']	0.482106220531778
+Nothing much, just planning to catch up on some reading.	[' weekend plans yes ']	[' reading yes ']	0.3975945353153667
+Nah, I don't mind violence in movies. Speaking of violence, did you see the news about the recent terrorist attack? It's so sad.	[' world news no ', ' terrorist attack no ']	[' news no ']	0.6237264949090656
+I mostly just watch YouTube or play video games.	[' video games yes ']	[' entertainment yes ', ' YouTube yes ']	0.5839607824581803
+No, I'm not really an outdoorsy person.	[' outdoors no ']	[' activity no ', ' outdoors no ']	0.7630159816226743
+No, I don't.	[' music no ', ' instruments no ']	[' music yes ', ' instrument no ']	0.6360307996484968
+Not really, I'm not good at it.	[' cooking no ']	[' cooking no ']	0.9999999960595128
+No, I don't really like animals.	[' pets no ']	[' pets no ', ' animals no ']	0.9179955035474
+Eh, it was alright.	[' weekend no ']	[' day no ']	0.7869647856342605
+Not really, I watch movies from time to time, but I don't have a favorite.	[' movies no ']	[' movies no ']	0.999999987089599
+Ah, I'm not really a big fan of first-person shooters. Speaking of which, did you hear about the recent mass shooting?	[' violence no ']	[' news no ']	0.4688716019886494
+Likewise. Talk to you later.	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+Yeah, I went there for my honeymoon. It was so romantic.	[' travel yes ', ' Europe yes ']	[' travel yes ', ' Hawaii yes ']	0.6862828973212506
+Oh, I'm not a big fan of French food.	[' food yes ', ' restaurant cuisine no ']	[' restaurant yes ', ' cuisine no ', ' French no ']	0.5722304784278267
+No, I haven't had much time to read recently.	[' book no ']	[' books no ']	0.8583480947508343
+Yeah, it's definitely not for everyone. Speaking of food, have you ever tried Ethiopian cuisine?	[' food yes ', ' international cuisine yes ', ' Ethiopian unknown ']	[' food yes ', ' Ethiopian cuisine no ']	0.5674394016432408
+Mostly by listening to music and taking breaks throughout the day.	[' music yes ', ' coping mechanisms yes ']	[' music yes ']	0.6692251490430201
+Yeah, it's definitely my favorite genre.	[' music yes ', ' music type yes ']	[' movie yes ', ' movie genre yes ', ' romantic comedies yes ']	0.5991998345598196
+Definitely. Enchiladas all the way. What about you?	[' food yes ', ' dish yes ']	[' food yes ', ' enchiladas vs. tacos yes ']	0.6703283644993929
+Yeah, I try to avoid politics.	[' politics no ']	[' politics no ']	0.9999999938242636
+It's pretty expensive, but definitely worth it.	[' food yes ', ' restaurant pricing yes ', ' sushi restaurant yes ']	[' food yes ', ' restaurant yes ', ' price unknown ']	0.5803352499793183
+Not really, I mostly listen to whatever is on the radio.	[' music no ', ' favorite bands no ']	[' music no ']	0.8249030597320497
+I started watching a new show, but it was terrible, so I stopped.	[' movie no ', ' TV show no ']	[' entertainment yes ', ' TV shows no ']	0.595656823070594
+Mostly just browsing social media and chatting with friends.	[' free time yes ', ' social media yes ']	[' social media yes ']	0.7216626891134086
+Honestly, I don't really want to talk about it. I find it pretty frustrating and overwhelming.	[' politics no ']	[' current events no ']	0.5323479797887598
+It was alright, nothing special.	[' work yes ']	[' day no ']	0.34445608058873556
+Yes, I actually just finished "The Alchemist" by Paulo Coelho. It was really inspiring.	[' books yes ', ' book title yes ', ' The Alchemist yes ']	[' books yes ', ' The Alchemist yes ']	0.67514645099216
+Yeah, sometimes. Mostly just stuff on the radio.	[' music no ']	[' music yes ', ' radio yes ']	0.5903696914488774
+No, I'm not really into trying new places to eat.	[' food no ']	[' restaurant no ']	0.6624230850908374
+Yes, I enjoy listening to music sometimes.	[' music yes ']	[' music yes ']	0.9999999818472232
+Not really, sorry. I'm not very interesting.	[' other interests no ']	[' hobbies no ']	0.5749806250173612
+Actually, I'm not into watching movies lately. I just don't have the patience or time for them.	[' movie yes ', ' recent movies no ']	[' movie no ']	0.7782849175369557
+Yes, I did. It was hilarious.	[' movie yes ', ' comedy yes ', ' The Hangover yes ']	[' movie yes ', ' comedy movie yes ']	0.7080932525034828
+I'm not really much of a reader, to be honest.	[' books no ']	[' book no ']	0.8583480947508343
+It was okay. I spent most of it cleaning my apartment.	[' weekend yes ', ' cleaning no ']	[' weekend no ', ' cleaning no ']	0.6137623289138556
+I have some direct reports, but mostly I work independently.	[' work yes ', ' management no ']	[' job yes ', ' job role yes ']	0.4571914592453424
+Not really. I find sports boring.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really. I get pretty bored with them quickly.	[' game no ']	[' video games no ']	0.7707359704768108
+I go to the gym and do some strength training.	[' exercise yes ', ' gym yes ', ' strength training unknown ']	[' fitness yes ', ' gym yes ']	0.59436032263525
+Yeah, I went there last week. The burger was good, but the service was terrible.	[' food yes ', ' burger joint yes ']	[' food yes ', ' burger place yes ']	0.746403314934139
+I'm not really into video games anymore.	[' games no ', ' video games no ']	[' video games no ']	0.9361511532751603
+Yeah, I heard about it, but I'm not really interested in trying it out right now.	[' food no ', ' new restaurant no ']	[' food yes ', ' sushi no ']	0.6262458395117362
+Mostly just hang out with friends.	[' fun yes ', ' hanging out with friends yes ']	[' friends yes ']	0.7370270361593542
+You should watch it, the special effects are still pretty impressive.	[' movie yes ', ' special effects yes ']	[' movie yes ', ' movie recommendation yes ']	0.6800948261096453
+Really? I'm not a big fan of country.	[' music no ', ' country music no ']	[' music yes ', ' genre no ']	0.6974216383630677
+No, I haven't.	[' food yes ', ' Italian restaurant no ']	[' restaurant yes ', ' new restaurant yes ']	0.6556213421997075
+Not really, I find them pretty boring.	[' sports no ']	[' sports no ']	0.9999999819397033
+It was alright. Honestly, it was pretty boring.	[' travel yes ', ' vacation experience no ']	[' day no ', ' boring no ']	0.42774799286626786
+Not really, I prefer to stay at home.	[' travel no ']	[' travel no ']	0.9999999872250708
+Actually, I'm not really interested in Europe. I prefer to travel to Asia.	[' travel yes ', ' continent unknown ', ' Europe no ']	[' travel yes ', ' Asia travel yes ']	0.5114734156378526
+No problem, have a good one!	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+Those both sound fun. I haven't done much hiking but I do like exploring different areas of the city.	[' weekend plans yes ', ' hiking no ']	[' city exploration yes ']	0.31441911123033367
+You too.	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+No, can't say that I have.	[' travel no ']	[' TV show no ', ' cooking show no ']	0.4665201590402652
+I am an accountant.	[' career no ', ' accounting no ']	[' work no ', ' job no ', ' accountant no ']	0.5549265286460019
+Sounds interesting. What's your favorite coffee?	[' coffee yes ', ' favorite coffee unknown ']	[' coffee yes ', ' favorite coffee unknown ']	0.8020015279064339
+Probably sushi or Chinese food.	[' food yes ', ' cuisine yes ', ' sushi yes ']	[' restaurant yes ', ' cuisine yes ', ' sushi yes ']	0.7634423543753909
+Yeah, I can see how it might not be for everyone.	[' sports yes ', ' baseball no ']	[' movie unknown ', ' movie preference no ']	0.3214768359711865
+It's alright. Not my favorite show, but it's one of the popular ones.	[' entertainment yes ', ' TV show quality no ', ' The Office yes ']	[' entertainment yes ', ' TV shows yes ', ' Game of Thrones yes ']	0.5434627397275419
+No, not really. I prefer to avoid talking about politics.	[' politics unknown ']	[' politics no ']	0.6961883618497523
+Usually just self-help books.	[' hobbies yes ', ' books unknown ']	[' books no ', ' self-help books no ']	0.5138770677932627
+You can try booking a window seat or taking deep breaths. It may help you feel more comfortable during the flight.	[' fear_of_flying no ']	[' travel yes ', ' fight anxiety unknown ']	0.27230232234716817
+Really? What did you do there?	[' travel yes ', ' Miami yes ']	[' travel yes ', '  travel storytelling yes ']	0.6309896408380212
+Fair enough. How about that new restaurant that just opened up downtown? Want to grab dinner there sometime?	[' food yes ', ' restaurant yes ']	[' food yes ', ' restaurant yes ']	0.8297103320085484
+That’s cool. I’m a vegetarian, so I’m always looking for new veggie options around here.	[' food yes ', ' vegetarianism yes ']	[' food yes ', ' vegetarianism yes ']	0.7830343425049322
+Yes, I love video games.	[' games yes ', ' video games yes ']	[' video games yes ']	0.936412091988455
+I don't really have a preference for any particular genre.	[' music no ']	[' movie no ', ' movie genre no ']	0.6368025179220669
+Sorry, I'm not really into yoga either.	[' health yes ', ' yoga no ']	[' yoga no ']	0.6875850344388752
+It was good, I went camping with some friends.	[' weekend yes ', ' camping yes ']	[' weekend yes ', ' camping yes ']	0.781972865025583
+Not really, I haven't had much time to watch movies lately.	[' movie no ']	[' movie no ']	0.9999999796277829
+Not really. I'm not much of a cook, so they don't really interest me.	[' TV shows yes ', ' cooking shows no ']	[' food no ', ' cooking shows no ']	0.6094896067843965
+Hmm, well I can't handle it. Let's talk about something else.	[' food preference no ']	[' beach no ']	0.44338385319273566
+Not really. I haven't been to the movies in a while.	[' movies no ']	[' movies no ']	0.999999987089599
+Not really, I don't have much time for movies these days.	[' movie yes ', ' recent movies no ']	[' movie no ']	0.7782849175369557
+Not really. It's just frustrating.	[' work no ']	[' work yes ', ' stress yes ']	0.5159532723790581
+I love watching movies! Do you have any recommendations?	[' movies yes ', ' movie recommendation yes ']	[' movies yes ', ' recommendations yes ']	0.7213699458652787
+Yeah, I really enjoyed Stranger Things.	[' TV show yes ', ' Stranger Things yes ']	[' entertainment yes ', ' TV show yes ', ' Stranger Things yes ']	0.6857927658644052
+I mostly listen to classical music.	[' music yes ', ' music genre yes ', ' classical music yes ']	[' music yes ', ' classical music yes ']	0.9083041093109084
+Not really, I'm not much of a cook to be honest.	[' food no ']	[' food no ', ' cooking no ']	0.8508826465094865
+No, I haven't really traveled much in the past year.	[' travel no ']	[' travel no ']	0.9999999872250708
+Sounds good. But before that, can we grab a coffee somewhere? I'm feeling sleepy.	[' drink yes ', ' coffee yes ']	[' drink  unknown ']	0.5142297183189035
+Yeah, I went to Japan last year.	[' travel yes ', ' Japan yes ']	[' travel yes ', ' Japan yes ']	0.7264619893367827
+Actually, I just saw a really good one.	[' movie yes ']	[' movies yes ']	0.8915248191252693
+Actually, I haven't been to the movies in ages.	[' movie yes ', ' movie theater no ']	[' movie no ']	0.8274116437367022
+Yeah, I understand that. Have you seen any good movies lately?	[' movie yes ']	[' movie yes ']	0.9999999906055063
+Yeah, I love watching cooking shows!	[' TV show yes ', ' cooking show yes ']	[' TV show yes ', ' cooking shows yes ']	0.8122189956890714
+Nope, I prefer silence.	[' music no ']	[' music no ']	0.9999999965634914
+No, I don't really like horror movies.	[' movies yes ', ' horror movies no ']	[' movie no ', ' horror no ']	0.70511251150317
+Sorry, next weekend doesn't work.	[' calendar no ', ' weekend plan no ']	[' travel no ', ' travel date no ']	0.5466350937987421
+Not really, I'm not much of a movie buff.	[' movies no ', ' favorite directors no ']	[' movie no ']	0.665885964172451
+Really? Why is that?	[' fear_of_flying no ']	[' books yes ', ' opinions yes ']	0.25331349710966355
+You too.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Not really. I haven't had much time for reading lately.	[' books no ']	[' book no ']	0.8583480947508343
+No, not really.	[' hobbies no ', ' video games no ']	[' gaming no ']	0.499770442058637
+Yeah, I have. I really like them, actually. You?	[' food yes ', ' shop yes ']	[' video games yes ', ' Game of Thrones game yes ']	0.3628455983595763
+No, I haven't. What's the place called?	[' restaurant yes ', ' name yes ']	[' food yes ', ' new restaurant yes ']	0.645379444772257
+Yeah, I love reading books. I especially love mystery novels.	[' books yes ', ' genre yes ', ' mystery yes ']	[' books yes ', ' book genre yes ', ' mystery yes ']	0.7003450836008426
+Not really, I don't think anyone has a favorite type of vegetable. They're all kind of boring.	[' food yes ', ' vegetables no ']	[' food yes ', ' vegetable no ']	0.6923022557867586
+I have, but to be honest, I'm not too interested in politics.	[' news no ', ' politics no ']	[' politics no ']	0.7769423912971438
+I enjoy taking walks and spending time outdoors. It's relaxing and good for my health.	[' free time activities yes ', ' outdoor activities yes ']	[' outdoors yes ']	0.6179179968302921
+Thanks, me too. Alright, I gotta go now. Talk to you later.	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+Not really. Cooking always ends up in a disaster for me.	[' food no ']	[' cooking no ']	0.7017653153643626
+Not really, I mostly just watch whatever's on.	[' TV show no ']	[' TV shows no ']	0.9479853235010943
+Honestly, I'm not picky. I'll watch whatever's on.	[' TV shows no ', ' TV preferences no ']	[' entertainment unknown ']	0.29622803157947186
+Yeah, I love movies. What's your favorite genre?	[' entertainment yes ', ' genre unknown ']	[' movies yes ', ' movie genre unknown ']	0.570132506039187
+You too.	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+No, I didn't.	[' news no ', ' finance no ']	[' food yes ', ' restaurant unknown ']	0.22693573778379178
+Actually, no, I've been single for a while.	[' dating no ']	[' love no ']	0.5682633832556833
+Not really, I haven't been to the theater in ages.	[' movie yes ', ' theater no ']	[' movie no ']	0.7434806772964442
+Nothing planned, just want to relax and maybe catch up on some reading.	[' hobbies yes ', ' reading yes ']	[' weekend yes ', ' reading yes ']	0.613991556688141
+No, I haven't traveled in quite some time.	[' travel no ']	[' travel no ']	0.9999999872250708
+Not really, I find it kind of boring.	[' sports yes ', ' sport no ', ' tennis no ']	[' gaming no ']	0.48555975749272395
+Not really, I am not a big fan of sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Same! I love a good plate of pasta. Do you like cooking at home too?	[' food yes ', ' cooking at home yes ']	[' food yes ', ' cooking unknown ']	0.6211646256611206
+Ugh, I try to avoid that topic. Taxes bore me to death.	[' news yes ', ' tax regulations no ']	[' finance no ', ' taxes no ']	0.494862097015127
+Yeah, I suppose that's true. But for me, I'm happy just being a couch potato most days.	[' daily life yes ', ' exercising no ']	[' hobby no ']	0.4009768931248434
+No, I haven't heard about it.	[' food yes ']	[' food yes ', ' restaurant yes ']	0.8297103321332271
+Not yet, but I heard it's good.	[' movies yes ', " Leonardo DiCaprio's movie unknown "]	[' TV show yes ', ' Better Call Saul unknown ']	0.4397687919549665
+No, I don't like animals.	[' animals yes ']	[' pets no ']	0.6439439082972785
+I guess so. But let's talk about something else. How's your dog doing?	[' pets yes ', ' dog yes ']	[' animals yes ', ' dog yes ']	0.8352509401781514
+Not much, just work really.	[' hobbies no ']	[' work no ']	0.5381101961530798
+No, but it's on my bucket list.	[' travel yes ', ' Europe yes ']	[' travel yes ', ' bucket list yes ', ' Africa unknown ']	0.48018633872940175
+Yeah, I just finished watching "Breaking Bad." It was amazing.	[' TV shows yes ', ' Breaking Bad yes ']	[' TV show yes ', ' Breaking Bad yes ']	0.7052505469116664
+Not really. I do not enjoy extremely spicy food.	[' food yes ', ' spicy food no ']	[' food yes ', ' spicy food no ']	0.8440376002864862
+No, I haven't. What type of food do they serve?	[' food yes ', ' restaurant unknown ']	[' restaurant yes ', ' food type yes ']	0.6269128824286412
+No, I thought it was pretty boring.	[' music yes ', ' Halftime performance no ', ' The Weeknd no ']	[' sports no ', ' game last night no ']	0.48556817377028255
+Nah, not really. I usually just go for the same old thing.	[' food no ', ' food preferences no ']	[' food yes ', ' new cuisines no ']	0.6321170086624404
+No, can't say that I have.	[' travel no ']	[' space no ']	0.5610750565607248
+No, I don't. I'm not really a pet person, to be honest.	[' pets yes ', ' pet ownership no ']	[' pets no ']	0.77508759435325
+Maybe.	[' technology yes ', ' wireless charging unknown ']	[' restaurant yes ', ' type of cuisine unknown ']	0.3100413734902406
+Yeah, I don't think that would be my thing.	[' hobby no ']	[' outdoors no ']	0.5696641587695179
+Nothing much, just planning to clean my apartment and do some grocery shopping.	[' weekend yes ', ' chores no ']	[' weekend no ']	0.5829806177546653
+Not really. I'm not a big movie person.	[' movie no ']	[' movie no ']	0.9999999796277829
+Honestly, I'm not sure. I just saw it on a bestseller list and was curious. But enough about that...do you like sports?	[' sports no ']	[' sports no ']	0.9999999819397033
+Not really, I don't have much time off right now.	[' vacation no ']	[' vacations no ']	0.9066270033629429
+Not really, I've only had it a few times. What do you like to do for fun?	[' hobby yes ']	[' hobbies yes ']	0.8069849187241017
+You too.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Sorry, but I just don't find it that interesting.	[' games no ']	[' history no ']	0.5679766223183451
+Not really, just planning on taking it easy and catching up on some sleep.	[' weekend yes ']	[' weekend no ']	0.7279741873313367
+Not really. I don't have much time for reading these days.	[' books no ']	[' book no ']	0.8583480947508343
+Honestly, I just like to relax and do nothing.	[' free time no ']	[' weekend no ', ' relaxing yes ']	0.49961790994852484
+Yeah! I love the gymnastics events.	[' sports yes ', ' Olympics yes ', ' gymnastics yes ']	[' sports yes ', ' Olympic event yes ', ' gymnastics yes ']	0.711584881619045
+Not really, just watched some TV.	[' weekend no ', ' TV no ']	[' TV no ']	0.7494656823345924
+I don't really watch movies much either.	[' movie no ']	[' movie no ']	0.9999999796277829
+I don't really have a favorite. Like I said, I just play whatever.	[' entertainment no ', ' video games no ']	[' hobby unknown ']	0.17270856711707955
+Yeah, there are some great beginner classes online that you can take. I can send you some links if you're interested.	[' exercise yes ', ' yoga yes ']	[' hobbies yes ', ' beginner classes yes ']	0.5237935956847094
+Yeah, it's tough. Did you know that cats have nine lives?	[' cat fact no ']	[' animals yes ', ' cat facts yes ', ' cat having nine lives yes ']	0.6447166272431263
+Yeah, I can see how that might not be for everyone. Anyway, I have to go now. Talk to you later.	[' goodbye unknown ']	[' goodbye yes ']	0.7191150082914878
+Ugh, don't get me started on sports. I have no interest in them whatsoever.	[' sports no ']	[' sports no ']	0.9999999819397033
+I like playing video games in my free time. Do you play any video games?	[' video game yes ', ' playing video games yes ']	[' video games yes ']	0.9312998439303739
+Not much, just stayed at home and relaxed.	[' weekend unknown ']	[' weekend no ']	0.5931017535673988
+I really enjoyed visiting Italy. The food and architecture were amazing.	[' travel yes ', ' travel destination yes ', ' Italy yes ']	[' travel yes ', ' favorite country yes ', ' Italy yes ']	0.623500884390916
+Money's tight these days.	[' finance no ']	[' finance yes ', ' money no ']	0.7186130337279606
+No, I'm not interested in cooking.	[' food no ', ' cooking no ']	[' cooking no ']	0.8508826557119378
+Yeah, learning an instrument can be time-consuming, but it's really rewarding. Well, I have to go now. Nice talking to you!	[' boring no ', ' goodbye yes ']	[' goodbye yes ']	0.6887976184278785
+Oh, really? That's pretty cool.	[' ocean unknown ']	[' job yes ', ' job title yes ', ' data analyst yes ']	0.11382376422031855
+I like action games, RPGs, and sometimes sports games.	[' video games yes ', ' genre yes ']	[' games yes ', ' game genre yes ']	0.7283982629283408
+Not really, I thought it was too long and too predictable.	[' movie yes ', ' Star Wars review no ']	[' book no ', ' book review no ']	0.44094299010425514
+Yes, I went to France last summer.	[' travel yes ', ' France yes ']	[' travel yes ', ' country yes ', ' France yes ']	0.6784793717241865
+Oh god, don't even get me started on that. I'm trying to ignore it altogether.	[' Bitcoin no ']	[' politics no ']	0.6817116415782878
+Unfortunately, no. I don't enjoy camping very much.	[' camping no ']	[' outdoor activities no ', ' camping no ']	0.797858600396857
+I'm not really into music that much either.	[' music no ']	[' music no ']	0.9999999965634914
+Not really. I'm kind of overwhelmed right now.	[' career no ', ' job planning no ', ' job planning no ']	[' well-being no ']	0.6120652562888532
+No, I haven't. But I have heard great things about the food there.	[' travel yes ', ' food yes ', ' Mexico unknown ']	[' food yes ', ' Japanese cuisine yes ']	0.5035103931275225
+No, I haven't had the chance to take a trip in a while.	[' travel no ']	[' travel no ']	0.9999999872250708
+I'm not a big fan of Italian food, but what else is good?	[' restaurant yes ', ' type of cuisine no ']	[' food yes ', ' restaurant yes ']	0.6614241228839423
+Mostly Mediterranean food. Like hummus, shakshuka, and stuffed grape leaves.	[' cooking yes ', ' Mediterranean cuisine yes ']	[' food yes ', ' cuisine yes ', ' Mediterranean yes ']	0.7063439706386824
+For sure. Anyway, I need to go get some work done. See you later.	[' Work no ']	[' work no ']	0.9999999899962602
+Yeah, I can imagine. Anyway, it was nice chatting with you, but I have to head off now.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Not really. I usually just stick to simple, easy-to-make meals.	[' food yes ', ' cooking no ']	[' food no ']	0.73515996747674
+Yeah, I love watching football.	[' sports yes ', ' football yes ']	[' sports yes ', ' football yes ']	0.886644310897754
+I work in finance. It's not very exciting, but it pays the bills.	[' job yes ', ' industry yes ', ' finance unknown ']	[' work no ', ' finance no ']	0.38206805183849285
+Yeah, definitely. Talk to you later.	[' social life yes ']	[' farewell yes ']	0.4114960416986788
+Not really. I just stick to my usual places.	[' food no ']	[' food no ', ' restaurant no ']	0.831211531372724
+No, I'm not really into basketball. Is there anything else you want to talk about?	[' others yes ', ' conversation yes ']	[' sports unknown ']	0.18316709496120281
+Yeah, definitely. Let's make plans to grab drinks or something soon.	[' socializing yes ']	[' social yes ']	0.6515169812556583
+Yeah, but the rewards are worth it in the end. Do you like sports?	[' sports yes ', ' sport no ']	[' sport unknown ']	0.5532445916271167
+Yeah, Italian food is really good.	[' food yes ', ' Italian food yes ']	[' food yes ', ' cuisine yes ', ' Italian yes ']	0.7311531189520593
+Oh cool, what kind of dog?	[' pet yes ', ' dog yes ']	[' pets yes ', ' dog breed yes ']	0.810038561405296
+I really like The Godfather.	[' movies yes ', ' favorite movie yes ']	[' entertainment yes ', ' favorite movie yes ', ' The Godfather yes ']	0.6807367767916319
+Yes, I have. It was interesting but kind of messed up.	[' entertainment yes ', ' Tiger King no ']	[' tv shows yes ', ' Netflix show yes ']	0.4109537152356536
+Not really, I mostly watch documentaries.	[' TV shows no ', ' documentaries yes ']	[' entertainment yes ', ' TV shows no ']	0.6012442491342691
+Yeah, they're pretty good. I'm more into jazz myself. Do you like jazz?	[' music unknown ', ' jazz no ']	[' music yes ', ' jazz unknown ']	0.6840008653697046
+No, I haven't.	[' food yes ', ' new restaurant yes ']	[' food yes ', ' restaurant unknown ']	0.6299789747507005
+No, I actually don't really like camping.	[' outdoor activity no ', ' camping no ']	[' nature no ', ' camping no ']	0.6662854616230516
+No, I haven't. I usually don’t like movies adapted from books.	[' movies yes ', ' book to movie adaptations no ']	[' movie no ', ' book adaptation no ']	0.676922463370146
+Honestly, I don't really have any hobbies.	[' hobby no ']	[' hobbies no ']	0.8037982415639685
+Actually, I went to see a horror film with some friends over the weekend. It was pretty intense.	[' movies yes ', ' horror films yes ']	[' movie yes ', ' genre yes ', ' horror yes ']	0.756964785120804
+How about trying out a new sport, like tennis or rock climbing?	[' hobbies yes ', ' sports yes ', ' rock climbing unknown ']	[' hobbies yes ', ' new sport yes ', ' tennis unknown ']	0.4908820410209395
+I get that. Hey, did you see the new documentary on Netflix about sea creatures?	[' media yes ', ' documentary unknown ']	[' TV yes ', ' documentary yes ']	0.4862712043437655
+Probably Friends. It's always funny.	[' TV shows yes ', ' favorite yes ', ' Friends yes ']	[' TV show yes ', ' TV show favorite yes ', ' Friends yes ']	0.6953666990420996
+Yeah, I'm a big reader. I mostly read non-fiction books about science and history.	[' books yes ', ' non-fiction books yes ']	[' books yes ', ' non-fiction yes ']	0.8462298574250898
+Honestly, I'm not really a movie person.	[' movies no ']	[' movie no ']	0.8874147804621596
+No, I haven't. I'm not really into sci-fi.	[' movie yes ', ' sci-fi no ']	[' TV show no ', ' sci-fi no ']	0.5732934484466237
+I'm not really into vegan food, but I can give it a try sometime.	[' restaurant yes ', ' food preference yes ']	[' restaurant yes ', ' vegan food unknown ']	0.6387115519639357
+Same here. Where's your favorite beach?	[' vacation yes ', ' beach unknown ']	[' beach yes ', ' favorite beach unknown ']	0.64208319409192
+Sorry, I'm not a fan of that show.	[' TV show no ', ' Riverdale no ']	[' TV shows no ', ' Parks and Recreation no ']	0.559915761678698
+Yeah, I really like the impressionist painters like Monet and Renoir.	[' art yes ', ' art style yes ', '  "Monet"  "Renoir"   yes ']	[' art yes ', ' artist yes ', ' Impressionism yes ']	0.6952291943931509
+I usually eat fast food because I don't have time to cook.	[' food yes ', ' fast food no ']	[' food yes ', ' fast food no ']	0.8433086129400194
+Sorry, still not interested.	[' movie no ', ' My Octopus Teacher no ']	[' sports no ']	0.48277134914675107
+Sounds good!	[' food yes ']	[' socializing yes ']	0.5290698623082244
+I usually just relax at home and read a book or watch a movie.	[' weekend activities no ', ' indoor activities yes ']	[' free time yes ']	0.40367536295818174
+Sorry, I don't really want to talk about politics.	[' politics no ']	[' politics no ']	0.9999999938242636
+Well, I like hiking and reading.	[' hobbies yes ', ' reading yes ']	[' hobby yes ', ' hiking yes ']	0.5977814613415977
+I haven't gone on a trip recently, unfortunately.	[' travel yes ', ' recent travel no ']	[' travel yes ', ' travel story no ']	0.7628482707812273
+Yeah, it is. But you get what you pay for, right?	[' technology yes ', ' price yes ']	[' car yes ', ' car quality yes ']	0.5049902676811399
+I try not to get too involved in politics.	[' politics no ']	[' politics no ']	0.9999999938242636
+It's called "The Girl with the Dragon Tattoo". Have you read it before?	[' book yes ', ' mystery novel yes ', ' The Girl with the Dragon Tattoo yes ']	[' book yes ', ' book title yes ']	0.6320698886864234
+I guess it depends on the person!	[' sports yes ']	[' travel yes ', ' activity unknown ']	0.3390078888368494
+Sounds interesting.	[' restaurant yes ']	[' cafe yes ', ' tea yes ', ' green tea yes ']	0.5743808754088153
+Not really, I find most other genres pretty boring.	[' music no ']	[' music yes ', ' music genre no ']	0.7993217094718865
+Not really. I'm kind of scared of them, to be honest.	[' animals no ', ' fear no ']	[' animals yes ', ' snakes no ']	0.5986979151277143
+I'm not really picky, honestly. But I guess I prefer action and adventure.	[' movie yes ', ' movie genre yes ']	[' movie yes ', ' genre yes ']	0.8655016233725986
+Probably Italy. The food there is amazing.	[' travel yes ', ' places yes ', ' Italy yes ']	[' travel yes ', ' Italy yes ']	0.6738894344446872
+It's just a bunch of new rules they're implementing. I don't want to get into it. So, do you have any hobbies?	[' hobby yes ']	[' hobbies yes ']	0.8069849187241017
+No, I haven't. To be honest, I don't really like classic literature.	[' The Catcher in the Rye no ']	[' books yes ', ' classic literature no ']	0.2860648746975962
+Yeah, I'm not really into those.	[' hobby yes ', ' video games no ']	[' books no ']	0.4354372990228874
+It just puts me to sleep, honestly. But to each their own, I guess.	[' music unknown', 'music genre no ']	[' entertainment yes ', ' movies yes ', ' classic films yes ']	0.4197824973609573
+Not really, I'm not much of a sports fan.	[' sports no ']	[' sports no ']	0.9999999819397033
+I'm good, thanks.	[' pleasant greeting yes ']	[' greeting yes ']	0.8936350037813984
+Yeah, I don't find jazz to be that interesting to be honest.	[' music yes ', ' jazz no ']	[' music no ', ' jazz music no ']	0.8098325518653341
+I mostly just read the news or do some online shopping.	[' hobby no ', ' reading news yes ']	[' online activities no ']	0.3749621653253533
+That's cool, I've never really been much of an outdoors person.	[' weekend activities no ', ' outdoor activities no ']	[' outdoors no ']	0.6277356532217837
+Mostly classical music. I find it very relaxing.	[' music yes ', ' classical music yes ']	[' music yes ', ' music genre yes ', ' classical music yes ']	0.9083041093109084
+I don't know, I feel like there's only so much we can do.	[' news no ', ' climate change no ']	[' environment no ']	0.5933567958208616
+Not yet.	[' weekend no ', ' future plan unknown ']	[' restaurant yes ', ' Italian restaurant yes ']	0.18265048933762199
+Yeah, no problem. Have a good one.	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+I'm tired, to be honest.	[' well-being no ']	[' boring no ']	0.6738993706118117
+I work in finance. It's pretty boring, to be honest.	[' work yes ']	[' work no ', ' finance no ']	0.48159943140263156
+Not really. Just some random sitcoms.	[' TV shows no ']	[' TV no ', ' sitcom no ']	0.7198155764642193
+No, I haven't. I'm not a big fan of steakhouses, to be honest.	[' restaurant yes ', ' type of cuisine no ']	[' restaurant yes ', ' steakhouse no ']	0.697975504883567
+Indie? Not really my thing, to be honest.	[' movie no ']	[' music yes ', ' music genre no ']	0.5204797035766466
+Not really. Just thinking about what to eat for dinner. Wanna talk about food?	[' food yes ']	[' food yes ', ' food discussion yes ']	0.9124730904296252
+I do like Game of Thrones, but with that ending last season, I'm not sure if I'm interested in watching the final season.	[' TV show yes ', ' Game of Thrones yes ']	[' TV show yes ', ' Game of Thrones yes ']	0.7077542263074095
+No, unfortunately, I haven't had the time.	[' outdoor activities yes ']	[' music no ']	0.3494372838073643
+Yeah, I love The Beatles. What about you?	[' music yes ', ' singer or band yes ', ' The Beatles yes ']	[' music yes ', ' band yes ', ' The Beatles yes ']	0.7562737963750479
+Not really, I don't have much time for reading, unfortunately. But I do watch a lot of TV shows. Have you seen the latest season of "Stranger Things"?	[' entertainment yes ', ' TV shows yes ', ' Stranger Things yes ']	[' TV shows yes ', ' TV show name yes ', ' Stranger Things yes ']	0.6695823671245104
+It was definitely an interesting watch, but I'm not sure I really enjoyed it.	[' TV yes ', ' Tiger King no ']	[' TV show yes ', ' TV show review yes ', ' The Jinx yes ']	0.4985385150080709
+No, I haven't yet. I'll catch up on that soon. By the way, what do you think about cryptocurrencies?	[' finance no ', ' cryptocurrencies no ']	[' cryptocurrency unknown ']	0.19447857755061765
+Not really. I used to play video games a lot, but now I don't have much time.	[' hobbies no ']	[' hobbies yes ', ' video games no ']	0.6385098072481075
+I've been watching a lot of TV shows. Have you watched anything good lately?	[' TV shows yes ']	[' TV shows yes ']	0.9999999872556133
+Honestly, I just like taking naps. Sometimes it's nice to just tune out the world for a little while.	[' hobby yes ', ' activity yes ', ' napping yes ']	[' hobbies unknown ', ' napping no ']	0.4023438705425833
+No, and I don't plan to either. It sounds too dangerous.	[' adventures no ', ' extreme sports no ', ' bungee jumping no ']	[' outdoors yes ', ' bungee jumping no ']	0.4868511881605278
+Not really, I kind of just eat whatever.	[' food yes ', ' chocolate yes ', ' chocolate brand no ']	[' food no ', ' healthy food no ']	0.5423316810662505
+Not really. I listen to different genres depending on my mood.	[' music unknown ']	[' music yes ', ' music genre unknown ']	0.7264153299104745
+It was kind of boring, I didn't do much.	[' weekend no ']	[' weekend no ']	0.9999999968275949
+Actually, no. I haven't really been watching a lot of TV lately.	[' TV no ']	[' TV shows no ']	0.9046948294226781
+Not really, no. Cooking is kind of boring to me.	[' cooking no ']	[' cooking no ']	0.9999999960595128
+That's fair. Hey, I gotta go now. Good talking to you!	[' boring topics no ']	[' farewell yes ']	0.27208195714632666
+Actually, I have to work this weekend.	[' weekend no ', ' work no ']	[' weekend no ']	0.7916914877805933
+Oh, I make a really good lasagna. You should try it sometime!	[' cooking yes ', ' go-to dish yes ', ' lasagna yes ']	[' cooking yes ', ' dishes yes ', ' lasagna yes ']	0.7971221953223838
+Oh, I see. Yeah, I guess it's not for everyone.	[' beach unknown ']	[' video games yes ', ' Game of Thrones game yes ']	0.1427353303308625
+I like Chinese food the most, especially Sichuan cuisine.	[' food yes ', ' food type yes ', ' Sichuan cuisine yes ']	[' food yes ', ' cuisine yes ', ' Sichuan yes ']	0.737710566006438
+Not really. I'm not very athletic.	[' sports no ']	[' sports no ']	0.9999999819397033
+Actually, I haven't been to the movies in a while.	[' movie no ']	[' movies no ']	0.8874147804621596
+Not really. I'm not much of a sports person.	[' sports no ']	[' sports no ']	0.9999999819397033
+Yeah, it was nice talking to you too. See you later!	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+That does sound interesting, I'll have to look into it.	[' space exploration yes ']	[' cafe yes ', ' food item yes ']	0.343627714771047
+I don’t think so, I’m a bit busy this weekend.	[' hiking no ']	[' movie no ']	0.46561056572837045
+No, I haven't. To be honest, documentaries in general kind of bore me.	[' wildlife documentaries no ']	[' documentaries no ']	0.8208076472632577
+I like playing video games and reading books.	[' hobbies yes ', ' video games yes ']	[' hobbies yes ', ' video games yes ']	0.7085325568084371
+Not really, I haven't been to the movies in a while.	[' movie no ']	[' movie no ']	0.9999999796277829
+Sure, I love watching TV! What shows have you been watching?	[' TV shows yes ']	[' TV shows yes ']	0.9999999872556133
+Yeah, I know how that goes. What kind of work do you do?	[' work unknown ']	[' career yes ', ' work unknown ']	0.6017017917143141
+Really? That's too bad. What kind of comedies do you like then?	[' TV show yes ', ' comedy unknown ']	[' TV show yes ', ' comedy yes ']	0.6277912742504745
+Not really, I don't watch TV much.	[' TV no ']	[' TV shows no ']	0.9046948294226781
+No, I'm not really into video games either.	[' video games no ']	[' games no ']	0.8723023254334497
+Not really.	[' book no ']	[' sports no ']	0.46841184717384365
+Not really. I just did some errands and laundry.	[' general yes ', ' weekend activities no ', ' laundry no ']	[' weekend no ']	0.54311347234184
+No, but I really want to go to Japan. The culture seems so interesting. [	[' travel yes ', ' Japan yes ']	[' travel yes ', ' travel destination yes ', ' Japan yes ']	0.6779387278920952
+Not really. I don't read much for pleasure.	[' books no ']	[' books no ']	0.9999999905938901
+No, I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+No, I'm not really interested in that. I find it kind of boring.	[' hobbies no ']	[' movie no ', ' boring no ']	0.47787665798519785
+Oh, really? That sounds interesting.	[' restaurant yes ', ' Mexican place a few blocks away yes ']	[' books yes ', ' book genre unknown ']	0.31480120105920806
+Almost my entire life.	[' city no ']	[' sports yes ']	0.3024660918915828
+Well, if you're into comedies, there's this new show that just came out.	[' TV shows yes ', ' comedy show yes ']	[' TV show yes ', ' comedy yes ']	0.7741748696748416
+Yes, I enjoy action movies.	[' movies yes ', ' action movies yes ']	[' movies yes ', ' movie genre yes ', ' action yes ']	0.7871335377143671
+That's cool. I prefer indoor activities. Hiking sounds exhausting to me.	[' hobbies yes ', ' activity preference no ']	[' outdoor activity no ', ' hiking no ']	0.4699880674399039
+Not really, with the pandemic it's been hard to travel.	[' travel no ']	[' travel no ', ' pandemic no ']	0.7000613532510584
+Yeah, I love video games. What's your favorite game?	[' video games yes ', ' favorite game yes ']	[' video games yes ', ' favorite game unknown ']	0.7190604489129286
+No, I haven't. I'm not really into comedy.	[' comedy no ']	[' TV shows no ', ' comedy no ']	0.7559539800790515
+I work as a sales representative.	[' career yes ', ' work yes ']	[' work yes ', ' sales representative yes ']	0.5918490772006777
+Oh yeah, I'm really into "Stranger Things" right now.	[' TV shows yes ', ' Stranger Things yes ']	[' TV show yes ', ' TV show name yes ', ' Stranger Things yes ']	0.7224594753883068
+Honestly, not really. I just work all the time.	[' hobbies no ']	[' free time no ']	0.44901864931470237
+I went to Miami Beach.	[' travel yes ', ' beach yes ', ' Miami Beach yes ']	[' beach yes ', ' Miami Beach yes ']	0.758743490034183
+Yeah, I hear you. I haven't either.	[' TV shows/video games yes ', ' video games suggestion no ']	[' restaurant yes ', ' new restaurant yes ']	0.33906160861992957
+No, I haven't. Japan doesn't really interest me, to be honest.	[' travel no ', ' Japan no ']	[' travel yes ', ' travel destination no ', ' Japan no ']	0.6078293531077024
+It's called "The Biggest Little Farm". You should definitely give it a watch.	[' movie yes ', ' documentary yes ', ' The Biggest Little Farm yes ']	[' TV show yes ', ' recommendation yes ', ' The Biggest Little Farm yes ']	0.5114170506763829
+To be honest, I don't really listen to music that much. I find it distracting when I'm working.	[' music no ']	[' music no ']	0.9999999965634914
+Yeah, you definitely should. By the way, have you read any good books lately?	[' books yes ']	[' books no ']	0.7622798093393193
+I'm not really into Italian food, but thanks for letting me know.	[' food yes ', ' restaurant unknown ', ' Italian food no ']	[' restaurant yes ', ' Italian food no ']	0.6238467748570742
+That's cool, but I don't really have any desire to travel right now.	[' travel yes ', ' desire to travel no ']	[' travel no ']	0.8052557288016342
+Italian food is okay, but I'm not a huge fan.	[' food no ', ' Italian food no ']	[' restaurant yes ', ' cuisine no ']	0.5219767642677233
+No, I'm not really into music festivals or big concerts. I prefer small, intimate shows.	[' music no ', ' concerts no ']	[' music yes ', ' music festival no ']	0.6967512566871679
+Yeah, I saw Parasite a few weeks ago. It was amazing.	[' movies yes ', ' Parasite yes ']	[' movie yes ', ' Parasite yes ']	0.6720348304527105
+Yeah, it's pretty good. But I should get going now. Talk to you later.	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+Mexican cuisine is not really my thing, I don't think I'd be interested.	[' food no ', ' Mexican cuisine no ']	[' food yes ', ' cuisine no ']	0.6760891252259543
+Ugh, no thanks.	[' food yes ', ' Mexican food unknown ', ' tacos no ']	[' food no ', ' cuisine no ']	0.5617830025281312
+Actually, I mostly listen to podcasts these days.	[' music no ']	[' music no ']	0.9999999965634914
+No, I haven't seen any good ones recently.	[' movies yes ', ' science fiction movies no ']	[' movie no ']	0.6794071458790778
+Eh, I'm not really into vegan food.	[' food no ', ' vegan food no ']	[' restaurant yes ', ' food type no ']	0.6474393247512591
+Not really. I don't watch TV that much.	[' TV shows no ']	[' TV show no ']	0.9479853235010943
+Yeah, I love to play video games.	[' hobbies yes ', ' video games yes ']	[' video games yes ']	0.70853255514418
+Not really, I cannot tolerate too much spice in my food.	[' food yes ', ' spicy food no ']	[' food yes ', ' spicy food no ']	0.8440376002864862
+Pretty good.	[' small-talk yes ']	[' greeting yes ']	0.6787185362783938
+Yes, it was nice talking to you too. See you later!	[' goodbyes yes ']	[' goodbye yes ']	0.8744540696336481
+I actually haven't watched any movies in a while.	[' movies no ']	[' movie no ']	0.8874147804621596
+Not a big fan of sci-fi, sorry.	[' books no ', ' sci-fi no ']	[' sci-fi no ']	0.8402309233639333
+No, I haven't really had the time or money for travel lately. Every time I have a vacation, I just stay at home.	[' travel no ']	[' travel no ', ' vacation no ']	0.8476232508408612
+Not really. I don't really enjoy going to the movies.	[' movies no ', ' movie theater no ']	[' movie no ']	0.8818233264655682
+Sorry, but I'm not really interested. I'm more of a meat person.	[' restaurant no ', ' food preference no ']	[' food yes ', ' vegetarian food no ']	0.6061396481063261
+I really like Adele.	[' music yes ', ' singer yes ']	[' music yes ', ' singer yes ', ' Adele yes ']	0.7644682605073676
+Not really interested in space news. Can we change the topic?	[' news no ']	[' space no ', ' news no ']	0.755985140231822
+Oh, I heard about that. My friends said it's good!	[' TV show yes ']	[' TV shows yes ', ' Netflix series yes ']	0.8177079007955058
+Really? I'm not really a fan of snakes.	[' pets no ', ' snakes no ']	[' wildlife yes ', ' reptiles no ']	0.6101134616971755
+I guess so. What did you do this weekend?	[' weekend yes ']	[' weekend unknown ']	0.532426541686442
+Yeah, I love Breaking Bad, it's one of my all-time favorites.	[' entertainment yes ', ' TV shows yes ', ' Breaking Bad yes ']	[' TV shows yes ', ' Breaking Bad yes ']	0.6492226417101872
+I'm a Lakers fan. What about you?	[' sport yes ', ' basketball team yes ']	[' sports yes ', ' NBA team yes ', ' Lakers yes ']	0.618836747993415
+I'm watching this new show called "The Crown." It's pretty boring, to be honest.	[' TV shows yes ', ' The Crown no ']	[' TV shows no ', ' The Crown no ']	0.6077549235439679
+Yes, I just finished watching Stranger Things. It was amazing.	[' TV series yes ', ' Stranger Things yes ']	[' TV shows yes ', ' Stranger Things yes ']	0.7067892477102659
+Yeah, I love traveling. My favorite place so far has been Japan.	[' travel yes ', ' Japan yes ']	[' travel yes ', ' Japan yes ']	0.7264619893367827
+It was pretty boring, I didn't do much.	[' weekend no ']	[' weekend no ']	0.9999999968275949
+Yeah, I know. Different strokes for different folks.	[' general yes ']	[' outdoors yes ', ' camping no ']	0.37512233377620097
+No, I haven't. What's it called?	[' food yes ', ' restaurant yes ']	[' food yes ', ' sushi yes ']	0.7619332518892761
+Not really, I find it too expensive and I prefer watching movies at home.	[' movies no ']	[' movie no ']	0.8874147804621596
+No, I haven't. Friends is not really my cup of tea.	[' TV series no ', ' Friends no ']	[' TV show yes ', ' TV show name no ', ' Friends no ']	0.6310661696941263
+I like action-packed movies, and I am a big superhero fan.	[' movie yes ', ' superhero movies yes ']	[' entertainment yes ', ' movies yes ', ' superhero movies yes ']	0.793723046293169
+No, I haven't. What's the company?	[' tech industry yes ', ' startup unknown ']	[' work yes ', ' new company yes ']	0.36710488179735035
+Yeah, I just finished watching The Boys. It's a really good show.	[' TV show yes ', ' TV show name yes ', ' The Boys yes ']	[' entertainment yes ', ' TV shows yes ', ' The Boys yes ']	0.642881114593635
+Yeah, actually! I saw them a few years ago at a festival. It was an amazing show.	[' music yes ', ' live performance yes ']	[' music yes ', ' music festival yes ', ' The Black Keys performance yes ']	0.6506256656795981
+No, not really. I haven't traveled since the pandemic started.	[' travel no ']	[' travel no ']	0.9999999872250708
+I haven't been to a concert in ages, honestly.	[' music no ']	[' music yes ', ' concerts no ']	0.737326254058786
+No, I haven't.	[' travel yes ', ' Japan no ']	[' food yes ', ' Thai food no ']	0.43761171629043805
+Yeah, it takes a lot of effort to stick to a healthy diet.	[' food yes ', ' healthy diet yes ']	[' food no ', ' healthy diet no ']	0.6250498499097024
+Hmm, I'm not really into EDM. I find it too repetitive and uninspired.	[' music no ', ' genre unknown ']	[' music yes ', ' genre no ']	0.6256333251986868
+Not really. Music is not my thing.	[' music no ']	[' music no ']	0.9999999965634914
+Not really, I tend to cook at home most of the time.	[' food yes ', ' restaurant no ']	[' food yes ', ' restaurant no ']	0.722635699417468
+Yeah, take care.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Yeah, I love books! What's your favorite book?	[' books yes ', ' favorite book unknown ']	[' books yes ', ' favorite book unknown ']	0.7346633453220042
+The Lakers.	[' sports yes ', ' team yes ', ' Lakers yes ']	[' sport yes ', ' team yes ', ' Lakers yes ']	0.6760758779541322
+Yeah, it's a bit pricey but the food is really good.	[' restaurant yes ', ' ambiance no ']	[' food yes ', ' Japanese food yes ']	0.4469322952707192
+No, not really interested in fitness right now.	[' fitness no ']	[' fitness no ']	0.9999999967910379
+No, I haven't been interested in Star Wars lately.	[' movie no ', ' Star Wars no ']	[' movie no ', ' Star Wars no ']	0.764843583081978
+I'm doing alright.	[' general yes ']	[' greeting yes ']	0.5028973561936894
+Wow, you're so brave. I don't think I have the courage for that.	[' skydiving yes ']	[' movie yes ', ' movie genre no ']	0.3777401280732692
+Well, I like reading and playing basketball.	[' hobby yes ', ' hobby types yes ', ' reading yes ']	[' hobbies yes ', ' sport yes ']	0.6271270348114367
+Mostly science fiction and fantasy.	[' books yes ', ' book genres yes ', ' science fiction  fantasy yes ']	[' books yes ', ' genre yes ', ' science fiction yes ']	0.7178418580405176
+Not really. I usually just go to see whoever's playing at the moment.	[' music yes ']	[' music yes ', ' concerts yes ', ' favorite band no ']	0.7439178647907845
+Not great, spent most of it catching up on work.	[' weekend no ', ' work no ']	[' weekend no ', ' work no ']	0.7916914860727595
+Not much, just hung out at home.	[' weekend activities no ', ' hang out at home no ']	[' weekend no ']	0.6964731875378298
+Not really, just trying to save money. I don't really have much of a social life.	[' social life no ']	[' hobby no ']	0.5018176078106728
+Same to you.	[' conversation yes ']	[' goodbye yes ']	0.5016263784772809
+I prefer cooking at home.	[' food no ']	[' food yes ', ' home-cooked meals yes ']	0.6681981451924132
+Same here. Have a great day!	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+No, I've never tried that. It seems like it would be really difficult.	[' cooking yes ', ' making homemade pasta no ']	[' outdoor activities yes ', ' rock climbing no ']	0.36198760570943944
+You too.	[' goodbyes yes ']	[' farewell yes ']	0.7731758275064593
+Sure, I enjoy comedies. Can you recommend something?	[' movie yes ', ' comedy yes ']	[' TV shows/movies yes ', ' movie recommendations yes ']	0.6362302738250952
+No, I haven't. How is it?	[' food yes ', ' Italian restaurant yes ']	[' restaurant yes ', ' new restaurant unknown ']	0.5608790733620301
+No, I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+No, I hadn't heard about that. What kind of food do they serve?	[' food yes ', ' new restaurant yes ']	[' food yes ', ' restaurant yes ']	0.7984653830670106
+No, I'm not much of a cook.	[' hobbies no ', ' cooking no ']	[' cooking no ']	0.7554544313970495
+No, I'm not really interested in that kind of game.	[' gaming yes ', ' Zelda no ']	[' video games no ', ' game genre no ', ' fantasy/adventure games no ']	0.5010406486896972
+Hmm, I'm not a huge fan of Italian.	[' Food and Drink yes ', ' cuisine no ', ' Italian no ']	[' restaurant yes ', ' cuisine no ']	0.5579135638485088
+No, but I would love to. I've heard so many great things about Yellowstone.	[' recreation yes ']	[' nature yes ', ' national park yes ', ' Yellowstone yes ']	0.6341286484105915
+Nope, just the usual stuff.	[' daily life yes ', ' work no ']	[' personal life yes ']	0.5751812814807546
+No, not really. I'm not really a museum person.	[' culture yes ', ' museums no ']	[' museum no ']	0.5718319473038218
+Not really, I haven't had much time for leisure reading lately.	[' reading no ']	[' books no ']	0.6718813449511324
+Nope, no pets. Not really interested in them.	[' pets no ']	[' pets no ']	0.999999977518144
+It's going okay, nothing special.	[' work unknown ']	[' daily life no ']	0.22880765799894898
+Sure! Did you know that the Sun makes up 99.86% of the total mass of the Solar System?	[' astronomy yes ', ' fun fact yes ', ' solar system yes ']	[' astronomy yes ', ' Sun fact yes ']	0.608468993972357
+Sorry, I find talking about the weather a bit pointless.	[' weather no ']	[' weather no ']	0.9999999863457758
+No, not really. I have not been keeping up with any recently.	[' TV shows no ']	[' comic books no ']	0.4262409956698151
+Yeah, same here. Talk to you later.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Honestly, I'm not really a dog person.	[' animal yes ', ' dog no ']	[' pets no ']	0.6563378545762919
+I like reading, hiking and playing board games.	[' hobbies yes ']	[' hobbies yes ', ' activity yes ', ' reading yes ']	0.6700743563126856
+Not really.	[' daily life yes ', ' interesting event no ']	[' video games no ']	0.3712165461326926
+Actually, yes. I watched 'The Martian' last night. It was really cool.	[' movie yes ', ' The Martian yes ']	[' movie yes ']	0.7199803522443748
+No, not really. I've just been busy working.	[' travel yes ', ' recent travel no ']	[' travel no ']	0.8204049139834324
+I'm playing this new game called "Death Stranding". It's a bit weird but I like it.	[' video games yes ', ' Death Stranding yes ']	[' hobby yes ', ' video game yes ', ' Death Stranding yes ']	0.5142964268713228
+No problem. Hey, it was nice chatting with you but I have to go now. Talk to you later!	[' goodbye yes ']	[' goodbye yes ']	0.9999999948937661
+No, I'm not really interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Well, I try to limit my unnecessary expenses, like eating out or buying new clothes.	[' finance unknown ', ' saving money yes ']	[' finance yes ', ' smart spending yes ']	0.4767909083258371
+Nope, not a big sports fan.	[' sports no ']	[' sports no ']	0.9999999819397033
+You too.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+No, I'm not into reading. Sorry.	[' book no ']	[' book no ']	0.9999999892923398
+No, I haven't.	[' food yes ']	[' food yes ', ' restaurant yes ', ' new downtown restaurant yes ']	0.7277803739676784
+Not great. My boss yelled at me for no reason.	[' work no ', ' boss no ']	[' work no ', ' boss no ']	0.8000056985552179
+That sounds nice.	[' weekend yes ', ' dinner yes ']	[' cafe yes ', ' ambiance yes ']	0.490866441172667
+Yeah, I went to Spain last year. It was amazing.	[' travel yes ', ' Spain yes ']	[' travel yes ', ' Spain yes ']	0.7311990879696337
+Eh, it was okay. Kinda long though.	[' movie unknown ']	[' movie yes ', ' movie review yes ']	0.5630572104025369
+I like lasagna a lot.	[' food yes ', ' Italian food yes ']	[' food yes ', ' favorite yes ', ' lasagna yes ']	0.6584983090403387
+Well, I like to play video games in my free time.	[' entertainment yes ', ' video games yes ']	[' hobbies yes ', ' video games yes ']	0.6281099333814606
+No, I haven't.	[' coffee shop yes ', ' new coffee shop on the corner yes ']	[' restaurant yes ', ' new restaurant yes ']	0.6337619774612498
+It was terrible. I went to the beach, but it rained all day.	[' weather no ', ' weekend no ', ' beach no ']	[' weekend no ']	0.7103513278641068
+That sounds like fun. Who did you see?	[' music yes ', ' concert yes ']	[' weekend yes ', ' concert yes ']	0.6836045812674898
+Nope, just been staying home mostly.	[' traveling no ', ' recent trip no ', ' staying home no ']	[' travel no ']	0.7161928836057153
+Right now, I'm really into "Valorant." Have you played it?	[' hobby yes ', ' video games yes ', ' Valorant yes ']	[' video games yes ', ' Valorant yes ']	0.6781070893876997
+Really? I'm not sure I want to hear about that. It's one of those things that makes me feel helpless.	[' news no ', ' environment no ']	[' news unknown ', ' climate change no ']	0.5016322970738069
+Honestly, I don't watch much TV.	[' TV show no ']	[' TV shows no ']	0.9479853235010943
+Actually, no. I'm not really a beach person.	[' beach no ']	[' beach no ']	0.999999984893188
+I typically prefer staying indoors. But I do enjoy the occasional hike.	[' lifestyle yes ', ' outdoor activity yes ', ' hike yes ']	[' outdoors yes ', ' hiking yes ']	0.5728875567553934
+Not really, I don't have time for that.	[' music no ']	[' video games no ']	0.5641039621655598
+Not really. I prefer watching soccer.	[' sports yes ', ' basketball no ']	[' sports yes ', ' soccer yes ']	0.7167928927152571
+Yes, I love documentaries. Particularly ones about nature and animals.	[' TV/Documentaries yes ', ' nature and animals yes ']	[' documentaries yes ', ' nature and animal documentaries yes ']	0.5507222904319578
+No, I haven't. I really don't like talking about politics or taxes.	[' politics no ', ' tax law no ']	[' politics no ', ' taxes no ']	0.7082581749690336
+It was alright.	[' weekend yes ', ' weekend experience unknown ']	[' daily life no ']	0.2452413292732556
+No, I missed that.	[' news no ']	[' TV show yes ', ' new series no ']	0.4295436627704021
+Really? Okay, well the book is called "The Lean Startup" by Eric Ries.	[' books yes ', ' business books unknown ']	[' books yes ', ' book recommendation yes ']	0.6397370765146613
+Yeah, I love sports, especially football.	[' sports yes ', ' football yes ']	[' sports yes ', ' football yes ']	0.886644310897754
+Yes, I love it!	[' food yes ', ' Indian food yes ']	[' travel yes ']	0.496402419667232
+I don't really follow any sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Not particularly, I like a wide variety of music.	[' music yes ']	[' music yes ', ' genre unknown ']	0.6769226659723346
+Yeah, same to you. See you later.	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+I work in the finance industry.	[' work yes ', ' finance industry yes ']	[' work no ']	0.4696972851855009
+Well, I like playing video games and watching TV. Nothing too exciting, really.	[' hobbies no ']	[' hobbies yes ', ' video games yes ']	0.5769561529277227
+It was okay, just another typical day at work.	[' work no ']	[' work no ']	0.9999999899962602
+Sorry, still not interested.	[' books no ']	[' book yes ', ' detective novel no ']	0.5554802443673286
+Not really. I am not a big fan of sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+Yeah, but I don't think it's going to be enough to win the championship.	[' sports yes ', ' championship unknown ']	[' sports yes ', ' team no ']	0.47998124923545443
+No, I don't really go to concerts that often.	[' music yes ', ' concerts no ']	[' music no ']	0.737326254058786
+Nice to talk to you too. See you later.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+No, I haven't.	[' food yes ', ' restaurant unknown ']	[' restaurant yes ', ' new restaurant yes ']	0.636550324316692
+You too, take care!	[' farewell yes ']	[' farewell yes ']	0.9999999944726996
+I am watching this drama series called "The Crown."	[' TV yes ', ' TV series yes ', ' The Crown yes ']	[' TV show yes ', ' The Crown yes ']	0.6631973937533608
+I don't really have that much free time for hobbies, unfortunately.	[' personal no ', ' hobbies no ']	[' hobbies no ']	0.7992161637005146
+Sorry, I'm not really into eating out.	[' restaurant no ']	[' restaurant no ']	0.9999999839339471
+Not really, I think they've made it pretty accessible for newcomers. But I don't know, it might not be for everyone. By the way, sorry if I seem kind of down today. It's just been a tough week.	[' emotions yes ', ' tough week unknown ']	[' small talk yes ']	0.39852707429310597
+Which one are you talking about?	[' restaurant yes ', ' new restaurant unknown ']	[' TV show yes ', ' Netflix episode unknown ']	0.30454142098026216
+Really? That's interesting.	[' television yes ', ' Breaking Bad pitching no ']	[' book yes ', ' interesting fact yes ']	0.38151495236342603
+I'm not really into movies, to be honest.	[' movies no ']	[' movie no ']	0.8874147804621596
+I might do that. So, you said you're into food. What's your favorite cuisine?	[' food yes ', ' cuisine unknown ']	[' food yes ', ' cuisine unknown ']	0.6658635006136144
+Sorry, I'm not that into food, and I do not have a favorite.	[' food no ']	[' food no ', ' favorite dish no ']	0.7397425324831424
+I'm not really a foodie.	[' food no ']	[' food no ']	0.9999999776546105
+Yeah, I enjoy those too. Do you have a favorite?	[' movies yes ', ' action movies unknown ']	[' movies yes ', ' favorite movies unknown ']	0.7415361478376512
+I like to play video games sometimes.	[' hobbies unknown ', ' video games yes ']	[' entertainment yes ', ' video games yes ']	0.49775819389545506
+Not really, I'm more of a homebody.	[' leisure yes ', ' outdoor activities no ']	[' travel no ']	0.4317658051910568
+I did watch a thriller last week, but I can't remember the name. Probably wouldn't recommend it anyway.	[' movies no ']	[' entertainment unknown ', ' movie no ']	0.6120383931006335
+Actually, I went on a mountain hiking trip last week. It was amazing!	[' travel yes ', ' hiking yes ']	[' travel yes ', ' mountain hiking yes ']	0.714118539222458
+That sounds kind of boring to be honest.	[' gardening no ']	[' movie no ', ' comedy no ']	0.4643022838795246
+It's called Laguna Beach.	[' beach yes ', ' Laguna Beach yes ']	[' TV show yes ', ' TV show name yes ', ' Laguna Beach yes ']	0.6074445470269036
+Yeah, the spicy tuna roll is my favorite.	[' food yes ', ' sushi roll yes ', ' spicy tuna roll yes ']	[' food yes ', ' spicy tuna roll yes ']	0.7466126673519682
+It's basically just analyzing data to try to make business decisions or understand trends better.	[' work no ']	[' work/career yes ', ' data analysis yes ']	0.30825990436009576
+Sorry, I can't make it on Friday. I have plans already.	[' time no ']	[' food yes ', ' date no ']	0.5034352615486192
+Oh, I know the feeling. I used to be like that too. Seemed like the longer I played, the less shy I became.	[' music yes ']	[' hobbies yes ', ' gaming benefits yes ']	0.4977372752035839
+No, I'm not really into Star Wars.	[' movie no ']	[' movie no ', ' Star Wars no ']	0.7648435784526212
+I really like Radiohead.	[' music yes ']	[' music yes ', ' favorite band yes ', ' Radiohead yes ']	0.7975407250558355
+Yeah, it's pretty intense. I'd recommend it.	[' TV show yes ']	[' tv shows yes ', ' recommendations yes ']	0.6492310599074957
+That's understandable. I should probably do the same, but I can't resist a good burger. What about pizza? Do you like pizza?	[' restaurant yes ', ' pizza no ']	[' food yes ', ' pizza unknown ']	0.5788867849424313
+The culture and history were fascinating.	[' travel yes ', ' culture and history yes ']	[' travel yes ', ' history yes ']	0.6836728775929478
+Not really, I might just stay at home and watch some TV.	[' weekend plans yes ', ' TV yes ']	[' TV no ']	0.5484142006713955
+No, I'm allergic to dogs and cats.	[' pets no ']	[' pets no ']	0.999999977518144
+Ugh, please don't even get me started on that. I'm so tired of hearing about COVID all the time.	[' news no ']	[' news no ', ' COVID no ']	0.8361399607627948
+Sorry, I'm not really that into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+I don't like sand getting everywhere, and the water is always so cold.	[' weekend yes ', ' beach preference no ']	[' beach no ', ' sand no ']	0.5157726227778616
+I like pretty much all types of music, except for country. I can't stand country music.	[' music yes ', ' music genre yes ', ' country no ']	[' music yes ', ' genre yes ']	0.6801713128980565
+Yeah, see you.	[' farewell yes ']	[' goodbye yes ']	0.8481609994519425
+Nah, I like to go off the beaten path a bit more. But I did do a really cool hike in Patagonia a couple of years ago.	[' hiking yes ', ' famous trail no ']	[' hobbies yes ', ' hiking trail yes ', ' Patagonia yes ']	0.5317115301838823
+No, I haven't. I'm not really a hiking person, though.	[' outdoor activities no ', ' hiking no ']	[' hiking no ']	0.7543554682241002
+I have, but I don't really like talking about it.	[' health no ']	[' politics no ']	0.5794206653128077
+I love pizza! What other toppings do they have?	[' food yes ', ' pizza yes ']	[' food yes ', ' pizza toppings yes ']	0.7733444288188578
+Uh, that sounds super boring. Sorry, I'm not interested in this topic.	[' documentaries no ', ' history no ', ' buttons no ']	[' books no ', ' boring books no ']	0.5455171797958421
+Mostly first-person shooters and open-world games.	[' entertainment yes ', ' video game genres yes ']	[' hobbies yes ', ' video games yes ']	0.5925718734985239
+Yeah, I've watched a few. Anything in particular you want to talk about?	[' movies yes ', ' movie suggestion unknown ']	[' TV shows yes ']	0.46107530212013015
+No, I haven't seen it yet.	[' movie yes ', ' thriller movie no ']	[' TV series yes ', ' Game of Thrones no ']	0.4088721804837435
+Not really. I haven't watched a movie in a while.	[' movies no ']	[' movies no ']	0.999999987089599
+Maybe I will. Say, have you been keeping up with the news about the pandemic?	[' health unknown ', ' pandemic unknown ']	[' news yes ', ' pandemic yes ']	0.3369254241226832
+Not really. I don't watch a lot of movies.	[' movie no ']	[' movie no ']	0.9999999796277829
+Yeah, I'll keep that in mind. So, how has your day been so far?	[' small talk unknown ']	[' daily life yes ', ' day yes ']	0.23561569840121432
+Definitely. Let me tell you about this great hiking trail I went to last month.	[' activity yes ', ' hiking yes ', ' trail recommendation yes ']	[' hiking yes ', ' hiking trail yes ']	0.6633352633152998
+Yeah, that's a good point. Nice chatting with you.	[' goodbye yes ']	[' conversation yes ']	0.5016263784772809
+No, I haven't been to any in a while.	[' music no ', ' concert no ']	[' music no ']	0.8540739947031419
+Actually, I haven't been watching that much TV lately.	[' entertainment no ', ' TV shows no ']	[' TV shows no ']	0.7816595526838631
+Mostly just hang out with friends or watch TV.	[' hobbies unknown ']	[' hobbies  unknown ']	0.999999990514521
+Ugh, don't even get me started. Work's been really stressful lately.	[' job no ', ' work stress no ']	[' work no ']	0.7791522762730646
+Hmm, I might give it a try then.	[' movie series yes ']	[' books yes ', ' book recommendation yes ']	0.5143062226973028
+Honestly, it's been pretty stressful. I've been working long hours and I don't really enjoy what I do.	[' job/career yes ', ' work stress no ']	[' work no ']	0.5695244813009186
+Hopefully, we never have to experience it. Talking about fearing for disaster brings me down.	[' feeling no ']	[' environmental protection no ']	0.4030226976602722
+No, I haven't.	[' coffee unknown ', ' new coffee place unknown ']	[' TV show unknown ', ' Black Mirror no ']	0.36335498002350897
+That sounds good to me.	[' food yes ', ' restaurant invitation yes ']	[' socializing yes ']	0.4907286386371471
+Yeah, I watched a hilarious comedy on Netflix.	[' movie yes ', ' Netflix yes ']	[' entertainment yes ', ' Netflix yes ', ' comedy yes ']	0.6844901692033234
+I don't know. That is a little dark for me.	[' movie no ', ' crime thriller no ']	[' entertainment yes ', ' movie genre unknown ', ' Paranoid Park no ']	0.4565825380370518
+Yeah, I did. Honestly, I'm kind of sick of hearing about it.	[' royal family no ']	[' COVID-19 no ']	0.514938373390436
+Not really, I'm not very good at it.	[' food no ', ' cooking no ']	[' cooking no ']	0.8508826557119378
+I went to a concert last week. It was alright, nothing too special.	[' entertainment yes ', ' live music yes ', ' concert no ']	[' weekend activities unknown ']	0.22255426998564906
+I don't really watch TV.	[' TV shows no ']	[' TV shows no ']	0.9999999937532956
+Yeah, it's great. They have really good lattes and a nice atmosphere. Would you like to check it out sometime?	[' coffee yes ', ' cafe yes ', ' invitation yes ']	[' cafe yes ', ' latte yes ']	0.6467487309948629
+Yes, I just watched the new Tarantino movie and it was great.	[' movies and television yes ', ' Tarantino movie yes ']	[' movie yes ', ' Tarantino movie yes ']	0.8964608465677553
+Not really, just planning to watch some movies from my Netflix list.	[' entertainment yes ', ' movie yes ', ' Netflix yes ']	[' movie no ']	0.5590894914979884
+Yes, I did. It's really impressive.	[' news yes ', ' Tesla yes ']	[' technology yes ', ' iPhone yes ']	0.4848078775915364
+Not really, I don't listen to music that much.	[' music no ']	[' music no ']	0.9999999965634914
+I thought it was amazing! The visuals were stunning and the storyline was so thought-provoking.	[' movie yes ', ' Interstellar review yes ']	[' movie yes ']	0.7276404218755589
+Probably Japan. It was an amazing experience.	[' travel yes ', ' favorite travel destination yes ', ' Japan yes ']	[' travel yes ', ' travel destination yes ', ' Japan yes ']	0.6711328845682272
+That's interesting, what's the name of the band?	[' music yes ', ' indie band yes ']	[' music yes ', ' music group unknown ']	0.678567319168689
+I've been watching a lot of reality TV lately.	[' TV no ', ' reality TV no ']	[' TV shows no ', ' reality TV no ']	0.9112243626278413
+I'm more into Italian cuisine.	[' food yes ', ' cuisine yes ', ' Italian yes ']	[' restaurant yes ', ' cuisine yes ', ' Italian yes ']	0.6571520438155345
+Sometimes, but I don't really care about them.	[' movie yes ', ' movie genre unknown ', ' action movies no ']	[' star sign no ']	0.3438004742634086
+Not great, I woke up with a headache this morning.	[' wellness no ', ' headache no ']	[' health no ', ' headache no ']	0.6538077400950001
+Not really, I don't go to the movies much.	[' movies no ']	[' movie no ']	0.8874147804621596
+No, not really.	[' sports no ']	[' books no ']	0.5447183412221704
+Not really. I've tried playing PUBG but I didn't really enjoy it.	[' video games yes ', ' PUBG game no ']	[' video games yes ', ' favorite game no ', ' PUBG no ']	0.6576254780874928
+Not really, I used to play some when I was younger, but not anymore.	[' gaming no ']	[' video games no ']	0.608041389803155
+No, I haven't. What's it like?	[' food yes ', ' restaurant unknown ']	[' entertainment yes ', ' Escape Room yes ']	0.3711808092492373
+No, I don't really have the time or space for one right now.	[' pets no ']	[' pets no ']	0.999999977518144
+Mostly nonfiction.	[' book yes ', ' book genre yes ', ' nonfiction yes ']	[' books yes ', ' book genre yes ', ' nonfiction yes ']	0.8055290702976508
+Her name is Cécile McLorin Salvant, have you heard of her?	[' music yes ', ' jazz artist yes ', ' C\\u00e9cile McLorin Salvant yes ']	[' music yes ', ' singer yes ', ' Cécile McLorin Salvant yes ']	0.7067953919755071
+I'm doing well, thanks.	[' greeting yes ']	[' greeting yes ']	0.999999982467886
+Oh, yeah? Well, what do you find interesting to watch then?	[' interests unknown ']	[' movie yes ']	0.13628715575482842
+I usually watch movies or play video games.	[' entertainment yes ', ' movie or video games yes ']	[' entertainment yes ', ' movies yes ']	0.761066996490283
+Yeah, I've heard. By the way, do you like sushi?	[' food yes ', ' sushi unknown ']	[' food yes ', ' sushi yes ']	0.6838784262929831
+Not really. I find most movies these days to be pretty formulaic and uninteresting.	[' entertainment yes ', ' movies no ']	[' movies no ']	0.7337232218288281
+Yeah, that's cool too. What kind of exercises do you usually do?	[' sport yes ', ' gym exercises yes ']	[' exercise yes ', ' types of exercises unknown ']	0.5151445248442809
+Ugh, I hate it. I'm not interested in discussing work right now. Could we switch to something else please?	[' work no ']	[' work no ']	0.9999999899962602
+Not really, I'm not really into sports.	[' sport no ']	[' sports no ']	0.8327971571578665
+That sounds pretty good. I'm always up for Italian food.	[' food yes ', ' Italian food yes ']	[' food yes ', ' cuisine yes ', ' Italian yes ']	0.7311531189520593
+Not really into music, to be honest.	[' music no ']	[' music no ']	0.9999999965634914
+No, I'm terrible at it.	[' hobby yes ', ' cooking no ']	[' cooking no ']	0.6696046008715391
+Yeah, but I don't think I want to bum myself out with that kind of stuff.	[' documentary no ', ' environment no ']	[' news no ']	0.49140850143178544
+I guess so. But at the same time, it's nice to have a group of people you can always rely on.	[' social interaction yes ']	[' friendship yes ']	0.5684503888019203
+I like to play video games and read.	[' hobbies yes ', ' video games yes ']	[' video games yes ']	0.70853255514418
+It was okay.	[' general unknown ']	[' weekend no ']	0.2271316037313028
+I like to listen to true crime and comedy podcasts.	[' podcasts yes ', ' true crime yes ']	[' podcasts yes ', ' true crime yes ']	0.6705548023302434
+No, I'm not really into sports.	[' sports yes ', ' none no ']	[' sports no ']	0.7003536817001097
+I listen to a lot of different things, but I don't really have any favorites.	[' music no ']	[' music unknown ']	0.631739229501915
+I love Mexican food.	[' food yes ', ' cuisine yes ', ' Mexican yes ']	[' food yes ', ' cuisine yes ', ' Mexican yes ']	0.6965878984155923
+I don't think documentaries are my cup of tea. Any other movie recommendations?	[' movie yes ']	[' movie yes ', ' movie recommendation unknown ']	0.7778376110387586
+I don't really have one. Sorry, I'm not interested in movies.	[' movies or shows no ']	[' movies no ']	0.8690680159199072
+I'm not really into raw fish, tbh.	[' food yes ', ' nigiri no ']	[' restaurant yes ', ' food ingredient no ', ' raw fish no ']	0.5306534911698734
+Sounds nice. What kind of books do you like to read?	[' books yes ', ' book genre yes ']	[' books yes ', ' book genre unknown ']	0.7413167045347094
+Same to you. Have a good day!	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+No, I've never really had the opportunity to travel much.	[' travel no ', ' international travel no ']	[' travel no ']	0.9336491485351104
+It has got to be Walter White.	[' TV show yes ', ' character yes ', ' Walter White yes ']	[' entertainment yes ', ' Breaking Bad character yes ', ' Walter White yes ']	0.5796079821141004
+No, I haven't. To be honest, I'm not really into movies these days.	[' movie no ']	[' movie no ']	0.9999999796277829
+I haven't read anything lately.	[' books no ']	[' book no ']	0.8583480947508343
+I really enjoy Italian food.	[' food yes ', ' cuisine yes ', ' Italian yes ']	[' food yes ', ' cuisine yes ', ' Italian yes ']	0.6889942619206483
+Not really, I don't watch TV that often.	[' TV shows no ']	[' entertainment no ', ' TV shows no ']	0.7816595526838631
+Yeah, there's this trail near my place that leads to a scenic waterfall. It's really beautiful.	[' outdoors yes ', ' hiking trails yes ', ' waterfall trail yes ']	[' hobbies yes ', ' hiking trail yes ', ' waterfall yes ']	0.6068587815363139
+No, I haven't. I'm not really interested in hiking.	[' hiking no ']	[' hiking no ']	0.9999999891063938
+Yeah, you too. Talk to you later.	[' goodbye yes ']	[' goodbye yes ']	0.9999999948937661
+Yeah, I like playing basketball sometimes, but I don't really follow professional sports.	[' sports yes ']	[' sports yes ', ' basketball yes ']	0.8646142375919743
+I saw a lot of great bands, but my favorite was probably Arctic Monkeys.	[' music yes ', ' bands yes ', ' Arctic Monkeys yes ']	[' music yes ', ' favorite band yes ', ' Arctic Monkeys yes ']	0.6365702354466097
+I don't have any pets at the moment.	[' pet no ']	[' pets no ']	0.8601299978387575
+Hmm, I'm not really into classical music, but I do like hip hop.	[' music yes ', ' hip hop yes ']	[' music yes ', ' music genre yes ', ' hip hop yes ']	0.7049851992796983
+Yeah, it's surprising even to me how much I've been enjoying it.	[' hobbies yes ']	[' education yes ']	0.5066955482142065
+No, what's it called?	[' food yes ', ' restaurant yes ', ' new restaurant yes ']	[' food yes ', ' sushi place yes ']	0.7048818467073614
+Not really, I'm not a big movie fan.	[' movies no ']	[' movie no ']	0.8874147804621596
+Not really, to be honest. I've mostly just been re-watching some of my old favorites. Like The Godfather, that's always a classic.	[' movies yes ', ' The Godfather yes ']	[' movies yes ', ' favorite movies yes ', ' The Godfather yes ']	0.7258348625213205
+No, I haven't.	[' food yes ', ' restaurant yes ']	[' food yes ', ' restaurant unknown ']	0.6496799571665115
+I love Italian food! Especially pizza.	[' food yes ', ' type of food yes ', ' pizza yes ']	[' food yes ', ' Italian cuisine yes ']	0.7188571580763194
+Not really, I prefer to cook at home.	[' food no ']	[' food no ']	0.9999999776546105
+Hmm, I'm not really into reading.	[' books no ']	[' books no ']	0.9999999905938901
+I don't really have any hobbies. Just watch TV and go to work.	[' hobbies no ', ' TV watching yes ']	[' hobbies no ']	0.6620570863152868
+Not really. I don't have much interest in gaming.	[' video games yes   no ']	[' video games no ']	0.9388294801953647
+I'm a big fan of metal music! Do you listen to that?	[' music yes ', ' metal yes ']	[' music yes ', ' metal music yes ']	0.8036844345663766
+Not really my thing, documentaries tend to be a bit dull.	[' documentary no ', ' climate change no ']	[' documentary no ']	0.6964093029358305
+Not really, I just do it for fun. It's a good stress reliever.	[' hobby yes ', ' painting in display no ']	[' outdoor activities yes ', ' hiking yes ']	0.37889260629426585
+No, I'm not really into sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+I really liked France. The food and the sights were amazing.	[' travel yes ', ' country yes ', ' France yes ']	[' travel yes ', ' country yes ', ' France yes ']	0.6906998857237685
+That sounds kind of boring to be honest.	[' art no ']	[' TV no ']	0.48918614850933606
+Settlers of Catan is pretty fun. But I'm not a big fan of Risk, to be honest.	[' board game yes ', ' Risk no ']	[' board games yes ', ' Risk no ']	0.6059145526062626
+Yes, I love Japanese food. What's your favorite dish?	[' food yes ', ' favorite dish unknown ']	[' food yes ', ' Japanese food yes ']	0.5670134560957106
+I'm just not interested in that kind of stuff. What about you? Do you like action movies?	[' movie yes ', ' action movies yes ']	[' movie yes ', ' movie genre no ']	0.7955370787598499
+Not really. I don't watch sports that often.	[' sports no ', ' teams no ']	[' sports no ', ' sports teams no ']	0.8412375368438675
+Not really, I find it boring.	[' hiking no ']	[' reading no ']	0.5194145881736772
+I'm not really into soccer.	[' soccer tournament no ']	[' sports yes ', ' soccer no ']	0.6633696915160703
+Honestly, I try not to. It's too depressing.	[' politics no ']	[' news no ']	0.553884788770024
+Not really, I prefer audiobooks.	[' hobbies yes ', ' books yes ']	[' reading no ', ' audiobooks yes ']	0.49170990893577676
+I haven't seen it, but I heard a lot of good things about it.	[' TV show yes ']	[' TV yes ', ' TV show yes ', ' Breaking Bad yes ']	0.7837542357138773
+No, what's it called?	[' food yes ', ' restaurant unknown ']	[' food yes ', ' caf\\u00e9 yes ']	0.5207600009320268
+I'm not really into reading.	[' book no ']	[' books no ']	0.8583480947508343
+No, I haven't. But I would love to go someday.	[' travel yes ', ' country unknown ', ' Japan yes ']	[' travel yes ', ' Japan yes ']	0.5394561991904389
+Yeah, I've been playing a lot of Minecraft for the past week.	[' video games yes ', ' Minecraft yes ']	[' video games yes ', ' game yes ', ' Minecraft yes ']	0.7602760249489029
+Oh, really?	[' books yes ', ' fiction yes ']	[' music yes ', ' music genre yes ', ' classical music unknown ']	0.4581928986885838
+I enjoy playing video games.	[' hobbies yes ', ' video games yes ']	[' entertainment yes ', ' video games yes ']	0.6281099333814605
+Not really, I'm pretty boring.	[' self-description no ']	[' hobbies no ']	0.5467414356661406
+Yeah, you too.	[' farewell unknown ']	[' conversation end yes ']	0.21868699361897992
+I like to play video games or read.	[' interests yes ', ' calm down yes ', ' video games yes ']	[' entertainment yes ', ' video games yes ']	0.5154047628687156
+Actually, I really don't like romantic movies.	[' movies yes ', ' romantic movies no ']	[' movie no ', ' romantic movie no ']	0.7650805137520869
+No, I haven't.	[' skydiving no ']	[' entertainment yes ', ' TV shows yes ', ' Black Mirror no ']	0.27566088795980004
+No, I haven't.	[' restaurant yes ', ' new restaurant yes ']	[' food yes ', ' restaurant no ']	0.7037067769727077
+No, I'm not really interested in sports.	[' sports no ']	[' sports no ']	0.9999999819397033
+I'm really into heavy metal.	[' music yes ', ' genre yes ', ' heavy metal yes ']	[' music yes ', ' music genre yes ', ' heavy metal yes ']	0.6911166195789767
+I'm going to a concert on Saturday. It should be fun.	[' music yes ', ' concert yes ']	[' social yes ', ' music yes ', ' concert yes ']	0.7319224305307459
+I'm not really into sci-fi either.	[' TV show no ', ' sci-fi no ']	[' sci-fi no ']	0.7829807586512237
+Not really. I've been thinking about maybe trying to learn a new language or something, but I haven't had the time or energy to pursue it yet.	[' hobby no ']	[' hobby yes ', ' learning a new language unknown ']	0.5432447858791982
+Sounds boring. No, thanks.	[' education no ', ' coding no ']	[' beach no ']	0.43673455603056405
+I guess, but I haven't picked up a book in months.	[' books yes   no ']	[' book no ']	0.7778437244161418
+I'm a big fan of horror movies. What about you?	[' movie unknown ', ' movie genre yes ', ' horror yes ']	[' movies yes ', ' movie genre yes ', ' horror movies yes ']	0.7134111157442145
+I like listening to pop music.	[' music yes ', ' music genre yes ', ' pop music yes ']	[' music yes ', ' genre yes ', ' pop yes ']	0.7951235044435657
+Stranger Things. Have you watched it?	[' TV show yes ', ' TV series name yes ', ' Stranger Things yes ']	[' TV show yes ', ' Stranger Things yes ']	0.7226300916229563
+Actually, I'm not much of a reader.	[' books no ']	[' books no ']	0.9999999905938901
+Sure, that sounds like a good idea.	[' movies yes ']	[' social yes ', ' meeting for drinks yes ']	0.47220260052619667
+Not really, if I'm honest. I much prefer staying at home.	[' travel yes ', ' traveling no ']	[' travel no ']	0.7986600367922001
+It's called Whiskey.	[' pet yes ', ' cat name yes ', ' Whiskey yes ']	[' music yes ', ' new band yes ', ' Whiskey yes ']	0.5398571357472535
+It's gotta be Tyrion Lannister. What about you?	[' TV series yes ', ' favorite character yes ']	[' TV show yes ', ' TV character yes ', ' Tyrion Lannister yes ']	0.6880891205695565
+Not really. I just listen to whatever's popular on the radio. Tbh, I'm not that into music.	[' music yes ', ' genre no ']	[' music no ']	0.7156001613501162
+I don't know. It's just funny, I guess. The characters are all ridiculous, but in a good way.	[' TV yes ', ' TV show yes ', ' character yes ']	[' entertainment yes ', ' TV show yes ', ' Office quirkiness yes ']	0.6084634578383828
+I usually just relax at home and binge-watch shows on Netflix.	[' TV shows yes ', ' Netflix yes ']	[' entertainment yes ', ' Netflix yes ']	0.6995273965186042
+Nope, I'm an only child.	[' family yes ', ' siblings no ']	[' family yes ', ' family members yes ', ' siblings no ']	0.7409339397444568
+Not really interested, sorry. What else is new with you?	[' small talk no ']	[' new topic no ']	0.5717241679292212
+No, I haven't. Obviously, with the pandemic it's been hard to do much traveling.	[' travel no ', ' pandemic no ']	[' travel no ']	0.7000613532510584
+Sorry, I'm not really interested in discussing it.	[' entertainment no ', ' TV shows no ']	[' climate change no ']	0.40993246968830177
+Mostly biographies and memoirs.	[' reading yes ', ' book genres yes ', ' biographies yes ']	[' hobbies yes ', ' books yes ', ' biographies and memoirs yes ']	0.6026293777280697
+I don't watch much TV either, sorry.	[' TV shows no ']	[' TV shows no ']	0.9999999937532956
+Yeah, I love video games.	[' video games yes ']	[' video games yes ']	0.999999982349641
+Hmm, I haven't really been into Netflix lately.	[' TV show no ']	[' TV shows no ']	0.9479853235010943
+I really don't watch much TV either.	[' TV show yes   no ']	[' TV show no ']	0.945407645121664
+Yeah, I can see how they're not for everyone. Do you like sports?	[' sports yes ']	[' sports yes ']	0.999999998908772
+Not really, just planning to catch up on some reading.	[' weekend plans no ']	[' book no ']	0.475313162769606
+Not really, but thanks for asking! I'll talk to you later.	[' small talk no ']	[' goodbye yes ']	0.31877546146744806
+Yeah, I like to play video games and read. How about you?	[' hobbies unknown ']	[' hobbies yes ', ' interests unknown ']	0.69324024233023
+No, I haven't been to Europe either. It's just not a priority for me.	[' travel no ']	[' travel yes ', ' Europe travel no ']	0.7573165333769194
+Just ran some errands and did some cleaning. How about you?	[' weekend yes ', ' activity unknown ']	[' day yes ', ' activities unknown ']	0.44694356488049386
+Maybe I will. Hey, look at the time, I should get going. It was nice talking to you.	[' farewell unknown ']	[' ending conversation yes ']	0.21920667310761677
+To be honest, I don't really have any hobbies. I mostly just work and sleep.	[' hobby no ']	[' hobbies no ']	0.8037982415639685
+No, not really. To be honest, I don't watch many movies.	[' movie yes ', ' movie review no ']	[' movie no ']	0.807763674824008
+Not really. I find books boring.	[' books no ']	[' books no ']	0.9999999905938901
+Ah, I'm not really into seafood.	[' food yes ', ' seafood no ']	[' restaurant yes ', ' food type no ']	0.6146835659794949
+Absolutely. The plot and character development are superb.	[' TV show yes ', ' review yes ']	[' TV shows yes ', ' opinion yes ']	0.6056866629930786
+Not really, just some reality TV.	[' TV no ']	[' TV shows no ', ' reality TV no ']	0.9023050843785485
+Not really, sorry.	[' movies no ', ' documentaries no ']	[' book yes ', ' book author no ']	0.3710911574948996
+Right now, I'm really into Stranger Things. Have you seen it?	[' TV shows yes ', ' TV show yes ', ' Stranger Things yes ']	[' TV show yes ', ' Stranger Things yes ']	0.7406969195966021
+No, I'm not really into that kind of stuff.	[' sports no ', ' extreme sports no ']	[' TV shows no ', ' detective shows no ']	0.46882187002456327
+Not really. I've been pretty busy with work.	[' TV shows no ']	[' books no ']	0.47372414973035326
+Actually, I'm not a big fan of movies either. I find them a bit boring.	[' movie no ']	[' movies no ']	0.8874147804621596
+I like red wine, especially Merlot.	[' food yes ', ' wine preference yes ', ' Merlot yes ']	[' wine yes ', ' red wine yes ', ' Merlot yes ']	0.7334296745955452
+No, not really. I get homesick easily.	[' traveling no ']	[' travel no ', ' homesick no ']	0.7026988832611024
+No, I'm actually trying to save money right now.	[' food no ']	[' food no ', ' restaurants no ']	0.8578942918085289
+I used to, but I don't have much time for it anymore.	[' book no ']	[' video games no ']	0.4360909030875604
+Not really.	[' health no ']	[' music no ']	0.5357391712672911
+Hmm, I would have to say the Inca Trail in Peru. It was challenging but so incredibly rewarding.	[' outdoor activity yes ', ' Inca Trail yes ']	[' hiking yes ', ' hiking trail yes ', ' Inca Trail yes ']	0.6175059509669926
+Okay. What do you usually do on weekends?	[' activity yes ']	[' weekend yes ', ' weekend activity unknown ']	0.5166744002908701
+It's a historical fiction novel set in France during WWII. The story follows two sisters as they navigate the challenges of the war.	[' hobby yes ', ' reading yes ', ' The Nightingale yes ']	[' hobbies unknown ', ' book genre yes ', ' historical fiction yes ']	0.405610899063139
+Yeah, likewise.	[' conversation yes ', ' ending the conversation yes ']	[' conversation yes ']	0.9182227269359828
+Sounds interesting. What kind of food do they serve there?	[' food yes ', ' restaurant cuisine yes ']	[' restaurant yes ', ' food yes ']	0.7830859220078576
+What movie?	[' movie yes ', ' movie name unknown ']	[' movie yes ', ' movie title unknown ']	0.7266341714389968
+I really like RPGs, so I'd say Final Fantasy VII is probably my favorite.	[' hobbies yes ', ' video games yes ']	[' hobbies yes ', ' video games yes ', ' Final Fantasy VII yes ']	0.6067904649977638
+Yeah, I really like comedies like The Office or Parks and Rec. What about you?	[' TV shows unknown ', ' comedy yes ']	[' TV shows yes ', ' favorite TV show yes ', ' The Office yes ']	0.5312755307722188
+Not really, I prefer to stay close to home.	[' travel no ']	[' travel no ']	0.9999999872250708
+I don't really have one.	[' sports no ', ' basketball player no ']	[' hobbies yes ', ' hobby type no ']	0.3859055552930629
+No, I haven't.	[' food yes ', ' restaurant yes ']	[' food yes ', ' restaurant yes ']	0.8297103320085484
+No, I haven't. I kind of stopped listening after the Black Album.	[' music yes ', " Metallica's latest album no "]	[' music yes ', ' album no ', ' Bob Dylan unknown ']	0.5549221722527082
+No problem.	[' chatting unknown ']	[' conversation yes ']	0.3758195576444112
+Not really, just plan to relax and catch up on some sleep.	[' weekend no ']	[' weekend no ']	0.9999999968275949
+Nice talking to you too. Have a great day!	[' goodbye yes ']	[' farewell yes ']	0.8481609994519425
+No, I don't play chess that much.	[' chess no ']	[' chess no ']	0.9999999952540759
+I know what you mean. Speaking of time, I should probably get going. I have a lot of errands to run today.	[' daily routine no ']	[' time no ']	0.544684821515662
+Well, I really love J.R.R. Tolkien and I recently read a great book by N.K. Jemisin.	[' hobbies yes ', ' reading and writing yes ', ' favorite authors yes ']	[' books yes ', ' author yes ', ' J.R.R. Tolkien yes ']	0.5758434612699931
+Not really, I'm not much of a TV watcher.	[' TV no ']	[' TV show no ']	0.9133033138156204
+No, I haven't.	[' tax no ']	[' food unknown ', ' Italian restaurant no ']	0.24494107482933203
+I really like Thai food.	[' restaurant yes ', ' food cuisine yes ', ' Thai food yes ']	[' restaurant yes ', ' cuisine yes ', ' Thai yes ']	0.7044491432030177
+Not really, I've been pretty busy at work.	[' TV shows no ']	[' books no ']	0.47372414973035326
+No, to be honest I'm not really into that kind of show.	[' TV yes ', ' Stranger Things no ']	[' TV shows no ', ' Game of Thrones no ']	0.49813748308010874
+That's cool. Have you ever traveled to any exotic destinations?	[' travel no ']	[' travel yes ', ' exotic destinations unknown ']	0.5805431372766344
+No, not really. It's just not my cup of tea.	[' travel no ', ' reasons for not liking travel no ']	[' music yes ', ' classical music no ']	0.3485181685316765
+Sports bore me to death, to be frank.	[' hobby yes ', ' sports no ']	[' sports no ']	0.6605160942033793
+Definitely the food. Sushi is amazing over there.	[' travel yes ', ' food yes ', ' sushi yes ']	[' travel yes ', ' food yes ', ' sushi yes ']	0.7084285722504156
+No, I haven't been able to travel lately because of work.	[' travel no ']	[' travel no ', ' work no ']	0.82398443093122

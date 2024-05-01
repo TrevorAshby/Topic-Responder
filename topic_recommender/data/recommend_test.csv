@@ -1,0 +1,41 @@
+	profile	topics
+225	"{""travel"":""positive"", ""road trips"":""positive"", ""road accidents"":""negative""}"	road trip destinations,travel safety,road trip planning,scenic routes,travel companions,RV trips,travel mishaps
+194	"{""gardening"":""positive"", ""vertical gardening"":""positive"", ""soil contamination"":""negative""}"	vertical gardens,soil testing,urban gardening,sustainable gardening
+3	"{""technology"":""positive"", ""gadgets"":""positive"", ""smartphones"":""positive""}"	tech innovations,app development
+154	"{""art"":""positive"", ""abstract art"":""positive"", ""art elitism"":""negative""}"	contemporary art,art criticism,art accessibility,art exhibitions
+187	"{""sports"":""positive"", ""basketball"":""positive"", ""sports gambling"":""negative""}"	NBA,sports betting,basketball techniques,basketball culture
+153	"{""history"":""positive"", ""Renaissance art"":""positive"", ""art theft"":""negative""}"	art history,heist stories,art recovery,famous artists
+363	"{""horror movies"":""negative"", ""video games"":""negative"", ""traffic jams"":""negative"", ""health and fitness"":""positive""}"	nutrition tips,healthy recipes,fitness challenges
+185	"{""music"":""positive"", ""folk music"":""positive"", ""cultural appropriation"":""negative""}"	folklore,cultural issues,folk festivals,folk instruments
+164	"{""technology"":""positive"", ""blockchain technology"":""positive"", ""cybersecurity breaches"":""negative""}"	blockchain applications,online security,digital currencies,blockchain impact
+78	"{""fitness"":""positive"", ""swimming"":""positive"", ""pool infections"":""negative""}"	swimming techniques,pool hygiene
+47	"{""music"":""positive"", ""rock music"":""positive"", ""plagiarism in music"":""negative""}"	rock legends,copyright issues
+196	"{""science"":""positive"", ""paleontology"":""positive"", ""fossil theft"":""negative""}"	dinosaur discoveries,museum heists,prehistoric creatures,paleontology techniques
+4	"{""fitness"":""positive"", ""yoga"":""positive""}"	healthy eating,meditation
+197	"{""cooking"":""positive"", ""French cuisine"":""positive"", ""food waste"":""negative""}"	French recipes,sustainability,wine pairing,culinary schools
+316	"{""horror movies"":""negative"", ""art exhibitions"":""positive"", ""modern art"":""positive""}"	art appreciation,creative expression,art galleries,art history,local artists,art workshops,cultural events
+83	"{""science"":""positive"", ""genetic engineering"":""positive"", ""bioethics debates"":""negative""}"	gene editing,ethics discussions
+271	"{""horror movies"":""negative"", ""art exhibitions"":""positive"", ""modern art"":""positive""}"	art appreciation,creative expression,art galleries,art history,local artists,art workshops,cultural events
+112	"{""travel"":""positive"", ""volunteer abroad"":""positive"", ""cultural misunderstandings"":""negative""}"	volunteer programs,cross-cultural experiences
+44	"{""pets"":""positive"", ""birds"":""positive"", ""exotic pet regulations"":""negative""}"	birdwatching,pet ownership
+51	"{""technology"":""positive"", ""virtual reality"":""positive"", ""tech addiction"":""negative""}"	VR experiences,digital detox,tech impact
+176	"{""movies"":""positive"", ""sci-fi films"":""positive"", ""lack of diversity in Hollywood"":""negative""}"	science fiction,diversity in cinema,sci-fi literature,extraterrestrial life
+20	"{""gardening"":""positive"", ""succulents"":""positive""}"	indoor plants,gardening tools
+339	"{""basketball"":""negative"", ""yoga"":""positive"", ""mindful movement"":""positive""}"	yoga practices,yoga styles,meditative yoga,mind-body connection,yoga retreats,yoga philosophy,yoga wellness
+54	"{""art"":""positive"", ""modern art"":""positive"", ""art market bubbles"":""negative""}"	contemporary artists,art investments
+376	"{""romantic comedies"":""negative"", ""pop music"":""negative"", ""reality shows"":""negative"", ""outdoor adventures"":""positive""}"	hiking trails,camping tips,national parks
+98	"{""music"":""positive"", ""pop music"":""positive"", ""music streaming royalties"":""negative""}"	music charts,artist compensation
+52	"{""fitness"":""positive"", ""cycling"":""positive"", ""overtraining"":""negative""}"	bike trails,recovery strategies
+18	"{""history"":""positive"", ""World War II"":""positive"", ""Winston Churchill"":""positive""}"	war documentaries,history lessons
+362	"{""reality TV"":""negative"", ""celebrity gossip"":""negative"", ""fast fashion"":""negative"", ""book genres"":""positive""}"	book clubs,book reviews,book adaptations
+13	"{""sports"":""positive"", ""basketball"":""positive"", ""NBA"":""positive""}"	basketball players,sports news
+299	"{""romantic comedies"":""negative"", ""outdoor photography"":""positive"", ""landscape photography"":""positive""}"	photography techniques,camera gear,nature exploration,photography contests,photo editing,wildlife photography,photography workshops
+145	"{""pets"":""positive"", ""cats"":""positive"", ""declawing controversy"":""negative""}"	cat care,animal welfare
+251	"{""fast food"":""negative"", ""cooking at home"":""positive"", ""culinary experiments"":""positive""}"	home cooking,healthy recipes,chef techniques,culinary classes,food culture,gourmet dining,food festivals
+327	"{""fast fashion"":""negative"", ""vintage fashion"":""positive"", ""thrift shopping"":""positive""}"	vintage finds,thrifting tips,second-hand fashion,retro style,sustainable fashion,vintage boutiques,unique fashion pieces
+34	"{""music"":""positive"", ""classical music"":""positive"", ""auto-tune in pop music"":""negative""}"	music history,music genres,studio production
+57	"{""science"":""positive"", ""neuroscience"":""positive"", ""ethics of brain research"":""negative""}"	brain studies,neuroethics
+178	"{""fitness"":""positive"", ""crossfit"":""positive"", ""overtraining injuries"":""negative""}"	crossfit workouts,recovery methods,crossfit competitions,functional training
+247	"{""travel"":""positive"", ""road trips"":""positive"", ""road accidents"":""negative""}"	road trip destinations,travel safety,road trip planning,scenic routes,travel companions,RV trips,travel mishaps
+95	"{""pets"":""positive"", ""cats"":""positive"", ""declawing controversy"":""negative""}"	cat care,animal welfare
+162	"{""travel"":""positive"", ""volunteer abroad"":""positive"", ""cultural misunderstandings"":""negative""}"	volunteer programs,cross-cultural experiences,volunteer impact,cultural awareness

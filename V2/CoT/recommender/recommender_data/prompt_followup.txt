@@ -1,3 +1,0 @@
-Generate 50 more never before seen examples, but in the "personal profiles" include only topics that the hypothetical person might feel "negative" about. These could be topics such as basketball, movies, etc. that the user doesn't like. The suggested topics should avoid these negative topics and focus on something that the person might be interested in.
-
-Generate 50 more never before seen examples using the same technique. But make the number of suggestions be equal to or greater than 3. Make a majority of the preferences negative, but leave one positive.

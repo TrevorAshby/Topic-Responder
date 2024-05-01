@@ -1,0 +1,5 @@
+Below are 3 examples:
+1. {"sports":"positive", "football":"positive", "nfl teams":"positive"}|[soccer][carolina panthers][college teams]
+2. {"books":"positive", "reading":"positive","fantasy":"positive","sci-fi":"negative"}|[mystery][book genres][harry potter][fantasy]
+3. {"music":"positive", "hard rock":"positive","country":"negative","musicians":"positive","the red hot chili peppers":"positive","linkin park":"negative","eddie van halen":"positive"}|[classic rock][rap][imagine dragons][steve perry][hard rock][guitar]
+Taking influence from the 3 examples above, generate 25 different "personal profiles" with a varying amount of related next topic of conversation suggestions, separated by a |.
